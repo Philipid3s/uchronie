@@ -40,7 +40,7 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 
 | Navire | Type | Lancement | Équipage 1940 | Valides [canon] | Rôle dans l'îlot | État en 1946 [canon] |
 |---|---|---|---|---|---|---|
-| ***Dunkerque*** | Croiseur de bataille, 8 × 330 mm | 1935 | ~1 380 | ~1 100 | **Navire amiral du Conseil des Amiraux.** Salle du Conseil, **station radio principale**, centrale électrique de Cagliari | **Siège du Conseil**, centrale |
+| ***Dunkerque*** | Croiseur de bataille, 8 × 330 mm | 1935 | ~1 380 | ~1 100 | **Navire amiral du Conseil des Amiraux.** Salle du Conseil, **station radio principale**, centrale électrique de Cagliari jusqu'en 1945, École navale de 1946 à 1955 ([23](23-dunkerque-siege-du-conseil.md)) | **Siège du Conseil**, centrale |
 | ***Strasbourg*** | Croiseur de bataille, 8 × 330 mm | 1936 | ~1 300 | ~1 050 | Centrale et distillerie d'eau douce du golfe de Palmas, défense | Au mouillage, centrale |
 | ***Provence*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Hôpital flottant** et ponton d'habitation | Ponton-hôpital |
 | ***Bretagne*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Entrepôt de grain** (soutes et magasins) et ponton d'habitation. Dans l'histoire réelle, il a explosé le 3 juillet avec 977 morts ; ici, il survit | Ponton-entrepôt, partiellement démonté |

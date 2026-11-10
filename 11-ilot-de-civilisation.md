@@ -146,6 +146,8 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 | **Italie** | Amiral **Vittorio Lai** [personnage fictif, né à Cagliari], commandant militaire maritime de Sardaigne | **L'île** : terres, mines, barrages, population, université | **Administration de l'île**, ordre public, mines, agriculture |
 | Chef d'état-major conjoint (sans droit de vote) | Capitaine de vaisseau **Cedric Holland** [histoire] | Il parle français, il est le trait d'union entre les deux flottes depuis le 3 juillet | Secrétariat, procès-verbaux, liaison |
 
+**Siège** : le Conseil siège à bord du *Dunkerque*, au mouillage devant Cagliari ([23](23-dunkerque-siege-du-conseil.md)).
+
 ### Règles de fonctionnement
 
 - **Présidence tournante** chaque mois.

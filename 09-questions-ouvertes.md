@@ -1,6 +1,6 @@
 # 09 — Questions ouvertes et points à éclaircir
 
-> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 22 chapitres, une annexe de calculs, trois scripts et une carte en quatre onglets ([version en ligne](https://claude.ai/artifact/V3U435gfxeVEYzhhZHF6M1)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
+> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 23 chapitres, une annexe de calculs, trois scripts et une carte en quatre onglets ([version en ligne](https://claude.ai/artifact/V3U435gfxeVEYzhhZHF6M1)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
 >
 > Légende : ✅ décidé par l'auteur · ❓ décision attendue · 🔎 à documenter · 🔧 à vérifier ou à corriger
 
@@ -27,6 +27,7 @@
 | Bizerte | Effondrement pendant l'hiver 1940-41 ; environ 1 500 rescapés rejoignent la Sardaigne | [16](16-contacts-radio.md) §4 |
 | Corse | Réfugiés corses en 1940-41 (environ 4 000 intégrés) ; première crise du Conseil ; population et besoins recalculés (~49 000 en 1946, ~55 000 en 1950) | [11](11-ilot-de-civilisation.md) §1 bis et §2, [17](17-autosuffisance-alimentaire.md) |
 | Le monde | Hors des îlots : barbarie et chaos, retour du cannibalisme, chefferies barbares héréditaires | [07](07-le-monde-apres.md) §1 bis |
+| Siège du Conseil | Le *Dunkerque*, entretenu par scaphandriers puis **échoué volontairement** devant Su Siccu (option B) ; **retour progressif du Conseil à terre**, le navire posé gardant les séances solennelles, les archives et le pavillon | [23](23-dunkerque-siege-du-conseil.md) §4.5 et §4.6 |
 | Format | Étude scientifique et bible, **pas de récit pour l'instant** | — |
 
 ## B. Décisions attendues de l'auteur
@@ -107,7 +108,15 @@
     - pour l'organisation militaire ([22](22-organisation-militaire.md)) : le nom et le lieu de l'**accord de Bonaria** (12 juillet 1943, sanctuaire de Bonaria), la **commission tripartite des grades** présidée par Holland, la **règle de Cagliari** (ancienneté comptée du 12 juillet 1940), la **Chambre des warrants**, les sept corps et leurs couleurs, les divisions d'environ 50 inscrits, les trois grands commandements, l'insigne à l'ancre et aux trois étoiles, le **rôle des navigants** et la journée des navigants, les ailes de l'Îlot, les noms en langue de bord (le sotto, le comun, le varrant) ;
     - pour la radio ([16](16-contacts-radio.md)) : les dates des centres d'émission et de réception (1942), les vigies et leurs dates, le poste de signaux de Guardia Vecchia en 1940 [à vérifier], la puissance de 1 kW et les antennes en losange de l'îlot, les puissances des stations lointaines, le **second été radio** (1956-1959) et le **creux** de 1953-1955, les vacations à heures fixes à partir de 1950 ;
     - la **règle de Joseph** (une année de grain en réserve) ;
-    - les noms « la Morìa », « la Zone », « la Ligne », « les revenus », « l'Île fermée », « l'été radio ».
+    - les noms « la Morìa », « la Zone », « la Ligne », « les revenus », « l'Île fermée », « l'été radio » ;
+    - pour le siège du Conseil ([23](23-dunkerque-siege-du-conseil.md)) : le choix du bord contre le Palazzo Regio (août 1940), le **mouillage devant Su Siccu** et l'**échelle de Su Siccu**, le dernier appareillage (1942), la centrale de Cagliari jusqu'en 1945, le câble électrique de 1946, la tourelle I gardée armée, les **archives dans les soutes arrière** et la règle de la double copie, le **pavillon du Conseil**, la séance hebdomadaire et l'audience mensuelle, l'effectif d'environ 500 à bord vers 1950 ; la date de l'échouage (**4 juillet 1957**), le démontage des machines, le **berceau** (tins de quille et de bouchain, enrochements), la **jetée du Conseil** et le **quartier du Conseil** de Su Siccu, les étapes du retour à terre (services 1952-55, secrétariat au Palazzo Regio fin des années 1950, séances ordinaires dans les années 1960) et les **séances solennelles** gardées à bord.
+
+### Le siège du Conseil ([23](23-dunkerque-siege-du-conseil.md) §9)
+
+32. ✅ **L'avenir de la coque du *Dunkerque*** : **option B**, échouage volontaire devant Su Siccu, **avec un retour progressif du Conseil à terre** ([23](23-dunkerque-siege-du-conseil.md) §4.5 et §4.6).
+33. ❓ **Le commandant du *Dunkerque*** : son commandant réel de juillet 1940, ou un personnage inventé ?
+34. ❓ **Le pavillon du Conseil** : son dessin (à décider avec le pavillon de l'Îlot, question 10).
+35. ❓ **Le retour à terre** : en quelle année se tient la dernière séance ordinaire à bord (années 1960 au canon provisoire) ? Le Palazzo Regio est-il le bon lieu, ou un bâtiment neuf au pied de la jetée ? Quelles séances restent obligatoirement à bord ? ([23](23-dunkerque-siege-du-conseil.md) §4.6)
 
 ## C. Points scientifiques à affiner
 
@@ -119,6 +128,7 @@
 - [ ] 🔎 **Écologie marine** : vitesse de reprise du plancton et des stocks de poissons en Méditerranée après 1943 ; retour du thon rouge ([17](17-autosuffisance-alimentaire.md) §3).
 - [ ] 🔎 **Rongeurs et peste** : vraisemblance de la dynamique des réservoirs pendant et après l'hiver d'impact ([14](14-epidemie.md) §2).
 - [ ] 🔎 **Rendements agricoles sous UV extrêmes** : affiner l'effet de la perte d'ozone sur l'orge, le blé et les fèves ([17](17-autosuffisance-alimentaire.md) §2.3).
+- [ ] 🔧 **Le *Dunkerque* centrale de Cagliari** : groupes convertisseurs entre le courant continu du bord et le réseau alternatif de la ville (1942), puis dans l'autre sens (1946) ; tenue d'un embossage de 35 000 t par tempête de scirocco ([23](23-dunkerque-siege-du-conseil.md) §3 et §4) ; **navire posé** : appui de 5 000 à 7 000 t (~1,2 t/m²) face à la houle, tins et enrochements, affouillement, efforts sur la coque si le lit n'est pas plat (§4.5).
 - [x] Bilan énergétique des navires au mouillage : courbe du mazout dans [15](15-energie.md) §3.
 - [x] Carte : quatre onglets (France, Pacifique, Méditerranée, Sardaigne), vérifiés à l'affichage.
 
@@ -131,6 +141,8 @@
 - [ ] 🔎 Unités italiennes : sous-marins en patrouille en Méditerranée occidentale ; torpilleurs de La Maddalena et de Cagliari ([12](12-flottes-survivantes.md)).
 - [ ] 🔎 Bâtiments présents à Toulon et à Bizerte le 1er juillet 1940.
 - [ ] 🔎 Navires marchands présents à Oran, à Mers el-Kébir et à Gibraltar le 1er juillet 1940.
+- [ ] 🔎 Le *Dunkerque* : nom de son commandant en juillet 1940 ; installation électrique (puissance, courant continu, tension) ; volume du hangar d'aviation ; surface des appartements de l'amiral ([23](23-dunkerque-siege-du-conseil.md)).
+- [ ] 🔎 Le port de Cagliari en 1940 : fonds de la rade devant Su Siccu, cales sèches de Cagliari et de La Maddalena, remorqueurs ; fonction du Palazzo Regio en 1940 ([23](23-dunkerque-siege-du-conseil.md)).
 
 **Sardaigne** :
 - [ ] 🔎 Commandement militaire italien en Sardaigne en 1940 (Marine, armée, préfecture), pour situer l'amiral Lai.

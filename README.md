@@ -28,6 +28,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 - **La radio** : émetteur et récepteur séparés sur deux sites plats au bord du golfe (Molentargius – Poetto, Elmas), vigies en altitude (Guardia Vecchia, Serpeddì, Limbara) ([16](16-contacts-radio.md) §1 bis).
 - **Les élites** : **renouvellement par le mérite** : les meilleurs élèves, repérés dès le concours des mousses, sont formés à l'**École navale de l'Îlot** (ouverte en 1946), qui prépare la relève des fondateurs ([13](13-societe-de-bord.md) §4 quater).
 - **Les femmes** : un **rôle grandissant**, surtout dans les **unités de soutien** : santé, ration, transmissions, instruction ([13](13-societe-de-bord.md) §4 ter).
+- **Le siège du Conseil** : le *Dunkerque*, au mouillage devant Cagliari, est **échoué volontairement** devant Su Siccu en 1957 ; **le Conseil revient progressivement à terre**, et le navire posé garde les séances solennelles, les archives et le pavillon ([23](23-dunkerque-siege-du-conseil.md)).
 - **La démographie** ([21](21-demographie.md)) : contre le déséquilibre des sexes (172 hommes pour 100 femmes en 1946), une **immigration féminine organisée** après la patente de 1952, à la manière des filles du Roi (les « dotées ») ; la réserve de bras va aux **grands travaux** (drainage contre le paludisme, chaulage, reconstruction, 1950-1955), puis à l'**expansion vers le nord** de l'île (1955-1960) ; un **natalisme de bord avec protection des mères** (ration de mère, congé, travaux interdits, une sage-femme par bord) ; des **expéditions de recueil** vers la Corse et la côte italienne, **seulement si le flux naturel des arrivants ne suffit pas** (à partir de 1955).
 
 ## Index de la bible
@@ -56,6 +57,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 | [20-capacites-aeronavales.md](20-capacites-aeronavales.md) | Les capacités aéronavales : appareils et aviateurs de 1940, fin de l'aviation en 1940-41, la Flottille d'Elmas (1949-1952) |
 | [21-demographie.md](21-demographie.md) | La population de l'îlot : évolution 1940-1960, pyramides des âges, déséquilibre des sexes et les dotées, expéditions de recueil, natalité, métiers déduits des besoins de l'île, grands travaux et expansion vers le nord |
 | [22-organisation-militaire.md](22-organisation-militaire.md) | L'organisation militaire : trois marines côte à côte (1940-43), l'accord de Bonaria (1943), échelle des grades et équivalences, divisions, corps, Capitaineries, aéronavale, commandement, uniformes |
+| [23-dunkerque-siege-du-conseil.md](23-dunkerque-siege-du-conseil.md) | Le *Dunkerque*, siège du Conseil : pourquoi un navire, le mouillage de Su Siccu, les quatre âges du réaménagement (1940-1960), plan du bord, vie du bord, coût d'un siège flottant |
 | [cartes/carte-destructions.html](cartes/carte-destructions.html) | Carte interactive ([version en ligne](https://claude.ai/artifact/V3U435gfxeVEYzhhZHF6M1)) |
 | [annexes/resultats_calculs.md](annexes/resultats_calculs.md) | Sortie brute du modèle physique |
 | [annexes/sources.md](annexes/sources.md) | Bibliographie |
