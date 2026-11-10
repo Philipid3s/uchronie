@@ -1,0 +1,87 @@
+# 08 — Chronologie canonique (v3)
+
+Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(prov.)* canon provisoire.
+
+## Avant la divergence
+
+- **[H] Mai – juin 1940** : campagne de France. **[H]** Les civils de Gibraltar sont évacués.
+- **[H] 22 juin** : armistice franco-allemand. **[H] 24 juin** : armistice franco-italien.
+- **[H] 1er juillet** : le gouvernement français s'installe à Vichy. Le Cabinet de guerre britannique arrête Catapult. La Force de Raid est à Mers el-Kébir, la Force H à Gibraltar.
+
+## Les 48 heures
+
+| UTC | Événement |
+|---|---|
+| **1er juil. 19:00** | **[U] Impact A** (Pacifique Nord, 94 millions de Mt) |
+| 19:10 – 19:40 | [U] Ciel de feu sur le Pacifique Nord |
+| **19:35 – 20:30** | **[U] Ciel de feu sur l'Europe et la Méditerranée.** À Mers el-Kébir et à Gibraltar, les équipages se mettent aux postes de combat |
+| 19:50 – 21:00 | [U] Ciel de feu renforcé autour de l'antipode (Atlantique Sud) |
+| 23:55 | [U] Méga-tsunami sur Hawaï |
+| **2 juil. 00:05** | [U] Méga-tsunami sur le Japon |
+| 01:25 – 02:30 | [U] Méga-tsunami sur la côte ouest américaine |
+| **07:00** | **[U] Impact B** (Rambouillet) |
+| 2 juil. | [U] Contact radio en clair entre Somerville et Gensoul |
+
+## Juillet – décembre 1940
+
+- **[U] 3 juillet** : Holland à Mers el-Kébir. La nuit s'installe : à midi, il fait aussi noir que par une nuit de pleine lune.
+- **[U] 4 juillet** : **conférence de Mers el-Kébir**. Création du Conseil des Amiraux (Gensoul, Somerville ; Holland à la liaison).
+- **[U] 5 – 7 juillet** : étude du refuge. **La Sardaigne du Sud est choisie** ([10](10-choix-du-refuge.md)).
+- **[U] 5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar. Embarquement d'environ 4 000 civils d'Oran.
+- **[U] 8 – 12 juillet** : premiers contacts radio avec Cagliari. Ralliement de sous-marins italiens.
+- **[U] ~12 juillet** : **accord de Cagliari**. L'amiral Lai entre au Conseil, qui devient tripartite. La flotte conjointe mouille dans le golfe de Cagliari et le golfe de Palmas.
+- **[U] Fin juillet** : il gèle sur les continents. Premières neiges sur le Gennargentu.
+- **[U] Août** : *(prov.)* arrivée de navires de Toulon. Réquisition et concentration des stocks sardes. Premières émeutes. *(prov.)* Ordonnance n° 1 : **Inscription générale**. Toute personne est rattachée à un bord ([13](13-societe-de-bord.md)).
+- **[U] Automne** : *(prov.)* Holland rédige le **Code de l'Îlot**. *(prov.)* **Accord du Rocher** : Gibraltar, avant-poste et partenaire, échange son mazout, ses cales sèches et la garde du détroit contre le blé sarde ([07](07-le-monde-apres.md) §2 bis).
+- **[U] Juillet – octobre** : contacts radio intermittents avec l'îlot de l'Est (Cunningham et Godfroy), qui s'installe en Crète.
+- **[U] Automne 1940 – 1941** : *(prov.)* **réfugiés corses** : 20 000 à 40 000 traversées des bouches de Bonifacio ; environ 4 000 intégrés. **Première crise du Conseil** sur les quotas d'accueil ([11](11-ilot-de-civilisation.md) §1 bis).
+- **[U] Septembre – décembre** : la population se replie sur Cagliari et le Sulcis. Les mines deviennent des habitats d'hiver.
+- **[U] Novembre 1940** : **dernier message reçu de l'îlot de l'Est.** Ensuite, le silence.
+- **[U] Automne 1940** : *(prov.)* création du **Conseil scientifique**, organe consultatif présidé par le recteur de l'université de Cagliari. La priorité reste aux besoins militaires ([19](19-savoir-et-medecine.md) §3). Les malades sont soignés à bord du *Provence* et de l'*Ark Royal* jusqu'en 1943 ([19](19-savoir-et-medecine.md) §4).
+- **[U] Octobre 1940 – 1941** : environ 1 500 **rescapés de Bizerte** gagnent la Sardaigne en trois vagues ([16](16-contacts-radio.md) §4).
+- **[U] Décembre 1940** : **effondrement de Bizerte** : émeutes, incendie des dépôts, derniers appels au secours ([16](16-contacts-radio.md) §4).
+
+## 1941 : l'année sans soleil
+
+- **[U]** Lumière à 1-10 % de la normale. Moyenne de 2 à 4 °C sur les côtes du sud de la Sardaigne.
+- **[U]** Épidémie de typhus au printemps, contenue par l'épouillage.
+- **[U]** Fin 1941, l'îlot compte environ 95 000 personnes.
+
+## 1942 – 1950
+
+- **[U] 1942** : *(prov.)* les navires du golfe désarmés cèdent leurs émetteurs : **centre d'émission de Molentargius – Poetto** et **centre de réception d'Elmas**, reliés au *Dunkerque* par lignes téléphoniques ([16](16-contacts-radio.md) §1 bis).
+- **[U] 1942 – 1943** : *(prov.)* **campagne des dépôts** : les pétroliers de l'îlot vident les cuves de Malte (île morte de faim), d'Augusta et en partie de Gibraltar, soit environ 45 000 t ([15](15-energie.md) §3 bis).
+- **[U] 1942 – 1944** : *(prov.)* les cargos et caboteurs sont remis au charbon. Montée en production des mines du Sulcis.
+- **[U] 1941 – 1944** : *(hors des îlots)* cannibalisme de survie, puis de prédation. Les bandes se fixent autour des ressources ([07](07-le-monde-apres.md) §1 bis).
+- **[U] 1942** : retour d'un crépuscule clair (20-50 % de lumière). Cultures sous abri. Les grands navires ne naviguent plus.
+- **[U] 1942 – 1943** : *(prov.)* **la Morìa** (peste) apparaît au Kurdistan et en Perse ([14](14-epidemie.md)).
+- **[U] 1943** : **première récolte en plein champ** (orge, pommes de terre). UV extrêmes. *(prov.)* Création du **Grand Carré** et du Conseil des Maîtres. **12 juillet 1943 : accord de Bonaria** : les trois marines fondues dans la **Marine de l'Îlot**, échelle unique, sept corps, divisions, Capitaineries ; les aviateurs inscrits au rôle des navigants ([22](22-organisation-militaire.md)). *(prov.)* La Morìa atteint le Levant, l'Anatolie et l'Inde.
+- **[U] Hiver 1943 – 1944** : la peste pulmonaire frappe l'**îlot de l'Est** en Crète. Malades parqués à Spinalonga. Il perd environ la moitié de sa population en 1944-1945 (inconnu des Sardes).
+- **[U] 1944** : *(prov.)* l'hôpital revient à terre : l'hôpital San Giovanni di Dio de Cagliari devient l'**Hôpital de l'Îlot** ([19](19-savoir-et-medecine.md) §4).
+- **[U] 1944** : *(prov.)* La Morìa atteint les Balkans, l'Égypte et la Chine du Sud. **L'Île fermée** : quarantaine maritime (lazaret de l'Asinara, seul port d'entrée), côtes gardées, silence radio. Création de **la Zone** (le Sarrabus) pour les malades, et de la visite quotidienne.
+- **[U] 1944 – 1946** : blé et reconstitution du cheptel. Déclin du mazout : passage progressif au charbon et à la voile. *(prov.)* Les deux torpilleurs et le *Vortigern* sont convertis au charbon (« avisos charbonniers ») pour la garde des côtes ([15](15-energie.md) §5).
+- **[U] 1945** : *(prov.)* La Morìa en Europe occidentale et en Afrique du Nord. Foyer de Carloforte, éteint en six semaines.
+- **[U] 1947** : *(prov.)* fin de la Morìa. Début des « deux années de Marseille » : plus de cas, mais l'île reste fermée ([14](14-epidemie.md) §5.6).
+- **[U] 1947 – 1949** : *(prov.)* **l'été radio** : maximum du cycle solaire 18. L'îlot entend la Martinique, la Floride, Ceylan, Perth et la Nouvelle-Zélande ([16](16-contacts-radio.md)).
+- **[U] 1948** : *(prov.)* dernière chauffe du *Strasbourg*. Le Conseil gèle les 10 000 dernières tonnes de mazout : **la réserve de l'Amirauté**.
+- **[U] 1949** : *(prov.)* réouverture contrôlée de l'île : les expéditions reprennent, avec retour obligatoire par l'Asinara. **Première expédition : Malte.** Carénage du *Georges Leygues* dans les cales sèches de La Valette, récupération de l'arsenal ; Malte devient le **deuxième avant-poste** de l'îlot, avec un dépôt de charbon ([15](15-energie.md) §3 ter). Une douzaine d'isolés maltais sont inscrits après quarantaine au lazaret de l'île Manoel ; les ~80 survivants de **Gozo** restent autonomes, et l'on commerce avec eux sans contact, par une pierre de troc sur Comino ([18](18-expedition-albanie.md) §5 ter).
+- **[U] 1950 – 1951** : **expédition d'Albanie**, première grande expédition pétrolière, **au départ de Malte** : le *Georges Leygues*, un cargo et un pétrolier vont chercher le brut de Kuçova à Vlorë ([15](15-energie.md) §3 ter, [18](18-expedition-albanie.md)). *(prov.)* Vote unanime du Conseil en février 1950 (~430 t de la réserve embarquées) ; départ de Cagliari à la mi-avril sous le commandement du **capitaine de vaisseau Louis Collinet**, commandant du *Strasbourg*, escale de trois jours à La Valette pour embarquer le matériel de l'arsenal ; **les Gozitains demandent à partir ou à s'engager**, Collinet refuse et transmet la demande au Conseil, qui répond : **attendre la patente de 1952** ; base sur l'île de Sazan, pompage des cuves du terminal ; **l'île de Sazan devient une base fortifiée**, troisième avant-poste de l'îlot (~60 personnes) ; au retour, **au large de Corfou, un caïque ionien donne des nouvelles de l'îlot de l'Est** et un pli avec sa fréquence radio ; Collinet refuse le détour vers la Crète ([18](18-expedition-albanie.md) §7.5) ; escale sans contact à La Valette ; retour à l'Asinara à la mi-juin, quarantaine, premier brut déchargé à Cagliari fin juillet 1950.
+- **[U] 1949 – 1952** : avec la réouverture, la tension se relâche : **les besoins scientifiques prennent une importance croissante**, et le Conseil des Amiraux suit de plus en plus les avis du Conseil scientifique ([19](19-savoir-et-medecine.md) §3.5).
+- **[U] 1949 – 1951** : *(prov.)* recréation d'un **embryon d'unité aéronavale**, la Flottille d'Elmas, pour préserver le savoir de voler. **Premier vol depuis dix ans en 1951** (Loire 130 piloté par le capitaine de corvette **Yves Kerlann**, benzol de Carbonia et brut d'Albanie). Ouverture de l'**école de vol à voile** d'Elmas (1951) ([20](20-capacites-aeronavales.md) §4).
+- **[U] 1952** : *(prov.)* navigation sous patente de santé de l'Îlot. L'Asinara devient un lazaret permanent. Les Gozitains peuvent enfin rejoindre l'îlot par l'Asinara : **environ 41 partent, environ 35 restent** à Gozo, autour de leur prêtre, Dun Ġwann Xuereb ([18](18-expedition-albanie.md) §5 ter).
+- **[U] 1950 – 1955** : **grands travaux** des bords du Génie (~5 000 hommes) : drainage du Campidano et de la plaine d'Oristano contre le paludisme, chaulage, reconstruction des villages, voies ferrées ([21](21-demographie.md) §5.6). *(prov.)* École de sages-femmes à l'Hôpital de l'Îlot ; une sage-femme par bord ([21](21-demographie.md) §4.6).
+- **[U] À partir de 1952** : **immigration féminine organisée** : les **« dotées »** (Corse, Barbagia et Gallura, Afrique du Nord, Gozo), environ 850 admissions par an dont 60 % de femmes, plafonnées par la quarantaine de l'Asinara ; ~7 850 entrées de 1949 à 1959 ([21](21-demographie.md) §4.4 et §4.7).
+- **[U] 1952 – 1955** : *(prov.)* ouverture du **Collège de l'Îlot** à Cagliari (1952) ; l'École navale passe à terre et crée le corps du Savoir (1955).
+- **[U] 1959 – 1970** : *(prov.)* le **creux des enfants de la Nuit** au concours de l'École (1959-1963), puis les grandes promotions du grand berceau (1965-1970), qui préparent la relève des fondateurs ; premier amiral formé par l'École vers 1975-1980 ([13](13-societe-de-bord.md) §4 quater).
+- **[U] 1953 – 1959** : *(prov.)* **le creux radio** (minimum solaire de 1954), puis **le second été radio** (1956-1959, cycle solaire le plus fort jamais mesuré) : l'îlot rouvert établit des vacations régulières avec le monde lointain ([16](16-contacts-radio.md) §5).
+- **[U] 1955 – 1960** : le flux naturel des arrivants tombe sous les deux tiers de l'objectif : **expéditions de recueil** au départ de La Maddalena, *(prov.)* vers la côte orientale de la Corse (1955), l'archipel toscan (1957), puis la côte tyrrhénienne (1958-1960) ; volontaires seulement, quarantaine à l'Asinara ; ~1 600 personnes ramenées de 1955 à 1959 ([21](21-demographie.md) §4.5 et §4.7).
+- **[U] 1950 – 1970** : *(prov.)* **intégration progressive de la Barbagia** : médecins itinérants (à partir de 1950), mariages et engagements (années 1950), premiers **pactes de village** vers 1955 ; un tiers des villages en 1960 ; le cœur (Orgosolo, Fonni) à la fin des années 1960 ([13](13-societe-de-bord.md) §6 bis).
+- **[U] 1955 – 1960** : **expansion vers le nord** : nouveaux bords de terre dans la plaine d'Oristano (vers 1955), le Marghine et le Logudoro, puis à Sassari et Porto Torres (vers 1958-1960). La Barbagia est contournée ([21](21-demographie.md) §5.6).
+- **[U] 1960** : environ **77 000 habitants**, dont 37 % de moins de 15 ans ; 132 hommes pour 100 femmes, mais l'équilibre est presque atteint chez les 20-39 ans ([21](21-demographie.md)).
+- **[U] 1953 – 1955** : *(prov.)* levée de la pierre de troc entre le bord de Malte et Gozo (1953). En **1955**, les Gozitains restés sur leur île sont **rattachés au bord de Malte** ; Dun Ġwann Xuereb en devient l'aumônier. **Premiers mariages** entre hommes du bord et Gozitaines (1954-1956) ; la garnison sert par roulement de deux ans, et les mariés peuvent se fixer ([18](18-expedition-albanie.md) §5 ter).
+- **[U] 1946** : *(prov.)* ouverture de l'**École navale de l'Îlot**, à bord du *Dunkerque* ([13](13-societe-de-bord.md) §4 quater).
+- **[U] 1946** : point bas démographique mondial (~2,3 M). L'îlot compte environ 49 000 personnes.
+- **[U] 1944 – 1946** : *(prov.)* premiers échanges de troupeaux avec les bergers de la Barbagia ; porcs dans les chênaies ; reprise des salines ([17](17-autosuffisance-alimentaire.md)).
+- **[U] 1946 – 1960** : *(hors des îlots)* formation des **chefferies** héréditaires ; cannibalisme rituel ou guerrier dans certaines d'entre elles ; piraterie côtière.
+- **[U] 1947 – 1950** : *(prov.)* le **« grand berceau »** : 2 000 à 2 500 naissances par an, natalité d'environ 45 ‰ ([21](21-demographie.md)). Autosuffisance alimentaire ([17](17-autosuffisance-alimentaire.md)). *(prov.)* **Règle de Joseph** : une année de grain en réserve. Retour du paludisme dans les plaines. Retour du thon dans les madragues vers 1948-1950. Les naissances reprennent. *(prov.)* Conversion du *Georges Leygues* en « croiseur charbonnier » (1947-1951). Les mines du Sulcis produisent 150 000 à 250 000 t par an.
+- **[U] Années 1950** : réchauffement (CO₂ des incendies) et retour de la couche d'ozone. Expansion de l'îlot sur toute la Sardaigne.

@@ -1,0 +1,136 @@
+=== Population de 1946 par groupe ===
+Groupe                                                       Total  Hommes  Femmes <15 ans
+Marins et militaires des flottes (FR, GB, Toulon, Bizerte)  13,400  13,199     201       0
+Civils d'Oran et de Gibraltar                                2,900   1,515   1,385     696
+Rescapes civils de Bizerte                                     400     209     191      96
+Refugies corses                                              3,000   1,657   1,343     660
+Survivants maltais                                             250     130     120      50
+Militaires italiens                                          3,300   3,300       0       0
+Civils sardes                                               25,750  10,998  14,752   5,408
+TOTAL                                                       49,000  31,008  17,992   6,910
+
+=== Effectifs, naissances, deces ===
+Annee   Pop.  Hommes Femmes  H/100F  H/100F(20-39)  Naiss. Deces  Immig.  TBN  TBM
+1946   49,000 31,008 17,992    172     223         1,434 1,087      0    29   22
+1947   49,352 31,095 18,257    170     218         2,028   875      0    41   18
+1948   50,506 31,630 18,876    168     213         2,356   831      0    47   16
+1949   52,032 32,373 19,659    165     208         2,432   890    250    47   17
+1950   53,824 33,224 20,601    161     201         2,501   921    350    46   17
+1951   55,754 34,134 21,621    158     194         2,510   945    450    45   17
+1952   57,769 35,076 22,693    155     186         2,484   963    850    43   17
+1953   60,140 36,156 23,985    151     176         2,507   975    850    42   16
+1954   62,522 37,241 25,281    147     166         2,537   985    850    41   16
+1955   64,924 38,336 26,588    144     156         2,566   994    850    40   15
+1956   67,346 39,442 27,904    141     146         2,588 1,000    850    38   15
+1957   69,785 40,556 29,228    139     135         2,599 1,014    850    37   15
+1958   72,220 41,668 30,552    136     125         2,612 1,026    850    36   14
+1959   74,656 42,778 31,878    134     114         2,636 1,038    850    35   14
+1960   77,104 43,893 33,211    132     104             0     0      0     0    0
+
+=== Pyramide 1946 (tranches de 5 ans) ===
+Age      Hommes  Femmes   H/100F   % pop
+0-4       1,429   1,373     104     5.7
+5-9         997     958     104     4.0
+10-14     1,097   1,054     104     4.4
+15-19     1,208   1,653      73     5.8
+20-24     3,435   2,408     143    11.9
+25-29     6,817   2,483     275    19.0
+30-34     5,827   2,241     260    16.5
+35-39     3,848   1,803     213    11.5
+40-44     2,528   1,365     185     7.9
+45-49     1,786   1,047     171     5.8
+50-54     1,237     755     164     4.1
+55-59       495     438     113     1.9
+60-64       206     280      74     1.0
+65+          96     134      72     0.5
+<15 ans : 14 %  15-64 : 85 %  65+ : 0.5 %  dependance : 17 pour 100 actifs
+Femmes 15-44 : 11,952  Hommes 15-44 : 23,664  Hommes 15-44 'sans epouse possible' : 12,136
+
+=== Pyramide 1950 (tranches de 5 ans) ===
+Age      Hommes  Femmes   H/100F   % pop
+0-4       4,006   3,822     105    14.5
+5-9         919     885     104     3.4
+10-14     1,103   1,063     104     4.0
+15-19     1,081   1,144      95     4.1
+20-24     1,614   1,766      91     6.3
+25-29     3,970   2,350     169    11.7
+30-34     6,370   2,348     271    16.2
+35-39     5,223   2,070     252    13.6
+40-44     3,447   1,647     209     9.5
+45-49     2,288   1,254     182     6.6
+50-54     1,577     934     169     4.7
+55-59     1,000     636     157     3.0
+60-64       401     373     107     1.4
+65+         224     307      73     1.0
+<15 ans : 22 %  15-64 : 77 %  65+ : 1.0 %  dependance : 30 pour 100 actifs
+Femmes 15-44 : 11,326  Hommes 15-44 : 21,705  Hommes 15-44 'sans epouse possible' : 10,903
+
+=== Pyramide 1955 (tranches de 5 ans) ===
+Age      Hommes  Femmes   H/100F   % pop
+0-4       5,503   5,277     104    16.6
+5-9       3,654   3,512     104    11.0
+10-14       965     964     100     3.0
+15-19     1,209   1,241      97     3.8
+20-24     1,329   1,530      87     4.4
+25-29     1,857   2,145      87     6.2
+30-34     4,037   2,563     158    10.2
+35-39     6,265   2,428     258    13.4
+40-44     5,110   2,089     245    11.1
+45-49     3,361   1,641     205     7.7
+50-54     2,170   1,204     180     5.2
+55-59     1,440     853     169     3.5
+60-64       913     580     157     2.3
+65+         522     560      93     1.7
+<15 ans : 31 %  15-64 : 68 %  65+ : 1.7 %  dependance : 48 pour 100 actifs
+Femmes 15-44 : 11,995  Hommes 15-44 : 19,808  Hommes 15-44 'sans epouse possible' : 8,535
+
+=== Pyramide 1960 (tranches de 5 ans) ===
+Age      Hommes  Femmes   H/100F   % pop
+0-4       5,886   5,647     104    15.0
+5-9       5,162   4,983     104    13.2
+10-14     3,663   3,565     103     9.4
+15-19     1,101   1,182      93     3.0
+20-24     1,510   1,709      88     4.2
+25-29     1,668   2,045      82     4.8
+30-34     2,064   2,465      84     5.9
+35-39     4,052   2,692     150     8.7
+40-44     6,137   2,464     249    11.2
+45-49     4,979   2,087     239     9.2
+50-54     3,190   1,578     202     6.2
+55-59     1,982   1,099     180     4.0
+60-64     1,315     779     169     2.7
+65+       1,185     915     129     2.7
+<15 ans : 37 %  15-64 : 60 %  65+ : 2.7 %  dependance : 67 pour 100 actifs
+Femmes 15-44 : 12,558  Hommes 15-44 : 16,531  Hommes 15-44 'sans epouse possible' : 4,980
+
+=== Metiers de 1950 deduits des besoins ===
+Cultures (cereales, legumineuses, pommes de terre, potagers)         3,833  femmes  35 %
+Elevage et bergers (ovins, caprins, porcs, basse-cour)                 600  femmes  25 %
+Peche (etangs, cote, chalut, madragues)                              1,100  femmes   5 %
+Transformation (moulins, fours, huile, salaisons, fromage)             577  femmes  45 %
+Cuisines et distribution de la ration                                  917  femmes  60 %
+Mines de charbon (fond et jour)                                      3,333  femmes   3 %
+Bois, sel, chaux (chaulage des sols)                                   900  femmes  10 %
+Centrales, barrages, gaz, distillerie de goudron                       550  femmes  10 %
+Bords a flot (navires armes, sous-marins, chalutiers)                2,000  femmes   0 %
+Arsenal, chantiers, forges, ateliers                                 1,400  femmes  10 %
+Garde (cotes, depots, Ligne, Asinara) et avant-postes                1,900  femmes   2 %
+Batiment et entretien des logements                                  1,375  femmes   5 %
+Textile, vetement, cuir, chaussures                                  1,375  femmes  70 %
+Transports (charrois, voie ferree, cabotage)                           800  femmes   5 %
+Sante (hopitaux, Zone, maternites, visite)                             846  femmes  70 %
+Creches et garde des petits enfants                                    780  femmes  95 %
+Ecoles, Ecole navale, universite, bibliotheque                         160  femmes  55 %
+Inscription, commissariat, transmissions, justice, aumoniers           611  femmes  40 %
+TOTAL des postes permanents                                         23,057  dont femmes 5,516 (24 %)
+
+=== Entrees 1949-1959 par origine ===
+Sardes de l'interieur (Barbagia, Gallura, Logudoro), descendus seuls   spontanee   1,400  femmes  75 %
+Barbagia : villages entres par pacte (1955-1959)                       pacte       1,000  femmes  50 %
+Corse, traversees des bouches de Bonifacio                             spontanee   1,800  femmes  60 %
+Corse, expeditions de recueil (1955-1959)                              expedition    900  femmes  55 %
+Cote italienne et archipel toscan, expeditions (1957-1959)             expedition    700  femmes  55 %
+Afrique du Nord, barques recueillies en mer                            spontanee   1,500  femmes  60 %
+Malte, Gozo, epaves (1949-1952)                                        spontanee     300  femmes  50 %
+Autres (Baleares, Sicile, en mer)                                      spontanee     250  femmes  50 %
+Total 7,850 (modele : 7,850) ; femmes 60 % ; par voie : {'spontanee': 5250, 'pacte': 1000, 'expedition': 1600}

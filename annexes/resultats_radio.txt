@@ -1,0 +1,157 @@
+Bond maximal (F2 a 300 km, depart a 3 deg) : 3,225 km
+Antipode de Cagliari : -39.22, -170.89
+
+Activite solaire (nombre de Wolf annuel) :
+  1940:68  1941:48  1942:31  1943:16  1944:10  1945:33  1946:93  1947:152  1948:136  1949:135  1950:84  1951:69  1952:32  1953:14  1954:4  1955:38  1956:142  1957:190  1958:185  1959:159  1960:112
+
+=== automne 1940 : ionosphere tres perturbee (R = 68) ===
+foF2 jour 5.6 MHz, nuit 2.6 MHz ; facteur d'absorption 4.0 ; E sporadique : tres frequente
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |    6.3   -21 --     |    3.0    34 sur    |    40 sur
+Malte                               602     1 |    7.3   -26 --     |    3.4    37 sur    |    40 sur
+Gibraltar                         1,316     1 |   11.5    -2 rare   |    5.4    45 sur    |    42 sur
+Crete (Souda)                     1,385     1 |   11.8    -6 --     |    5.6    39 sur    |    39 sur
+Casablanca (Jean Bart)            1,620     1 |   13.0    -0 rare   |    6.1    38 sur    |    38 sur
+Ecosse (Clyde)                    2,122     1 |   15.1     7 interm. |    7.1    34 sur    |    34 sur
+Canaries (Las Palmas)             2,573     1 |   16.3     4 rare   |    7.7    25 sur    |    30 sur
+Acores (Horta)                    3,244     2 |   13.0   -75 --     |    6.1    26 sur    |    29 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   14.2   -54 --     |    6.7    33 sur    |    30 sur
+Oural (Sverdlovsk)                4,172     2 |   14.9   -43 --     |    7.0    36 sur    |    29 sur
+Freetown                          4,079     2 |   14.8   -58 --     |    6.9    23 sur    |    26 sur
+Ceylan (Colombo)                  7,865     3 |   16.4   -91 --     |    6.2    11 interm. |    11 interm.
+Martinique (Bearn)                7,291     3 |   16.0   -96 --     |    6.0    14 interm. |    14 interm.
+Maurice (Port-Louis)              8,299     3 |   16.7   -93 --     |    6.3     4 rare   |     9 interm.
+Floride (Key West)                8,385     3 |   16.7   -87 --     |    6.3     9 interm. |     9 interm.
+Perth (Fremantle)                13,518     5 |   16.6  -182 --     |    6.2    -0 rare   |    -0 rare
+Nouvelle-Zelande (Wellington)    18,779     6 |   17.2  -198 --     |    6.5    -1 rare   |    -4 --
+
+=== 1941 : ionosphere perturbee, cycle descendant (R = 48) ===
+foF2 jour 5.7 MHz, nuit 2.7 MHz ; facteur d'absorption 3.0 ; E sporadique : frequente
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |    6.5     7 interm. |    3.1    35 sur    |    40 sur
+Malte                               602     1 |    7.5     4 rare   |    3.6    37 sur    |    40 sur
+Gibraltar                         1,316     1 |   11.8    22 sur    |    5.7    46 sur    |    43 sur
+Crete (Souda)                     1,385     1 |   12.2    17 sur    |    5.8    39 sur    |    39 sur
+Casablanca (Jean Bart)            1,620     1 |   13.4    21 sur    |    6.4    38 sur    |    38 sur
+Ecosse (Clyde)                    2,122     1 |   15.5    24 sur    |    7.4    35 sur    |    35 sur
+Canaries (Las Palmas)             2,573     1 |   16.8    19 sur    |    8.0    25 sur    |    30 sur
+Acores (Horta)                    3,244     2 |   13.4   -33 --     |    6.4    26 sur    |    29 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   14.6   -17 --     |    7.0    34 sur    |    31 sur
+Oural (Sverdlovsk)                4,172     2 |   15.4    -9 --     |    7.4    36 sur    |    29 sur
+Freetown                          4,079     2 |   15.2   -23 --     |    7.3    24 sur    |    27 sur
+Ceylan (Colombo)                  7,865     3 |   16.9   -48 --     |    6.5    12 interm. |    12 interm.
+Martinique (Bearn)                7,291     3 |   16.5   -51 --     |    6.3    14 interm. |    14 interm.
+Maurice (Port-Louis)              8,299     3 |   17.2   -52 --     |    6.6     5 rare   |    10 interm.
+Floride (Key West)                8,385     3 |   17.3   -46 --     |    6.6    10 interm. |    10 interm.
+Perth (Fremantle)                13,518     5 |   17.1  -112 --     |    6.5     0 rare   |     0 rare
+Nouvelle-Zelande (Wellington)    18,779     6 |   17.7  -124 --     |    6.8    -1 rare   |    -4 --
+
+=== 1944 : minimum du cycle 17 (R = 10) ===
+foF2 jour 5.9 MHz, nuit 3.0 MHz ; facteur d'absorption 1.0 ; E sporadique : normale
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |    6.8    48 sur    |    3.4    36 sur    |    41 sur
+Malte                               602     1 |    7.8    48 sur    |    3.9    38 sur    |    41 sur
+Gibraltar                         1,316     1 |   12.2    58 sur    |    6.1    47 sur    |    44 sur
+Crete (Souda)                     1,385     1 |   12.6    52 sur    |    6.3    40 sur    |    40 sur
+Casablanca (Jean Bart)            1,620     1 |   13.9    51 sur    |    7.0    39 sur    |    39 sur
+Ecosse (Clyde)                    2,122     1 |   16.1    49 sur    |    8.1    36 sur    |    36 sur
+Canaries (Las Palmas)             2,573     1 |   17.4    40 sur    |    8.7    26 sur    |    31 sur
+Acores (Horta)                    3,244     2 |   13.9    28 sur    |    7.0    27 sur    |    30 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   15.1    38 sur    |    7.6    35 sur    |    32 sur
+Oural (Sverdlovsk)                4,172     2 |   15.9    41 sur    |    8.0    37 sur    |    30 sur
+Freetown                          4,079     2 |   15.8    28 sur    |    7.9    25 sur    |    28 sur
+Ceylan (Colombo)                  7,865     3 |   17.5    14 interm. |    7.0    13 interm. |    13 interm.
+Martinique (Bearn)                7,291     3 |   17.0    15 sur    |    6.8    15 interm. |    15 interm.
+Maurice (Port-Louis)              8,299     3 |   17.8     8 interm. |    7.1     6 interm. |    11 interm.
+Floride (Key West)                8,385     3 |   17.9    13 interm. |    7.2    10 interm. |    10 interm.
+Perth (Fremantle)                13,518     5 |   17.7   -11 --     |    7.1     1 rare   |     1 rare
+Nouvelle-Zelande (Wellington)    18,779     6 |   18.4   -15 --     |    7.4     0 rare   |    -3 rare
+
+=== 1947 : maximum du cycle 18 (l'ete radio) (R = 152) ===
+foF2 jour 12.3 MHz, nuit 5.5 MHz ; facteur d'absorption 1.0 ; E sporadique : normale
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |   14.0    60 sur    |    6.3    42 sur    |    48 sur
+Malte                               602     1 |   16.1    61 sur    |    7.2    45 sur    |    48 sur
+Gibraltar                         1,316     1 |   22.0    66 sur    |   11.4    53 sur    |    50 sur
+Crete (Souda)                     1,385     1 |   22.0    59 sur    |   11.8    47 sur    |    47 sur
+Casablanca (Jean Bart)            1,620     1 |   22.0    57 sur    |   13.0    46 sur    |    46 sur
+Ecosse (Clyde)                    2,122     1 |   22.0    51 sur    |   15.0    43 sur    |    43 sur
+Canaries (Las Palmas)             2,573     1 |   22.0    41 sur    |   16.2    33 sur    |    38 sur
+Acores (Horta)                    3,244     2 |   22.0    37 sur    |   13.0    34 sur    |    37 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   22.0    44 sur    |   14.1    41 sur    |    38 sur
+Oural (Sverdlovsk)                4,172     2 |   22.0    45 sur    |   14.9    44 sur    |    37 sur
+Freetown                          4,079     2 |   22.0    33 sur    |   14.7    31 sur    |    34 sur
+Ceylan (Colombo)                  7,865     3 |   22.0    15 sur    |   13.1    19 sur    |    19 sur
+Martinique (Bearn)                7,291     3 |   22.0    17 sur    |   12.7    22 sur    |    22 sur
+Maurice (Port-Louis)              8,299     3 |   22.0     8 interm. |   13.3    12 interm. |    17 sur
+Floride (Key West)                8,385     3 |   22.0    13 interm. |   13.3    17 sur    |    17 sur
+Perth (Fremantle)                13,518     5 |   22.0   -11 --     |   13.2     8 interm. |     8 interm.
+Nouvelle-Zelande (Wellington)    18,779     6 |   22.0   -18 --     |   13.7     7 interm. |     4 rare
+
+=== 1954 : minimum du cycle 19 (R = 4) ===
+foF2 jour 5.7 MHz, nuit 2.9 MHz ; facteur d'absorption 1.0 ; E sporadique : normale
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |    6.5    47 sur    |    3.3    35 sur    |    41 sur
+Malte                               602     1 |    7.5    47 sur    |    3.8    38 sur    |    41 sur
+Gibraltar                         1,316     1 |   11.8    57 sur    |    5.9    46 sur    |    43 sur
+Crete (Souda)                     1,385     1 |   12.1    51 sur    |    6.1    40 sur    |    40 sur
+Casablanca (Jean Bart)            1,620     1 |   13.4    51 sur    |    6.7    39 sur    |    39 sur
+Ecosse (Clyde)                    2,122     1 |   15.4    49 sur    |    7.8    36 sur    |    36 sur
+Canaries (Las Palmas)             2,573     1 |   16.7    39 sur    |    8.4    26 sur    |    31 sur
+Acores (Horta)                    3,244     2 |   13.4    27 sur    |    6.8    27 sur    |    30 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   14.5    36 sur    |    7.3    34 sur    |    31 sur
+Oural (Sverdlovsk)                4,172     2 |   15.3    40 sur    |    7.7    37 sur    |    30 sur
+Freetown                          4,079     2 |   15.1    27 sur    |    7.7    24 sur    |    27 sur
+Ceylan (Colombo)                  7,865     3 |   16.8    13 interm. |    6.8    12 interm. |    12 interm.
+Martinique (Bearn)                7,291     3 |   16.4    14 interm. |    6.6    15 interm. |    15 interm.
+Maurice (Port-Louis)              8,299     3 |   17.1     7 interm. |    6.9     5 interm. |    10 interm.
+Floride (Key West)                8,385     3 |   17.2    12 interm. |    6.9    10 interm. |    10 interm.
+Perth (Fremantle)                13,518     5 |   17.0   -13 --     |    6.9     1 rare   |     1 rare
+Nouvelle-Zelande (Wellington)    18,779     6 |   17.6   -17 --     |    7.1    -0 rare   |    -3 --
+
+=== 1957 : maximum du cycle 19, le plus fort jamais mesure (R = 190) ===
+foF2 jour 14.1 MHz, nuit 6.2 MHz ; facteur d'absorption 1.0 ; E sporadique : normale
+Station                              km bonds | JOUR f   S/B        | NUIT f   S/B        | retour nuit
+Minorque (Mahon)                    422     1 |   16.0    61 sur    |    7.1    44 sur    |    49 sur
+Malte                               602     1 |   18.4    62 sur    |    8.1    46 sur    |    49 sur
+Gibraltar                         1,316     1 |   22.0    65 sur    |   12.8    54 sur    |    51 sur
+Crete (Souda)                     1,385     1 |   22.0    58 sur    |   13.3    48 sur    |    48 sur
+Casablanca (Jean Bart)            1,620     1 |   22.0    56 sur    |   14.6    47 sur    |    47 sur
+Ecosse (Clyde)                    2,122     1 |   22.0    51 sur    |   16.9    44 sur    |    44 sur
+Canaries (Las Palmas)             2,573     1 |   22.0    40 sur    |   18.3    34 sur    |    39 sur
+Acores (Horta)                    3,244     2 |   22.0    36 sur    |   14.6    35 sur    |    38 sur
+Dakar (Richelieu, station AOF)    3,761     2 |   22.0    42 sur    |   15.9    43 sur    |    40 sur
+Oural (Sverdlovsk)                4,172     2 |   22.0    44 sur    |   16.7    45 sur    |    38 sur
+Freetown                          4,079     2 |   22.0    31 sur    |   16.5    32 sur    |    35 sur
+Ceylan (Colombo)                  7,865     3 |   22.0    13 interm. |   14.7    21 sur    |    21 sur
+Martinique (Bearn)                7,291     3 |   22.0    15 sur    |   14.3    23 sur    |    23 sur
+Maurice (Port-Louis)              8,299     3 |   22.0     6 interm. |   15.0    14 interm. |    19 sur
+Floride (Key West)                8,385     3 |   22.0    11 interm. |   15.0    18 sur    |    18 sur
+Perth (Fremantle)                13,518     5 |   22.0   -14 --     |   14.9     9 interm. |     9 interm.
+Nouvelle-Zelande (Wellington)    18,779     6 |   22.0   -22 --     |   15.4     8 interm. |     5 interm.
+
+=== Onde de sol, 500 kHz (frequence de detresse), 1 kW, mer [estimation] ===
+Portee de jour ~ 300-500 km (Bizerte, Corse, Minorque, Malte limite) ; de nuit, onde
+d'espace en ondes moyennes : 1 000 a 2 000 km.
+
+=== Telephonie (6 kHz) : il faut environ 11 dB de plus que la telegraphie (500 Hz) ===
+
+=== Synthese (nuit / jour) : OK sur, ~ intermittent, rare, - impossible ===
+Station                                 1940        1941        1944        1947        1954        1957
+Minorque (Mahon)                        OK/-        OK/~       OK/OK       OK/OK       OK/OK       OK/OK
+Malte                                   OK/-     OK/rare       OK/OK       OK/OK       OK/OK       OK/OK
+Gibraltar                            OK/rare       OK/OK       OK/OK       OK/OK       OK/OK       OK/OK
+Crete (Souda)                           OK/-       OK/OK       OK/OK       OK/OK       OK/OK       OK/OK
+Casablanca (Jean Bart)               OK/rare       OK/OK       OK/OK       OK/OK       OK/OK       OK/OK
+Ecosse (Clyde)                          OK/~       OK/OK       OK/OK       OK/OK       OK/OK       OK/OK
+Canaries (Las Palmas)                OK/rare       OK/OK       OK/OK       OK/OK       OK/OK       OK/OK
+Acores (Horta)                          OK/-        OK/-       OK/OK       OK/OK       OK/OK       OK/OK
+Dakar (Richelieu, station AOF)          OK/-        OK/-       OK/OK       OK/OK       OK/OK       OK/OK
+Oural (Sverdlovsk)                      OK/-        OK/-       OK/OK       OK/OK       OK/OK       OK/OK
+Freetown                                OK/-        OK/-       OK/OK       OK/OK       OK/OK       OK/OK
+Ceylan (Colombo)                         ~/-         ~/-         ~/~       OK/OK         ~/~        OK/~
+Martinique (Bearn)                       ~/-         ~/-        ~/OK       OK/OK         ~/~       OK/OK
+Maurice (Port-Louis)                  rare/-      rare/-         ~/~         ~/~         ~/~         ~/~
+Floride (Key West)                       ~/-         ~/-         ~/~        OK/~         ~/~        OK/~
+Perth (Fremantle)                     rare/-      rare/-      rare/-         ~/-      rare/-         ~/-
+Nouvelle-Zelande (Wellington)         rare/-      rare/-      rare/-         ~/-      rare/-         ~/-
