@@ -58,7 +58,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 | [21-demographie.md](21-demographie.md) | La population de l'îlot : évolution 1940-1960, pyramides des âges, déséquilibre des sexes et les dotées, expéditions de recueil, natalité, métiers déduits des besoins de l'île, grands travaux et expansion vers le nord |
 | [22-organisation-militaire.md](22-organisation-militaire.md) | L'organisation militaire : trois marines côte à côte (1940-43), l'accord de Bonaria (1943), échelle des grades et équivalences, divisions, corps, Capitaineries, aéronavale, commandement, uniformes |
 | [23-dunkerque-siege-du-conseil.md](23-dunkerque-siege-du-conseil.md) | Le *Dunkerque*, siège du Conseil : pourquoi un navire, le mouillage de Su Siccu, les quatre âges du réaménagement (1940-1960), plan du bord, vie du bord, coût d'un siège flottant |
-| [cartes/carte-destructions.html](cartes/carte-destructions.html) | Carte interactive ([version en ligne](https://claude.ai/artifact/V3U435gfxeVEYzhhZHF6M1)) |
+| [cartes/index.html](cartes/index.html) | **Atlas de l'Îlot**, dix planches interactives : impacts de Rambouillet et du Pacifique, Méditerranée, Sardaigne, routes de l'îlot 1940-1960, expédition d'Albanie, mazout, population, pyramide des âges, métiers de 1950 ([version en ligne](https://philipid3s.github.io/uchronie/)) |
 | [annexes/resultats_calculs.md](annexes/resultats_calculs.md) | Sortie brute du modèle physique |
 | [annexes/sources.md](annexes/sources.md) | Bibliographie |
 | [calculs/impact_effects.py](calculs/impact_effects.py) | Script de calcul |

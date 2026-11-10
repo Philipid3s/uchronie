@@ -1,6 +1,6 @@
 # 09 — Questions ouvertes et points à éclaircir
 
-> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 23 chapitres, une annexe de calculs, trois scripts et une carte en quatre onglets ([version en ligne](https://claude.ai/artifact/V3U435gfxeVEYzhhZHF6M1)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
+> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 23 chapitres, une annexe de calculs, trois scripts et un atlas de dix planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
 >
 > Légende : ✅ décidé par l'auteur · ❓ décision attendue · 🔎 à documenter · 🔧 à vérifier ou à corriger
 
@@ -131,6 +131,7 @@
 - [ ] 🔧 **Le *Dunkerque* centrale de Cagliari** : groupes convertisseurs entre le courant continu du bord et le réseau alternatif de la ville (1942), puis dans l'autre sens (1946) ; tenue d'un embossage de 35 000 t par tempête de scirocco ([23](23-dunkerque-siege-du-conseil.md) §3 et §4) ; **navire posé** : appui de 5 000 à 7 000 t (~1,2 t/m²) face à la houle, tins et enrochements, affouillement, efforts sur la coque si le lit n'est pas plat (§4.5).
 - [x] Bilan énergétique des navires au mouillage : courbe du mazout dans [15](15-energie.md) §3.
 - [x] Carte : quatre onglets (France, Pacifique, Méditerranée, Sardaigne), vérifiés à l'affichage.
+- [x] Atlas de l'Îlot (`cartes/index.html`, 10 novembre 2026) : dix planches, dont les routes 1940-1960, l'expédition d'Albanie, le mazout, la population, la pyramide des âges et les métiers de 1950, tirées des chapitres 05, 15, 18 et 21.
 
 ## D. Points historiques à documenter
 
