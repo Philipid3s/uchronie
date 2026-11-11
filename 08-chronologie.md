@@ -26,7 +26,7 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 
 - **[U] 3 juillet** : Holland à Mers el-Kébir. La nuit s'installe : à midi, il fait aussi noir que par une nuit de pleine lune.
 - **[U] 4 juillet** : **conférence de Mers el-Kébir**. Création du Conseil des Amiraux (Gensoul, Somerville ; Holland à la liaison).
-- **[U] 5 – 7 juillet** : étude du refuge. **La Sardaigne du Sud est choisie** ([10](10-choix-du-refuge.md)).
+- **[U] 5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; *(prov.)* le capitaine de frégate Mercadier présente la grille comparée tirée de son dossier sur la Sardaigne ; Holland fait valoir que l'île n'est ni française ni britannique. **La Sardaigne du Sud est choisie le 7 au matin** ([10](10-choix-du-refuge.md) §7). Les flottes partent **sans réponse de Cagliari, de gré ou de force** (§9).
 - **[U] 5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar. Embarquement d'environ 4 000 civils d'Oran.
 - **[U] Juillet 1940** : *(prov.)* 4 000 à 5 000 t de grain d'Oran embarquées sur le *Bretagne*, mouillé dans le golfe de Palmas : le **stock de sécurité** du Conseil ([28](28-bretagne.md)).
 - **[U] 8 – 12 juillet** : premiers contacts radio avec Cagliari. Ralliement de sous-marins italiens.

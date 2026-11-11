@@ -56,7 +56,8 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 **Chronologie** :
 - **2 juillet** : contact radio Somerville-Gensoul, en clair.
 - **3 juillet** : Holland arrive à Mers el-Kébir, non pour un ultimatum mais pour proposer une rencontre.
-- **4 juillet** : **conférence de Mers el-Kébir** à bord du *Dunkerque*. Création du **Conseil des Amiraux**, d'abord avec deux membres (Gensoul et Somerville, Holland assurant la liaison), et accord sur le principe d'un **refuge commun** à choisir dans les 72 heures ([10](10-choix-du-refuge.md)). Le Conseil devient tripartite avec l'accord de Cagliari (§5). Sa composition et ses règles sont détaillées dans [11](11-ilot-de-civilisation.md) §8.
+- **4 juillet** : **conférence de Mers el-Kébir** à bord du *Dunkerque*. Création du **Conseil des Amiraux**, d'abord avec deux membres (Gensoul et Somerville, Holland assurant la liaison), et accord sur le principe d'un **refuge commun** à choisir dans les 72 heures ([10](10-choix-du-refuge.md)).
+- **5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; la grille de Mercadier et l'argument du terrain neutre font choisir la Sardaigne, le 7 au matin ([10](10-choix-du-refuge.md) §7). Le Conseil devient tripartite avec l'accord de Cagliari (§5). Sa composition et ses règles sont détaillées dans [11](11-ilot-de-civilisation.md) §8.
 - **5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar sur les cargos réquisitionnés dans les deux ports, sélection et embarquement des civils, puis départ des convois dans l'obscurité naissante.
 
 ## 5. Les Italiens [canon]
@@ -64,7 +65,7 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 - **En mer** : des sous-marins italiens en patrouille dans le bassin occidental survivent en plongée, à l'abri de la pluie d'éjectas. Coupés de Rome, ils captent les émissions en clair du Conseil des Amiraux. [canon] **Trois à cinq sous-marins rejoignent** la flotte conjointe dans les deux semaines.
 - **En Sardaigne** : le commandement militaire de l'île (Marine à La Maddalena et à Cagliari, garnison de l'armée) a survécu en partie dans ses casemates et ses bâtiments en dur. Il a perdu le contact avec Rome. Il dispose de **l'île, de ses stocks, de ses mines, de ses barrages et de sa population**, mais il n'a pas de quoi tenir 3 ans face à l'effondrement.
 - **L'accord de Cagliari** (vers le 10-12 juillet) : la flotte conjointe apporte le **blé d'Oran**, les **stocks de Gibraltar**, la **puissance de feu** et l'**organisation**. Les Italiens apportent **la terre, le charbon du Sulcis, l'eau des barrages, l'université de Cagliari** et la connaissance du pays. L'accord porte sur un commandement tripartite et l'égalité des marins des trois nations.
-- Les Italiens ont toutes les raisons d'accepter : sans les vivres apportés par la flotte, la Sardaigne mourrait entièrement de faim. Le rapport de force rend l'alternative illusoire.
+- Les Italiens ont toutes les raisons d'accepter : sans les vivres apportés par la flotte, la Sardaigne mourrait entièrement de faim. Le rapport de force rend l'alternative illusoire : les flottes sont parties **sans attendre leur réponse**, prêtes à s'imposer, et l'accord se signe alors que les grands navires entrent dans le golfe ([10](10-choix-du-refuge.md) §9).
 
 ## 6. Les autres forces navales de Méditerranée [canon provisoire]
 

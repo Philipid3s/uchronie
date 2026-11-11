@@ -125,6 +125,8 @@ Les 5 800 bouches de plus (Corses, Bizerte, Malte) consomment environ 13 000 per
 
 ## 7. La question sarde : le cœur moral de l'îlot
 
+*L'arrivée elle-même est ambiguë : les flottes sont parties sans réponse de Cagliari, prêtes à s'imposer, et l'accord s'est signé sous les canons ([10](10-choix-du-refuge.md) §9).*
+
 C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 - La flotte arrive avec des vivres pour 20 000 personnes dans une île d'un million d'habitants qui vont mourir de faim.
 - Les stocks sardes sont dispersés dans des milliers de fermes, de villages et de coopératives agricoles.

@@ -10,7 +10,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 
 ## Décisions arrêtées par l'auteur
 
-- **Refuge** : la Sardaigne du Sud ([10](10-choix-du-refuge.md)).
+- **Refuge** : la Sardaigne du Sud ([10](10-choix-du-refuge.md)), choisie au terme d'un **débat** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; la grille d'un officier de l'état-major de Gensoul et le fait que l'île **n'appartient à aucun des deux** emportent la décision, le 7 juillet. Les flottes partent **sans réponse de Cagliari, de gré ou de force**.
 - **Gouvernement** : un **Conseil des Amiraux** tripartite, français, britannique et italien ([11](11-ilot-de-civilisation.md) §8).
 - **Îlot de l'Est** : il **existe et survit**, mais **le contact est perdu** après l'automne 1940 ([07](07-le-monde-apres.md) §3).
 - **Le monde** : **en dehors de quelques îlots de civilisation, le reste du monde retombe dans la barbarie et le chaos**. Le **cannibalisme** réapparaît, et des **sociétés barbares fondées sur la chefferie** héréditaire se forment ([07](07-le-monde-apres.md) §1 bis).
@@ -52,7 +52,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 | [07-le-monde-apres.md](07-le-monde-apres.md) | L'effondrement des États et les autres îlots possibles |
 | [08-chronologie.md](08-chronologie.md) | Chronologie canonique 1940-1960 |
 | [09-questions-ouvertes.md](09-questions-ouvertes.md) | **Point d'étape** : décisions arrêtées, décisions attendues, points à documenter et à vérifier |
-| [10-choix-du-refuge.md](10-choix-du-refuge.md) | Étude comparée des îles méditerranéennes : pourquoi la Sardaigne |
+| [10-choix-du-refuge.md](10-choix-du-refuge.md) | Le choix du refuge : l'urgence, l'étude comparée (îles et Oranie), le débat des 5 et 6 juillet, le dossier d'état-major, le départ « de gré ou de force » |
 | [11-ilot-de-civilisation.md](11-ilot-de-civilisation.md) | L'îlot de Sardaigne : vivres, énergie, santé, démographie, institutions |
 | [12-flottes-survivantes.md](12-flottes-survivantes.md) | Liste des navires britanniques, français et italiens survivants, leur rôle et leur état en 1946 |
 | [13-societe-de-bord.md](13-societe-de-bord.md) | La société de bord : pourquoi la hiérarchie s'impose, bords, grades, ration, justice, coutumes, régime |

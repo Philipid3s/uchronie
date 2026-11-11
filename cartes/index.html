@@ -270,7 +270,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
       <table id="med-islands"></table>
       <div class="notes">
         <p>Les lignes en pointillé donnent la distance angulaire à l'impact du Pacifique. Toute la Méditerranée est dans l'anneau de moindre flux (65 à 115°) : la pluie d'éjectas tue à découvert, mais on survit à l'abri.</p>
-        <p>Durées de convoi calculées à 12 nœuds. Notes des îles sur 66, selon les dix critères du chapitre 10 de la bible.</p>
+        <p>Durées de convoi calculées à 12 nœuds. Notes des candidats sur 66, selon les dix critères du chapitre 10 de la bible. La Sardaigne l'emporte aussi parce qu'elle n'est ni française ni britannique : le débat des 5 et 6 juillet entre Gensoul (Oranie) et Somerville (Malte).</p>
         <p>L'îlot de l'Est (Crète) existe, mais il n'envoie plus aucun message à la Sardaigne depuis novembre 1940.</p>
       </div>
     </div>
@@ -783,15 +783,16 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
     { from: "Cagliari → Malte → Vlorë", pts: [[9.122, 39.223], [14.51, 35.9], [17.2, 37.6], [19.49, 40.47]], when: "1949-51 (expéditions)", exp: true }
   ];
   const MED_ISLANDS = [
-    ["Sardaigne", 9.0, 40.05, 59, true], ["Sicile", 14.1, 37.55, 48, false], ["Crète", 24.9, 35.22, 42, false],
-    ["Malte", 14.42, 35.88, 37, false], ["Baléares", 2.95, 39.62, 31, false], ["Corse", 9.05, 42.15, 28, false]
+    ["Sardaigne", 9.0, 40.05, 60, true], ["Sicile", 14.1, 37.55, 46, false], ["Crète", 24.9, 35.22, 40, false],
+    ["Oranie", -0.9, 34.75, 39, false], ["Malte", 14.42, 35.88, 36, false], ["Baléares", 2.95, 39.62, 31, false], ["Corse", 9.05, 42.15, 28, false]
   ];
   const MED_VERDICT = {
     "Sicile": "4 millions d'habitants, à 3 km du continent",
     "Crète": "Loin d'Oran, pas de charbon (îlot de l'Est)",
     "Malte": "Arsenal, mais ni terres ni eau",
     "Baléares": "Petites, sans énergie",
-    "Corse": "Proche de l'impact B, pas de charbon"
+    "Corse": "Proche de l'impact B, pas de charbon",
+    "Oranie": "Terre française, mais un continent d'affamés, sans ligne à défendre ; charbon à 600 km"
   };
 
   function drawMed() {
@@ -882,7 +883,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
           `<td class="num">${fmt(Math.round(km / 5) * 5)} km</td><td class="num">${h < 48 ? fmt(h) + " h" : fmt(h / 24, 1) + " j"}</td><td>${r.when}</td></tr>`;
       }).join("") + `</tbody>`;
     document.getElementById("med-islands").innerHTML =
-      `<thead><tr><th>Île candidate</th><th>Note</th><th>Verdict</th></tr></thead><tbody>` +
+      `<thead><tr><th>Candidat</th><th>Note</th><th>Verdict</th></tr></thead><tbody>` +
       MED_ISLANDS.map(([n, , , sc, win]) => `<tr><td>${win ? "<b>" + n + "</b>" : n}</td><td class="num">${sc}/66</td>` +
         `<td>${win ? "Retenue : charbon, blé, barrages, université, ports" : MED_VERDICT[n]}</td></tr>`).join("") + `</tbody>`;
   }
