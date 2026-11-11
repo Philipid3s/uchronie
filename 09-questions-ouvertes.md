@@ -44,7 +44,9 @@
 ### Le monde extérieur
 
 1. ❓ **Les chefferies voisines** : lesquelles nommer et décrire (Corse, Tunisie, Sicile, côte provençale, Baléares, **archipel toscan et côte tyrrhénienne**, que visitent les expéditions de recueil de 1955-1960, [21](21-demographie.md) §4.5) ? Quels rapports avec l'îlot : guerre, tribut, commerce, ignorance mutuelle ? ([07](07-le-monde-apres.md) §1 bis)
+[JR] Il y aura de tout - certains groupes de survivants se montreront tres cooperatifs - d autres seront suspicieux et distants - et d autres se montreront tres agressifs - Il pourrait y avoir une resurgeance de la piraterie, notamment en Afrique du Nord.
 2. ❓ **Forteresse ou reconquête** : l'îlot reste-t-il replié sur lui-même, ou entreprend-il de « reciviliser » les terres voisines ? ([07](07-le-monde-apres.md) §1 bis)
+[JR] il y aura d abord comme interet de se focaliser sur l autosuffisance - Developper les avant postes a Malte, Albanie et Gibraltar - Mais aussi de developper les relations avec des colonies de survivants amicales dans un soucis de developpement et d ' entraide mutuelle.
 3. ❓ **Les retrouvailles avec l'îlot de l'Est** : le premier signe est décidé (juin 1950, caïque ionien, [18](18-expedition-albanie.md) §7.5). Restent : la date et le contenu du premier échange radio direct, la décision du Conseil, la première rencontre physique, et ce qu'est devenu l'îlot (régime, chefs, population) ; le port d'attache et le patron du caïque ; qui signe le pli de Souda. *Proposition : la première rencontre physique se fait en 1952, par le voyage du *Strasbourg* en baie de Souda ([27](27-strasbourg.md) §6)* ([07](07-le-monde-apres.md) §3, [18](18-expedition-albanie.md) §7.5 et §9)
 4. ❓ **Les autres îlots lointains** (Dakar, Martinique, Nouvelle-Zélande, Écosse) : lesquels garder au canon, et quels contacts pendant « l'été radio » de 1947-49 ? ([16](16-contacts-radio.md))
 
@@ -54,14 +56,18 @@
 5 bis. ❓ **L'expédition de 1950** : *décidé : le commandant du* Georges Leygues *est un personnage inventé, le capitaine de vaisseau **Marcel Fabre** (Collinet est chef de l'expédition, [18](18-expedition-albanie.md) §3 bis)* ; reste : commandant de la garnison de Sazan et **nom du poste** ; identité du cargo et du pétrolier ; survivants de Vlorë et chefferie locale (côte déserte, partenaire ou hostile) ([18](18-expedition-albanie.md) §2, §7.4 et §10)
 6. ❓ **Gibraltar dans les années 1950** : entre-t-il dans l'îlot comme bord, ou reste-t-il autonome ? Adopte-t-il l'échelle de grades de Bonaria, ou garde-t-il ses grades britanniques ? ([07](07-le-monde-apres.md) §2 bis, [22](22-organisation-militaire.md) §10)
 7. ❓ **Toulon** : garde-t-on l'arrivée de l'*Algérie*, du *Dupleix* et de quelques contre-torpilleurs en août 1940 ? ([06](06-mers-el-kebir.md) §6)
+[JR] il faudra developper la situation a Toulon - Quelle situation post catastrophe et durant les epidemenies - si la situation se degrade de trop, oui on pourrait imaginer un reprise de contact avec l Ilot et un exode des dernieres forces francaise de Toulon vers la Sardaugne - Ensuite plus tard, apres la re ouverture au monde post epidemie, pourquoi ne pas imaginer une re colonisation, l installation d une garnison a Toulon pour securiser les installations portuaires qui pourrait etre d un grand interet pour le futur.
 
 ### La vie de l'îlot
 
 8. ❓ **La question sarde** : quel degré de violence retenir pour les réquisitions de 1940-41, et quelle **mémoire officielle** (sauvetage ou conquête) ? ([11](11-ilot-de-civilisation.md) §7) *Désormais nourrie par le départ « de gré ou de force » : l'accord de Cagliari se signe sous les canons ([10](10-choix-du-refuge.md) §9). Reste aussi à écrire la négociation des 8-12 juillet : qui répond à Cagliari, et comment.*
+[JR] il faut surtout determiner quel est l etat des forces italienne sur place - je pense qu il y aura quand meme une bonne entente car l arrivee des forces FR et EN promet quand meme une stabilisation de la situation et des bras pour remetttre l ile a flot...
 9. ❓ **La succession** au Conseil des Amiraux : comment et quand remplacer les fondateurs, nés entre 1880 et 1890 ? Premier successeur ? ([13](13-societe-de-bord.md) §8) *Principe décidé : renouvellement par l'École navale ; trois générations au Conseil (fondateurs, officiers de 1940, anciens élèves vers 1975-1980) ([13](13-societe-de-bord.md) §4 quater). Reste à nommer le premier successeur.*
 10. ❓ **La langue et l'identité** de l'îlot dans les années 1950-60 : langue de bord, nom de l'îlot, pavillon ([13](13-societe-de-bord.md) §7)
+[JR] peut on imaginer le developpement d un creole franco anglo italien ?
 11. ❓ **La reproduction sociale par le savoir** : comment l'îlot l'empêche-t-il (bourses, quotas, précepteurs) ? ([13](13-societe-de-bord.md) §9) *Réponse provisoire : internat pour tous, une place par bord au Collège de l'Îlot, répétiteurs de bord, concours de la flotte ; pas de quota d'origine ([13](13-societe-de-bord.md) §4 quater).*
 12. ❓ **Les femmes** : quand accèdent-elles aux navires et au Conseil des Amiraux ? ([13](13-societe-de-bord.md) §4 ter)
+[JR] elles prennent un role de plus en plus important - d abord reservees aux unites de support: ingenieur / soutien logistique et medical - elles accedent ensuite petit a petit au postes d officier - seules les troupes de marines / fusiliers marins sont encore reservees aux hommes.
 13. ✅ **La Barbagia** : **intégrée petit à petit** (troc, médecin, mariages, pacte de village) ([13](13-societe-de-bord.md) §6 bis). Reste : le premier village à signer, et le sort du cœur de la Barbagia (Orgosolo, Fonni) après 1960.
 14. ❓ **Le paludisme** : jusqu'où le laisser peser sur les plaines agricoles des années 1950, faute de DDT ? *Les grands travaux de 1950-1955 en font leur premier chantier ([21](21-demographie.md) §5.6) ; reste à fixer le résultat (recul, ou endémie résiduelle).* ([17](17-autosuffisance-alimentaire.md) §7)
 15. ❓ **La ration dans l'abondance** : une société conçue pour la pénurie supporte mal l'abondance des années 1950. Que devient la ration quand il y a assez à manger : maintenue, assouplie, remplacée par un échange ? ([13](13-societe-de-bord.md) §9)
@@ -96,6 +102,7 @@
 ### Le cadre général
 
 29. ❓ **Jusqu'où pousser la chronologie** : 1950, 1960, au-delà ?
+[JR] dans la bible on va s arreter au debut des anness 60 - 20 ans couverts dans un premier temps (de 40 a 60) ca semble etre suffisant pour un premier tome.
 30. ❓ **Un récit**, plus tard ? Si oui, à quel moment et de quel point de vue (les deux récits de la v2 sont archivés dans [archives/v2](archives/v2/))
 
 ### Éléments inventés à valider [canon provisoire]
@@ -170,20 +177,27 @@
 ### Le *Bretagne* ([28](28-bretagne.md) §7)
 
 51. ❓ **Les silos à terre (1956)** : où (Cagliari, Oristano, gares du Campidano) et en quoi (pierre, béton : l'île a-t-elle du ciment) ?
+[JR] si les ressources de l ile le permetttent - en ciment / beton
 52. ❓ **L'artillerie du *Bretagne*** : ses 138 mm et 340 mm restent-ils à bord, ou arment-ils une batterie du golfe de Palmas ?
+[JR] ils serviront rapidement a armer une batterie du golfe de Palmas
 53. ✅ **Le commandant du *Bretagne*** : le capitaine de vaisseau **Louis Le Pivain**, son commandant réel [histoire] ([28](28-bretagne.md) §7).
 
 ### La flotte des années 1950 ([29](29-flotte-des-annees-1950.md) §8)
 
 54. ❓ **Le sous-marin actif** : lequel (italien des classes *Adua* ou *Argonauta*, ou français d'Oran ou de Bizerte) et son nom ?
+[JR] un sous marin italien de ton choix
 55. ❓ **Les avisos neufs** (vers 1958-1965) : combien, et leurs noms (la première série construite par l'îlot) ?
+[JR] quelles infrastrutures pour construire ces avisos ? j imagine qu initialement ce seront des chalutiers re convertis ... il faudra developper un chantier naval sur l ile.. avec la necessite de former des ingenieurs specialise dans la construction navale.
 56. ❓ **Les navires oubliés** : torpilleurs italiens, navires de Bizerte, navires de Toulon (B7) : tous désarmés, ou l'un d'eux reprend-il du service ?
+[JR] certains seront envoyer en poste dans les garnisons de Albanie, Malte et Gilbraltar - Pour servir de navire de secours en cas d evacuation urgente
 
 ### La formation technique ([30](30-formation-technique.md) §9)
 
 57. ❓ **Les lieux** : où installer l'École technique à Cagliari, et où est l'arsenal de Cagliari ?
 58. ❓ **La langue d'enseignement** de l'École technique et des *Cahiers techniques* : français ou langue de bord ? (voir B10)
+[JR] anglais sera la langue de l enseignement pour integrer italiens et anglais - mais a bord de chaque navire / bord la langue locale est de mise
 59. ❓ **Le papier et l'imprimerie** des *Cahiers techniques* (voir B19).
+[JR] j imagine qu il sera necessaire de developper une industrie de papetrie / imprimerie locale
 
 ### Le *Commandant Teste* ([31](31-commandant-teste.md) §8)
 
