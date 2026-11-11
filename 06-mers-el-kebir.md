@@ -40,7 +40,7 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 ## 4. La fusion [canon]
 
 **La fusion est « naturelle » pour quatre raisons :**
-1. **Ils se connaissent.** Les deux marines ont combattu ensemble de septembre 1939 à juin 1940 (Norvège, Dunkerque, Méditerranée). Somerville et Gensoul se sont côtoyés. Le capitaine de vaisseau Holland, francophone et ancien attaché naval à Paris, sert de trait d'union.
+1. **Ils se connaissent.** Les deux marines ont combattu ensemble de septembre 1939 à juin 1940 (Norvège, Dunkerque, Méditerranée). Somerville et Gensoul se sont côtoyés. Le capitaine de vaisseau Holland, commandant de l'*Ark Royal* ([25](25-ark-royal.md)), francophone et ancien attaché naval à Paris, sert de trait d'union.
 2. **Leurs moyens sont complémentaires.**
 
    | Force de Raid et Oran | Force H et Gibraltar |

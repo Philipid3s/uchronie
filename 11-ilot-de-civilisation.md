@@ -92,7 +92,7 @@ Les 5 800 bouches de plus (Corses, Bizerte, Malte) consomment environ 13 000 per
 | **Bois** | Toujours | Appoint, et charpente des navires de pêche |
 | **Voile** | À partir de 1945 environ | Les navires à moteur deviennent rares. On revient aux bateaux de pêche et de cabotage à voile |
 
-**Les grands navires** ne naviguent plus à partir de 1942-1944. Le *Dunkerque*, le *Hood* et le *Valiant* deviennent des **centrales, des ateliers, des entrepôts et des forteresses** au mouillage. On garde **1 ou 2 croiseurs ou contre-torpilleurs** et les sous-marins pour les reconnaissances et le contact avec d'autres îlots, tant que le mazout dure.
+**Les grands navires** ne naviguent plus à partir de 1942-1944. Le *Dunkerque*, le *Hood* et le *Valiant* deviennent des **centrales, des ateliers, des entrepôts et des forteresses** au mouillage. Le *Hood* est **posé en 1944** devant Cagliari comme batterie fixe, et ses pièces légères arment les batteries des caps du golfe ([24](24-hood-forteresse-du-golfe.md)). On garde **1 ou 2 croiseurs ou contre-torpilleurs** et les sous-marins pour les reconnaissances et le contact avec d'autres îlots, tant que le mazout dure.
 
 ## 4. Abris et habitat
 
@@ -144,7 +144,7 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 | **France** | Vice-amiral d'escadre **Marcel Gensoul** [histoire] | Le **blé d'Oran**, les civils, environ 5 500 marins, le *Dunkerque* et le *Strasbourg* | **Vivres et rationnement**, santé, civils |
 | **Royaume-Uni** | Vice-amiral **Sir James Somerville** [histoire] | Les **stocks et le mazout de Gibraltar**, environ 6 800 marins, le *Hood*, le *Valiant*, l'*Ark Royal* | **Défense**, opérations navales, **énergie** (mazout puis charbon) |
 | **Italie** | Amiral **Vittorio Lai** [personnage fictif, né à Cagliari], commandant militaire maritime de Sardaigne | **L'île** : terres, mines, barrages, population, université | **Administration de l'île**, ordre public, mines, agriculture |
-| Chef d'état-major conjoint (sans droit de vote) | Capitaine de vaisseau **Cedric Holland** [histoire] | Il parle français, il est le trait d'union entre les deux flottes depuis le 3 juillet | Secrétariat, procès-verbaux, liaison |
+| Chef d'état-major conjoint (sans droit de vote) | Capitaine de vaisseau **Cedric Holland** [histoire] | Il parle français, il est le trait d'union entre les deux flottes depuis le 3 juillet. Il garde le commandement de l'*Ark Royal* ([25](25-ark-royal.md)) | Secrétariat, procès-verbaux, liaison |
 
 **Siège** : le Conseil siège à bord du *Dunkerque*, au mouillage devant Cagliari ([23](23-dunkerque-siege-du-conseil.md)).
 
@@ -186,4 +186,4 @@ C'est un **triumvirat d'équilibre**, sur le modèle des coalitions de nécessit
   - **À partir de novembre 1940, le silence.** L'îlot de Sardaigne ne saura pas pourquoi : voir [07](07-le-monde-apres.md) §3.
   - Les appels vers des stations lointaines (océan Indien, Nouvelle-Zélande, Amérique) restent sans réponse ou presque.
 - **Expéditions** : un sous-marin ou un contre-torpilleur vers la Corse, Toulon, Malte, Alger et Gibraltar, pour récupérer combustible, outils, livres, semences et survivants.
-- **Défense** : les canons de 330 mm du *Dunkerque* et de 381 mm du *Hood* et du *Valiant* sont dissuasifs face à toute flottille d'affamés. Ils ne servent presque jamais.
+- **Défense** : les canons de 330 mm du *Dunkerque* et de 381 mm du *Hood* et du *Valiant* sont dissuasifs face à toute flottille d'affamés. Ils ne servent presque jamais. À partir de 1944-1947, la garde du golfe de Cagliari repose sur le *Hood* posé et sur trois batteries côtières armées de ses 102 mm ([24](24-hood-forteresse-du-golfe.md)).

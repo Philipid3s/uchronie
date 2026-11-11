@@ -53,7 +53,7 @@ Hypothèses de consommation :
 | **1947** | 1 navire-centrale (les barrages et le charbon suffisent presque) | ~8 000 t | — | **~16 000 t** |
 | **1948** | Dernière chauffe du *Strasbourg* | ~6 000 t | — | **~10 000 t : réserve gelée** |
 
-**[canon provisoire] La réserve de l'Amirauté** : en 1948, le Conseil décide de **geler les 10 000 dernières tonnes de mazout**. On n'y touche que sur un vote unanime. Elles sont gardées pour **la première grande expédition**, celle de l'Albanie (§3 ter).
+**[canon provisoire] La réserve de l'Amirauté** : en 1948, le Conseil décide de **geler les 10 000 dernières tonnes de mazout**. On n'y touche que sur un vote unanime. Elles sont gardées pour **la première grande expédition**, celle de l'Albanie (§3 ter), puis pour le ***Strasbourg***, devenu navire de réserve : chauffes d'essai, carénage à Malte et voyage de Crète en 1952, évacuation en dernier recours ([27](27-strasbourg.md)).
 
 **Le dilemme de 1944** : la quarantaine exige des patrouilles, et les patrouilles brûlent le mazout. Le Conseil remplace donc peu à peu les contre-torpilleurs par des **chalutiers à charbon armés**, des **avisos charbonniers**, des **voiliers** et des **postes de guet** sur les tours côtières, avec des batteries à terre.
 
@@ -99,7 +99,7 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 **Le résultat** [canon provisoire] : Malte devient le **deuxième avant-poste** de l'îlot, après Gibraltar. Une petite garnison de l'îlot (un bord de terre d'environ 200 personnes) y tient l'arsenal, le dépôt de charbon et une station radio. Une douzaine d'isolés retrouvés sur l'île de Malte sont inscrits après quarante jours au lazaret de l'île Manoel. **Les ~80 Gozitains**, qui avaient refusé de partir en 1942 et que la Morìa a frappés en 1945, restent autonomes. On commerce avec eux sans contact, par une pierre de troc sur Comino ([18](18-expedition-albanie.md) §5 ter).
 
-**L'expédition d'Albanie** (1950-1951), **au départ de Malte**. Composition **validée par l'auteur** [canon] : surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté (moins de 5 % de la réserve, ordre de grandeur à vérifier). Les voyages réguliers qui suivront pourront se faire **entièrement au charbon** (pétrolier converti, escorte par un aviso charbonnier) [canon provisoire].
+**L'expédition d'Albanie** (1950-1951), **au départ de Malte**. Composition **validée par l'auteur** [canon] : surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté (moins de 5 % de la réserve, ordre de grandeur à vérifier). Les voyages réguliers qui suivront se font **sans toucher à la réserve** : le pétrolier garde à chaque retour environ 300 t du fioul distillé de sa cargaison pour le voyage suivant, et l'escorte est un aviso charbonnier ([29](29-flotte-des-annees-1950.md) §4.3).
 
 | Élément | Contenu |
 |---|---|
@@ -184,7 +184,7 @@ C'est **le seul grand gisement de charbon d'Italie**, et l'une des raisons princ
 | **Croiseurs légers** | **Difficile mais faisable**, en 2 à 3 ans | On convertit **une seule chaufferie** au charbon pour la croisière, et on garde l'autre au mazout pour la vitesse |
 | **Grands navires** (*Dunkerque*, *Strasbourg*, *Hood*, *Valiant*, *Ark Royal*) | **Impossible en pratique** | Il faudrait des centaines de chauffeurs, des milliers de tonnes de soutes, et refaire toutes les chaufferies, pour un navire lent qui ne sert plus à rien en mer. Ils restent au mouillage |
 
-**[histoire] Une ironie** : la *Provence* et la *Bretagne* ont été construites pour brûler du charbon (avec appoint de mazout), puis converties au mazout pendant leurs refontes de l'entre-deux-guerres. Leurs anciennes soutes à charbon existent encore, mais leurs chaudières ont été remplacées. Elles restent des pontons.
+**[histoire] Une ironie** : le *Provence* et le *Bretagne* ont été construits pour brûler du charbon (avec appoint de mazout), puis convertis au mazout pendant leurs refontes de l'entre-deux-guerres. Leurs anciennes soutes à charbon existent encore, mais leurs chaudières ont été remplacées. Ils restent des pontons.
 
 **Le charbon du Sulcis pose des problèmes particuliers à bord** :
 - il chauffe un tiers de moins qu'un bon charbon gallois, donc il en faut davantage pour la même distance ;
@@ -198,7 +198,7 @@ C'est **le seul grand gisement de charbon d'Italie**, et l'une des raisons princ
 | **1942 – 1944** | **Cargos et caboteurs** réquisitionnés à Oran et à Gibraltar, et ceux trouvés à Cagliari | La flotte de transport et de pêche de l'îlot marche au charbon |
 | **1944 – 1947** | **Deux torpilleurs** (classe Bourrasque/L'Adroit) et le vieux destroyer **HMS *Vortigern***, désarmé en 1942. C'est l'arsenal de Cagliari qui fait le travail, avec les mécaniciens des flottes | **Trois « avisos charbonniers »** (12 à 15 nœuds, artillerie réduite). Ils tiennent la **garde des côtes et la quarantaine** à la place des navires à mazout ([14](14-epidemie.md) §5.5) |
 | **1947 – 1951** | Le croiseur léger ***Georges Leygues*** : une chaufferie au charbon, l'autre au mazout | **Le « croiseur charbonnier »** : il fait route au charbon à 12-14 nœuds, et garde une part de la **réserve de l'Amirauté** (§3) pour pousser à pleine vitesse en cas de danger. C'est le navire de **l'expédition d'Albanie** (§3 ter) |
-| **Années 1950** | Construction de **petits vapeurs neufs** à coque de bois ou d'acier récupéré, sur le modèle des chalutiers | La marine de l'îlot devient une marine de vapeurs lents et de voiliers, avec quelques survivants de 1940 |
+| **Années 1950** | Construction de **petits vapeurs neufs** à coque de bois ou d'acier récupéré, sur le modèle des chalutiers | La marine de l'îlot devient une marine de vapeurs lents et de voiliers, avec quelques survivants de 1940 ; composition, budget et doctrine d'entretien au chapitre [29](29-flotte-des-annees-1950.md) |
 
 **Estimation pour le croiseur charbonnier** : à 12 nœuds, environ **150 t de charbon du Sulcis par jour**. Avec environ 1 500 t en soute, il tient environ 10 jours, soit environ 2 900 milles. Cagliari – Souda (environ 1 300 milles) est faisable, mais **l'aller-retour est juste**. Il faut un dépôt de charbon en route, ou un charbonnier d'accompagnement.
 

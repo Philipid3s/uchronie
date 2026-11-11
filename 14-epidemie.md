@@ -147,6 +147,7 @@ L'îlot est à l'extrémité ouest de la diffusion. Il a donc **un an d'avance**
 À partir de 1944, **la Sardaigne se ferme au monde** :
 - **L'Asinara est le seul port d'entrée**, avec quarante jours de quarantaine. Aucun autre débarquement n'est autorisé.
 - **Les côtes sont gardées** par des bords de garde-côtes : postes de guet sur les tours génoises et espagnoles (les anciennes *torri* littorales), patrouilles de chalutiers armés et de contre-torpilleurs tant qu'il reste du combustible.
+- **Le golfe de Cagliari** est tenu par le *Hood*, posé en mai 1944 comme batterie fixe, puis par les batteries des caps armées de ses 102 mm ([24](24-hood-forteresse-du-golfe.md)).
 - **Tout bateau inconnu qui s'approche est sommé de se dérouter vers l'Asinara.** S'il refuse, on ouvre le feu. Les épaves et les cadavres sont brûlés.
 - **Les expéditions extérieures sont suspendues**, sauf sur ordre exprès du Conseil. Leurs équipages font eux aussi quarante jours à l'Asinara à leur retour.
 - **Le silence radio devient une politique.** L'îlot continue d'écouter, mais il répond de moins en moins aux appels. Il ne veut pas attirer les bateaux de réfugiés.

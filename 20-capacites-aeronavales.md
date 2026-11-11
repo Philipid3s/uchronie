@@ -9,7 +9,7 @@
 | **HMS *Ark Royal*** (Force H) | **Fairey Swordfish** | Biplan torpilleur et de reconnaissance, 3 places | ~30 (trois escadrilles) | Robuste, lent, décolle court. Structure métallique entoilée |
 | | **Blackburn Skua** | Chasseur et bombardier en piqué, 2 places | ~20-25 (deux escadrilles) | Déjà dépassé en 1940 |
 | **Croiseurs et croiseurs de bataille français** (*Dunkerque*, *Strasbourg*, division d'Alger, ralliés de Toulon) | **Loire 130** | Hydravion de reconnaissance catapultable, 3 places | ~10-20 | Lancés par catapulte, récupérés à la grue |
-| ***Commandant Teste*** | Hydravions | Reconnaissance | Quelques-uns, ou aucun | [à vérifier] : appareils à bord à Mers el-Kébir en juillet 1940 ? |
+| ***Commandant Teste*** | Hydravions | Reconnaissance | Quelques Loire 130 [canon provisoire] | [à vérifier] : appareils à bord à Mers el-Kébir en juillet 1940 ? Débarqués à Elmas pendant l'hiver 1940-41 ([31](31-commandant-teste.md) §5) |
 | **Regia Aeronautica en Sardaigne** | Hydravions **CANT Z.501 et Z.506** (Elmas) ; bombardiers **SM.79** et quelques chasseurs (Decimomannu, Elmas, Alghero) | Reconnaissance maritime, bombardement | Plusieurs dizaines | [à vérifier] : ordre de bataille de l'Aeronautica della Sardegna en juin-juillet 1940 |
 
 **Au total** : de l'ordre de **100 à 150 appareils** au début de juillet 1940. Une partie est détruite ou endommagée par la nuit de feu et les tempêtes de l'été 1940 (appareils parqués dehors, en particulier sur les terrains italiens).

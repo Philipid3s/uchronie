@@ -39,7 +39,7 @@
 |---|---|---|
 | **Champignons** (sur paille, fumier et bois, dans les galeries) | Pas besoin de lumière. Température stable des mines | 1941 |
 | **Germes de légumineuses et de céréales** | Vitamine C sans lumière ni sol : la parade au scorbut des années sombres | 1941 |
-| **Légumes-feuilles, radis, pommes de terre sous verre** | Serres de Cagliari, hangar de l'*Ark Royal*, châssis vitrés | 1942 |
+| **Légumes-feuilles, radis, pommes de terre sous verre** | Serres de Cagliari, pépinière éclairée de l'*Ark Royal* (1941-43), châssis vitrés ; **germoirs** contre le scorbut ([25](25-ark-royal.md) §3.3) | 1942 |
 | **Orge** | La céréale la plus résistante au froid, au cycle le plus court, et assez tolérante aux UV. Base du pain et de la bouillie en 1943-44 | 1943 |
 | **Pommes de terre** | **Le tubercule pousse sous terre, à l'abri des UV.** Rendement énorme en calories par hectare | 1943 |
 | **Fèves** (*fave*, culture sarde traditionnelle), pois chiches, lentilles | Résistent au froid, apportent les protéines et **fixent l'azote du sol** | 1943 |
@@ -173,7 +173,7 @@ Besoin : environ **46 milliards de kcal par an** pour 55 000 personnes (recalcul
 - **La pêche et l'élevage pèsent peu en calories, mais beaucoup en protéines, en graisses et en vitamines.** Sans eux, l'îlot mangerait assez mais serait carencé.
 - **11 500 ha seulement** : le facteur limitant est le travail, pas la terre. Plus précisément, le travail manque **aux pointes de la moisson et des semailles**, et faute de bêtes de trait ; sur l'année, l'îlot a une réserve de bras ([21](21-demographie.md) §5.4). Les 5 800 réfugiés et rescapés ajoutent environ 1 000 ha et 400 travailleurs aux besoins, mais ils apportent aussi des bras.
 
-**[canon provisoire] La règle de Joseph** : à partir de 1947, le Conseil impose de **garder en réserve une année entière de grain** (environ 6 000 t de céréales pour 55 000 personnes), dans les galeries sèches des mines, comme Joseph dans les greniers d'Égypte. La mémoire de 1941 rend cette règle intouchable. C'est la ration de la prochaine catastrophe.
+**[canon provisoire] La règle de Joseph** : à partir de 1947, le Conseil impose de **garder en réserve une année entière de grain** (environ 6 000 t de céréales pour 55 000 personnes), partagée entre **le *Bretagne***, grenier flottant à l'abri des rats dans le golfe de Palmas (4 000 à 5 000 t, [28](28-bretagne.md)), et les galeries sèches des mines, jusqu'aux silos à terre de 1956, comme Joseph dans les greniers d'Égypte. La mémoire de 1941 rend cette règle intouchable. C'est la ration de la prochaine catastrophe.
 
 ## 7. Les menaces
 
@@ -182,7 +182,7 @@ Besoin : environ **46 milliards de kcal par an** pour 55 000 personnes (recalcul
 | **Le retour du paludisme** | La Sardaigne était l'une des régions les plus impaludées d'Europe, surtout dans le Campidano et autour d'Arborea [histoire]. Les hivers glacés de 1940-1944 ont tué les moustiques. **Ils reviennent avec la chaleur, vers 1946-1948.** Dans l'histoire réelle, le paludisme sarde a été éradiqué au DDT entre 1946 et 1951 : **dans l'uchronie, il n'y a pas de DDT** | Drainage des marais, **vert de Paris** (larvicide à l'arsenic, connu depuis les années 1920), poissons **gambusies** qui mangent les larves (introduits en Italie dans les années 1920), moustiquaires, réserves de quinine qui s'épuisent. **Le paludisme est la principale menace pour les plaines agricoles des années 1950.** **[canon]** Les **grands travaux** de 1950-1955 en font leur premier chantier ([21](21-demographie.md) §5.6) |
 | **Les mauvaises années** | Un été froid ou sec, une pluie de grêle | La règle de Joseph |
 | **Les maladies des plantes** | Rouilles du blé, mildiou de la pomme de terre, sans traitements chimiques | Rotation, variétés diverses, bouillie bordelaise tant qu'il reste du cuivre |
-| **Les rats** | Ils prolifèrent dans les stocks, et ils portent la peste ([14](14-epidemie.md)) | Chats, pièges, silos étanches, fumigation au soufre |
+| **Les rats** | Ils prolifèrent dans les stocks, et ils portent la peste ([14](14-epidemie.md)) | Chats, pièges, silos étanches, fumigation au soufre ; la réserve gardée à flot sur le *Bretagne* ([28](28-bretagne.md) §2) |
 
 ## 8. La chronologie de l'alimentation
 

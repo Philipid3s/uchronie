@@ -6,7 +6,7 @@
 
 | | Valeur |
 |---|---|
-| **Chef d'expédition** [canon] | **Le commandant du *Strasbourg***, embarqué sur le *Georges Leygues* (§3 bis) |
+| **Chef d'expédition** [canon] | **Le commandant du *Strasbourg***, Louis Collinet, embarqué sur le *Georges Leygues* comme **commandant de la force** ; le *Georges Leygues* garde son propre commandant [à nommer] (§3 bis) |
 | **Navires** [canon] | Le croiseur charbonnier ***Georges Leygues***, un **cargo** à charbon, un **pétrolier** à mazout |
 | **Personnel** | **~680 personnes**, dont une quinzaine pris à Malte |
 | **Îlot de l'Est** [canon] | Au retour, **contact indirect** par un caïque ionien qui commerce avec la Crète : nouvelles de Souda, pli avec une fréquence radio. **Pas de détour** (§7.5) |
@@ -55,11 +55,11 @@ Ces chiffres confirment l'ordre de grandeur posé au chapitre 15 (moins de 5 % d
 **Décision de l'auteur** : l'expédition est confiée au **commandant du *Strasbourg***, choisi pour ses qualités de **meneur d'hommes** et son **sang-froid**.
 
 **Pourquoi lui, et non le commandant du *Georges Leygues*** :
-- **Il est disponible.** Le *Strasbourg* a fait sa dernière chauffe en 1948 ([15](15-energie.md) §3). Ce n'est plus qu'un bord au mouillage, que son second peut tenir pendant trois mois.
+- **Il est disponible.** Le *Strasbourg* a fait sa dernière chauffe en 1948 ([15](15-energie.md) §3). Ce n'est plus qu'un bord au mouillage, navire de réserve en conservation à Cagliari ([27](27-strasbourg.md)), que son second peut tenir pendant trois mois.
 - **Il est le plus ancien dans le grade.** Le commandant d'un croiseur de bataille a plus d'ancienneté que celui d'un croiseur léger. Il peut commander les trois navires et parler au nom du Conseil.
 - **Il sait tenir un équipage qui ne navigue plus.** Garder la discipline et le moral de plus d'un millier d'hommes immobilisés depuis 1940, pendant les années noires et la Morìa, demande ce dont l'expédition aura besoin à Vlorë : de la patience, de l'autorité, et du calme quand la situation se tend.
 
-**L'organisation, selon l'usage naval** [canon provisoire] : le chef d'expédition est **commandant de la force**. Il arbore sa marque sur le *Georges Leygues* avec un petit état-major : un adjoint, un officier de renseignement, un interprète, un commis aux écritures. **Le commandant du *Georges Leygues* garde son navire** : la manœuvre, les quarts et le combat. Le chef d'expédition décide de tout le reste : la route, le chantier, les contacts à terre, l'emploi de la réserve de combat et l'installation de Sazan (§10).
+**L'organisation, selon l'usage naval** [canon provisoire] : le chef d'expédition est **commandant de la force**. Il arbore sa marque sur le *Georges Leygues* avec un petit état-major : un adjoint, un officier de renseignement, un interprète, un commis aux écritures. **Le commandant du *Georges Leygues*, le capitaine de vaisseau Marcel Fabre** [personnage inventé ; à remplacer si le nom réel est retrouvé], **garde son navire** [canon : Collinet n'en est pas le commandant] : la manœuvre, les quarts et le combat. Le chef d'expédition décide de tout le reste : la route, le chantier, les contacts à terre, l'emploi de la réserve de combat et l'installation de Sazan (§10).
 
 **Ses pouvoirs** : il porte une **lettre de commandement du Conseil**. Il peut traiter avec les gens du pays, ordonner le repli et, en dernier recours, engager le combat. La lettre l'autorise à **laisser une garnison à Sazan**, mais pas à s'établir sur le continent : cette décision reste au Conseil.
 

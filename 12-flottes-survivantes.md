@@ -14,10 +14,10 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 
 | Navire | Type | Lancement | Équipage 1940 | Valides après le 1er juillet [canon] | Rôle dans l'îlot | État en 1946 [canon] |
 |---|---|---|---|---|---|---|
-| **HMS *Hood*** | Croiseur de bataille, 8 × 381 mm | 1918 | ~1 420 | ~1 150 | **Navire amiral britannique.** Défense du golfe de Cagliari, centrale électrique, station radio | Au mouillage, **forteresse et centrale** |
-| **HMS *Valiant*** | Cuirassé, 8 × 381 mm | 1914 | ~1 180 | ~950 | Défense du golfe de Palmas, centrale électrique du Sulcis | Au mouillage, centrale |
+| **HMS *Hood*** | Croiseur de bataille, 8 × 381 mm | 1918 | ~1 420 | ~1 150 | **Navire amiral britannique.** Défense du golfe de Cagliari, centrale électrique (1940-42), station radio | **Posé en 1944** devant Su Siccu : **batterie fixe** du golfe ; ses 102 mm arment les batteries des caps ([24](24-hood-forteresse-du-golfe.md)) |
+| **HMS *Valiant*** | Cuirassé, 8 × 381 mm | 1914 | ~1 180 | ~950 | Défense du golfe de Palmas, centrale électrique du Sulcis (1940-1942) | Au mouillage, ponton |
 | **HMS *Resolution*** | Cuirassé, 8 × 381 mm | 1915 | ~1 150 | ~920 | **Ponton d'habitation et entrepôt** dès l'automne 1940 (mazout transféré aux autres) | **Ponton**, partiellement démonté |
-| **HMS *Ark Royal*** | Porte-avions | 1937 | ~1 580 | ~1 250 | Reconnaissance aérienne (Swordfish, Skua) **jusqu'à l'épuisement de l'essence d'aviation**, vers le printemps 1941. Puis **son hangar de 170 m devient le plus grand espace couvert de l'îlot** : hôpital d'hiver, atelier, serre éclairée à l'électricité | Au mouillage : hangar, serre, assemblée |
+| **HMS *Ark Royal*** | Porte-avions | 1937 | ~1 580 | ~1 250 | Navire de Holland. Reconnaissance aérienne (Swordfish, Skua) **jusqu'à l'épuisement de l'essence d'aviation**, pendant l'hiver 1940-41. Puis **ses deux hangars deviennent le plus grand espace couvert de l'îlot** : hôpital d'hiver, germoirs et pépinière, puis ateliers et **salle du Grand Carré** ([25](25-ark-royal.md)) | Au mouillage : ateliers et Grand Carré ; **démantelé de 1957 à 1963** |
 | **HMS *Arethusa*** | Croiseur léger | 1934 | ~500 | ~410 | **Force mobile** : patrouilles, expéditions vers Gibraltar et la Corse | Désarmé en 1944 faute de mazout |
 | **HMS *Enterprise*** | Croiseur léger | 1919 | ~570 | ~460 | Force mobile, transport | Désarmé en 1943 ; pièces récupérées pour l'*Arethusa* |
 | HMS *Faulknor* | Conducteur de flottille | 1934 | ~175 | ~145 | Escorte, patrouille, pêche | Un des deux destroyers gardés en service jusqu'en 1946 |
@@ -41,10 +41,10 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 | Navire | Type | Lancement | Équipage 1940 | Valides [canon] | Rôle dans l'îlot | État en 1946 [canon] |
 |---|---|---|---|---|---|---|
 | ***Dunkerque*** | Croiseur de bataille, 8 × 330 mm | 1935 | ~1 380 | ~1 100 | **Navire amiral du Conseil des Amiraux.** Salle du Conseil, **station radio principale**, centrale électrique de Cagliari jusqu'en 1945, École navale de 1946 à 1955 ([23](23-dunkerque-siege-du-conseil.md)) | **Siège du Conseil**, centrale |
-| ***Strasbourg*** | Croiseur de bataille, 8 × 330 mm | 1936 | ~1 300 | ~1 050 | Centrale et distillerie d'eau douce du golfe de Palmas, défense | Au mouillage, centrale |
-| ***Provence*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Hôpital flottant** et ponton d'habitation | Ponton-hôpital |
-| ***Bretagne*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Entrepôt de grain** (soutes et magasins) et ponton d'habitation. Dans l'histoire réelle, il a explosé le 3 juillet avec 977 morts ; ici, il survit | Ponton-entrepôt, partiellement démonté |
-| ***Commandant Teste*** | Transport d'hydravions | 1929 | ~650 | ~520 | Hydravions de reconnaissance jusqu'à l'épuisement de l'essence. Puis **atelier central** de l'îlot (grues, ateliers de réparation) | Atelier flottant |
+| ***Strasbourg*** | Croiseur de bataille, 8 × 330 mm | 1936 | ~1 300 | ~1 050 | Centrale et distillerie d'eau douce du golfe de Palmas (1940-1948), défense ; puis **navire de réserve** à Cagliari, seul grand navire capable de reprendre la mer ([27](27-strasbourg.md)) | Au mouillage, centrale |
+| ***Provence*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Hôpital** de la chirurgie, de la maternité et des enfants (1940-43), autour des médecins et infirmières d'Oran ([26](26-provence.md)) | **Maternité** de l'îlot (1944-52), puis école des mousses (1952-63) |
+| ***Bretagne*** | Cuirassé, 10 × 340 mm | 1913 | ~1 130 | ~900 | **Le grenier de Joseph** : réserve de grain à flot dans le golfe de Palmas, à l'abri des rats (soutes à charbon et à munitions) ; logement de familles d'Oran en 1940-42 ; **donneur de pièces du *Provence*** ([28](28-bretagne.md)). Dans l'histoire réelle, il a explosé le 3 juillet avec 977 morts ; ici, il survit | Ponton-entrepôt, partiellement démonté |
+| ***Commandant Teste*** | Transport d'hydravions | 1929 | ~650 | ~520 | Hydravions de reconnaissance jusqu'à l'épuisement de l'essence. Puis **atelier de précision** de l'îlot, à quai dans le port de Cagliari : moteurs, électricité, instruments, radio ; cinq grues de 12 t ([31](31-commandant-teste.md)) | Atelier flottant |
 | ***Mogador*** | Contre-torpilleur | 1937 | ~260 | ~210 | Force mobile rapide | Désarmé en 1943 (consommation trop forte) |
 | ***Volta*** | Contre-torpilleur | 1936 | ~260 | ~210 | Force mobile rapide, **expéditions** | **Gardé en service jusqu'en 1946** |
 | ***Le Terrible*** | Contre-torpilleur | 1933 | ~220 | ~180 | Force mobile | Désarmé en 1944 |
@@ -57,7 +57,7 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 
 | Navire | Type | Équipage | Rôle | État en 1946 |
 |---|---|---|---|---|
-| *Trombe*, *Tornade*, *Tramontane*, *Typhon* | Torpilleurs (classe Bourrasque/L'Adroit) | ~140 chacun | **Convois Oran → Cagliari**, escorte des cargos, pêche | Deux gardés en service (faible consommation) |
+| *Trombe*, *Tornade*, *Tramontane*, *Typhon* | Torpilleurs (classe Bourrasque/L'Adroit) | ~140 chacun | **Convois Oran → Cagliari**, escorte des cargos, pêche | Deux gardés en service (faible consommation) : la ***Tornade*** et le ***Typhon***, convertis en avisos charbonniers (1944-47) ; la *Trombe* et la *Tramontane* deviennent leurs donneurs de pièces ([29](29-flotte-des-annees-1950.md)) |
 | Sous-marins basés à Oran | Sous-marins côtiers | ~40 – 45 chacun | Reconnaissance | [à documenter] |
 | Remorqueurs, chalands, bâtiments de servitude | — | — | **Indispensables** au port de Cagliari | En service |
 
@@ -70,9 +70,9 @@ Historiquement, six croiseurs légers de classe *La Galissonnière* se trouvaien
 | ***La Galissonnière*** | Croiseur léger, 9 × 152 mm | 1933 | ~540 | ~440 | Force mobile | Désarmé en 1944 |
 | ***Jean de Vienne*** | Croiseur léger | 1935 | ~540 | ~440 | Force mobile | Désarmé en 1943 |
 | ***Marseillaise*** | Croiseur léger | 1935 | ~540 | ~440 | Force mobile, transport | Désarmé en 1944 |
-| ***Georges Leygues*** | Croiseur léger | 1936 | ~540 | ~440 | **Force mobile principale**, expéditions | **Gardé en service jusqu'en 1946** |
+| ***Georges Leygues*** | Croiseur léger | 1936 | ~540 | ~440 | **Force mobile principale**, expéditions | **Gardé en service** ; croiseur charbonnier (1947-51), navire amiral à la mer des années 1950 ([29](29-flotte-des-annees-1950.md)) |
 | ***Gloire*** | Croiseur léger | 1935 | ~540 | ~440 | Force mobile | Désarmé en 1943 |
-| ***Montcalm*** | Croiseur léger | 1935 | ~540 | ~440 | Défense de La Maddalena (avant-poste nord) | Au mouillage à La Maddalena |
+| ***Montcalm*** | Croiseur léger | 1935 | ~540 | ~440 | Défense de La Maddalena (avant-poste nord) | Au mouillage à La Maddalena ; **en conservation** dans les années 1950, coque de secours du *Georges Leygues* ([29](29-flotte-des-annees-1950.md) §4.2) |
 | **Sous-total** | **6 croiseurs** | | **~3 250** | **~2 640** | | |
 
 ### 3.4 Ralliés de Toulon (août 1940) [canon provisoire]
@@ -116,7 +116,9 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 
 **Bâtiments encore en état de naviguer en 1946 [canon]** : HMS *Foxhound*, HMS *Faulknor*, le *Volta*, le *Georges Leygues*, deux torpilleurs, deux ou trois sous-marins (italiens et français), plus la flottille de caboteurs et de pêche à voile.
 
-**Les grands bâtiments au mouillage en 1946** : *Dunkerque* (siège du Conseil), *Hood* (forteresse), *Strasbourg* et *Valiant* (centrales), *Ark Royal* (hangar, serre et assemblée), *Commandant Teste* (atelier), *Provence* (hôpital), *Bretagne* et *Resolution* (entrepôts et pontons).
+**Les grands bâtiments au mouillage en 1946** : *Dunkerque* (siège du Conseil), *Hood* (forteresse posée en 1944), *Strasbourg* (centrale), *Valiant* (ponton), *Ark Royal* (ateliers et Grand Carré), *Commandant Teste* (atelier), *Provence* (maternité), *Bretagne* et *Resolution* (entrepôts et pontons).
+
+**Après 1946** : la flotte active des années 1950, son budget de charbon, sa doctrine d'entretien et l'inventaire de 1955 sont au chapitre [29](29-flotte-des-annees-1950.md).
 
 ## 7. Le mazout, ressource qui commande tout [estimation]
 

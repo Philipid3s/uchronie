@@ -35,7 +35,7 @@ De 1940 à 1943, chacun garde ses galons. Les bords restent en majorité nationa
 
 - **La date** : le **12 juillet 1943**, troisième **jour de Cagliari** ([13](13-societe-de-bord.md) §7), juste après la première vraie récolte ([17](17-autosuffisance-alimentaire.md)). On vient de manger son propre pain pour la première fois depuis trois ans. L'étau se desserre : c'est le moment de refonder.
 - **Le lieu** : le sanctuaire de **Notre-Dame de Bonaria**, sur la colline qui domine le port de Cagliari. **[histoire]** Notre-Dame de Bonaria est la **patronne des marins** et de la Sardaigne ; c'est d'elle que Buenos Aires tient son nom. Les trois marines y ont des aumôniers ; les marins sardes y portent des ex-voto depuis le XIVᵉ siècle.
-- **Les signataires** : les trois amiraux du Conseil. L'accord est préparé par une **commission tripartite des grades** de six membres : un officier et un maître de chaque marine, sous la présidence de **Holland**. Les maîtres y siègent à égalité avec les officiers : c'est la première fois.
+- **Les signataires** : les trois amiraux du Conseil. L'accord est préparé par une **commission tripartite des grades** de six membres : un officier et un maître de chaque marine, sous la présidence de **Holland** ; elle travaille à bord de l'*Ark Royal*, son navire ([25](25-ark-royal.md)). Les maîtres y siègent à égalité avec les officiers : c'est la première fois.
 
 ### 2.2 Ce que dit l'accord
 
@@ -148,7 +148,7 @@ L'accord de Bonaria crée sept corps. Tous ont la même échelle de grades ; seu
 | Corps | Domaine | Vient de | Qui y sert |
 |---|---|---|---|
 | **Pont** | Bords à flot, commandement, transmissions, garde armée, **aéronavale** (§6 bis) | Les trois marines | Officiers de marine, canonniers, radios, pilotes et observateurs |
-| **Machines et Génie** | Machines, mines, énergie, arsenal, ateliers, grands travaux, **entretien des appareils** | Génie maritime français, *Genio Navale* | Ingénieurs, mécaniciens, mécaniciens d'aviation, mineurs, ouvriers |
+| **Machines et Génie** | Machines, mines, énergie, arsenal, ateliers, grands travaux, **entretien des appareils** ; formé à l'École navale et en année d'application, sa Maistrance à l'École technique de l'Îlot ([30](30-formation-technique.md)) | Génie maritime français, *Genio Navale* | Ingénieurs, mécaniciens, mécaniciens d'aviation, mineurs, ouvriers |
 | **Santé** | Hôpitaux, la Zone, la visite, les maternités | Les trois services de santé | Médecins, infirmières, sages-femmes |
 | **Commissariat** | Vivres, ration, dépôts, Inscription, justice, instruction (jusqu'en 1955) | Commissariat de la marine français | Commissaires, comptables, instituteurs |
 | **Terre** | Bords de terre, élevage, forêts | Créé en 1943 | Agronomes, paysans, bergers |

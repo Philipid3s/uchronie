@@ -178,7 +178,7 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 | **Côte tyrrhénienne** (Maremme, Argentario, Civitavecchia, La Spezia, Livourne) | 250 à 350 km | Les familles des marins italiens de l'îlot ; les bases de la Regia Marina | 1958-1960, avec prudence |
 
 **Comment se passe une expédition** [canon provisoire] :
-- **Le départ** : La Maddalena, la base la plus proche de la Corse et de l'Italie. Un aviso charbonnier ou un contre-torpilleur, un cargo pour les passagers, une section de fusiliers marins, deux médecins, un aumônier et des **interprètes** (des Corses et des Italiens de l'îlot).
+- **Le départ** : La Maddalena, la base la plus proche de la Corse et de l'Italie. Un aviso charbonnier (la *Tornade* ou le *Typhon*, [29](29-flotte-des-annees-1950.md)), un cargo pour les passagers, une section de fusiliers marins, deux médecins, un aumônier et des **interprètes** (des Corses et des Italiens de l'îlot).
 - **Le contact** : l'expédition annonce sa venue (feux, pavillon, porte-voix), mouille au large et reçoit les candidats sur une plage ou à un ponton. **On n'emmène que des volontaires.** On n'enlève personne, on ne force aucun village.
 - **Le tri** : la visite médicale à bord. Tout cas de fièvre fait renvoyer le bateau à l'Asinara.
 - **Le retour** : quarantaine de quarante jours à l'**Asinara** ([14](14-epidemie.md) §5.6), puis l'essai et l'inscription, comme pour tous les étrangers admis.
@@ -198,7 +198,7 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 | **Ration de mère** | La ration d'enfant et de mère ([13](13-societe-de-bord.md) §4) est due **dès la déclaration de grossesse et jusqu'au sevrage**, vers deux ans |
 | **Congé de maternité** | Six semaines avant et huit semaines après la naissance, à ration pleine |
 | **Travaux interdits** | Aux femmes enceintes et allaitantes : le fond de la mine, le quart de nuit, les fours à chaux, le **vert de Paris** (larvicide à l'arsenic des grands travaux, §5.6) et les soins dans la Zone |
-| **Sages-femmes** | **Une sage-femme dans chaque bord de terre et de fond**, formée à l'**École de sages-femmes** de l'Hôpital de l'Îlot, à Cagliari ([19](19-savoir-et-medecine.md) §4). Il en faut environ **40 en 1950** et **60 en 1960** |
+| **Sages-femmes** | **Une sage-femme dans chaque bord de terre et de fond**, formée à l'**École de sages-femmes** de l'Hôpital de l'Îlot, à Cagliari ([19](19-savoir-et-medecine.md) §4), qui fait ses accouchements sur le *Provence*, maternité de l'îlot jusqu'en 1952 ([26](26-provence.md) §4). Il en faut environ **40 en 1950** et **60 en 1960** |
 | **Crèches de bord** | Chaque bord de plus de 300 personnes tient une crèche, pour que les mères reprennent le travail à mi-temps |
 | **L'honneur** | Chaque naissance est annoncée au **salut aux couleurs** du bord. Les mères de quatre enfants reçoivent un brassard d'honneur |
 | **Le logement** | Les familles ont la priorité sur les logements à terre ; les célibataires restent à bord |

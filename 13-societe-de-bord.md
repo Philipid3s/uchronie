@@ -61,7 +61,7 @@ Le mot « bord » (le navire, au sens où l'on dit « à bord ») désigne la ce
 | Type | Exemples | Effectif type (1942) | Commandant |
 |---|---|---|---|
 | **Bords à flot** | Les navires qui naviguent encore : contre-torpilleurs, sous-marins, chalutiers armés | 100 à 300 | Le commandant du navire |
-| **Bords au mouillage** | Les grands navires immobilisés : *Dunkerque* (siège du Conseil), *Hood* (forteresse), *Strasbourg* et *Valiant* (centrales électriques), *Ark Royal* (serre et hôpital), *Provence* (hôpital) | 800 à 2 000, dont les civils logés à bord ou rattachés | Le commandant du navire |
+| **Bords au mouillage** | Les grands navires immobilisés : *Dunkerque* (siège du Conseil), *Hood* (forteresse, posé en 1944), *Strasbourg* (centrale, puis navire de réserve), *Valiant* (centrale jusqu'en 1942), *Ark Royal* (hôpital, germoirs, puis Grand Carré), *Provence* (hôpital, puis maternité et école des mousses) | 800 à 2 000, dont les civils logés à bord ou rattachés | Le commandant du navire |
 | **Bords de fond** | Les mines du Sulcis et de l'Iglesiente : Serbariu (Carbonia), Monteponi, Montevecchio. La mine est traitée comme un navire enterré : galeries, puits, quarts | 2 000 à 5 000 | Un officier, assisté de l'ingénieur des mines (officier assimilé) |
 | **Bords de terre** | Les domaines agricoles du Campidano, les barrages du Tirso et du Coghinas, l'arsenal, l'université | 300 à 3 000 | Un officier ou un officier assimilé |
 | **Bords détachés** (à partir de 1949) | Les avant-postes hors de Sardaigne : **le bord de Malte** (La Valette, puis Gozo à partir de 1955), **Sazan** (1950). Relevés par roulement (à Malte, deux ans de service, la moitié relevée chaque printemps) ; les relèves font la quarantaine de l'Asinara ; des **fixés**, mariés sur place, sortent du roulement ([15](15-energie.md) §3 ter, [18](18-expedition-albanie.md) §5 ter et §10) | 60 à 250 | Un officier de marine désigné par le Conseil |
@@ -158,6 +158,9 @@ C'est ce qui rend la hiérarchie acceptable. Une discipline de fer n'est support
 | **L'École navale de l'Îlot** | 3 ans | Formation commune la première année (navigation, mathématiques, mécanique, hygiène, droit de bord, quart à la mine et à la moisson), puis une spécialité. Les élèves sortent **enseignes** |
 | **Le service** | 21-55 ans | Les grades s'obtiennent par **brevet** (§4 bis) : l'École ne donne que le premier |
 
+**La filière technique** : à côté de cette filière des officiers, les mousses qui choisissent un métier entrent à 16 ans à l'école d'apprentis de l'arsenal, puis à l'**École technique de l'Îlot** (1948) ou à l'**école des mines d'Iglesias** (1945) ; les ingénieurs ajoutent une année d'application à l'École navale, puis passent par la faculté d'ingénieurs après 1958 ([30](30-formation-technique.md)). Le concours de la flotte reste ouvert aux apprentis.
+
+
 **Les spécialités** (les sept « corps » de la Marine de l'Îlot, [22](22-organisation-militaire.md) §5) :
 
 | Corps | Forme | Avec |
@@ -228,12 +231,12 @@ Les femmes sont inscrites comme tout le monde (§2). De 1940 à 1943, elles sont
 
 | Corps de soutien | Rôle | Place des femmes |
 |---|---|---|
-| **Santé** | Hôpitaux de la *Provence* et de l'*Ark Royal*, **la Zone**, la visite quotidienne, les maternités | Majoritaires dès 1940. Les infirmières-chefs entrent dans la Maistrance |
+| **Santé** | Hôpitaux du *Provence* (chirurgie, maternité) et de l'*Ark Royal*, **la Zone**, la visite quotidienne, les maternités | Majoritaires dès 1940. Les infirmières-chefs entrent dans la Maistrance |
 | **Commissariat** | Dépôts, cartes de ration, cuisines de bord, conserves, comptabilité des stocks | Majoritaires dès 1941. **Ce sont elles qui tiennent les registres de la ration**, le poste le plus sensible de l'îlot |
 | **Transmissions** | Écoute radio, chiffre, signaux, météo | Formées par les Wrens et les radios de la flotte. Ce sont elles qui captent les appels du monde en 1943-44 |
 | **Instruction** | Écoles des mousses, alphabétisation, copie des livres de la bibliothèque de l'Îlot | Majoritaires |
 | **Ateliers** | Couture des tenues et des voiles, réparation, filature, fabrication des masques | Majoritaires |
-| **Agriculture** | Fermes du Campidano, serres de l'*Ark Royal*, champignonnières des mines | Paritaire |
+| **Agriculture** | Fermes du Campidano, germoirs et pépinière de l'*Ark Royal*, champignonnières des mines | Paritaire |
 
 ### Une montée en puissance [canon provisoire]
 
@@ -336,7 +339,7 @@ Cette décision remplace l'évolution « vers une Assemblée élue puis une cons
 | Période | Régime |
 |---|---|
 | **1940 – 1943 : la loi de bord** | Le Conseil des Amiraux gouverne par ordonnances, sous la loi martiale. Le Code de l'Îlot s'applique partout. Le Comité civil consultatif est absorbé dans le Carré |
-| **1943 – 1950 : le Grand Carré** | La première récolte desserre l'étau. Une assemblée des officiers et assimilés, le **Grand Carré**, est créée pour conseiller le Conseil et préparer la succession. La Maistrance obtient un **Conseil des Maîtres**, consulté sur les rations et le travail. **Il n'y a pas d'élections au sens civil** |
+| **1943 – 1950 : le Grand Carré** | La première récolte desserre l'étau. Une assemblée des officiers et assimilés, le **Grand Carré**, est créée pour conseiller le Conseil et préparer la succession ; elle siège dans le hangar supérieur de l'*Ark Royal* jusqu'en 1957 ([25](25-ark-royal.md) §4). La Maistrance obtient un **Conseil des Maîtres**, consulté sur les rations et le travail. **Il n'y a pas d'élections au sens civil** |
 | **Années 1950 : la succession** | Les amiraux fondateurs meurent ou se retirent. Le Conseil se renouvelle par **cooptation** parmi les officiers supérieurs, avec l'approbation du Grand Carré. Les officiers de 1940 succèdent aux fondateurs ; vers 1975-1980, les anciens élèves de l'École navale leur succèdent à leur tour (§4 quater). Le régime devient une **république de bord** : hiérarchique, **méritocratique** (aucun grade héréditaire, §4 bis), avec une forte légitimité née de la survie |
 
 ## 9. Les risques à long terme [canon provisoire]

@@ -18,6 +18,7 @@
 | **Aviation** | Catapulte, hangar et grue à l'arrière ; hydravions Loire 130 ([20](20-capacites-aeronavales.md)) |
 | **Électricité** | Turbo-dynamos et diesels-dynamos, de l'ordre de **4 à 5 MW**, en courant continu [estimation] 🔎 |
 | **Équipage** | ~1 380 hommes ([12](12-flottes-survivantes.md)) |
+| **Commandant** | Capitaine de vaisseau **Étienne Morvan** [personnage inventé ; à remplacer si le nom réel est retrouvé] |
 | **Rôle en juillet 1940** | **Navire amiral de la Force de Raid** : pavillon du vice-amiral Gensoul, installations d'état-major |
 
 **Ce qui en fait un bon siège** :
@@ -36,8 +37,8 @@
 
 **Pourquoi le *Dunkerque* plutôt que le *Hood*.**
 - **Le français est la langue de travail** du Conseil ([11](11-ilot-de-civilisation.md) §8), et l'état-major de Gensoul est déjà en place à bord.
-- **Le partage des rôles** : Somerville garde sa marque sur le *Hood*, qui devient la **forteresse** du golfe. La force (le *Hood*) monte la garde pendant que le Conseil (le *Dunkerque*) délibère. Chacun des deux grands alliés tient un des deux symboles.
-- **La proximité de la ville** : le *Dunkerque* mouille devant Cagliari ; le *Strasbourg*, centrale du Sulcis, mouille dans le golfe de Palmas ([12](12-flottes-survivantes.md)).
+- **Le partage des rôles** : Somerville garde sa marque sur le *Hood*, qui devient la **forteresse** du golfe ([24](24-hood-forteresse-du-golfe.md)). La force (le *Hood*) monte la garde pendant que le Conseil (le *Dunkerque*) délibère. Chacun des deux grands alliés tient un des deux symboles.
+- **La proximité de la ville** : le *Dunkerque* mouille devant Cagliari ; le *Strasbourg*, centrale du Sulcis, mouille dans le golfe de Palmas jusqu'en 1948, puis rejoint son jumeau devant Cagliari comme navire de réserve ([27](27-strasbourg.md)).
 - **Lai reste à terre**, au Commandement militaire maritime de Cagliari : il tient l'île et la population. Il monte à bord pour les séances.
 
 ## 3. Le mouillage [canon provisoire]
@@ -64,7 +65,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 - **La centrale de Cagliari** : une ou deux chaudières restent allumées. Ses turbo-dynamos alimentent le port, l'hôpital et les quartiers bas. Le bord produit du courant continu ; il faut des **groupes convertisseurs** (un moteur à courant continu qui entraîne un alternateur) pour le réseau alternatif de la ville [estimation] 🔧. Il brûle environ **15 t de mazout par jour** ([15](15-energie.md) §3), soit **environ 1 MW électrique en moyenne** [calcul, ordre de grandeur : 15 t × 41 MJ/kg ≈ 7 MW thermiques, rendement de 10 à 15 %].
 - **La salle des transmissions** : avec l'ouverture des centres d'Elmas et du Poetto (1942), le central radio du bord devient le **central du Conseil**. Les messages arrivent par téléphone ; les émetteurs du bord restent en **secours** ([16](16-contacts-radio.md)).
 - **Le désarmement partiel** : la **tourelle I** (330 mm) reste armée, avec un équipage réduit, et ses soutes pleines : elle suffit à dissuader une flottille ([11](11-ilot-de-civilisation.md) §9). La **tourelle II** et la plupart des 130 mm sont mises en réserve ; leurs servants partent vers les bords de terre.
-- **1943 : l'accord de Bonaria** est signé au sanctuaire ([22](22-organisation-militaire.md) §2), puis **son original est déposé à bord**, dans le coffre du Conseil. Le **Grand Carré**, créé la même année, ne siège pas sur le *Dunkerque*, trop petit : il se réunit dans le **hangar de l'*Ark Royal***, le plus grand espace couvert de l'îlot ([12](12-flottes-survivantes.md)).
+- **1943 : l'accord de Bonaria** est signé au sanctuaire ([22](22-organisation-militaire.md) §2), puis **son original est déposé à bord**, dans le coffre du Conseil. Le **Grand Carré**, créé la même année, ne siège pas sur le *Dunkerque*, trop petit : il se réunit dans le **hangar de l'*Ark Royal***, le plus grand espace couvert de l'îlot, jusqu'au démantèlement du navire en 1957 ([25](25-ark-royal.md)) ([12](12-flottes-survivantes.md)).
 - **1944 : l'île fermée** ([14](14-epidemie.md)). Le bord devient un sanctuaire sanitaire : nul ne monte à bord sans être passé au poste de visite de Su Siccu, amiral Lai compris.
 
 ### 4.3 1945-1955 : le bâtiment du Conseil et de l'École
@@ -91,6 +92,8 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 - **Un navire posé ne travaille plus** : il ne roule plus, ne tire plus sur ses ancres, ne risque plus de chasser par tempête de sud. Seule la zone de flottaison demande encore des soins.
 - **Le précédent du *Mikasa*** [histoire] : le cuirassé de l'amiral Tōgō, vainqueur de Tsushima, est fixé à Yokosuka depuis 1926, sa coque prise dans un lit de terre et de béton, comme monument national. Les officiers de 1940 le connaissent. Le *Dunkerque* sera le *Mikasa* de l'îlot, mais un *Mikasa* qui gouverne.
 
+**Le précédent du *Hood*** : posé en mai 1944, 1,5 km plus au large, sur un lit préparé à la hâte, le *Hood* a pris un degré de gîte pendant l'hiver 1944-45, faute de tins assez nombreux ([24](24-hood-forteresse-du-golfe.md) §3.3). D'où, pour le *Dunkerque*, des tins sous chaque cloison et un berceau de pierre monté jusqu'au bouchain.
+
 **Le choix du lieu** :
 - **Un fond de sable plat, par 9 à 10 m d'eau**, à environ **300 m du rivage de Su Siccu**, plus près de la terre que le mouillage de 1942 🔎.
 - **La marée** est presque nulle à Cagliari (quelques dizaines de centimètres avec les surcotes de tempête) [estimation] : le navire posé ne flotte jamais à nouveau par accident.
@@ -98,7 +101,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 
 **La méthode** [estimation] :
 1. **1956 : préparer le lit.** Les scaphandriers sondent et nivellent le fond sur environ 230 × 40 m ; on comble les creux avec du gravier déversé depuis des chalands. **Le lit doit être plat** : une coque de 215 m posée sur deux bosses travaille comme un pont sur deux appuis et peut se rompre en son milieu.
-2. **Hiver 1956-57 : vider les machines.** Les turbines, les turbo-dynamos, les pompes, les tuyauteries de cuivre et de bronze sont démontées et partent vers les ateliers du *Commandant Teste* et les centrales à terre. C'est une **mine de métal** pour l'îlot : des centaines de tonnes d'acier spécial, de cuivre et de bronze [estimation]. Les chaufferies et les salles des machines deviennent de grands volumes vides et étanches.
+2. **Hiver 1956-57 : vider les machines.** Les turbines, les turbo-dynamos, les pompes, les tuyauteries de cuivre et de bronze sont démontées et partent vers l'arsenal, l'atelier de précision du *Commandant Teste* ([31](31-commandant-teste.md)) et les centrales à terre. C'est une **mine de métal** pour l'îlot : des centaines de tonnes d'acier spécial, de cuivre et de bronze [estimation]. Les chaufferies et les salles des machines deviennent de grands volumes vides et étanches.
 3. **Été 1957 : le déplacement.** Par mer calme, deux remorqueurs à vapeur du port déplacent le navire de quelques centaines de mètres jusqu'au-dessus du lit, puis on l'amarre sur ses quatre ancres.
 4. **Le ballastage** : on noie les chaufferies, les salles des machines vides et le double-fond. La flottaison du *Dunkerque* fait environ 4 700 m² [calcul : 215 × 31 × 0,7] : **chaque mètre d'enfoncement pèse environ 4 800 t**. Le navire, allégé à ~8 m, s'enfonce jusqu'à toucher le lit, puis on continue de noyer jusqu'à ce qu'il **appuie de 5 000 à 7 000 t** sur le fond. Aucune houle de la rade ne peut plus le soulever [estimation] 🔧.
 5. **Les enrochements** : on déverse des blocs de pierre le long de la coque, surtout à l'avant et à l'arrière, pour empêcher la houle de creuser le sable sous le navire (l'**affouillement**) 🔧.
@@ -214,6 +217,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 | **1942** | Dernier appareillage ; embossage définitif ; câble téléphonique vers la terre ; central du Conseil |
 | **1942 – 1945** | Centrale électrique de Cagliari (~1 MW) |
 | **1943** | Original de l'accord de Bonaria déposé à bord ; le Grand Carré siège sur l'*Ark Royal* |
+| **Mai 1944** | Le *Hood* est posé 1,5 km plus au large, en batterie fixe ; il alimente ses tourelles par un câble depuis le *Dunkerque* ([24](24-hood-forteresse-du-golfe.md)) |
 | **1944 – 1949** | Poste de visite sanitaire à l'échelle de Su Siccu (île fermée) |
 | **1945** | Dernière chauffe du *Dunkerque* ; machines en conservation |
 | **1946** | Câble électrique depuis la terre ; ouverture de l'École navale à bord |
@@ -231,7 +235,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 
 1. ✅ **L'avenir de la coque** : **option B**, entretien par scaphandriers puis échouage volontaire devant Su Siccu (4 juillet 1957, §4.5), **avec un retour progressif du Conseil à terre** (§4.6).
 10. ❓ **Le retour à terre** : en quelle année la dernière séance ordinaire se tient-elle à bord ? Le Palazzo Regio est-il le bon lieu à terre, ou un bâtiment neuf au pied de la jetée ? Quelles séances restent obligatoirement à bord ?
-2. ❓ **Le commandant du *Dunkerque*** : garde-t-on son commandant de juillet 1940 🔎, ou un personnage inventé ?
+2. ✅ **Le commandant du *Dunkerque*** : son nom réel de juillet 1940 n'a pas été retrouvé ; personnage inventé, le capitaine de vaisseau **Étienne Morvan**. 🔎 *Pistes : un « CV Seguin » figure au commandement du* Bretagne *en 1939 ; un « CV Amiel » commande le* Dunkerque *au sabordage de Toulon en 1942.*
 3. ❓ **Le pavillon du Conseil** : son dessin, et celui du pavillon de l'Îlot ([09](09-questions-ouvertes.md) B10).
 4. 🔎 **Le port de Cagliari en 1940** : fonds de la rade devant Su Siccu, cales sèches et bassins de radoub de Cagliari et de La Maddalena, remorqueurs du port.
 5. 🔎 **Le *Dunkerque*** : puissance et nature de l'installation électrique (courant continu, tension), disposition et volume du hangar d'aviation, surface des appartements de l'amiral.

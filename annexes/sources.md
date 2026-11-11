@@ -65,3 +65,18 @@
 ## Expédition d'Albanie (chapitre 18)
 
 - Service historique de la Défense, bibliothèques numériques : allocution du capitaine de vaisseau Collinet, commandant le *Strasbourg*, 25 juin 1940 ; notice de Louis-Edmond Collinet (1892-1949), à rapprocher. https://bibliotheques-numeriques.defense.gouv.fr/
+
+## Commandant Teste et port de Cagliari (chapitre 31)
+
+- *French seaplane carrier Commandant Teste*, Wikipedia (en) : dimensions, tirant d'eau (6,7 m), déplacement, catapultes. https://en.wikipedia.org/wiki/French_seaplane_carrier_Commandant_Teste
+- Navypedia, *Commandant Teste* : tirant d'eau (6,93 m). https://navypedia.org/ships/france/fr_cv_commandant_teste.htm
+- Naval Encyclopedia, *Commandant Teste* : cinq grues de 12 t, catapultes. https://naval-encyclopedia.com/ww2/france/commandant-teste.php?amp=1
+- Ministère italien de l'Environnement, études environnementales du port de Cagliari (va.mite.gov.it) : dragages de 1936, fonds de 9 à 15 m devant le môle de Ponente (référence exacte à retrouver).
+
+## Commandants de 1940 (règle des noms)
+
+- *Irvine Glennie*, Wikipedia (en) : commandant du *Hood* de mai 1939 à février 1941, présent à Mers el-Kébir. https://en.wikipedia.org/wiki/Irvine_Glennie
+- *Cedric Holland*, Wikiwand / uboat.net : commandant de l'*Ark Royal* à partir du 1er mai 1940. https://www.wikiwand.com/en/Cedric_Holland
+- uboat.net, *Bretagne* : capitaine de vaisseau Louis René Edmond Le Pivain, mort le 3 juillet 1940. https://uboat.net/allies/warships/ship/5968.html
+- uboat.net, mouvements du *Provence* au printemps 1940 : capitaine de vaisseau G.T.E. Barois (à recouper avec une source française).
+- Non retrouvés en ligne : les commandants du *Dunkerque*, du *Commandant Teste* et du *Georges Leygues* en juillet 1940, le second de l'*Ark Royal*. À chercher au Service historique de la Défense (annuaires de la Marine 1940) et dans la *Navy List* britannique de 1940.
