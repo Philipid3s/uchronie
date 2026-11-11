@@ -1,6 +1,6 @@
 # 09 — Questions ouvertes et points à éclaircir
 
-> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 31 chapitres, une annexe de calculs, des scripts de calcul et un atlas de onze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
+> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 32 chapitres, une annexe de calculs, des scripts de calcul et un atlas de douze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
 >
 > Légende : ✅ décidé par l'auteur · ❓ décision attendue · 🔎 à documenter · 🔧 à vérifier ou à corriger
 
@@ -36,6 +36,7 @@
 | Flotte des années 1950 | Seuls les navires au charbon restent actifs ; flotte dimensionnée sur les ressources ; priorité à l'entretien et à la durée de vie ; un sous-marin actif (1A) ; pas de second croiseur, *Montcalm* en conservation (2C) ; le pétrolier brûle une part de sa cargaison distillée (3B) ; avisos *Tornade* et *Typhon* | [29](29-flotte-des-annees-1950.md) |
 | Formation technique | École technique de l'Îlot, avec l'école d'apprentis de l'arsenal en première année (1B) ; reprise de l'école des mines d'Iglesias (2A) ; ingénieurs : École navale et année d'application, puis faculté d'ingénieurs (3, C puis B) ; manuels copiés et traduits par la bibliothèque de l'Îlot (4A) | [30](30-formation-technique.md) |
 | *Commandant Teste* | Atelier de précision ; le gros œuvre à l'arsenal (1B) ; à quai dans le port de Cagliari, tirant d'eau vérifié (2A) ; atelier jusqu'au milieu des années 1960, puis démolition (3A) | [31](31-commandant-teste.md) |
+| Malte | Garnison dans l'enclave des Trois Cités, QG au fort Saint-Ange (1A) ; dépôt de charbon dans l'enclave (2A) ; radio au fort, antennes de Rinella (3A) ; planche Malte de l'atlas (4A) | [32](32-avant-poste-de-malte.md) |
 | Format | Étude scientifique et bible, **pas de récit pour l'instant** | — |
 
 ## B. Décisions attendues de l'auteur
@@ -229,6 +230,7 @@
 - [ ] 🔎 **La formation en 1940** ([30](30-formation-technique.md) §9) : école des mines d'Iglesias (fondation, effectifs) ; facultés et laboratoires de l'université de Cagliari ; écoles d'apprentis des arsenaux (Ferryville) ; formation des artificiers de la Royal Navy et des spécialistes de la Regia Marina.
 - [ ] 🔎 **Le *Commandant Teste* et le port de Cagliari** ([31](31-commandant-teste.md) §8) : fonds au quai en 1940 (plan de l'Istituto Idrografico della Marina), môles et voie ferrée du port ; hangar, ateliers d'origine, chaudières et appareils du navire en juillet 1940.
 - [ ] 🔎 **Le choix du refuge** ([10](10-choix-du-refuge.md) §10) : plans français et britanniques contre la Sardaigne en 1939-1940 ; auteurs des bombardements de Cagliari et d'Elmas en juin 1940 ; population de l'Algérie et production de Kenadsa en 1936-1940.
+- [ ] 🔎 **Malte en 1940** ([32](32-avant-poste-de-malte.md) §5) : numéros, emplacements et dimensions des docks (le grand bassin de 1909 reçoit-il un navire de 31 m de large ?), dock flottant de l'Amirauté, station de Rinella, emplacement du dépôt de mazout.
 - [ ] 🔎 **Défense de Cagliari** : fonds devant Su Siccu et le capo Sant'Elia (isobathe de 10-11 m), hauteur de la Sella del Diavolo, batteries côtières italiennes de 1940, position du capo Boi par rapport à la lisière de la Zone.
 - [ ] 🔎 Le port de Cagliari en 1940 : fonds de la rade devant Su Siccu, cales sèches de Cagliari et de La Maddalena, remorqueurs ; fonction du Palazzo Regio en 1940 ([23](23-dunkerque-siege-du-conseil.md)).
 
@@ -284,6 +286,7 @@
 - [x] Les **stations radio** et les **vigies** placées sur l'onglet Sardaigne (10 novembre 2026).
 - [ ] Un onglet « Radio » avec les stations survivantes et leurs distances ([16](16-contacts-radio.md)).
 - [ ] Les chefferies voisines, une fois décidées.
+- [x] **Planche Malte** (11 novembre 2026) : Malte, Comino et Gozo d'après OpenStreetMap, l'enclave des Trois Cités, le fort Saint-Ange, les docks, le dépôt de charbon, le lazaret de Manoel, la route de Gozo, avec un cartouche du Grand Harbour.
 - [x] Le *Hood* posé et les trois batteries du golfe, avec leurs portées, placés sur l'onglet Sardaigne (11 novembre 2026).
 - [x] **Planche Cagliari** (11 novembre 2026) : trait de côte, étangs, salines et quartiers historiques d'après OpenStreetMap ; le Conseil (*Dunkerque*, échelle et jetée de Su Siccu, quartier du Conseil, Palazzo Regio, Bonaria), les navires, le *Hood* et la batterie du port, l'hôpital, l'université, la gare, Elmas et l'émetteur ; cartouche du centre historique.
 - [ ] Planche Cagliari : le trait de côte est l'actuel (port moderne, port-canal de Santa Gilla) ; le remplacer par celui de 1940 si l'on trouve une carte de l'époque 🔎.

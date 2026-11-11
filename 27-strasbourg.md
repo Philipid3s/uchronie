@@ -78,7 +78,7 @@
 
 | Étape | Distance | Ce qu'on y fait |
 |---|---|---|
-| **Cagliari → La Valette** | ~550 km | **Carénage** dans une cale sèche de l'arsenal ([15](15-energie.md) §3 ter) 🔎 : on gratte douze ans d'algues et de coquillages, on refait la peinture et les anodes, on contrôle les hélices |
+| **Cagliari → La Valette** | ~550 km | **Carénage** dans le grand bassin de 1909, long d'environ 241 m (largeur d'entrée à vérifier pour ses 31 m, [32](32-avant-poste-de-malte.md) §3) 🔎 : on gratte douze ans d'algues et de coquillages, on refait la peinture et les anodes, on contrôle les hélices |
 | **La Valette → baie de Souda** | ~870 km | **Les retrouvailles avec l'îlot de l'Est** ([07](07-le-monde-apres.md) §3) : la première rencontre physique depuis 1940 |
 | **Souda → Cagliari** | ~1 330 km | Retour, quarantaine à l'Asinara |
 

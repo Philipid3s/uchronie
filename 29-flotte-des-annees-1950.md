@@ -82,7 +82,7 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 3. **L'allure économique** : l'usure et la consommation croissent très vite avec la vitesse. À 12 nœuds, un navire dure ; à 25, il s'use.
 4. **Le carénage régulier** :
    - les petits navires **chaque année**, sur une cale de halage à Cagliari ou à La Maddalena ;
-   - le *Georges Leygues* **tous les trois ans** environ à La Valette (1949, 1952, 1955, 1958) ;
+   - le *Georges Leygues* **tous les trois ans** environ à La Valette (1949, 1952, 1955, 1958), dans le grand bassin de 1909 ([32](32-avant-poste-de-malte.md) §2) ;
    - entre deux carénages, les **scaphandriers** grattent les hélices et contrôlent la coque.
 5. **Ce que l'île sait fabriquer** :
    - les **anodes de zinc**, avec le zinc de l'Iglesiente, contre la corrosion ;
