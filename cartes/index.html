@@ -991,7 +991,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
 
     const g = svg.append("g").attr("clip-path", "url(#saframe)");
     g.append("rect").attr("width", W).attr("height", H).attr("fill", css("--sea"));
-    g.append("path").datum(d3.geoGraticule().step([0.5, 0.5])()).attr("d", path)
+    g.append("path").datum(d3.geoGraticule().extent([[7.5, 38.0], [10.5, 42.0]]).step([0.5, 0.5])()).attr("d", path)
       .attr("fill", "none").attr("stroke", css("--rule")).attr("stroke-width", .6);
     // portées de la défense du golfe (sous la terre : seule la mer est teintée)
     if (sa.on.has("def")) {
@@ -1205,7 +1205,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
 
     const g = svg.append("g").attr("clip-path", "url(#caframe)");
     g.append("rect").attr("width", W).attr("height", H).attr("fill", css("--sea"));
-    g.append("path").datum(d3.geoGraticule().step([0.05, 0.05])()).attr("d", path)
+    g.append("path").datum(d3.geoGraticule().extent([[8.9, 39.05], [9.35, 39.4]]).step([0.05, 0.05])()).attr("d", path)
       .attr("fill", "none").attr("stroke", css("--rule")).attr("stroke-width", .6);
     // terres : contour épais d'abord, puis remplissage sans contour (les limites communales disparaissent)
     g.append("path").datum(cagGeo.land).attr("d", path).attr("fill", "none")
