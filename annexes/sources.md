@@ -101,3 +101,17 @@
 - Liste des préfets maritimes de Toulon, Wikipedia (fr) : vice-amiral d'escadre Léon-Henri Devin (janvier – juillet 1940). https://fr.wikipedia.org/wiki/Liste_des_pr%C3%A9fets_maritimes_de_Toulon
 - *Émile Duplat*, Wikipedia (fr) : commandant de la 3e escadre, pavillon sur l'*Algérie*. https://fr.wikipedia.org/wiki/%C3%89mile_Duplat
 - *French cruiser Foch*, Wikipedia (en) : sortie de l'*Algérie*, du *Foch* et du *Colbert* le 3 juillet 1940. https://en.wikipedia.org/wiki/French_cruiser_Foch
+
+## Pétrole albanais et région de Vlorë (chapitre 34)
+
+- Treccani, *Enciclopedia Italiana*, article « Petrolio » : profondeurs des puits du Devoli, oléoduc Devoli – Valona (≈ 80 km, 200 mm, 1 000 m³/jour, par Fier, Roskovec et Skrofotinë jusqu'à Uji i Ftohtë), dépôt de réservoirs enterrés, rendements du brut. https://www.treccani.it/enciclopedia/petrolio_res-7c5b565f-8b74-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)/
+- *Azienda Italiana Petroli Albania*, Wikipedia (it, en) : concession, AIPA (1935), passage à l'AGIP (1940), absence de raffinerie. https://it.wikipedia.org/wiki/Azienda_italiana_petroli_albanesi
+- *Kuçovë*, Wikipedia (en) : premier forage (1928), coordonnées. https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB
+- IIETA, DOI 10.18280/mmep.100407 : série de production albanaise 1929-2019 (137 000 t en 1939, 145 000 t en 1940). https://www.iieta.org/download/file/fid/105126
+- arXiv 1507.07220 : propriétés des bruts de Kuçova (14-22° API, 4-5 % de soufre) et de Patos-Marinza. https://arxiv.org/pdf/1507.07220
+- Archivio storico Eni : « Planimetria generale oleodotto Devoli-Valona ». https://archiviostorico.eni.com/aseni/en/explore/documents/IT-ENI-ST0001-031109/?r=documents
+- Entreprises coloniales, *Mines de Selenitza* ; ZRC SAZU, *Vjosa – Selenicë* : mines de bitume de Selenica (SIMSA, 1922), voie Decauville. https://www.entreprises-coloniales.fr/proche-orient/Mines_de_Selenitza.pdf
+- *Narrow-gauge railways in Albania*, Wikipedia (en) : aucune voie normale avant 1947 ; lignes Decauville Vlorë – Selenica et salines de Narta. https://en.wikipedia.org/wiki/Narrow-gauge_railways_in_Albania
+- *Italian post in Saseno*, Wikipedia (en) : Sazan italienne (1914, 1920), phare, fortifications, pêcheurs des Pouilles. https://en.wikipedia.org/wiki/Italian_post_in_Saseno
+- Forgotten Airfields, aérodrome de Vlorë. https://www.forgottenairfields.com/airfield-vloree-48.html
+- Fonds de carte de la planche Vlorë – Kuçova : Natural Earth 1:10 M (via world-atlas 2.0.2) ; Sazan, lagune de Narta, Vjosa, Seman et Devoll d'après OpenStreetMap (Nominatim).

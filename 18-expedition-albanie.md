@@ -320,7 +320,9 @@ La Morìa est passée par les Balkans en 1944 ([14](14-epidemie.md)). L'épidém
 - **Fumigation au soufre** de tous les navires avant le retour, comme on le faisait sur les navires suspects dans les ports d'avant-guerre [histoire].
 - **À l'Asinara**, les équipages vont au lazaret. Les navires sont gardés au mouillage. Si aucun rat mort n'est trouvé, un **équipage de relève** venu de Cagliari ramène le pétrolier pour décharger le brut, qui ne transmet pas la peste.
 
-### 7.4 Les survivants albanais [à décider]
+### 7.4 Les survivants albanais [canon : amicaux ; détail au chapitre 34]
+
+**Décision de l'auteur** : les survivants se montrent **très amicaux** ; la flotte leur offre gratuitement vivres et soins, et signe en juin 1950 l'**accord de Narta** avec la chefferie locale ([34](34-avant-poste-d-albanie.md) §2-3). Le plan ci-dessous était celui du départ, avant de savoir ce qu'on trouverait.
 
 Ce qui reste de Vlorë en 1950 n'est pas encore fixé ([09](09-questions-ouvertes.md) B.1). Le plan de l'expédition prévoit trois cas :
 - **une côte déserte** : le chantier avance sans obstacle ;
@@ -373,8 +375,8 @@ Il rend compte à Cagliari par radio, en message chiffré, et reprend la route d
 
 ## 9. Ce qui reste ouvert
 
-1. ❓ **La suite à terre** ([15](15-energie.md) §3 ter, [09](09-questions-ouvertes.md) B.5) : Sazan est décidé ; reste la manière d'extraire à Kuçova (équipes de l'îlot, accord avec une chefferie, ou simple vidange des cuves).
-2. ❓ **Les survivants de Vlorë** et la chefferie locale (§7.4).
+1. ✅ **La suite à terre** : exploitation de Kuçova par le bord d'Albanie, avec l'accord de la chefferie ([34](34-avant-poste-d-albanie.md)).
+2. ✅ **Les survivants de Vlorë** : amicaux ; chefferie de Narta (§7.4, [34](34-avant-poste-d-albanie.md)).
 2 ter. 🔎 **Gozo en 1940** : population, ressources en eau, part des terres cultivées ; histoire et capacité du lazaret de l'île Manoel.
 3. 🔎 **Louis Collinet** : vérifier ses dates (1892-1949 ?) et sa carrière (§3 bis).
 3 bis. ❓ **Le commandant de la garnison de Sazan** et le nom du poste (§10).
@@ -423,5 +425,5 @@ C'est un **bord détaché**, sur le modèle de Malte, **relevé une fois par an*
 - **Combustible** : ~100 t de charbon par an pour la cuisine, la chaudière du chantier et les dynamos de la radio, laissées par le cargo et renouvelées à chaque voyage.
 - **Isolement** : soixante personnes sur une île de 5 km², à plus de 350 milles de Malte. Le choix du commandant de la garnison compte autant que celui du chef d'expédition.
 
-**Ce qui reste ouvert** : comment extraire à Kuçova (§9.1) ; les relations avec les gens du pays (§7.4) ; le nom du poste.
+**La suite** : en 1951, la garnison de Sazan devient le quartier général d'un bord à trois postes (Sazan, le terminal, Kuçova), d'environ 180 personnes ([34](34-avant-poste-d-albanie.md) §6). Reste le nom du poste.
 

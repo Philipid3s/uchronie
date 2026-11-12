@@ -81,7 +81,7 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 **Pourquoi l'Albanie** :
 - **Les réserves proches sont épuisées** : Malte, Gibraltar et Augusta ont été vidés en 1942-43, et les grands dépôts italiens et français ont brûlé.
-- **C'est une source, pas un stock** : le gisement de **Kuçova (Devoli)**, exploité par une société italienne en 1940, produisait de l'ordre de quelques centaines de milliers de tonnes par an [histoire, à documenter]. Un **oléoduc** le reliait au port de **Vlorë**.
+- **C'est une source, pas un stock** : le gisement de **Kuçova (Devoli)**, exploité par une société italienne en 1940, produisait **137 000 t en 1939** [histoire] ; un oléoduc d'environ 75 km le reliait au terminal d'Uji i Ftohtë, au sud de Vlorë ([34](34-avant-poste-d-albanie.md) §1). Exploité par l'îlot à partir de 1951, il donne 12 000 à 15 000 t par an vers 1956-1960 ([34](34-avant-poste-d-albanie.md) §4). Un **oléoduc** le reliait au port de **Vlorë**.
 - **Le brut albanais est lourd et soufré.** C'est un défaut pour l'essence, mais **un avantage pour l'îlot** : après une simple distillation pour en retirer les fractions légères, il peut brûler presque tel quel dans les chaudières des navires.
 - **La distance** : environ 1 000 km (540 milles) de Cagliari par le détroit de Messine, ou environ 1 270 km (690 milles) avec l'escale de Malte. C'est à la portée du croiseur charbonnier, surtout avec le dépôt de charbon de Malte.
 
