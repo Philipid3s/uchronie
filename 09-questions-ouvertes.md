@@ -11,6 +11,7 @@
 | Échelle | Comète scindée : 10 km dans le Pacifique Nord, 2 km au sud-ouest de Rambouillet. Quasi-extinction : environ 0,1 % de survivants | [README](README.md), [01](01-parametres-physiques.md) |
 | Flotte | Les flottes de Mers el-Kébir et de Gibraltar survivent et fusionnent ; les Italiens de Sardaigne s'y joignent | [06](06-mers-el-kebir.md) |
 | Scission italienne | Les fascistes refusent l'accord : coup de feu de la batterie du capo Sant'Elia (B), dissidence du Sulcis (A), repli vers l'intérieur, départs pour le continent | [10](10-choix-du-refuge.md) §9 ter |
+| Menace italienne | Alerte de Naples, 23 septembre 1940, sans combat (B) ; sous-marins perdus, 1940-1943 (D) ; aucune menace navale italienne après 1943 | [06](06-mers-el-kebir.md) §6 bis |
 | Albanie | Survivants amicaux, vivres et soins offerts, accord de Narta ; Sazan + terminal + camp de Kuçova (1A) ; fûts puis oléoduc (2C) ; distillerie de Vlorë (3C) ; techniciens de l'îlot, albanais, italiens (4C) | [34](34-avant-poste-d-albanie.md) |
 | Raisons de Somerville | L'ordre de Cunningham (tenir l'ouest, s'entendre avec les Français), le dernier signal de l'Amirauté (la fusion accomplit Catapult sans tirer), le blé et les familles de Gensoul (A + B + C) | [06](06-mers-el-kebir.md) §4 bis |
 | Refuge | La Sardaigne du Sud ; choisie au terme d'un **débat** entre Gensoul (Oranie) et Somerville (Malte), tranché par la grille et parce qu'elle n'appartient à aucun des deux (1B) ; l'Oranie dans l'étude (2A) ; départ **sans réponse de Cagliari, de gré ou de force** (3A) ; l'idée portée par un officier de l'état-major de Gensoul (4A) | [10](10-choix-du-refuge.md) |
@@ -144,6 +145,7 @@
     - pour la formation technique ([30](30-formation-technique.md)) : la filière (apprentis à 16 ans, deux ans de spécialité, brevet élémentaire à 19 ans, brevet supérieur vers 25-30 ans), le **chef-d'œuvre** des apprentis, les cinq sections de l'École technique et leurs bords de stage, l'ouverture aux filles des sections Transmissions et Électricité, les effectifs (~100 par promotion ; 30 à 40 à Iglesias ; 10 à 15 ingénieurs par an), les dates (1945, 1946, 1948, 1958), les *Cahiers techniques de l'Îlot* et leur triple copie ;
     - pour le *Commandant Teste* ([31](31-commandant-teste.md)) : le rassemblement des machines-outils des navires désarmés (1941), les six ateliers (moteurs, électricité, instruments, radio, aviation, petit usinage), la **répartition des ateliers** (arsenal : gros œuvre ; *Commandant Teste* : précision ; *Ark Royal* : métiers du bord), quelques Loire 130 à bord en 1940, ~300 personnes vers 1950, le transfert à l'arsenal au milieu des années 1960 ;
     - **les officiers inventés** (règle des noms) : le capitaine de vaisseau **Étienne Morvan** (*Dunkerque*), le **Commander Hugh Pennington** (second de l'*Ark Royal*), le médecin en chef **Antoine Ferrandi** (*Provence*), le capitaine de vaisseau **René Castagnet** (*Commandant Teste*), le capitaine de vaisseau **Marcel Fabre** (*Georges Leygues*) ;
+    - pour la menace italienne ([06](06-mers-el-kebir.md) §6 bis) : **l'alerte de Naples** du 23 septembre 1940 (un croiseur léger, trois destroyers, un torpilleur, des miliciens ; le message de Sportiello ; le torpilleur qui rallie), **les sous-marins perdus** (caboteur de réfugiés corses torpillé en novembre 1940, chalutier armé coulé en 1941, sabordage près de Tavolara en 1942, dernier signalement en 1943), les réduits fascistes de Civitavecchia et de l'île d'Elbe ;
     - pour l'avant-poste d'Albanie ([34](34-avant-poste-d-albanie.md)) : la **chefferie de Narta** et son chef **Llazar Kondi**, les **gens de Petrolia**, **Aldo Ferretti** et **Gino Sartori** (Italiens restés en 1940), l'**accord de Narta** (juin 1950), le **vote de Kuçova** (février 1951), l'expédition de Kuçova (1951), la route des fûts, la remise en service de l'oléoduc (juin 1953), la distillerie de Vlorë (1952), les effectifs des trois postes (~180) et la production (12 000 à 15 000 t par an vers 1956-1960), le pétrolage des gîtes à paludisme ;
     - pour la scission italienne ([10](10-choix-du-refuge.md) §9 ter) : la **batterie de la Milice au capo Sant'Elia** et le **destroyer britannique touché** (une vingtaine de morts), le tir du *Hood* au 381, la **dissidence du Sulcis** et l'opération commune de fin juillet 1940 (quelques dizaines de morts), le repli vers le Gennargentu, le **départ d'Olbia et d'Arbatax** vers Civitavecchia et le dernier appel radio d'août 1940 ;
     - pour la fusion ([06](06-mers-el-kebir.md) §4 bis) : le **dernier signal de l'Amirauté** du 2 juillet (texte inventé), l'**appel de Somerville à Cunningham** (3 juillet) et la **réponse de Cunningham** (4 juillet : ne pas venir vers l'est, tenir l'ouest, s'entendre avec les Français) ;
@@ -215,6 +217,11 @@
 
 60. ❓ **Le quai du *Commandant Teste*** : môle de Ponente ou môle Sabaudo ? (lié à B57, l'emplacement de l'arsenal)
 61. ✅ **Son commandant** : nom réel non retrouvé ; personnage inventé, le capitaine de vaisseau **René Castagnet** ([31](31-commandant-teste.md) §8).
+
+### La menace italienne ([06](06-mers-el-kebir.md) §6 bis)
+
+73. ❓ **Les noms** : le capitaine de vaisseau fasciste de Naples, les navires de la force du 23 septembre 1940, le torpilleur qui rallie, et les sous-marins perdus (à choisir parmi les unités réelles de 1940 🔎).
+74. 🔎 **Le mazout de la Regia Marina en juin 1940** : stocks et autonomie réels.
 
 ### L'avant-poste d'Albanie ([34](34-avant-poste-d-albanie.md) §8)
 

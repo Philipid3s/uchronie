@@ -42,7 +42,7 @@ La rade a ainsi trois navires, et trois rôles : **le *Dunkerque* décide, le *H
 
 ### 3.1 La fin de l'aviation (été 1940 – hiver 1940-41)
 
-- **Été 1940** : les Swordfish font les reconnaissances des convois (Oran, Gibraltar, Toulon) et repèrent les bateaux de réfugiés corses.
+- **Été 1940** : les Swordfish font les reconnaissances des convois (Oran, Gibraltar, Toulon) et repèrent les bateaux de réfugiés corses. *(prov.)* **Le 23 septembre 1940**, l'un d'eux repère la force italienne venue de Naples au large du capo Carbonara ([06](06-mers-el-kebir.md) §6 bis).
 - **Hiver 1940-41** : l'essence d'aviation est épuisée ([15](15-energie.md) §2, [20](20-capacites-aeronavales.md) §2). Les appareils sont débarqués à Elmas et mis en conservation. **Les deux hangars sont vides** : plus de 5 600 m² couverts, chauffables et éclairés [calcul : 173 × 18 + 138 × 18].
 
 ### 3.2 Le hangar inférieur : l'hôpital d'hiver (1940-1943)

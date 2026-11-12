@@ -83,7 +83,7 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 
 | Avant-poste | Navire de garde [canon provisoire] | Pourquoi lui |
 |---|---|---|
-| **Malte** (Trois Cités) | Un **torpilleur italien** de la classe *Spica* (~650 t, ~120 personnes en surcharge) 🔎 | Petit, facile à garder au mazout ; docks de Malte à portée pour l'entretien |
+| **Malte** (Trois Cités) | Un **torpilleur italien** de la classe *Spica* (~650 t, ~120 personnes en surcharge) 🔎 : celui qui a rallié l'îlot le 23 septembre 1940 ([06](06-mers-el-kebir.md) §6 bis) | Petit, facile à garder au mazout ; docks de Malte à portée pour l'entretien |
 | **Sazan** (Albanie) | Un **contre-torpilleur** de Bizerte ou d'Oran (~2 500 t, ~300 personnes en surcharge) | Le seul avant-poste qui a son propre fioul : le brut de Vlorë, distillé à Cagliari et renvoyé par le pétrolier ([18](18-expedition-albanie.md)) |
 | **Gibraltar** | Un second torpilleur italien, qui rejoint le *Wrestler* et le *Vidette* | Renforcer la garnison, qui garde ses propres navires ([07](07-le-monde-apres.md) §2 bis) |
 

@@ -114,5 +114,42 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 | **Bizerte** (base navale, arsenal de Ferryville) | À 227 km de Cagliari et à 93,8° de l'impact A : la base survit à la nuit de feu. Mais elle hésite à rallier le Conseil, puis elle est submergée par les réfugiés de Tunis. **Elle s'effondre pendant l'hiver 1940-41** [canon] ([16](16-contacts-radio.md) §4) |
 | **Escadres de Toulon** (croiseurs lourds, contre-torpilleurs) | Toulon est à 688 km de Rambouillet. Les navires sont intacts, mais au milieu de millions de réfugiés provençaux affamés. **Duplat déconseille à Gensoul de venir** (5-6 juillet). La marine se replie dans l'arsenal et à Saint-Mandrier ; **deux départs vers la Sardaigne** : l'*Algérie*, le *Dupleix* et des contre-torpilleurs en août 1940, puis ~1 200 personnes au printemps 1944 ; l'îlot revient à Toulon en 1953-1956 ([33](33-toulon.md)) |
 | **Flotte britannique d'Alexandrie** (Cunningham) et **Force X française** (Godfroy) | Ils survivent de la même façon et fondent **l'îlot de l'Est** en Crète. **Le contact radio est perdu à l'automne 1940**, voir [07](07-le-monde-apres.md) §3 |
-| **Flotte italienne de Tarente et de Naples** | Au contact de populations immenses. Désagrégation, avec quelques unités ralliées à l'un ou l'autre îlot |
+| **Flotte italienne de Tarente et de Naples** | Au contact de populations immenses. Désagrégation, avec quelques unités ralliées à l'un ou l'autre îlot. Une dernière sortie contre la Sardaigne en septembre 1940, sans combat, et des sous-marins perdus jusqu'en 1943 (§6 bis) |
 | **Marine espagnole** (Carthagène, Baléares) | Petite, isolée. Une poche autour de Minorque est possible |
+
+## 6 bis. La menace italienne (1940 – 1943) [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : la flotte fasciste ne menace l'îlot que pendant quelques mois. Deux épisodes au canon : **l'alerte de septembre 1940** (option B) et **les sous-marins perdus** (option D, 1940-1943). Après 1943, il n'y a plus de marine italienne organisée ; Malte et l'Albanie ne courent aucun danger naval italien dans les années 1950.
+
+### Pourquoi la menace fond [estimation]
+
+En juillet 1940, la Regia Marina est l'une des plus grosses flottes de Méditerranée : des cuirassés à Tarente, sept croiseurs lourds, une soixantaine de destroyers et **plus de cent sous-marins**, sous les ordres de l'amiral **Campioni** à la mer et de Supermarina (amiral **Cavagnari**) à Rome [histoire]. Elle s'efface pourtant en un an :
+1. **Le mazout** : la Marine italienne en manquait déjà dans notre histoire, et ses réserves ne couvraient que quelques mois de guerre active [histoire 🔎]. Dans l'uchronie, les dépôts de Tarente, de Naples et de La Spezia sont pillés ou brûlés en 1940-41 ([15](15-energie.md) §3 bis).
+2. **Les équipages** : les familles des marins sont à terre, à quelques kilomètres, au milieu des affamés. Les hommes désertent pour les nourrir.
+3. **Le commandement** : Rome se tait ; chaque port devient un fief. Et la Marine est plus monarchiste que fasciste ([10](10-choix-du-refuge.md) §9 ter).
+4. **La nuit et le froid** : naviguer à l'estime, sans renseignement aérien, contre une île gardée par le *Hood*, demande un motif que presque personne n'a.
+
+### L'alerte de septembre 1940 (option B) [canon provisoire]
+
+- **Le motif** : les miliciens partis d'Olbia et d'Arbatax en juillet ([10](10-choix-du-refuge.md) §9 ter) arrivent à Naples. Ils racontent la « trahison de Cagliari ». Un capitaine de vaisseau fasciste [nom à trouver] et le fédéral rentré de Sardaigne réunissent ce qui peut encore naviguer : **un croiseur léger, trois destroyers et un torpilleur**, avec quelques centaines de miliciens.
+- **L'écoute** : la station de l'îlot capte le trafic radio de Naples ([16](16-contacts-radio.md)). Le Conseil est prévenu deux jours avant.
+- **Le 23 septembre 1940, à l'aube** : un Swordfish de l'*Ark Royal* repère la force à une quarantaine de milles du capo Carbonara ([25](25-ark-royal.md)). Le *Hood*, le *Dunkerque* et le *Valiant* poussent les feux dans le golfe ; les destroyers sortent.
+- **La voix de Sportiello** : l'amiral parle en italien, en clair, sur la fréquence de la Marine : *« Vous avez le mazout pour venir ou pour combattre, pas pour les deux. Ici, il y a du pain. »*
+- **Le demi-tour** : la force reste au large toute la journée, hors de portée, puis fait demi-tour à la nuit. **Le torpilleur ne la suit pas** : son commandant met le cap sur Cagliari et rallie l'îlot. Il compte parmi les torpilleurs italiens de l'îlot ([12](12-flottes-survivantes.md) §4), et c'est lui qui deviendra, dans les années 1950, le **navire de garde de Malte** ([29](29-flotte-des-annees-1950.md) §4.4).
+- **La fin** : la force rentre à Naples avec ses dernières tonnes de mazout. Elle ne ressortira jamais. **Aucun coup de canon n'est tiré.**
+
+### Les sous-marins perdus (option D, 1940 – 1943) [canon provisoire]
+
+- **Qui** : un ou deux sous-marins italiens, en patrouille le 1er juillet, qui refusent de rallier l'îlot et restent fidèles au Parti [noms à trouver]. Ils s'appuient sur les derniers réduits fascistes de la côte tyrrhénienne (Civitavecchia, l'île d'Elbe), où ils trouvent un peu de gazole.
+- **Ce qu'ils font** :
+  - **novembre 1940** : un caboteur chargé de réfugiés corses est torpillé au large des bouches de Bonifacio : une soixantaine de morts ([11](11-ilot-de-civilisation.md) §1 bis) ;
+  - **1941** : un chalutier armé de la garde des côtes est coulé au large du capo Carbonara ;
+  - **1942** : l'un des deux, surpris en surface près de Tavolara par deux destroyers de l'îlot, se saborde. Ses survivants sont jugés selon le Code de l'Îlot ([25](25-ark-royal.md)) ; la plupart sont inscrits après leur peine [canon provisoire] ;
+  - **1943** : dernier signalement de l'autre, au large de la Corse. Ses batteries ne peuvent plus tenir ; on ne le reverra pas.
+- **Ce que cela coûte à l'îlot** : la garde des côtes, l'escorte des caboteurs et un an de veille anti-sous-marine, avec les destroyers encore au mazout. C'est aussi une des raisons de garder actif **un sous-marin de l'îlot** : on apprend à chasser ceux d'en face ([29](29-flotte-des-annees-1950.md) §4.1).
+
+### Après 1943
+
+- **La côte tyrrhénienne** : il ne reste que des chefferies, dont certaines se réclament peut-être du fascisme comme d'un mythe fondateur. Elles n'ont que des barques et des voiliers : c'est de la piraterie ([07](07-le-monde-apres.md) §1 bis).
+- **Malte** : aucune menace italienne après 1941 ; les ports siciliens les plus proches sont morts.
+- **L'Albanie** : l'armée italienne y comptait des dizaines de milliers d'hommes en 1940 🔎. Dix ans plus tard, ses restes se sont fondus dans les chefferies ; leurs fusils arment peut-être les pirates de l'Épire ([34](34-avant-poste-d-albanie.md) §8). La menace pour le bord d'Albanie est locale et armée, non navale.
