@@ -132,7 +132,7 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 - **Les règles de feu** : ne tirer que si l'on tire sur soi.
 - **Si Cagliari refuse** : le second volet du dossier Mercadier, **« Cagliari de vive force »** : les grands navires tiennent le golfe sous leurs canons, les fusiliers marins prennent le port et l'aérodrome d'Elmas, puis l'on marche sur les mines du Sulcis.
 
-**Ce qui se passe** : les appels sont entendus. Entre le 8 et le 12 juillet, le commandement italien de l'île, coupé de Rome et sans vivres, négocie pendant que les flottes approchent. **L'accord de Cagliari** est conclu vers le 12 juillet, alors que les grands navires entrent dans le golfe ([06](06-mers-el-kebir.md) §5). Aucun coup de canon n'est tiré [canon provisoire]. **Mais l'accord se signe sous les canons.**
+**Ce qui se passe** : les appels sont entendus. Entre le 8 et le 12 juillet, le commandement italien de l'île, coupé de Rome et sans vivres, négocie pendant que les flottes approchent. **L'accord de Cagliari** est conclu vers le 12 juillet, alors que les grands navires entrent dans le golfe ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, et pas tout à fait sans eux** : les éléments fascistes les plus durs refusent l'accord, une batterie ouvre le feu sur la flotte qui entre dans le golfe, et le Sulcis entre en dissidence (§9 ter).
 
 **Ce qu'en garde la mémoire** : sauvetage ou conquête ? Les marins se souviennent qu'ils ont apporté le blé ; les Sardes, qu'ils ont vu entrer dans leur golfe des cuirassés aux tourelles pointées. Les réquisitions de l'automne 1940 ([11](11-ilot-de-civilisation.md) §7) achèvent de brouiller la réponse. C'est la question de la **mémoire officielle** que l'îlot doit trancher ([09](09-questions-ouvertes.md) B8).
 
@@ -174,6 +174,49 @@ Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'
 
 **Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. Il remplace au canon l'amiral inventé Vittorio Lai, selon la règle des noms. **[canon provisoire]** : il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent. Le 8 juillet, il répond par la radio de la base ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari pour signer l'accord vers le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
 
+## 9 ter. La scission : le Roi contre le Parti (juillet – août 1940) [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : les forces fascistes les plus virulentes s'opposent à tout prix à la venue des Français et des Britanniques, et **une scission s'opère** avec les forces italiennes moins fanatisées. Deux épisodes au canon : **le coup de feu de Cagliari** (option B) et **la dissidence du Sulcis** (option A). Les plus fanatiques **se replient ensuite vers l'intérieur** de l'île, et **certains partent pour l'Italie continentale**.
+
+### Les deux camps [histoire, puis canon provisoire]
+
+**[histoire] La fracture de 1940** : soldats et marins prêtent serment **au Roi**, non au Duce. La **Regia Marina** passe pour l'arme la plus monarchiste et la moins fascisée (en septembre 1943, c'est elle qui livre la flotte aux Alliés sur ordre du Roi). La **Milice** (MVSN, les Chemises noires) est l'armée du Parti ; sa branche côtière, la **Milizia marittima di artiglieria (MILMART)**, sert les batteries côtières et la DCA des places maritimes 🔎. En Sardaigne, la Milice a des cohortes à Iglesias, **Carbonia**, Sassari, **Nuoro**, Oristano, Tempio, Isili et Lanusei, et une légion de DCA à Cagliari ([sources](annexes/sources.md)). **Carbonia** est la ville neuve du régime, inaugurée par Mussolini en 1938, au cœur des mines de charbon. Mais l'île a aussi une forte tradition **sardiste et antifasciste** (Emilio Lussu, le Parti sarde d'action) [histoire].
+
+| | **Le camp du Roi** | **Le camp du Parti** |
+|---|---|---|
+| **Qui** | L'amiral **Sportiello** et la Marine ; la plupart des officiers de l'armée (de Pignier, la division Sabauda) ; les carabiniers ; l'aviation, après hésitation | Le **fédéral** du Parti à Cagliari [nom à trouver 🔎] ; les cohortes les plus dures de la Milice ; une partie de la MILMART |
+| **L'argument** | Rome s'est tue. Le serment au Roi commande de **sauver le peuple italien de l'île**. On traite d'égal à égal, avec une place au Conseil | Traiter avec les Français et les Anglais, c'est **trahir en pleine guerre**. Rome reviendra |
+| **Combien** [estimation] | La grande majorité des hommes encore sous les armes | Quelques centaines à un ou deux milliers d'hommes |
+
+### Le coup de feu de Cagliari (12 juillet 1940) [canon : option B ; provisoire : détail]
+
+- **Le matin du 12 juillet**, l'accord est conclu par radio ; Sportiello est descendu de La Maddalena pour le signer. Les grands navires entrent dans le golfe.
+- **Une batterie côtière** servie par la Milice, sur les hauteurs du **capo Sant'Elia** (la Sella del Diavolo) [emplacement à vérifier 🔎], **ouvre le feu** sur la colonne. Un destroyer britannique de l'écran est touché : **une vingtaine de morts** [canon provisoire ; navire à choisir].
+- **Le *Hood* riposte** avec ses tourelles de 381 mm, appuyé par le *Dunkerque*. En quelques minutes, la batterie se tait. Ce sont **les seuls obus de 381 tirés en combat par la flotte de l'îlot** ([24](24-hood-forteresse-du-golfe.md) §3.1).
+- **Ce sont des Italiens qui finissent l'affaire** : des marins de la base de Cagliari et des carabiniers montent à la batterie et désarment les survivants. Sportiello tient à ce que ce soit eux.
+- **L'accord est signé le soir même**, à l'heure prévue. Sportiello présente ses excuses pour les morts du destroyer ; Somerville répond que ces hommes ont été tués par l'ennemi des deux flottes. **Les morts du 12 juillet** sont les premiers enterrés de l'îlot, Britanniques et Italiens de la batterie dans le même enclos [canon provisoire].
+
+**L'ironie** : la batterie du capo Sant'Elia est réarmée en 1945-1947 avec les 102 mm du *Hood*, pour garder le golfe ([24](24-hood-forteresse-du-golfe.md) §3.4).
+
+### La dissidence du Sulcis (juillet – août 1940) [canon : option A ; provisoire : détail]
+
+- **Le 12 juillet au soir**, le fédéral et les cohortes de **Carbonia** et d'**Iglesias** refusent l'accord et **tiennent les mines** : les puits, les centrales, les dépôts d'explosifs, la voie ferrée. Ils menacent de **noyer les puits** si la flotte approche. C'est l'endroit le plus fasciste de l'île, et c'est aussi celui dont l'îlot a besoin pour vivre ([15](15-energie.md) §4).
+- **L'opération** (fin juillet – début août 1940) : les **fusiliers marins** de la flotte, débarqués au golfe de Palmas, et les **réguliers de la division Sabauda**, déjà déployés dans le Sulcis depuis juin, montent une opération commune. Les **mineurs** eux-mêmes, qui n'ont aucune envie de voir leurs puits noyés, ouvrent les portes. **Quelques jours de combat, quelques dizaines de morts** [canon provisoire].
+- **Pourquoi c'est fondateur** : l'alliance ne naît pas d'une capitulation, mais d'**un combat commun** pour le charbon. Français, Britanniques et Italiens fidèles au Roi se sont battus du même côté. Le nom de l'opération reste à trouver ([09](09-questions-ouvertes.md)).
+
+### Le repli vers l'intérieur et le départ pour le continent [canon : principe ; provisoire : détail]
+
+- **Vers l'intérieur** : les plus fanatiques, avec les cohortes de **Nuoro** et de Lanusei, se replient vers le **Gennargentu** avec leurs armes. Ils forment des bandes armées. La plupart meurent pendant l'hiver 1940-41 ou se fondent dans les bandes de la montagne ; leurs fusils alimentent le banditisme de la Barbagia ([11](11-ilot-de-civilisation.md) §7). C'est l'une des raisons de la **méfiance** de l'intérieur envers l'îlot, et de la patience qu'il faudra pour l'intégrer ([13](13-societe-de-bord.md) §6 bis).
+- **Vers l'Italie continentale** : à la mi-juillet, quelques centaines de miliciens et de fonctionnaires du Parti prennent la mer à **Olbia** et à **Arbatax**, sur des chalutiers, des caboteurs et peut-être un torpilleur, pour **rejoindre Rome** par Civitavecchia [canon provisoire]. On n'en saura jamais rien de sûr. Un appel radio capté en août 1940 au large du Latium est le dernier signe [canon provisoire].
+
+**La démographie** : ces morts et ces départs (quelques centaines à un ou deux milliers de personnes) se perdent dans l'estimation des survivants sardes ; ils ne changent pas les chiffres de l'îlot ([21](21-demographie.md)).
+
+### Ce que la scission laisse
+
+- **Le Code de l'Îlot** ([25](25-ark-royal.md)) interdit dès l'automne 1940 tout parti et toute milice : la seule fidélité est celle du bord.
+- **Une mémoire à deux visages** : pour l'îlot, le 12 juillet est le jour de l'accord **et** le jour des premiers morts. Le jour de Cagliari ([13](13-societe-de-bord.md) §7) se fête avec double ration, après une minute de silence pour les morts du destroyer.
+- **Les Italiens de l'îlot** ne sont pas des vaincus : ils ont choisi leur camp, et ils l'ont défendu les armes à la main.
+
 ## 10. Questions ouvertes
 
 1. ✅ **Le choix** : un débat entre les deux amiraux, tranché par la grille et par l'argument du terrain neutre (option 1B).
@@ -183,5 +226,6 @@ Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'
 5. ❓ **La réponse italienne** : qui répond à Cagliari entre le 8 et le 12 juillet, et comment se déroule la négociation ? (lié à [09](09-questions-ouvertes.md) B8) *Décidé : l'amiral Ettore Sportiello (§9 bis).*
 6. 🔎 **Les plans de 1940 contre la Sardaigne** : les états-majors français et britannique ont-ils étudié des opérations contre la Sardaigne en 1939-1940 ? *Bombardements de juin 1940 : avions français venus d'Afrique du Nord (Glenn Martin du GR I/61, Douglas DB-7), dates à recouper (§9 bis).*
 8. ✅ **Les forces italiennes** : état établi (§9 bis) ; bonne entente au sommet (décision de l'auteur). Qui répond : l'amiral **Ettore Sportiello** (option A, décision de l'auteur). 🔎 Effectifs totaux, torpilleurs et MAS de Sardaigne.
+9. ✅ **La scission** : coup de feu du capo Sant'Elia (B) et dissidence du Sulcis (A), repli vers l'intérieur, départs pour le continent (décision de l'auteur, §9 ter). ❓ Noms (fédéral, destroyer touché, opération) et sort de ceux qui partent ([09](09-questions-ouvertes.md) B66-B68).
 7. 🔎 **L'Algérie en 1936-1940** : population ; production du charbon de Kenadsa et de la ligne de chemin de fer du Sud-Oranais.
 

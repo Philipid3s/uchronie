@@ -326,7 +326,7 @@ La doctrine du Conseil tient en une phrase : **« d'abord le sel, puis le médec
 |---|---|
 | **Langue** | Une **langue de bord** se forme : une base italienne et sarde, avec le vocabulaire technique et les ordres en français et en anglais. Elle rappelle le **sabir** (*lingua franca*), la langue de contact des ports méditerranéens jusqu'au XIXᵉ siècle [histoire]. Les ordres restent courts et codifiés. **[canon]** Dans chaque navire et chaque bord, **la langue du bord a cours** ; **l'enseignement se fait en anglais**, pour intégrer à égalité Italiens et Britanniques ([30](30-formation-technique.md) §4). La langue de bord devient un **créole franco-anglo-italien** (décision de l'auteur, §7 bis) |
 | **Calendrier** | L'**an I** commence le 1er juillet 1940. Le 1er juillet, **la Nuit de feu**, est un jour de deuil : feux éteints, minute de silence au coucher du soleil, à l'heure où le ciel s'est embrasé |
-| **Fête** | Le 12 juillet, **jour de Cagliari**, célèbre l'accord fondateur. Il se fête à bord, avec double ration |
+| **Fête** | Le 12 juillet, **jour de Cagliari**, célèbre l'accord fondateur. Il se fête à bord, avec double ration, après une minute de silence pour les morts du coup de feu du capo Sant'Elia ([10](10-choix-du-refuge.md) §9 ter) |
 | **Pavillon** | Les trois pavillons sont hissés ensemble jusqu'en 1941 environ. Un pavillon de l'Îlot les remplace ensuite |
 | **Uniforme** | La tenue de travail des flottes est copiée à terre, avec des toiles teintes localement. Les galons indiquent le grade. Les marques d'appartenance au bord (nom du navire sur le bonnet ou le brassard) sont portées avec fierté |
 | **Funérailles** | L'immersion en mer, avec le pavillon, devient la norme, même pour les Sardes. Elle économise la terre et le bois |

@@ -40,7 +40,7 @@ Les chiffres de cette section sortent de [calculs/defense_golfe.py](calculs/defe
 
 ### 3.1 1940-1942 : le navire amiral britannique
 
-- **Juillet 1940** : le *Hood* escorte les convois de Gibraltar vers Cagliari ([08](08-chronologie.md)) et mouille dans le golfe vers le 12 juillet. Somerville garde sa marque à bord : c'est le **Siège britannique** du Conseil ([11](11-ilot-de-civilisation.md) §8).
+- **Juillet 1940** : le *Hood* escorte les convois de Gibraltar vers Cagliari ([08](08-chronologie.md)) et mouille dans le golfe vers le 12 juillet. **Le 12 juillet, il tire** : une batterie de la Milice fasciste, au capo Sant'Elia, ouvre le feu sur la flotte, et le *Hood* la fait taire avec ses tourelles de 381 mm. Ce sont les seuls obus de 381 tirés en combat par la flotte de l'îlot ([10](10-choix-du-refuge.md) §9 ter). Somerville garde sa marque à bord : c'est le **Siège britannique** du Conseil ([11](11-ilot-de-civilisation.md) §8).
 - **Août 1940 : la décision d'immobiliser les grands bâtiments** ([12](12-flottes-survivantes.md) §7). Le *Hood* ne fait plus que de rares sorties d'exercice, puis plus aucune.
 - **1940-1941 : l'une des trois centrales flottantes** ([15](15-energie.md) §3). Le *Hood* alimente le port et la ville basse, le *Valiant* et le *Strasbourg* le golfe de Palmas et le Sulcis.
 - **1942** : le *Dunkerque*, plus moderne et plus économe, devient la centrale de Cagliari ([23](23-dunkerque-siege-du-conseil.md) §4.2). Les chaudières du *Hood* s'éteignent, sauf une, gardée pour les tourelles. **Le *Hood* n'est plus qu'une forteresse.**
@@ -177,7 +177,7 @@ Un navire posé a un avantage sur tout navire à flot : **il ne bouge pas.** Sa 
 ## 9. Questions ouvertes
 
 1. ✅ **La forteresse** : le *Hood* est posé en 1944 comme batterie fixe devant Cagliari (option B), puis ses pièces légères arment les batteries des caps (option C).
-2. ❓ **Le feu** : le *Hood* a-t-il tiré en combat ? *Proposition : jamais au 381, sauf des coups de semonce ; les batteries de 102 mm ouvrent le feu quelques fois sur des bateaux qui forcent la quarantaine (1944-1946) et sur des pillards (années 1950).* Faut-il un épisode marquant, et lequel ?
+2. ❓ **Le feu** : *décidé en partie : le* Hood *tire au 381 le 12 juillet 1940 contre la batterie fasciste du capo Sant'Elia ([10](10-choix-du-refuge.md) §9 ter) ; c'est son seul tir de combat au 381.* Reste : le *Hood* a-t-il tiré en combat ensuite ? *Proposition : jamais au 381, sauf des coups de semonce ; les batteries de 102 mm ouvrent le feu quelques fois sur des bateaux qui forcent la quarantaine (1944-1946) et sur des pillards (années 1950).* Faut-il un épisode marquant, et lequel ?
 3. ✅ **Le commandant du *Hood*** : son commandant réel, le **Captain Irvine Glennie** [histoire : en commandement de mai 1939 à février 1941, présent à Mers el-Kébir].
 4. ❓ **Les batteries des caps** : leurs noms (lieu, fondateur, langue de bord ?) ; et, après la Morìa, la batterie de l'est passe-t-elle au capo Carbonara quand la Zone se réduit ?
 5. ❓ **L'avenir du *Hood*** : reste-t-il armé après 1960 ? Le désarme-t-on quand la poudre est condamnée, ou devient-il, comme le *Dunkerque*, un navire-mémoire ?
