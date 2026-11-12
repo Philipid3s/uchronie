@@ -22,11 +22,12 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 | **2 juil. 00:05** | [U] Méga-tsunami sur le Japon |
 | 01:25 – 02:30 | [U] Méga-tsunami sur la côte ouest américaine |
 | **07:00** | **[U] Impact B** (Rambouillet) |
-| 2 juil. | [U] Contact radio en clair entre Somerville et Gensoul |
+| 2 juil. | [U] Contact radio en clair entre Somerville et Gensoul. *(prov.)* Dernier signal cohérent de l'Amirauté à la Force H : « Agissez à votre discrétion. Préservez la flotte. Les navires français ne doivent en aucun cas tomber aux mains de l'ennemi » ([06](06-mers-el-kebir.md) §4 bis) |
 
 ## Juillet – décembre 1940
 
 - **[U] 3 juillet** : Holland à Mers el-Kébir. La nuit s'installe : à midi, il fait aussi noir que par une nuit de pleine lune.
+- **[U] 3 – 4 juillet** : *(prov.)* Somerville consulte Cunningham, son chef, à Alexandrie. Réponse : ne pas venir vers l'est, tenir le bassin occidental, s'entendre avec les Français ([06](06-mers-el-kebir.md) §4 bis).
 - **[U] 4 juillet** : **conférence de Mers el-Kébir**. Création du Conseil des Amiraux (Gensoul, Somerville ; Holland à la liaison).
 - **[U] 3 – 6 juillet** : *(prov.)* **Toulon** : l'Amirauté (Nérac) ordonne à Gensoul de rentrer à Toulon et de rompre avec les Britanniques ; Gensoul refuse. Dans la nuit du 5 au 6, **l'amiral Duplat câble de Toulon : « Ne venez pas »** ([33](33-toulon.md) §3).
 - **[U] 5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; *(prov.)* le capitaine de frégate Mercadier présente la grille comparée tirée de son dossier sur la Sardaigne ; Holland fait valoir que l'île n'est ni française ni britannique. **La Sardaigne du Sud est choisie le 7 au matin** ([10](10-choix-du-refuge.md) §7). Les flottes partent **sans réponse de Cagliari, de gré ou de force** (§9).

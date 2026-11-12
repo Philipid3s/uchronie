@@ -1,5 +1,14 @@
 # 11 — L'îlot de Sardaigne
 
+## 0. Pourquoi « l'Îlot » [canon]
+
+**La Sardaigne n'a rien d'un îlot** : c'est la deuxième île de la Méditerranée (24 100 km², plus d'un million d'habitants en 1936). Le mot ne désigne pas la géographie. Il vient de l'expression **« îlot de civilisation »** : un petit foyer d'ordre, de loi et de savoir au milieu d'un monde retombé dans la barbarie ([07](07-le-monde-apres.md) §1 bis).
+
+**Comment l'expression devient un nom** [canon provisoire] :
+- **1940 – 1941** : les ordonnances du Conseil et les messages radio parlent d'« un îlot de civilisation » à préserver ; le Code de l'Îlot de Holland reprend la formule dans son préambule ([25](25-ark-royal.md)).
+- **À partir de 1943** : l'expression se réduit à **« l'Îlot »**, avec une majuscule, dans les noms des institutions : la Marine de l'Îlot (accord de Bonaria), l'Inscription de l'Îlot, puis l'École navale, le Collège et les *Cahiers techniques de l'Îlot*. Le mot est le même en français, en italien (*l'Isolotto*) et en anglais (*the Islet*), et passe tel quel dans le créole ([13](13-societe-de-bord.md) §7 bis).
+- **Une précision qui reste juste** : pendant vingt ans, **l'Îlot est plus petit que l'île**. Il ne couvre d'abord que la Sardaigne du Sud (Cagliari, le Campidano, le Sulcis et l'Iglesiente) ; la Barbagia et le nord restent hors du rôle jusqu'aux pactes de village et à l'expansion de 1955-1960 ([13](13-societe-de-bord.md) §6 bis, [21](21-demographie.md) §5.6). On distingue donc **« l'île »**, la terre, et **« l'Îlot »**, la société inscrite au rôle. Un berger de l'Ogliastra vit sur l'île sans être de l'Îlot.
+
 ## 1. Population fondatrice (juillet – août 1940) [canon]
 
 | Groupe | Effectif arrivé en Sardaigne | Remarques |

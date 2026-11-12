@@ -53,10 +53,49 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 3. **Les ennemis ont disparu.** La guerre de 1940 n'a plus d'objet.
 4. **Aucun des deux ne peut survivre seul.** Gibraltar n'a pas un mètre carré cultivable. Oran est en flammes et au milieu de millions d'affamés.
 
+## 4 bis. Les raisons de Somerville [canon : principe ; provisoire : détail]
+
+**Le problème** : pour Gensoul, la fusion est presque évidente, puisque Toulon lui ferme la porte ([33](33-toulon.md) §3). Pour Somerville, elle ne l'est pas. Un amiral britannique a, en juillet 1940, des débouchés plus naturels que de suivre une flotte française vers une île italienne.
+
+**Les autres débouchés de la Force H** [estimation ; distances depuis Gibraltar, ordres de grandeur 🔎] :
+
+| Débouché | Distance | Attrait | Ce qui l'élimine |
+|---|---|---|---|
+| **Rentrer au pays** (Clyde, Scapa Flow) | ~1 300 – 1 500 milles | Le roi, l'Amirauté, les familles des marins | Londres est ravagée par la Nuit de feu puis par l'onde de choc de Rambouillet (22 kPa, [02](02-impact-rambouillet.md)) ; le gouvernement se replie vers le nord ; l'Écosse gèle ([07](07-le-monde-apres.md) §2). Le pays importait la moitié de ses vivres : la flotte y arriverait comme 15 000 bouches de plus |
+| **Rejoindre Cunningham** (Alexandrie) | ~1 800 milles | Le commandant en chef en Méditerranée, son supérieur naturel | Cinq à six jours de mer dans la nuit qui tombe, avec des cargos ; le delta du Nil est une marée d'affamés ; Cunningham a déjà trop de bouches |
+| **Les îles de l'Atlantique** (Açores, Madère, Canaries) | ~600 – 1 000 milles | Des îles en plein océan, le meilleur tampon thermique | Ni charbon ni industrie ; des pays neutres ; pas de blé à y apporter |
+| **Freetown** (Sierra Leone) | ~1 600 milles | Un port britannique, un dépôt de charbon, les tropiques | Sols pauvres, paludisme sans quinine, trop loin |
+| **Malte** | ~1 000 milles | L'arsenal de la Royal Navy | C'est le plaidoyer de Somerville au débat du refuge ; mais l'île mourra de faim ([10](10-choix-du-refuge.md) §7) |
+| **Rester sur le Rocher** | — | La forteresse | Pas un mètre carré cultivable : c'est le choix de la garnison, pas celui de la flotte ([07](07-le-monde-apres.md) §2 bis) |
+
+**Ce qui fait pencher Somerville** (décision de l'auteur : trois raisons, A + B + C) :
+
+**A. L'ordre de Cunningham** [canon : principe ; provisoire : détail]. Le 3 juillet, Somerville appelle Alexandrie. L'amiral **Andrew Cunningham**, commandant en chef en Méditerranée, est le plus ancien amiral britannique encore joignable : c'est désormais son chef. Sa réponse du 4 juillet, après une nuit de délibération à bord du *Warspite*, tient en trois points [canon provisoire] :
+- *ne venez pas vers l'est* : l'Égypte s'effondre, Alexandrie n'a pas de quoi nourrir une seconde flotte, et l'on cherche soi-même un refuge (ce sera la Crète, [07](07-le-monde-apres.md) §3) ;
+- *tenez le bassin occidental* : deux forces britanniques, une à chaque bout de la Méditerranée, comme avant la catastrophe ;
+- *entendez-vous avec les Français* : c'est ce que Cunningham fait lui-même avec Godfroy et la Force X à Alexandrie.
+
+**[histoire]** Dans notre histoire, Cunningham obtient de Godfroy, le 7 juillet 1940, un accord de désarmement négocié, sans tirer, alors que Londres exigeait la manière forte 🔎. L'homme qui conseille à Somerville de s'entendre avec Gensoul est donc celui qui, dans la réalité, a su s'entendre avec Godfroy.
+
+**Ce que cela change** : Somerville **ne déserte pas**. Il exécute l'ordre de son chef. C'est décisif pour ses officiers et ses équipages, qui suivent un amiral obéissant, non un amiral en rupture.
+
+**B. Le dernier message de l'Amirauté** [canon : principe ; provisoire : détail]. Le 2 juillet, avant que Londres ne se taise, l'Amirauté envoie à la Force H un dernier signal cohérent, quelques heures après Rambouillet [texte inventé] : *« Agissez à votre discrétion. Préservez la flotte. Les navires français ne doivent en aucun cas tomber aux mains de l'ennemi. »*
+- **Le sens de la dernière phrase** : c'était le but même de l'opération Catapult, prévue pour le lendemain : empêcher la flotte française de passer aux Allemands ou aux Italiens [histoire].
+- **La lecture de Somerville** : en fusionnant avec Gensoul, **il remplit sa mission sans tirer un coup de canon**. Les navires français ne tomberont aux mains de personne : ils seront sous un commandement commun dont il est l'un des deux chefs.
+- **[histoire] L'homme** : dans notre histoire, Somerville trouve Catapult odieuse. Il le fait savoir à Londres avant l'ultimatum, il fait traîner les négociations du 3 juillet et ne tire qu'à contrecœur, sur ordre répété de l'Amirauté et de Churchill 🔎. L'uchronie lui offre ce que l'histoire lui a refusé.
+
+**C. Le blé et les familles** [estimation]. La raison la plus prosaïque est aussi la plus forte :
+- **la Force H n'a pas de vivres** au-delà de quelques mois : les **stocks de siège de Gibraltar** sont faits pour la garnison, pas pour 8 000 marins de plus pendant trois ans ;
+- **celui qui a le blé, c'est Gensoul** : les silos d'Oran et la moisson de juin de l'Oranie ([10](10-choix-du-refuge.md) §3) ;
+- **celui qui a des familles, c'est Gensoul** : les civils d'Oran, avec des femmes, des enfants, des médecins et des instituteurs ([11](11-ilot-de-civilisation.md) §1). La Force H et la garnison sont des hommes seuls ; les civils de Gibraltar ont été évacués en mai-juin 1940 [histoire].
+- **Conclusion** : toute destination sans les Français est **une destination sans pain et sans avenir**. Même le Malte de Somerville, au débat du refuge, suppose le blé de Gensoul.
+
+**Ce que les marins britanniques y perdent** : leurs familles, restées au pays. Aucun d'eux ne sait si elles vivent. C'est la blessure britannique de l'îlot, comme Toulon est la blessure française ; elle pèse sur l'« été radio » de 1947-1949, quand l'îlot capte par moments l'Écosse ([16](16-contacts-radio.md)).
+
 **Chronologie** :
-- **2 juillet** : contact radio Somerville-Gensoul, en clair.
-- **3 juillet** : Holland arrive à Mers el-Kébir, non pour un ultimatum mais pour proposer une rencontre.
-- **4 juillet** : **conférence de Mers el-Kébir** à bord du *Dunkerque*. Création du **Conseil des Amiraux**, d'abord avec deux membres (Gensoul et Somerville, Holland assurant la liaison), et accord sur le principe d'un **refuge commun** à choisir dans les 72 heures ([10](10-choix-du-refuge.md)).
+- **2 juillet** : contact radio Somerville-Gensoul, en clair. *(prov.)* Dernier signal cohérent de l'Amirauté : « Agissez à votre discrétion. Préservez la flotte » (§4 bis, B).
+- **3 juillet** : Holland arrive à Mers el-Kébir, non pour un ultimatum mais pour proposer une rencontre. *(prov.)* Somerville appelle Cunningham à Alexandrie.
+- **4 juillet** : *(prov.)* le matin, réponse de Cunningham : ne pas venir vers l'est, tenir le bassin occidental, s'entendre avec les Français (§4 bis, A). Le soir, **conférence de Mers el-Kébir** à bord du *Dunkerque*. Création du **Conseil des Amiraux**, d'abord avec deux membres (Gensoul et Somerville, Holland assurant la liaison), et accord sur le principe d'un **refuge commun** à choisir dans les 72 heures ([10](10-choix-du-refuge.md)).
 - **5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; la grille de Mercadier et l'argument du terrain neutre font choisir la Sardaigne, le 7 au matin ([10](10-choix-du-refuge.md) §7). Le Conseil devient tripartite avec l'accord de Cagliari (§5). Sa composition et ses règles sont détaillées dans [11](11-ilot-de-civilisation.md) §8.
 - **5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar sur les cargos réquisitionnés dans les deux ports, sélection et embarquement des civils, puis départ des convois dans l'obscurité naissante.
 

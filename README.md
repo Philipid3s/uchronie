@@ -6,11 +6,14 @@
 >
 > **L'îlot** : la Force de Raid de Mers el-Kébir et la Force H de Gibraltar, épargnées, **fusionnent**. Rejointes par la Marine italienne de Sardaigne, elles fondent en **Sardaigne du Sud** l'un des rares foyers de civilisation organisée de la planète.
 
+**« L'Îlot »** : la Sardaigne est une grande île, pas un îlot. Le nom vient de l'expression **« îlot de civilisation »**, réduite à « l'Îlot » dans les institutions ; il désigne la société inscrite au rôle, longtemps plus petite que l'île elle-même ([11](11-ilot-de-civilisation.md) §0).
+
 Ton : **étude documentée « hard science »**. Les récits sont suspendus pour la v3.
 
 ## Décisions arrêtées par l'auteur
 
 - **Refuge** : la Sardaigne du Sud ([10](10-choix-du-refuge.md)), choisie au terme d'un **débat** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; la grille d'un officier de l'état-major de Gensoul et le fait que l'île **n'appartient à aucun des deux** emportent la décision, le 7 juillet. Les flottes partent **sans réponse de Cagliari, de gré ou de force**.
+- **Les raisons de Somerville** : la Force H suit les Français parce que **Cunningham, son chef, le lui ordonne** (tenir l'ouest, s'entendre avec les Français), parce que la fusion **accomplit sans un coup de canon le but de Catapult** (le dernier signal de l'Amirauté : « Préservez la flotte ; les navires français ne doivent pas tomber aux mains de l'ennemi »), et parce que **le blé et les familles sont du côté de Gensoul** ([06](06-mers-el-kebir.md) §4 bis).
 - **Gouvernement** : un **Conseil des Amiraux** tripartite, français, britannique et italien : Gensoul, Somerville et l'amiral **Ettore Sportiello**, commandant réel des forces navales de Sardaigne en 1940 ([11](11-ilot-de-civilisation.md) §8, [10](10-choix-du-refuge.md) §9 bis).
 - **Îlot de l'Est** : il **existe et survit**, mais **le contact est perdu** après l'automne 1940 ([07](07-le-monde-apres.md) §3).
 - **Le monde** : **en dehors de quelques îlots de civilisation, le reste du monde retombe dans la barbarie et le chaos**. Le **cannibalisme** réapparaît, et des **sociétés barbares fondées sur la chefferie** héréditaire se forment ([07](07-le-monde-apres.md) §1 bis).
