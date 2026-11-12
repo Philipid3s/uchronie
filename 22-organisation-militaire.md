@@ -155,7 +155,9 @@ L'accord de Bonaria crée sept corps. Tous ont la même échelle de grades ; seu
 | **Capitaineries** | Ports, pêche, gens de mer, garde des côtes, quarantaine (§6) | *Capitanerie di porto* | Officiers et marins des ports |
 | **Savoir** (1955) | Université, bibliothèque, laboratoire, écoles | Créé en 1955 ([13](13-societe-de-bord.md) §4 quater) | Professeurs, savants |
 
-**Les femmes** : les **corps de soutien** de 1940-1943 ([13](13-societe-de-bord.md) §4 ter) sont fondus dans les corps de **Santé**, du **Commissariat**, de la **Terre** et de **Machines et Génie** (ateliers). Les transmissions deviennent une spécialité du corps du **Pont**, la seule où les femmes servent dans ce corps. Le Pont (hors transmissions) et les Capitaineries leur restent fermés, comme les bords à flot.
+**Les femmes** : les **corps de soutien** de 1940-1943 ([13](13-societe-de-bord.md) §4 ter) sont fondus dans les corps de **Santé**, du **Commissariat**, de la **Terre** et de **Machines et Génie** (ateliers). Les transmissions deviennent une spécialité du corps du **Pont**, la seule où les femmes servent dans ce corps jusqu'au milieu des années 1950. **Décision de l'auteur** : les postes d'officier s'ouvrent ensuite petit à petit, y compris dans le Pont, les Capitaineries et à bord des navires actifs ; **seuls les fusiliers marins restent réservés aux hommes** ([13](13-societe-de-bord.md) §4 ter).
+
+**Les fusiliers marins** [canon : principe ; provisoire : détail] : la garde armée du corps du Pont prend le nom de **fusiliers marins**, sur le modèle des fusiliers marins français et des Royal Marines [histoire]. Ce sont eux qui tiennent les garnisons des avant-postes (Malte, Sazan), forment les troupes de débarquement des expéditions et gardent les bords à flot. C'est la seule spécialité fermée aux femmes.
 
 ## 6. Les Capitaineries de l'Îlot [canon provisoire]
 

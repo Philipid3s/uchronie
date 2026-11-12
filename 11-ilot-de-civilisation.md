@@ -27,7 +27,7 @@
 - **Environ 4 000 sont intégrés** : ceux qui atteignent La Maddalena, où se trouve le croiseur *Montcalm*, ou que les patrouilles recueillent. Ce sont surtout des pêcheurs, des artisans, des médecins, et les familles de marins de la flotte : **les Corses sont très nombreux dans la Marine française** [histoire].
 - **La crise du Conseil** (automne 1940) : l'accueil des réfugiés exige l'**unanimité** (§8).
   - **Gensoul** veut accueillir ces Français, dont beaucoup sont parents de ses marins.
-  - **Lai** défend la priorité des Sardes, qui meurent eux aussi de faim.
+  - **Sportiello** défend la priorité des Sardes, qui meurent eux aussi de faim.
   - **Somerville** arbitre. Le compromis : sont admis ceux qui acceptent l'inscription et un travail, dans la limite d'un **quota** fixé chaque mois selon les stocks. Les autres sont refoulés vers la Gallura.
   - C'est la première grande crise du Conseil, et une **blessure durable** entre Français et Sardes.
 - **À partir de 1944**, l'île fermée renvoie les bateaux corses vers le lazaret de l'**Asinara**, tout proche des bouches de Bonifacio, ou les refoule ([14](14-epidemie.md) §5.5).
@@ -75,7 +75,8 @@ La population sarde de 1940 (environ 1 million) **ne peut pas** être nourrie. C
 | Rescapés de Bizerte | ~1 500 | ~1 100 |
 | Réfugiés corses | ~4 000 | ~3 000 |
 | Survivants maltais | ~300 | ~250 |
-| Sardes et Italiens | ~650 000 en juillet 1940 | ~28 500 |
+| Second départ de Toulon (printemps 1944, [33](33-toulon.md) §5) | ~1 200 | ~1 000 |
+| Sardes et Italiens | ~650 000 en juillet 1940 | ~27 500 |
 | **Total** | | **~49 000** |
 
 Les 5 800 bouches de plus (Corses, Bizerte, Malte) consomment environ 13 000 personnes-années de vivres d'ici 1943, soit environ 2 % des stocks réellement utilisables. Elles coûtent environ 500 vies sardes de plus, par la concurrence pour les rations des années 1940-41 [estimation].
@@ -145,7 +146,7 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 |---|---|---|---|
 | **France** | Vice-amiral d'escadre **Marcel Gensoul** [histoire] | Le **blé d'Oran**, les civils, environ 5 500 marins, le *Dunkerque* et le *Strasbourg* | **Vivres et rationnement**, santé, civils |
 | **Royaume-Uni** | Vice-amiral **Sir James Somerville** [histoire] | Les **stocks et le mazout de Gibraltar**, environ 6 800 marins, le *Hood*, le *Valiant*, l'*Ark Royal* | **Défense**, opérations navales, **énergie** (mazout puis charbon) |
-| **Italie** | Amiral **Vittorio Lai** [personnage fictif, né à Cagliari], commandant militaire maritime de Sardaigne | **L'île** : terres, mines, barrages, population, université | **Administration de l'île**, ordre public, mines, agriculture |
+| **Italie** | Amiral **Ettore Sportiello** [histoire : né à Torre del Greco en 1882 ; dans notre histoire, mort à Rome en 1948], commandant des forces navales de Sardaigne à La Maddalena ([10](10-choix-du-refuge.md) §9 bis) | **L'île** : terres, mines, barrages, population, université | **Administration de l'île**, ordre public, mines, agriculture |
 | Chef d'état-major conjoint (sans droit de vote) | Capitaine de vaisseau **Cedric Holland** [histoire] | Il parle français, il est le trait d'union entre les deux flottes depuis le 3 juillet. Il garde le commandement de l'*Ark Royal* ([25](25-ark-royal.md)) | Secrétariat, procès-verbaux, liaison |
 
 **Siège** : le Conseil siège à bord du *Dunkerque*, au mouillage devant Cagliari ([23](23-dunkerque-siege-du-conseil.md)).
@@ -163,14 +164,14 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 Aucun des trois ne peut s'imposer seul :
 - **Gensoul** tient le **grain**, mais il n'a ni la terre ni assez de canons pour la garder.
 - **Somerville** tient les **canons et le mazout**, mais sa flotte ne mange pas sans le blé d'Oran et les stocks sardes.
-- **Lai** tient **l'île et sa population**, mais sans les vivres et la force de la flotte, la Sardaigne meurt entièrement.
+- **Sportiello** tient **l'île et sa population**, mais sans les vivres et la force de la flotte, la Sardaigne meurt entièrement.
 
 C'est un **triumvirat d'équilibre**, sur le modèle des coalitions de nécessité.
 
 ### Lignes de tension prévisibles
 
 - **Gensoul et Somerville** s'opposent sur les rations : faut-il nourrir d'abord les combattants et les travailleurs, ou d'abord les familles ?
-- **Lai** défend les Sardes face à deux flottes étrangères. Il est le seul à pouvoir légitimer les réquisitions auprès de la population.
+- **Sportiello** défend les Sardes face à deux flottes étrangères. Napolitain et non sarde, il est pourtant le seul à pouvoir légitimer les réquisitions auprès de la population.
 - La **succession** se pose à mesure que les amiraux vieillissent : Somerville est né en 1882, Gensoul en 1880. Elle sera la première grande crise institutionnelle de l'îlot dans les années 1940-50.
 
 ### Évolution du régime [canon]

@@ -75,7 +75,9 @@ Historiquement, six croiseurs légers de classe *La Galissonnière* se trouvaien
 | ***Montcalm*** | Croiseur léger | 1935 | ~540 | ~440 | Défense de La Maddalena (avant-poste nord) | Au mouillage à La Maddalena ; **en conservation** dans les années 1950, coque de secours du *Georges Leygues* ([29](29-flotte-des-annees-1950.md) §4.2) |
 | **Sous-total** | **6 croiseurs** | | **~3 250** | **~2 640** | | |
 
-### 3.4 Ralliés de Toulon (août 1940) [canon provisoire]
+### 3.4 Ralliés de Toulon (août 1940, puis printemps 1944) [canon : principe ; provisoire : détail]
+
+*Premier départ ci-dessous. Le second (mars-avril 1944 : ~1 200 personnes sur des contre-torpilleurs, des torpilleurs, des remorqueurs et un cargo) et le sort du *Foch* et du *Colbert*, laissés dans la darse, sont au chapitre [33](33-toulon.md) §5.*
 
 | Navire | Type | Équipage | Remarque |
 |---|---|---|---|
@@ -90,11 +92,11 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 
 | Unité | Type | Effectif | Origine | Rôle dans l'îlot |
 |---|---|---|---|---|
-| 3 à 5 sous-marins | Sous-marins océaniques et côtiers (classes *Adua*, *Argonauta*, etc.) | ~40 – 55 chacun, ~200 au total | En patrouille en Méditerranée occidentale le 1er juillet ; ils survivent en plongée | **Expéditions longue distance à faible consommation** (diesel), reconnaissance, écoute radio. Ce sont les seuls capables d'un voyage vers l'îlot de l'Est quand le Conseil le décidera |
+| 3 à 5 sous-marins | Sous-marins océaniques et côtiers (classes *Adua*, *Argonauta*, etc.) | ~40 – 55 chacun, ~200 au total | **Le VII Grupsom de Cagliari** (capitaine de frégate Giovanni di Gropello) : l'***Alagi***, l'***Axum*** et l'***Aradam*** (classe *Adua*, 71ª Squadriglia) et le ***Turchese*** (72ª Squadriglia), rentrés de patrouille fin juin et **au port de Cagliari le 1er juillet** [histoire 🔎 : dans notre histoire, ils appareillent le 3 juillet après Mers el-Kébir] ; d'autres en patrouille en Méditerranée occidentale, qui survivent en plongée | **Expéditions longue distance à faible consommation** (diesel), reconnaissance, écoute radio. Ce sont les seuls capables d'un voyage vers l'îlot de l'Est quand le Conseil le décidera |
 | 2 à 4 torpilleurs (classe *Spica* ou équivalents) | Torpilleurs | ~100 chacun | Base de La Maddalena ou Cagliari | Patrouille côtière, lutte contre les flottilles de pillards |
 | Flottille de MAS (vedettes lance-torpilles) | Vedettes rapides | ~10 chacune | La Maddalena | Surveillance des côtes. Moteurs à essence, rapidement immobilisés |
 | Hydravions de Cagliari-Elmas | Hydravions de reconnaissance | — | Base d'Elmas | Volent jusqu'à l'épuisement de l'essence (fin 1940) |
-| Défenses côtières de Cagliari et de La Maddalena | Batteries, casemates | Plusieurs milliers d'hommes avec la garnison | | Défense terrestre, ordre public sous l'amiral Lai |
+| Défenses côtières de Cagliari et de La Maddalena | Batteries, casemates | Plusieurs milliers d'hommes avec la garnison | | Défense terrestre, ordre public sous l'amiral Sportiello |
 
 ## 5. Navires de commerce réquisitionnés
 

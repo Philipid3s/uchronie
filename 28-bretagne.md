@@ -66,12 +66,29 @@ On ne met pas toute la réserve au même endroit : un incendie, une voie d'eau o
 ### 3.3 Vers 1956 : les silos à terre
 
 - **Pourquoi** : avec la fin de la Morìa, la dératisation des villes et la croissance de l'îlot (77 000 habitants en 1960, [21](21-demographie.md)), la réserve doit grandir, et un navire de 1913 ne grandit pas.
-- **Les silos** : les bords du Génie construisent des **silos en maçonnerie et en béton**, étanches aux rats, près des gares du Campidano [lieu à décider] 🔧.
+- **Les silos** : les bords du Génie construisent des **silos en béton** (décision de l'auteur : « si les ressources de l'île le permettent »), étanches aux rats, près des gares du Campidano [lieu à décider].
+- **Le ciment** : l'île **en fabrique déjà en 1940**. La **cimenterie de Cagliari**, à Sant'Avendrace au bord de l'étang de Santa Gilla, produit du ciment Portland depuis les années 1920, avec le calcaire des collines de la ville (Tuvixeddu, Is Mirrionis) ; c'est elle qui a fourni le béton du **barrage du Tirso** [histoire] ([sources](annexes/sources.md)). Il lui faut du charbon pour ses fours : celui du Sulcis. Remise en marche à petit régime pour les ouvrages de défense (1942), elle tourne à plein pendant les grands travaux (1950-1955). Les silos de 1956 ne posent donc pas de problème de matière, seulement de **priorité** face aux digues, aux canaux de drainage et aux maisons [estimation 🔎 capacité de 1940 non retrouvée]. Les **fours à chaux** Maxia, entre Selargius et Quartu (1908), fournissent la chaux du chaulage et des mortiers [histoire].
 - **1956** : la dernière relève du grenier se fait vers les silos. Le *Bretagne* est vidé, et ses greniers passent à terre pour tenir les silos.
 
 ### 3.4 Après 1956 : l'attente
 
 La coque reste au mouillage dans le golfe de Palmas, avec un petit équipage de garde. Elle **attend son tour au chantier de démolition** : les navires y passent un par un ([26](26-provence.md) §6), et le *Bretagne* vient après l'*Ark Royal* (1957-1963) et le *Provence* (1963-1969), donc **dans les années 1970** [canon provisoire].
+
+## 3 bis. La batterie du golfe de Palmas [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : les canons du *Bretagne* servent **rapidement** à armer une **batterie du golfe de Palmas**.
+
+**Pourquoi** : le golfe abrite le grenier de l'îlot, la centrale du *Strasbourg* et, à terre, les mines du Sulcis et les ports charbonniers de Portovesme et de Sant'Antioco. C'est la côte la plus exposée aux razzias venues de Tunisie ([07](07-le-monde-apres.md) §1 bis). Un grenier ne doit pas avoir à se défendre lui-même : ses soutes sont pleines de grain, pas de poudre.
+
+| Étape | Ce qu'on débarque | Où [lieux provisoires 🔎] |
+|---|---|---|
+| **Hiver 1940 – 1941** | Les **138 mm** des casemates : des pièces de quelques tonnes, que les mâts de charge du bord et une chaloupe suffisent à mettre à terre [estimation 🔧] | Deux batteries de flanc : au **capo Sperone** (pointe sud de Sant'Antioco) et sur la rive est du golfe, vers **Porto Pino** ; ensemble, elles croisent leurs feux sur l'entrée du golfe (une vingtaine de kilomètres) |
+| **1942 – 1943** | **Deux canons de 340 mm**, tirés d'une tourelle : chaque tube pèse plusieurs dizaines de tonnes, et il faut une bigue montée sur un ponton et une plate-forme bétonnée [estimation 🔧] | Un affût fixe au-dessus du mouillage, d'où sa portée (25 km environ 🔎) couvre tout le golfe |
+| **Le reste** | Les autres tourelles restent à bord, sans équipage de pièce, comme **réserve de tubes et de pièces** ; les soutes à munitions sont vidées pour faire place au grain | — |
+
+**Le bord de la batterie** : une cinquantaine de canonniers, détachés du *Bretagne* puis relevés par les Capitaineries et les fusiliers marins. **Les poudres** posent le même problème qu'au *Hood* ([24](24-hood-forteresse-du-golfe.md) §5) : on les surveille au laboratoire de l'université et l'on ne tire qu'avec parcimonie.
+
+**Le ciment** : les plates-formes et les abris demandent du béton. En 1940-41, on prend les stocks des chantiers et des ouvrages italiens ; pour les 340 mm de 1942-43, la **cimenterie de Cagliari** est remise en marche au charbon du Sulcis (§3.3).
 
 ## 4. Le donneur de pièces du *Provence* [canon : principe ; provisoire : détail]
 
@@ -99,7 +116,8 @@ Le *Bretagne* et le *Provence* sont **deux navires de la même classe** : leurs 
 |---|---|
 | **3 juillet 1940** | À Mers el-Kébir, intact (dans notre histoire, il explose ce jour-là) |
 | **Juillet 1940** | Mouillage dans le golfe de Palmas, près du *Strasbourg* ; 4 000 à 5 000 t de grain d'Oran embarquées : le stock de sécurité |
-| **Hiver 1940 – 1941** | Logement de familles d'Oran dans les entreponts |
+| **Hiver 1940 – 1941** | Logement de familles d'Oran dans les entreponts ; *(prov.)* les 138 mm débarqués arment la **batterie du golfe de Palmas** (§3 bis) |
+| **1942 – 1943** | *(prov.)* Deux 340 mm débarqués sur un affût fixe au-dessus du mouillage |
 | **Printemps 1942** | Le Conseil puise une fois dans le stock de sécurité |
 | **1943** | Reconstitution du stock avec la première récolte en plein champ |
 | **1941 – 1950** | Donneur de pièces du *Provence* |
@@ -116,8 +134,8 @@ Le *Bretagne* et le *Provence* sont **deux navires de la même classe** : leurs 
 2. ✅ **Le *Provence*** : donneur de pièces (option 2A).
 3. ✅ **Le mouillage** : golfe de Palmas (option 3B).
 4. ✅ **Le destin** : grenier jusqu'aux silos à terre, puis démolition après le *Provence* (option 4A).
-5. ❓ **Les silos à terre** (1956) : où les construire (Cagliari, Oristano, les gares du Campidano), et en quoi (pierre, béton : l'île a-t-elle du ciment) ?
-6. ❓ **Les 138 mm et les 340 mm du *Bretagne*** : restent-ils à bord, ou arment-ils une batterie du golfe de Palmas ?
+5. ✅ **Les silos à terre** (1956) : **en béton, si les ressources de l'île le permettent** (décision de l'auteur, §3.3). ❓ Reste le lieu (Cagliari, Oristano, les gares du Campidano).
+6. ✅ **Les 138 mm et les 340 mm du *Bretagne*** : ils arment **rapidement** une **batterie du golfe de Palmas** (décision de l'auteur, §3 bis). ❓ Restent les emplacements exacts et le nom des batteries ; 🔧 le débarquement des tubes de 340 mm sans grue lourde.
 7. ✅ **Le commandant du *Bretagne*** : son commandant réel, le capitaine de vaisseau **Louis Le Pivain** [histoire]. Dans notre histoire, il meurt avec son navire ; dans l'uchronie, il vit et commande le grenier.
 8. 🔎 **Le *Bretagne* en 1940** : capacité des soutes à charbon et des soutes à munitions, conduits d'aération, commandant.
 9. 🔧 **La conservation du grain à bord** : humidité et condensation dans une coque d'acier, température des soutes en été, charançons ; rythme réaliste du roulement annuel.

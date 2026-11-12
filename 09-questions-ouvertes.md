@@ -1,6 +1,6 @@
 # 09 — Questions ouvertes et points à éclaircir
 
-> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 32 chapitres, une annexe de calculs, des scripts de calcul et un atlas de douze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
+> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 33 chapitres, une annexe de calculs, des scripts de calcul et un atlas de douze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
 >
 > Légende : ✅ décidé par l'auteur · ❓ décision attendue · 🔎 à documenter · 🔧 à vérifier ou à corriger
 
@@ -11,7 +11,7 @@
 | Échelle | Comète scindée : 10 km dans le Pacifique Nord, 2 km au sud-ouest de Rambouillet. Quasi-extinction : environ 0,1 % de survivants | [README](README.md), [01](01-parametres-physiques.md) |
 | Flotte | Les flottes de Mers el-Kébir et de Gibraltar survivent et fusionnent ; les Italiens de Sardaigne s'y joignent | [06](06-mers-el-kebir.md) |
 | Refuge | La Sardaigne du Sud ; choisie au terme d'un **débat** entre Gensoul (Oranie) et Somerville (Malte), tranché par la grille et parce qu'elle n'appartient à aucun des deux (1B) ; l'Oranie dans l'étude (2A) ; départ **sans réponse de Cagliari, de gré ou de force** (3A) ; l'idée portée par un officier de l'état-major de Gensoul (4A) | [10](10-choix-du-refuge.md) |
-| Gouvernement | Conseil des Amiraux (Gensoul, Somerville, l'amiral fictif Vittorio Lai ; Holland à la liaison) | [11](11-ilot-de-civilisation.md) §8 |
+| Gouvernement | Conseil des Amiraux (Gensoul, Somerville, l'amiral Ettore Sportiello [histoire] ; Holland à la liaison) | [11](11-ilot-de-civilisation.md) §8 |
 | Société | Société de bord très hiérarchisée, fondée sur les grades et les coutumes navales ; **grade non héréditaire, mérite** ; rôle grandissant des femmes, surtout dans les unités de soutien | [13](13-societe-de-bord.md) |
 | Épidémie | La peste (« la Morìa »), née au Moyen-Orient, de 1942 à 1947 ; discipline de fer, île fermée, malades parqués dans la Zone du Sarrabus ; isolement réglé sur la peste de Marseille (1944-1952) | [14](14-epidemie.md) |
 | Îlot de l'Est | En Crète, il survit grâce à une discipline de fer, mais il est plus durement touché par la peste ; le contact est perdu après octobre 1940 ; **contact indirect en juin 1950** par un navire croisé au retour de l'expédition d'Albanie, **sans détour vers la Crète** (la mission avant tout) | [07](07-le-monde-apres.md) §3, [14](14-epidemie.md) §6 |
@@ -37,15 +37,22 @@
 | Formation technique | École technique de l'Îlot, avec l'école d'apprentis de l'arsenal en première année (1B) ; reprise de l'école des mines d'Iglesias (2A) ; ingénieurs : École navale et année d'application, puis faculté d'ingénieurs (3, C puis B) ; manuels copiés et traduits par la bibliothèque de l'Îlot (4A) | [30](30-formation-technique.md) |
 | *Commandant Teste* | Atelier de précision ; le gros œuvre à l'arsenal (1B) ; à quai dans le port de Cagliari, tirant d'eau vérifié (2A) ; atelier jusqu'au milieu des années 1960, puis démolition (3A) | [31](31-commandant-teste.md) |
 | Malte | Garnison dans l'enclave des Trois Cités, QG au fort Saint-Ange (1A) ; dépôt de charbon dans l'enclave (2A) ; radio au fort, antennes de Rinella (3A) ; planche Malte de l'atlas (4A) | [32](32-avant-poste-de-malte.md) |
-| Format | Étude scientifique et bible, **pas de récit pour l'instant** | — |
+| Voisins | Il y a de tout : coopératifs, méfiants, agressifs ; piraterie renaissante, surtout en Afrique du Nord | [07](07-le-monde-apres.md) §1 bis |
+| Politique extérieure | Autosuffisance d'abord ; avant-postes de Malte, d'Albanie et de Gibraltar ; entraide avec les colonies amies | [07](07-le-monde-apres.md) §1 bis |
+| Toulon | À développer : exode des dernières forces françaises si la situation se dégrade, garnison de l'îlot après la réouverture (calendrier soumis, B7) | [07](07-le-monde-apres.md) §1 ter |
+| Femmes | Soutien d'abord (ingénieurs, logistique, santé), puis officières petit à petit ; fusiliers marins réservés aux hommes | [13](13-societe-de-bord.md) §4 ter |
+| Langues | Enseignement en anglais ; langue du bord dans chaque navire et chaque bord | [30](30-formation-technique.md) §4 |
+| *Bretagne* (suite) | Silos à terre en béton ; canons débarqués rapidement pour une batterie du golfe de Palmas | [28](28-bretagne.md) §3 bis |
+| Navires de garde | Des navires désarmés en poste à Sazan, Malte et Gibraltar pour l'évacuation d'urgence | [29](29-flotte-des-annees-1950.md) §4.4 |
+| Format | Étude scientifique et bible, **pas de récit pour l'instant** ; périmètre **1940-1960** (premier tome) | — |
 
 ## B. Décisions attendues de l'auteur
 
 ### Le monde extérieur
 
-1. ❓ **Les chefferies voisines** : lesquelles nommer et décrire (Corse, Tunisie, Sicile, côte provençale, Baléares, **archipel toscan et côte tyrrhénienne**, que visitent les expéditions de recueil de 1955-1960, [21](21-demographie.md) §4.5) ? Quels rapports avec l'îlot : guerre, tribut, commerce, ignorance mutuelle ? ([07](07-le-monde-apres.md) §1 bis)
+1. ✅ **Les chefferies voisines** (principe décidé, intégré dans [07](07-le-monde-apres.md) §1 bis : trois attitudes, piraterie barbaresque ; reste à nommer et décrire les chefferies une à une) : lesquelles nommer et décrire (Corse, Tunisie, Sicile, côte provençale, Baléares, **archipel toscan et côte tyrrhénienne**, que visitent les expéditions de recueil de 1955-1960, [21](21-demographie.md) §4.5) ? Quels rapports avec l'îlot : guerre, tribut, commerce, ignorance mutuelle ? ([07](07-le-monde-apres.md) §1 bis)
 [JR] Il y aura de tout - certains groupes de survivants se montreront tres cooperatifs - d autres seront suspicieux et distants - et d autres se montreront tres agressifs - Il pourrait y avoir une resurgeance de la piraterie, notamment en Afrique du Nord.
-2. ❓ **Forteresse ou reconquête** : l'îlot reste-t-il replié sur lui-même, ou entreprend-il de « reciviliser » les terres voisines ? ([07](07-le-monde-apres.md) §1 bis)
+2. ✅ **Forteresse ou reconquête** (intégré dans [07](07-le-monde-apres.md) §1 bis : autosuffisance, avant-postes, puis accords d'entraide avec les colonies amies vers 1955-1960) : l'îlot reste-t-il replié sur lui-même, ou entreprend-il de « reciviliser » les terres voisines ? ([07](07-le-monde-apres.md) §1 bis)
 [JR] il y aura d abord comme interet de se focaliser sur l autosuffisance - Developper les avant postes a Malte, Albanie et Gibraltar - Mais aussi de developper les relations avec des colonies de survivants amicales dans un soucis de developpement et d ' entraide mutuelle.
 3. ❓ **Les retrouvailles avec l'îlot de l'Est** : le premier signe est décidé (juin 1950, caïque ionien, [18](18-expedition-albanie.md) §7.5). Restent : la date et le contenu du premier échange radio direct, la décision du Conseil, la première rencontre physique, et ce qu'est devenu l'îlot (régime, chefs, population) ; le port d'attache et le patron du caïque ; qui signe le pli de Souda. *Proposition : la première rencontre physique se fait en 1952, par le voyage du *Strasbourg* en baie de Souda ([27](27-strasbourg.md) §6)* ([07](07-le-monde-apres.md) §3, [18](18-expedition-albanie.md) §7.5 et §9)
 4. ❓ **Les autres îlots lointains** (Dakar, Martinique, Nouvelle-Zélande, Écosse) : lesquels garder au canon, et quels contacts pendant « l'été radio » de 1947-49 ? ([16](16-contacts-radio.md))
@@ -55,18 +62,18 @@
 5. ❓ **Après l'Albanie** : Sazan est décidé (base fortifiée, petite garnison). Reste à décider **comment extraire à Kuçova** : équipes de l'îlot, accord avec une chefferie, ou simple vidange des cuves du terminal ([18](18-expedition-albanie.md) §10)
 5 bis. ❓ **L'expédition de 1950** : *décidé : le commandant du* Georges Leygues *est un personnage inventé, le capitaine de vaisseau **Marcel Fabre** (Collinet est chef de l'expédition, [18](18-expedition-albanie.md) §3 bis)* ; reste : commandant de la garnison de Sazan et **nom du poste** ; identité du cargo et du pétrolier ; survivants de Vlorë et chefferie locale (côte déserte, partenaire ou hostile) ([18](18-expedition-albanie.md) §2, §7.4 et §10)
 6. ❓ **Gibraltar dans les années 1950** : entre-t-il dans l'îlot comme bord, ou reste-t-il autonome ? Adopte-t-il l'échelle de grades de Bonaria, ou garde-t-il ses grades britanniques ? ([07](07-le-monde-apres.md) §2 bis, [22](22-organisation-militaire.md) §10)
-7. ❓ **Toulon** : garde-t-on l'arrivée de l'*Algérie*, du *Dupleix* et de quelques contre-torpilleurs en août 1940 ? ([06](06-mers-el-kebir.md) §6)
+7. ✅ **Toulon** (chapitre [33](33-toulon.md) : message de Duplat, enclave de l'arsenal, départs d'août 1940 et du printemps 1944 (option 5B), garnison de 1956 ; questions suivantes en 33 §9, reprises en B62-B64) : garde-t-on l'arrivée de l'*Algérie*, du *Dupleix* et de quelques contre-torpilleurs en août 1940 ? ([06](06-mers-el-kebir.md) §6)
 [JR] il faudra developper la situation a Toulon - Quelle situation post catastrophe et durant les epidemenies - si la situation se degrade de trop, oui on pourrait imaginer un reprise de contact avec l Ilot et un exode des dernieres forces francaise de Toulon vers la Sardaugne - Ensuite plus tard, apres la re ouverture au monde post epidemie, pourquoi ne pas imaginer une re colonisation, l installation d une garnison a Toulon pour securiser les installations portuaires qui pourrait etre d un grand interet pour le futur.
 
 ### La vie de l'îlot
 
-8. ❓ **La question sarde** : quel degré de violence retenir pour les réquisitions de 1940-41, et quelle **mémoire officielle** (sauvetage ou conquête) ? ([11](11-ilot-de-civilisation.md) §7) *Désormais nourrie par le départ « de gré ou de force » : l'accord de Cagliari se signe sous les canons ([10](10-choix-du-refuge.md) §9). Reste aussi à écrire la négociation des 8-12 juillet : qui répond à Cagliari, et comment.*
+8. ❓ **La question sarde** — *en cours : l'état des forces italiennes est établi et la bonne entente au sommet intégrée ([10](10-choix-du-refuge.md) §9 bis) ; **l'amiral réel Ettore Sportiello remplace l'amiral inventé Vittorio Lai** (option A) ; reste le degré de violence des réquisitions et la mémoire officielle* : quel degré de violence retenir pour les réquisitions de 1940-41, et quelle **mémoire officielle** (sauvetage ou conquête) ? ([11](11-ilot-de-civilisation.md) §7) *Désormais nourrie par le départ « de gré ou de force » : l'accord de Cagliari se signe sous les canons ([10](10-choix-du-refuge.md) §9). Reste aussi à écrire la négociation des 8-12 juillet : qui répond à Cagliari, et comment.*
 [JR] il faut surtout determiner quel est l etat des forces italienne sur place - je pense qu il y aura quand meme une bonne entente car l arrivee des forces FR et EN promet quand meme une stabilisation de la situation et des bras pour remetttre l ile a flot...
 9. ❓ **La succession** au Conseil des Amiraux : comment et quand remplacer les fondateurs, nés entre 1880 et 1890 ? Premier successeur ? ([13](13-societe-de-bord.md) §8) *Principe décidé : renouvellement par l'École navale ; trois générations au Conseil (fondateurs, officiers de 1940, anciens élèves vers 1975-1980) ([13](13-societe-de-bord.md) §4 quater). Reste à nommer le premier successeur.*
-10. ❓ **La langue et l'identité** de l'îlot dans les années 1950-60 : langue de bord, nom de l'îlot, pavillon ([13](13-societe-de-bord.md) §7)
+10. ✅ **La langue** : créole franco-anglo-italien, en **diglossie** (option A, intégré dans [13](13-societe-de-bord.md) §7 bis). ❓ Restent le **nom de l'îlot** et le **pavillon**. Question d'origine : **La langue et l'identité** de l'îlot dans les années 1950-60 : langue de bord, nom de l'îlot, pavillon ([13](13-societe-de-bord.md) §7)
 [JR] peut on imaginer le developpement d un creole franco anglo italien ?
 11. ❓ **La reproduction sociale par le savoir** : comment l'îlot l'empêche-t-il (bourses, quotas, précepteurs) ? ([13](13-societe-de-bord.md) §9) *Réponse provisoire : internat pour tous, une place par bord au Collège de l'Îlot, répétiteurs de bord, concours de la flotte ; pas de quota d'origine ([13](13-societe-de-bord.md) §4 quater).*
-12. ❓ **Les femmes** : quand accèdent-elles aux navires et au Conseil des Amiraux ? ([13](13-societe-de-bord.md) §4 ter)
+12. ✅ **Les femmes** (intégré dans [13](13-societe-de-bord.md) §4 ter et [22](22-organisation-militaire.md) §5 : officières vers 1955-1960, fusiliers marins réservés aux hommes ; reste ❓ l'accès au Conseil des Amiraux) : quand accèdent-elles aux navires et au Conseil des Amiraux ? ([13](13-societe-de-bord.md) §4 ter)
 [JR] elles prennent un role de plus en plus important - d abord reservees aux unites de support: ingenieur / soutien logistique et medical - elles accedent ensuite petit a petit au postes d officier - seules les troupes de marines / fusiliers marins sont encore reservees aux hommes.
 13. ✅ **La Barbagia** : **intégrée petit à petit** (troc, médecin, mariages, pacte de village) ([13](13-societe-de-bord.md) §6 bis). Reste : le premier village à signer, et le sort du cœur de la Barbagia (Orgosolo, Fonni) après 1960.
 14. ❓ **Le paludisme** : jusqu'où le laisser peser sur les plaines agricoles des années 1950, faute de DDT ? *Les grands travaux de 1950-1955 en font leur premier chantier ([21](21-demographie.md) §5.6) ; reste à fixer le résultat (recul, ou endémie résiduelle).* ([17](17-autosuffisance-alimentaire.md) §7)
@@ -101,14 +108,13 @@
 
 ### Le cadre général
 
-29. ❓ **Jusqu'où pousser la chronologie** : 1950, 1960, au-delà ?
+29. ✅ **Jusqu'où pousser la chronologie** (intégré dans [08](08-chronologie.md) et le README : 1940-1960, premier tome) : 1950, 1960, au-delà ?
 [JR] dans la bible on va s arreter au debut des anness 60 - 20 ans couverts dans un premier temps (de 40 a 60) ca semble etre suffisant pour un premier tome.
 30. ❓ **Un récit**, plus tard ? Si oui, à quel moment et de quel point de vue (les deux récits de la v2 sont archivés dans [archives/v2](archives/v2/))
 
 ### Éléments inventés à valider [canon provisoire]
 
 31. 🔧 Ces éléments ont été proposés pour combler des trous. Ils restent à confirmer ou à remplacer :
-    - l'**amiral Vittorio Lai**, personnage fictif ;
     - l'ordonnance d'**Inscription générale** (août 1940) et le **Code de l'Îlot** rédigé par Holland ;
     - l'**accord du Rocher** (Gibraltar, automne 1940) ;
     - les **trois vagues de rescapés de Bizerte** ;
@@ -176,33 +182,40 @@
 
 ### Le *Bretagne* ([28](28-bretagne.md) §7)
 
-51. ❓ **Les silos à terre (1956)** : où (Cagliari, Oristano, gares du Campidano) et en quoi (pierre, béton : l'île a-t-elle du ciment) ?
+51. ✅ **Les silos à terre (1956)** : en béton ; l'île a du ciment, la **cimenterie de Cagliari** (Sant'Avendrace, années 1920) [histoire], intégré dans [28](28-bretagne.md) §3.3 ; ❓ reste le lieu. Question d'origine : où (Cagliari, Oristano, gares du Campidano) et en quoi (pierre, béton : l'île a-t-elle du ciment) ?
 [JR] si les ressources de l ile le permetttent - en ciment / beton
-52. ❓ **L'artillerie du *Bretagne*** : ses 138 mm et 340 mm restent-ils à bord, ou arment-ils une batterie du golfe de Palmas ?
+52. ✅ **L'artillerie du *Bretagne*** (intégré dans [28](28-bretagne.md) §3 bis : 138 mm à l'hiver 1940-41, deux 340 mm en 1942-43 ; 🔧 levage des tubes de 340 mm) : ses 138 mm et 340 mm restent-ils à bord, ou arment-ils une batterie du golfe de Palmas ?
 [JR] ils serviront rapidement a armer une batterie du golfe de Palmas
 53. ✅ **Le commandant du *Bretagne*** : le capitaine de vaisseau **Louis Le Pivain**, son commandant réel [histoire] ([28](28-bretagne.md) §7).
 
 ### La flotte des années 1950 ([29](29-flotte-des-annees-1950.md) §8)
 
-54. ❓ **Le sous-marin actif** : lequel (italien des classes *Adua* ou *Argonauta*, ou français d'Oran ou de Bizerte) et son nom ?
+54. ✅ **Le sous-marin actif** : l'***Alagi*** (classe *Adua*, VII Grupsom de Cagliari, au port le 1er juillet 1940), intégré dans [29](29-flotte-des-annees-1950.md) §4.1 et [12](12-flottes-survivantes.md) §4. Question d'origine : lequel (italien des classes *Adua* ou *Argonauta*, ou français d'Oran ou de Bizerte) et son nom ?
 [JR] un sous marin italien de ton choix
-55. ❓ **Les avisos neufs** (vers 1958-1965) : combien, et leurs noms (la première série construite par l'îlot) ?
+55. ✅ **Les avisos neufs** (principe intégré dans [29](29-flotte-des-annees-1950.md) §6 et [30](30-formation-technique.md) §6 : chalutiers armés en 1955-1960, chantier naval de l'Îlot vers 1956-1960, option de construction navale ; ❓ restent nombre, noms et lieu du chantier) : combien, et leurs noms (la première série construite par l'îlot) ?
 [JR] quelles infrastrutures pour construire ces avisos ? j imagine qu initialement ce seront des chalutiers re convertis ... il faudra developper un chantier naval sur l ile.. avec la necessite de former des ingenieurs specialise dans la construction navale.
-56. ❓ **Les navires oubliés** : torpilleurs italiens, navires de Bizerte, navires de Toulon (B7) : tous désarmés, ou l'un d'eux reprend-il du service ?
+56. ✅ **Les navires oubliés** (intégré dans [29](29-flotte-des-annees-1950.md) §4.4 : navires de garde avec soute scellée ; reste à les nommer) : torpilleurs italiens, navires de Bizerte, navires de Toulon (B7) : tous désarmés, ou l'un d'eux reprend-il du service ?
 [JR] certains seront envoyer en poste dans les garnisons de Albanie, Malte et Gilbraltar - Pour servir de navire de secours en cas d evacuation urgente
 
 ### La formation technique ([30](30-formation-technique.md) §9)
 
 57. ❓ **Les lieux** : où installer l'École technique à Cagliari, et où est l'arsenal de Cagliari ?
-58. ❓ **La langue d'enseignement** de l'École technique et des *Cahiers techniques* : français ou langue de bord ? (voir B10)
+58. ✅ **La langue d'enseignement** (intégré dans [30](30-formation-technique.md) §4 et §7, [13](13-societe-de-bord.md) §7) de l'École technique et des *Cahiers techniques* : français ou langue de bord ? (voir B10)
 [JR] anglais sera la langue de l enseignement pour integrer italiens et anglais - mais a bord de chaque navire / bord la langue locale est de mise
-59. ❓ **Le papier et l'imprimerie** des *Cahiers techniques* (voir B19).
+59. ✅ **Le papier et l'imprimerie** (intégré dans [30](30-formation-technique.md) §7 bis : stocks, puis moulin à chiffon et paille vers 1947, papeterie mécanique vers 1956 ; Imprimerie de l'Îlot dans les ateliers de *L'Unione Sarda* ; ❓ lieu de la papeterie ; voir aussi B19) des *Cahiers techniques* (voir B19).
 [JR] j imagine qu il sera necessaire de developper une industrie de papetrie / imprimerie locale
 
 ### Le *Commandant Teste* ([31](31-commandant-teste.md) §8)
 
 60. ❓ **Le quai du *Commandant Teste*** : môle de Ponente ou môle Sabaudo ? (lié à B57, l'emplacement de l'arsenal)
 61. ✅ **Son commandant** : nom réel non retrouvé ; personnage inventé, le capitaine de vaisseau **René Castagnet** ([31](31-commandant-teste.md) §8).
+
+### Toulon ([33](33-toulon.md) §9)
+
+62. ❓ **Le message « Ne venez pas »** : le garder à Duplat, ou le confier au préfet maritime (Devin, puis Vallée) ?
+63. ❓ **Ceux qui restent** : que trouve-t-on à Saint-Mandrier en 1953 (nombre de survivants, société) ?
+64. ❓ **La garnison de Toulon** (1956) : nom, chef, emplacement (arsenal, Saint-Mandrier, fort de Balaguier ?).
+65. ✅ **La démographie** (appliqué : modèle, [21](21-demographie.md), [11](11-ilot-de-civilisation.md) et atlas mis à jour) : faut-il compter le second départ de Toulon (~1 200 en 1944, ~1 000 présents en 1946) dans le modèle ? *Proposition : oui, à total constant (49 000 en 1946), en réduisant d'autant l'estimation des civils sardes ; effet : 176 hommes pour 100 femmes en 1946 au lieu de 172, ~76 700 habitants en 1960 au lieu de ~77 100.*
 
 ## C. Points scientifiques à affiner
 
@@ -249,7 +262,7 @@
 - [ ] 🔎 Le port de Cagliari en 1940 : fonds de la rade devant Su Siccu, cales sèches de Cagliari et de La Maddalena, remorqueurs ; fonction du Palazzo Regio en 1940 ([23](23-dunkerque-siege-du-conseil.md)).
 
 **Sardaigne** :
-- [ ] 🔎 Commandement militaire italien en Sardaigne en 1940 (Marine, armée, préfecture), pour situer l'amiral Lai.
+- [ ] 🔎 Commandement militaire italien en Sardaigne en 1940 (Marine, armée, préfecture), *Fait : XIII Corpo d'Armata (de Pignier), amiral Sportiello, général Vespignani, préfet Leone Leone ([10](10-choix-du-refuge.md) §9 bis) ; reste l'effectif total.*
 - [ ] 🔎 Charbon du Sulcis : production et effectifs réels de Carbonia en 1940 ; centrales des mines ; état des centrales du Tirso et du Coghinas.
 - [ ] 🔎 Dépôts de mazout de la Regia Marina à Cagliari et à La Maddalena ([15](15-energie.md) §3).
 - [ ] 🔎 **Démographie de la Sardaigne en 1936** : pyramide des âges, espérance de vie, mortalité infantile ([21](21-demographie.md)).

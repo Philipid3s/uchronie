@@ -80,3 +80,24 @@
 - uboat.net, *Bretagne* : capitaine de vaisseau Louis René Edmond Le Pivain, mort le 3 juillet 1940. https://uboat.net/allies/warships/ship/5968.html
 - uboat.net, mouvements du *Provence* au printemps 1940 : capitaine de vaisseau G.T.E. Barois (à recouper avec une source française).
 - Non retrouvés en ligne : les commandants du *Dunkerque*, du *Commandant Teste* et du *Georges Leygues* en juillet 1940, le second de l'*Ark Royal*. À chercher au Service historique de la Défense (annuaires de la Marine 1940) et dans la *Navy List* britannique de 1940.
+
+## Sardaigne 1940 : forces italiennes, industrie, chantiers (chapitres 11, 12, 28, 29, 30)
+
+- *XIII Army Corps (Italy)*, Wikipedia (en), et regioesercito.it : XIII Corpo d'Armata à Cagliari, général Augusto de Pignier (1937 – 1er novembre 1940). https://en.wikipedia.org/wiki/XIII_Army_Corps_(Italy) ; https://www.regioesercito.it/pages/recda13.html
+- *30th Infantry Division "Sabauda"* et *31st Infantry Division "Calabria"*, Wikipedia (en) : garnisons, régiments, commandants (Scanagatta ; Petra di Caccuri). https://en.wikipedia.org/wiki/30th_Infantry_Division_%22Sabauda%22 ; https://en.wikipedia.org/wiki/31st_Infantry_Division_%22Calabria%22
+- Nuovadifesa, ordre de bataille de la défense territoriale de 1940 (site amateur, à recouper). https://nuovadifesa.altervista.org/ordine-battaglia-del-regio-esercito-1940-difesa-territoriale/
+- *Ettore Sportiello*, Wikipedia (en) : commandant des forces navales de Sardaigne en 1940 (à recouper). https://en.wikipedia.org/wiki/Ettore_Sportiello
+- *Aeronautica della Sardegna*, Wikipedia (it) : général Ottorino Vespignani, unités au 10 juin 1940. https://it.wikipedia.org/wiki/Aeronautica_della_Sardegna_-_ASAR
+- Albo dei prefetti, préfecture de Cagliari : Leone Leone, préfet du 20 février 1940 au 15 juin 1943. https://prefettura.interno.gov.it/it/prefetture/cagliari/prefettura/prefetto/albo-dei-prefetti
+- Italiansubmarines.com, juin et juillet 1940 : VII Grupsom de Cagliari (C.F. Giovanni di Gropello), patrouilles de l'*Alagi*, de l'*Axum*, de l'*Aradam* et du *Turchese*. https://www.italiansubmarines.com/june-1940/ ; https://www.italiansubmarines.com/july-1940/
+- Micromegakaralis et Sardegna Sotterranea : cimenterie de Cagliari (Sant'Avendrace, années 1920, béton du barrage du Tirso) ; fours à chaux Maxia (1908-1975). https://www.micromegakaralis.it/antiche-ciminiere-del-cagliaritano/ ; https://www.sardegnasotterranea.org/per-non-dimenticare-storia-dellex-cementeria-di-cagliari/
+- Sardegna Abbandonata : la cimenterie de Scala di Giocca (Sassari) date de 1956-1957. https://www.sardegnaabbandonata.it/cementificio-di-scala-di-giocca/
+- *L'Unione Sarda*, Wikipedia (it) : imprimerie du viale Regina Elena (anciens locaux de la Società Tipografica Sarda). https://it.wikipedia.org/wiki/Unione_Sarda
+- Commune de Tortolì : la cartiera d'Arbatax ouvre en 1963 (aucune papeterie sarde antérieure retrouvée).
+- Région Sardaigne (2006) : arsenal de La Maddalena (ancien chantier de Moneta, cale de halage, forme de radoub). https://www.regione.sardegna.it/documenti/1_26_20061113152302.pdf
+
+## Toulon 1940 (chapitres 06, 07)
+
+- Liste des préfets maritimes de Toulon, Wikipedia (fr) : vice-amiral d'escadre Léon-Henri Devin (janvier – juillet 1940). https://fr.wikipedia.org/wiki/Liste_des_pr%C3%A9fets_maritimes_de_Toulon
+- *Émile Duplat*, Wikipedia (fr) : commandant de la 3e escadre, pavillon sur l'*Algérie*. https://fr.wikipedia.org/wiki/%C3%89mile_Duplat
+- *French cruiser Foch*, Wikipedia (en) : sortie de l'*Algérie*, du *Foch* et du *Colbert* le 3 juillet 1940. https://en.wikipedia.org/wiki/French_cruiser_Foch

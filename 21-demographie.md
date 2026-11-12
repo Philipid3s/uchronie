@@ -21,22 +21,22 @@
 | Mars 1941 | ~205 000 | — | Le premier hiver |
 | Fin 1941 | ~95 000 | — | L'année sans soleil, le typhus |
 | 1943 | ~54 000 | ~175 | Première vraie récolte. Plus aucune naissance depuis deux ans |
-| **1946** | **~49 000** | **~172** | Point bas. La Morìa ([14](14-epidemie.md)) |
-| **1950** | **~54 000** (canon : ~55 000) | ~162 | Le « grand berceau » : 2 400 à 2 500 naissances par an |
-| 1955 | ~65 000 | ~144 | Les premières dotées de la patente (§4.4) |
-| **1960** | **~77 000** | ~132 | Plus d'un habitant sur trois a moins de 15 ans |
+| **1946** | **~49 000** | **~176** | Point bas. La Morìa ([14](14-epidemie.md)) |
+| **1950** | **~54 000** (canon : ~55 000) | ~164 | Le « grand berceau » : 2 400 à 2 500 naissances par an |
+| 1955 | ~65 000 | ~146 | Les premières dotées de la patente (§4.4) |
+| **1960** | **~77 000** | ~134 | Plus d'un habitant sur trois a moins de 15 ans |
 
 ### 2.2 Naissances, décès, immigration (1946-1960) [canon provisoire]
 
 | Année | Naissances | Décès | Immigrés | Natalité (‰) | Mortalité (‰) |
 |---|---|---|---|---|---|
-| 1946 | ~1 400 | ~1 100 | — | 29 | 22 (dont la Morìa) |
-| 1947 | ~2 000 | ~900 | — | 41 | 18 |
-| 1948 | ~2 350 | ~830 | — | 47 | 16 |
-| 1950 | ~2 500 | ~920 | ~350 | 46 | 17 |
-| 1952 | ~2 500 | ~960 | ~850 | 43 | 17 |
-| 1955 | ~2 550 | ~990 | ~850 | 40 | 15 |
-| 1959 | ~2 650 | ~1 040 | ~850 | 35 | 14 |
+| 1946 | ~1 410 | ~1 080 | — | 29 | 22 (dont la Morìa) |
+| 1947 | ~2 000 | ~870 | — | 40 | 18 |
+| 1948 | ~2 320 | ~820 | — | 46 | 16 |
+| 1950 | ~2 460 | ~910 | ~350 | 46 | 17 |
+| 1952 | ~2 450 | ~950 | ~850 | 42 | 17 |
+| 1955 | ~2 530 | ~990 | ~850 | 39 | 15 |
+| 1959 | ~2 610 | ~1 030 | ~850 | 35 | 14 |
 
 **Ce que montrent ces chiffres** :
 - **Le « grand berceau » de 1947-1950** : une natalité de 45 ‰, comparable à celle des pays les plus féconds de 1940. C'est le baby-boom de l'après-catastrophe, comme après chaque grande famine ou épidémie [histoire : la reprise des naissances après la peste noire et après la famine irlandaise est bien documentée].
@@ -49,20 +49,20 @@
 
 | Âge | Hommes | Femmes | H/100 F | % |
 |---|---|---|---|---|
-| 0-4 | 1 430 | 1 370 | 104 | 5,7 |
-| 5-9 | 1 000 | 960 | 104 | 4,0 |
-| 10-14 | 1 100 | 1 050 | 104 | 4,4 |
-| 15-19 | 1 210 | 1 650 | 73 | 5,8 |
-| 20-24 | 3 440 | 2 410 | 143 | 11,9 |
-| **25-29** | **6 820** | 2 480 | **275** | **19,0** |
-| **30-34** | **5 830** | 2 240 | **260** | **16,5** |
-| 35-39 | 3 850 | 1 800 | 213 | 11,5 |
-| 40-44 | 2 530 | 1 370 | 185 | 7,9 |
-| 45-49 | 1 790 | 1 050 | 171 | 5,8 |
-| 50-54 | 1 240 | 760 | 164 | 4,1 |
-| 55-64 | 700 | 720 | 98 | 2,9 |
-| 65 + | 100 | 130 | 72 | 0,5 |
-| **Total** | **~31 000** | **~18 000** | **172** | 100 |
+| 0-4 | 1 420 | 1 360 | 104 | 5,7 |
+| 5-9 | 990 | 950 | 104 | 4,0 |
+| 10-14 | 1 090 | 1 040 | 104 | 4,4 |
+| 15-19 | 1 170 | 1 620 | 72 | 5,7 |
+| 20-24 | 3 440 | 2 360 | 146 | 11,8 |
+| **25-29** | **6 940** | 2 450 | **284** | **19,2** |
+| **30-34** | **5 930** | 2 210 | **268** | **16,6** |
+| 35-39 | 3 900 | 1 780 | 219 | 11,6 |
+| 40-44 | 2 550 | 1 350 | 189 | 8,0 |
+| 45-49 | 1 800 | 1 030 | 174 | 5,8 |
+| 50-54 | 1 240 | 750 | 167 | 4,1 |
+| 55-64 | 690 | 710 | 98 | 2,8 |
+| 65 + | 90 | 130 | 71 | 0,5 |
+| **Total** | **~31 250** | **~17 750** | **176** | 100 |
 
 **Lecture** :
 - **Un ventre d'hommes de 25 à 40 ans** : ce sont les marins de 1940, qui avaient alors 19 à 34 ans. À eux seuls, les 25-34 ans font plus d'un tiers de l'îlot.
@@ -75,16 +75,16 @@
 
 | Âge | Hommes | Femmes | H/100 F | % |
 |---|---|---|---|---|
-| **0-4** | **4 010** | **3 820** | 105 | **14,5** |
-| 5-9 | 920 | 880 | 104 | 3,4 |
-| 10-14 | 1 100 | 1 060 | 104 | 4,0 |
-| 15-24 | 2 700 | 2 900 | 93 | 10,4 |
-| 25-34 | 10 350 | 4 690 | 221 | 27,9 |
-| 35-44 | 8 670 | 3 710 | 234 | 23,1 |
-| 45-54 | 3 870 | 2 190 | 177 | 11,3 |
-| 55-64 | 1 400 | 1 010 | 139 | 4,4 |
-| 65 + | 220 | 310 | 73 | 1,0 |
-| **Total** | **~33 250** | **~20 600** | **162** | 100 |
+| **0-4** | **3 950** | **3 770** | 105 | **14,4** |
+| 5-9 | 910 | 880 | 104 | 3,3 |
+| 10-14 | 1 090 | 1 050 | 104 | 4,0 |
+| 15-24 | 2 650 | 2 860 | 93 | 10,3 |
+| 25-34 | 10 480 | 4 620 | 227 | 28,1 |
+| 35-44 | 8 800 | 3 670 | 240 | 23,2 |
+| 45-54 | 3 900 | 2 160 | 180 | 11,3 |
+| 55-64 | 1 400 | 1 000 | 141 | 4,5 |
+| 65 + | 220 | 300 | 72 | 1,0 |
+| **Total** | **~33 400** | **~20 300** | **164** | 100 |
 
 Un enfant de moins de cinq ans pour sept habitants : **les crèches et les maternités deviennent un besoin de premier rang** (§5). Au-dessus, le creux des enfants de la Nuit (5-9 ans) est très visible.
 
@@ -92,13 +92,13 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 
 | Âge | Hommes | Femmes | H/100 F | % |
 |---|---|---|---|---|
-| 0-14 | 14 710 | 14 200 | 104 | **37** |
-| 15-19 (les enfants de la Nuit) | 1 100 | 1 180 | 93 | 3,0 |
-| 20-34 (dont les dotées) | 5 240 | 6 220 | 84 | 14,9 |
-| 35-49 (les marins de 1940) | 15 170 | 7 240 | 210 | 29,1 |
-| 50-64 | 6 490 | 3 460 | 188 | 12,9 |
-| 65 + | 1 190 | 920 | 129 | 2,7 |
-| **Total** | **~43 900** | **~33 200** | **132** | 100 |
+| 0-14 | 14 510 | 14 010 | 104 | **37** |
+| 15-19 (les enfants de la Nuit) | 1 090 | 1 170 | 93 | 3,0 |
+| 20-34 (dont les dotées) | 5 190 | 6 160 | 84 | 14,8 |
+| 35-49 (les marins de 1940) | 15 380 | 7 150 | 215 | 29,4 |
+| 50-64 | 6 560 | 3 420 | 192 | 13,0 |
+| 65 + | 1 180 | 900 | 131 | 2,7 |
+| **Total** | **~43 900** | **~32 800** | **134** | 100 |
 
 - **Deux îlots dans l'îlot** : au-dessous de 35 ans, une population **jeune, où les femmes sont même un peu plus nombreuses** (l'effet des dotées, §4.4) ; au-dessus, la **génération des fondateurs**, masculine aux deux tiers.
 - **Le rapport de dépendance monte à 67 pour 100** : l'îlot doit maintenant nourrir, vêtir et instruire 29 000 enfants. L'école devient le premier poste de dépense après les vivres et le charbon.
@@ -110,10 +110,10 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 
 | | 1946 | 1950 | 1955 | 1960 |
 |---|---|---|---|---|
-| Hommes pour 100 femmes (tous âges) | 172 | 161 | 144 | 132 |
-| Hommes pour 100 femmes (20-39 ans) | 223 | 201 | 156 | 104 |
-| Femmes de 15 à 44 ans | ~11 950 | ~11 300 | ~12 000 | ~12 550 |
-| **Hommes de 18 à 44 ans sans épouse possible** | **~12 000** | **~11 000** | **~8 500** | **~5 000** |
+| Hommes pour 100 femmes (tous âges) | 176 | 164 | 146 | 134 |
+| Hommes pour 100 femmes (20-39 ans) | 230 | 207 | 159 | 105 |
+| Femmes de 15 à 44 ans | ~11 770 | ~11 150 | ~11 840 | ~12 430 |
+| **Hommes de 18 à 44 ans sans épouse possible** | **~12 500** | **~11 500** | **~9 000** | **~5 000** |
 
 *Avec l'immigration féminine (§4.4). Sans elle, il resterait environ 6 000 hommes sans épouse possible en 1960.*
 
@@ -123,8 +123,8 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 
 - **Les flottes** : environ 21 000 hommes pour quelques centaines de femmes (infirmières, Wrens de Gibraltar).
 - **Les militaires italiens** : environ 3 300 survivants, tous des hommes.
-- **Chez les civils sardes, c'est l'inverse** : environ 15 000 femmes pour 11 000 hommes en 1946. La famine tue davantage les hommes (c'est un fait observé dans presque toutes les grandes famines [histoire]), et les hommes sardes sont morts en plus grand nombre dans les combats pour les vivres de 1940-41 ([11](11-ilot-de-civilisation.md) §7).
-- **Résultat** : presque toutes les femmes de l'îlot sont mariées, et **une femme sarde sur deux épouse un marin des flottes** [estimation]. Pourtant, en 1946, environ **12 000 hommes jeunes** n'ont aucune perspective de mariage.
+- **Chez les civils sardes, c'est l'inverse** : environ 14 200 femmes pour 10 600 hommes en 1946. La famine tue davantage les hommes (c'est un fait observé dans presque toutes les grandes famines [histoire]), et les hommes sardes sont morts en plus grand nombre dans les combats pour les vivres de 1940-41 ([11](11-ilot-de-civilisation.md) §7).
+- **Résultat** : presque toutes les femmes de l'îlot sont mariées, et **une femme sarde sur deux épouse un marin des flottes** [estimation]. Pourtant, en 1946, environ **12 500 hommes jeunes** n'ont aucune perspective de mariage.
 
 ### 4.3 Les précédents historiques [histoire]
 
@@ -318,14 +318,15 @@ On part des **besoins de l'île en 1950** (nourriture, énergie, vêtements, san
 
 | Origine | 1946 | Part | En 1960 |
 |---|---|---|---|
-| Sardes (civils) | ~25 750 | 53 % | Toujours la majorité, mais les enfants de couples mixtes sont **la moitié des naissances** |
+| Sardes (civils) | ~24 750 | 51 % | Toujours la majorité, mais les enfants de couples mixtes sont **la moitié des naissances** |
 | Marins et civils des flottes (Français, Britanniques) | ~16 300 | 33 % | Une génération d'hommes de 40 à 60 ans, au sommet de la hiérarchie |
 | Militaires italiens | ~3 300 | 7 % | Fondus dans la population |
 | Corses | ~3 000 | 6 % | Pêcheurs, marins, médecins |
+| Second départ de Toulon (1944) | ~1 000 | 2 % | Ouvriers d'arsenal, marins et familles ([33](33-toulon.md) §5) |
 | Rescapés de Bizerte et Maltais | ~650 | 1 % | — |
 | Entrées de 1949-1959 : dotées, recueillis, villages de la Barbagia (§4.7) | — | — | ~7 850 (10 %) |
 
-La première génération née dans l'île (après 1944) est **sarde par la mère et étrangère par le père** dans un cas sur deux. C'est elle qui parle la **langue de bord** comme langue maternelle ([13](13-societe-de-bord.md) §7).
+La première génération née dans l'île (après 1944) est **sarde par la mère et étrangère par le père** dans un cas sur deux. C'est elle qui parle la **langue de bord** comme langue maternelle : un **créole franco-anglo-italien**, dans une diglossie où l'école se fait en anglais ([13](13-societe-de-bord.md) §7 bis).
 
 ## 7. Points à vérifier
 

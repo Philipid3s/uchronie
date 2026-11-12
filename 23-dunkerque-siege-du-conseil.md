@@ -39,7 +39,7 @@
 - **Le français est la langue de travail** du Conseil ([11](11-ilot-de-civilisation.md) §8), et l'état-major de Gensoul est déjà en place à bord.
 - **Le partage des rôles** : Somerville garde sa marque sur le *Hood*, qui devient la **forteresse** du golfe ([24](24-hood-forteresse-du-golfe.md)). La force (le *Hood*) monte la garde pendant que le Conseil (le *Dunkerque*) délibère. Chacun des deux grands alliés tient un des deux symboles.
 - **La proximité de la ville** : le *Dunkerque* mouille devant Cagliari ; le *Strasbourg*, centrale du Sulcis, mouille dans le golfe de Palmas jusqu'en 1948, puis rejoint son jumeau devant Cagliari comme navire de réserve ([27](27-strasbourg.md)).
-- **Lai reste à terre**, au Commandement militaire maritime de Cagliari : il tient l'île et la population. Il monte à bord pour les séances.
+- **Sportiello reste à terre**, au Commandement militaire maritime de Cagliari : il tient l'île et la population. Il monte à bord pour les séances.
 
 ## 3. Le mouillage [canon provisoire]
 
@@ -66,7 +66,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 - **La salle des transmissions** : avec l'ouverture des centres d'Elmas et du Poetto (1942), le central radio du bord devient le **central du Conseil**. Les messages arrivent par téléphone ; les émetteurs du bord restent en **secours** ([16](16-contacts-radio.md)).
 - **Le désarmement partiel** : la **tourelle I** (330 mm) reste armée, avec un équipage réduit, et ses soutes pleines : elle suffit à dissuader une flottille ([11](11-ilot-de-civilisation.md) §9). La **tourelle II** et la plupart des 130 mm sont mises en réserve ; leurs servants partent vers les bords de terre.
 - **1943 : l'accord de Bonaria** est signé au sanctuaire ([22](22-organisation-militaire.md) §2), puis **son original est déposé à bord**, dans le coffre du Conseil. Le **Grand Carré**, créé la même année, ne siège pas sur le *Dunkerque*, trop petit : il se réunit dans le **hangar de l'*Ark Royal***, le plus grand espace couvert de l'îlot, jusqu'au démantèlement du navire en 1957 ([25](25-ark-royal.md)) ([12](12-flottes-survivantes.md)).
-- **1944 : l'île fermée** ([14](14-epidemie.md)). Le bord devient un sanctuaire sanitaire : nul ne monte à bord sans être passé au poste de visite de Su Siccu, amiral Lai compris.
+- **1944 : l'île fermée** ([14](14-epidemie.md)). Le bord devient un sanctuaire sanitaire : nul ne monte à bord sans être passé au poste de visite de Su Siccu, amiral Sportiello compris.
 
 ### 4.3 1945-1955 : le bâtiment du Conseil et de l'École
 
@@ -145,7 +145,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 
 | Période | Ce qui passe à terre | Ce qui reste à bord |
 |---|---|---|
-| **Toujours** | Le **Siège de l'Administration de l'île** : Lai et ses services n'ont jamais quitté le Commandement militaire maritime de Cagliari | — |
+| **Toujours** | Le **Siège de l'Administration de l'île** : Sportiello et ses services n'ont jamais quitté le Commandement militaire maritime de Cagliari | — |
 | **1952 – 1955** | Les **services** qui grandissent avec la réouverture : immigration et patente, expéditions, grands travaux. Ils s'installent dans les **magasins du port à Su Siccu**, au pied de Bonaria | Les séances, le secrétariat, les Sièges des Vivres et de la Défense, les archives |
 | **1955** | L'**École navale** ([13](13-societe-de-bord.md) §4 quater) | — |
 | **1957 – 1958** | Avec la jetée, les bâtiments de Su Siccu et le navire posé forment un seul ensemble : le **quartier du Conseil** | Le navire est la **tête** du quartier |

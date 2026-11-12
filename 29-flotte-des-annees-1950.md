@@ -37,7 +37,7 @@ Les autres sont mis **en réserve** (s'ils peuvent servir en dernier recours), *
 | **Le pétrolier** | Le brut d'Albanie : deux voyages par an | ~15 | Pas de charbon : **~300 t de fioul par voyage**, pris sur sa cargaison (§4) | ~50 | — |
 | **Huit petits vapeurs** | Pêche, cabotage, patrouille côtière | ~150 chacun | ~4 800 t | ~120 | Construits dans l'île, sur un même modèle |
 | **Deux remorqueurs** | Port de Cagliari | ~250 | ~1 000 t | ~20 | — |
-| **Un sous-marin** [à nommer] | Reconnaissance discrète, relais radio, missions lointaines à faible consommation | ~30 | **~50 t d'huile de goudron** | ~45 | Les autres sous-marins de 1940 |
+| **Le sous-marin *Alagi*** (§4.1) | Reconnaissance discrète, relais radio, missions lointaines à faible consommation | ~30 | **~50 t d'huile de goudron** | ~45 | Les autres sous-marins de 1940 |
 | **Total** | | | **~31 000 t de charbon** | **~1 000 marins** | |
 
 **Le bilan** : la flotte active consomme **6 à 10 % du charbon de l'île**, presque pas de mazout, et un millier de marins, plus quelques centaines d'ouvriers à l'arsenal et dans les ateliers. **C'est viable.** Un second croiseur actif doublerait le premier poste de la liste pour un usage rare : on y renonce (option 2C).
@@ -47,6 +47,8 @@ Les autres sont mis **en réserve** (s'ils peuvent servir en dernier recours), *
 ## 4. Trois cas particuliers [canon : principe ; provisoire : détail]
 
 ### 4.1 Le sous-marin et ses batteries (option 1A)
+
+**Le navire** (décision de l'auteur : un sous-marin italien, choisi ici) : l'***Alagi***, sous-marin côtier de la **classe *Adua*** (~700 t en surface, lancé en 1936 🔎), de la 71ª Squadriglia du VII Grupsom de Cagliari, commandé en 1940 par le capitaine de corvette **Stefano Nurra** [histoire]. Il est rentré de patrouille le 20 juin 1940 et se trouve au port de Cagliari quand la comète frappe ([12](12-flottes-survivantes.md) §4). **Pourquoi lui** : il est sur place, ses frères de classe (*Axum*, *Aradam*) sont dans le même port et deviennent ses **donneurs de pièces**, et la classe *Adua* est simple et robuste. **Dans notre histoire**, l'*Alagi* survit d'ailleurs à toute la guerre [histoire 🔎].
 
 **Le problème** : un sous-marin plonge sur ses **batteries d'accumulateurs au plomb**. Elles durent **quatre à six ans** [estimation] : celles de 1940 sont mortes vers 1946.
 
@@ -72,6 +74,22 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 - à chaque retour, le pétrolier **garde environ 300 t du fioul distillé** de la cargaison précédente pour le voyage suivant ;
 - c'est **3 à 6 % du brut rapporté** : le pétrole paie son propre transport ;
 - pas de conversion au charbon, pas de citerne perdue, et **la réserve de l'Amirauté n'est plus touchée**, sauf pour le premier voyage de 1950.
+
+### 4.4 Les navires de garde des avant-postes [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : certains des **navires oubliés** (torpilleurs italiens, navires de Bizerte, contre-torpilleurs désarmés) reprennent du service : ils sont **mis en poste dans les garnisons de l'Albanie, de Malte et de Gibraltar**, comme **navires de secours en cas d'évacuation urgente**.
+
+**Le principe** : un avant-poste est à plusieurs jours de mer de Cagliari (Malte : ~600 km ; Sazan : ~1 300 km ; Gibraltar : ~1 300 km). Si la garnison est attaquée, frappée par une épidémie ou coupée de ses relèves, elle doit pouvoir partir **par ses propres moyens**, sans attendre le *Georges Leygues*. D'où un navire **à poste**, au mouillage, qui ne sort presque jamais.
+
+| Avant-poste | Navire de garde [canon provisoire] | Pourquoi lui |
+|---|---|---|
+| **Malte** (Trois Cités) | Un **torpilleur italien** de la classe *Spica* (~650 t, ~120 personnes en surcharge) 🔎 | Petit, facile à garder au mazout ; docks de Malte à portée pour l'entretien |
+| **Sazan** (Albanie) | Un **contre-torpilleur** de Bizerte ou d'Oran (~2 500 t, ~300 personnes en surcharge) | Le seul avant-poste qui a son propre fioul : le brut de Vlorë, distillé à Cagliari et renvoyé par le pétrolier ([18](18-expedition-albanie.md)) |
+| **Gibraltar** | Un second torpilleur italien, qui rejoint le *Wrestler* et le *Vidette* | Renforcer la garnison, qui garde ses propres navires ([07](07-le-monde-apres.md) §2 bis) |
+
+**Le plein d'évacuation** : ces navires marchent au mazout, que l'île n'a presque plus ([15](15-energie.md)). Chacun garde donc **une soute scellée**, juste assez pour **un seul voyage** vers le refuge le plus proche (Malte pour Sazan, Cagliari pour Malte, Cagliari pour Gibraltar) : quelques dizaines à quelques centaines de tonnes, prises sur le brut d'Albanie [estimation 🔧]. Le scellé ne se rompt que sur ordre du chef de la garnison, qui en répond devant le Conseil. C'est le **Plan de l'Arche** ([27](27-strasbourg.md) §5) à l'échelle d'un avant-poste.
+
+**La vie à poste** : un équipage réduit (30 à 60 hommes), relevé avec la garnison ; une chauffe d'essai par an ; le navire sert aussi de poste radio de secours et de logement. Il ne patrouille pas : la garde des côtes reste aux avisos et aux petits vapeurs.
 
 ## 5. La doctrine d'entretien [canon : principe ; provisoire : détail]
 
@@ -103,9 +121,19 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 | **Cargos** | Années 1910-1930 | 1960-1975 | Selon la coque |
 | **Sous-marin** | Années 1930 | Vers 1960 | La coque épaisse résiste à la pression ; c'est elle qui fatigue |
 
-**La succession des avisos** : vers 1960-1965, la *Tornade* et le *Typhon* arrivent en bout de course. Il faut donc **préparer leur remplacement dès le milieu des années 1950** :
-- des **avisos neufs** de 400 à 600 t, construits à Cagliari [canon provisoire] : une coque rivetée avec l'**acier des démolitions** (l'*Ark Royal* à partir de 1957, [25](25-ark-royal.md) §6) ; une **machine à triple expansion** et des chaudières cylindriques prises sur les cargos désarmés ;
-- **une dizaine de nœuds** seulement, mais une machine simple, que l'île sait réparer.
+**La succession des avisos** : vers 1960-1965, la *Tornade* et le *Typhon* arrivent en bout de course. Il faut donc **préparer leur remplacement dès le milieu des années 1950**.
+
+**Décision de l'auteur** : d'abord des **chalutiers reconvertis** ; puis un **chantier naval** dans l'île, ce qui oblige à **former des ingénieurs spécialisés dans la construction navale**.
+
+**Ce qu'il y a en 1940** [histoire] : l'île n'a **pas de chantier de construction** de navires d'acier. L'**arsenal de La Maddalena** (fondé vers 1891-1895 sur l'ancien chantier de Moneta) a une cale de halage, des ateliers et peut-être une forme de radoub 🔎 ; à Cagliari, des ateliers de réparation ; à **Carloforte**, une tradition de charpentiers de barques en bois ([sources](annexes/sources.md)).
+
+| Étape | Ce qu'on fait [canon provisoire] |
+|---|---|
+| **1955 – 1960 : les chalutiers armés** | Les meilleurs chalutiers à vapeur de 1940 (de 300 à 500 t, déjà au charbon) sont **reconvertis en avisos** : un canon de 75 ou de 100 mm pris sur les désarmés, une mitrailleuse, une radio, des logements pour une vingtaine d'hommes. C'est ce que la Royal Navy et la Marine française ont fait en masse en 1939-1940 [histoire]. Deux ou trois suffisent pour la garde des côtes et l'escorte contre les pirates ([07](07-le-monde-apres.md) §1 bis) |
+| **1956 – 1960 : le chantier naval de l'Îlot** | Une **cale de construction** à côté de l'arsenal de Cagliari [lieu à décider, B57], des grues prises sur le *Commandant Teste* et les navires démolis, un atelier de rivetage, l'acier de l'*Ark Royal* (1957-1963). Les ouvriers viennent de la section **Coque et chaudronnerie** de l'École technique et des charpentiers de Carloforte |
+| **Vers 1960 – 1965 : les avisos neufs** | Le premier navire d'acier construit dans l'île : **400 à 600 t**, coque rivetée, **machine à triple expansion** et chaudières cylindriques prises sur les cargos désarmés, **une dizaine de nœuds** ; une machine simple, que l'île sait réparer. La série (nombre, noms) reste à décider |
+
+**Les ingénieurs de construction navale** : en 1940, l'île n'en a que quelques-uns (officiers du **Génie maritime** français et du **Genio Navale** italien, constructors de la Royal Navy) [estimation 🔎]. L'îlot crée une **option de construction navale** dans l'année d'application des ingénieurs, puis à la **faculté d'ingénieurs** de 1958 ([30](30-formation-technique.md) §6). Les premiers diplômés arrivent juste à temps pour les avisos neufs.
 
 ## 7. L'inventaire de 1955 : ce que devient chaque navire de 1940 [canon provisoire, sauf mention]
 
@@ -115,10 +143,11 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 | **En réserve** (dernier recours, mazout) | *Strasbourg* ([27](27-strasbourg.md)) ; *Volta* ([15](15-energie.md) §5) |
 | **En conservation** (coque de secours) | *Montcalm*, à La Maddalena |
 | **Donneurs de pièces** | *Gloire*, *La Galissonnière*, *Jean de Vienne*, *Marseillaise* (pour le *Georges Leygues*) ; *Trombe*, *Tramontane* (pour les avisos) ; les autres sous-marins ; les cargos désarmés ; *Bretagne* (pour le *Provence*, [28](28-bretagne.md)) |
-| **Désarmés, en attente** | *Foxhound*, *Faulknor* (réserve de 1948, puis pontons) ; *Arethusa*, *Enterprise* ; *Mogador*, *Le Terrible*, *Kersaint*, *Tigre*, *Lynx* ; les destroyers britanniques désarmés en 1942-43 ; les torpilleurs italiens et les MAS ; les navires de Bizerte ([16](16-contacts-radio.md) §4) |
+| **Navires de garde des avant-postes** (§4.4) | Un torpilleur italien à Malte, un contre-torpilleur à Sazan, un torpilleur italien à Gibraltar [canon : principe ; provisoire : choix des navires] |
+| **Désarmés, en attente** | *Foxhound*, *Faulknor* (réserve de 1948, puis pontons) ; *Arethusa*, *Enterprise* ; *Mogador*, *Le Terrible*, *Kersaint*, *Tigre*, *Lynx* (moins celui qui part pour Sazan) ; les destroyers britanniques désarmés en 1942-43 ; les autres torpilleurs italiens et les MAS ; les navires de Bizerte ([16](16-contacts-radio.md) §4) |
 | **Bords au mouillage** | *Dunkerque* (siège du Conseil), *Hood* (forteresse posée), *Ark Royal* (Grand Carré, puis démoli), *Provence* (maternité, puis école des mousses), *Bretagne* (grenier), *Commandant Teste* (atelier), *Valiant* et *Resolution* (pontons) |
-| **Hors de l'îlot** | *Wrestler*, *Vidette* : la garnison de Gibraltar ([07](07-le-monde-apres.md) §2 bis) |
-| **Selon la question B7** | *Algérie*, *Dupleix* et les contre-torpilleurs de Toulon, s'ils sont gardés au canon |
+| **Hors de l'îlot** | *Wrestler*, *Vidette* : la garnison de Gibraltar ([07](07-le-monde-apres.md) §2 bis) ; les navires de garde (§4.4) |
+| **Venus de Toulon** ([33](33-toulon.md)) | *Algérie*, *Dupleix* et les contre-torpilleurs d'août 1940, désarmés faute de mazout ; les petits navires du convoi de 1944 ; le *Foch* et le *Colbert*, restés à Toulon, retrouvés en 1953 |
 
 ## 8. Questions ouvertes
 
@@ -127,9 +156,9 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 3. ✅ **Le second croiseur** : non ; le *Montcalm* en conservation (option 2C).
 4. ✅ **Le pétrolier** : il brûle une part de sa cargaison distillée (option 3B).
 5. ✅ **Les avisos** : la *Tornade* et le *Typhon*.
-6. ❓ **Le sous-marin** : lequel ? Un italien (classes *Adua*, *Argonauta*) ou un français (Oran, Bizerte) ? Son nom 🔎.
-7. ❓ **Les avisos neufs** (vers 1958-1965) : combien, et leur nom (la première série de navires construits par l'îlot) ?
-8. ❓ **Les navires oubliés** : les torpilleurs italiens, les navires de Bizerte et ceux de Toulon (B7) sont-ils bien désarmés, ou l'un d'eux reprend-il du service ?
+6. ✅ **Le sous-marin** : un italien (décision de l'auteur), l'***Alagi*** (classe *Adua*), avec l'*Axum* et l'*Aradam* pour donneurs (§4.1).
+7. ✅ **Les avisos neufs** : d'abord des chalutiers reconvertis, puis un chantier naval et des ingénieurs de construction navale (décision de l'auteur, §6). ❓ Restent le nombre et les noms des avisos neufs, et le lieu du chantier.
+8. ✅ **Les navires oubliés** : certains sont mis **en poste dans les garnisons de l'Albanie, de Malte et de Gibraltar**, comme navires de secours en cas d'évacuation urgente (décision de l'auteur, §4.4). ❓ Reste à choisir et nommer les navires 🔎.
 9. 🔎 **Les classes** : dates de lancement de la *Tornade* et du *Typhon* ; parenté exacte des machines entre les sous-classes *La Galissonnière* et *Georges Leygues* ; cales de halage de Cagliari et de La Maddalena.
 10. 🔧 **Les batteries du sous-marin** : quantité de plomb, production d'acide sulfurique par chambres de plomb à partir du grillage de la blende, durée de vie de batteries faites dans l'île.
 11. 🔧 **Le budget de charbon** : consommations réelles des navires convertis ; part de la production de l'île.

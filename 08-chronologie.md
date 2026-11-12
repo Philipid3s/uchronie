@@ -2,6 +2,8 @@
 
 Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(prov.)* canon provisoire.
 
+**Périmètre** (décision de l'auteur) : la bible s'arrête **au début des années 1960** ; elle couvre vingt ans, **1940-1960**, pour un premier tome. Les dates postérieures (démolitions, relève des fondateurs) ne sont que des perspectives.
+
 ## Avant la divergence
 
 - **[H] Mai – juin 1940** : campagne de France. **[H]** Les civils de Gibraltar sont évacués.
@@ -26,13 +28,15 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 
 - **[U] 3 juillet** : Holland à Mers el-Kébir. La nuit s'installe : à midi, il fait aussi noir que par une nuit de pleine lune.
 - **[U] 4 juillet** : **conférence de Mers el-Kébir**. Création du Conseil des Amiraux (Gensoul, Somerville ; Holland à la liaison).
+- **[U] 3 – 6 juillet** : *(prov.)* **Toulon** : l'Amirauté (Nérac) ordonne à Gensoul de rentrer à Toulon et de rompre avec les Britanniques ; Gensoul refuse. Dans la nuit du 5 au 6, **l'amiral Duplat câble de Toulon : « Ne venez pas »** ([33](33-toulon.md) §3).
 - **[U] 5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; *(prov.)* le capitaine de frégate Mercadier présente la grille comparée tirée de son dossier sur la Sardaigne ; Holland fait valoir que l'île n'est ni française ni britannique. **La Sardaigne du Sud est choisie le 7 au matin** ([10](10-choix-du-refuge.md) §7). Les flottes partent **sans réponse de Cagliari, de gré ou de force** (§9).
 - **[U] 5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar. Embarquement d'environ 4 000 civils d'Oran.
 - **[U] Juillet 1940** : *(prov.)* 4 000 à 5 000 t de grain d'Oran embarquées sur le *Bretagne*, mouillé dans le golfe de Palmas : le **stock de sécurité** du Conseil ([28](28-bretagne.md)).
 - **[U] 8 – 12 juillet** : premiers contacts radio avec Cagliari. Ralliement de sous-marins italiens.
-- **[U] ~12 juillet** : **accord de Cagliari**. L'amiral Lai entre au Conseil, qui devient tripartite. La flotte conjointe mouille dans le golfe de Cagliari et le golfe de Palmas.
+- **[U] ~12 juillet** : **accord de Cagliari**. L'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne, entre au Conseil, qui devient tripartite. La flotte conjointe mouille dans le golfe de Cagliari et le golfe de Palmas.
 - **[U] Fin juillet** : il gèle sur les continents. Premières neiges sur le Gennargentu.
-- **[U] Août** : *(prov.)* arrivée de navires de Toulon. Réquisition et concentration des stocks sardes. Premières émeutes. *(prov.)* Ordonnance n° 1 : **Inscription générale**. Toute personne est rattachée à un bord ([13](13-societe-de-bord.md)). *(prov.)* Face aux émeutes, le Conseil choisit de **siéger à bord du *Dunkerque***, au mouillage devant Su Siccu, plutôt qu'au Palazzo Regio ([23](23-dunkerque-siege-du-conseil.md)).
+- **[U] Mi-juillet** : *(prov.)* à Toulon, la marine se replie dans l'arsenal et la presqu'île de Saint-Mandrier ([33](33-toulon.md) §4).
+- **[U] Août** : **premier départ de Toulon** : *(prov.)* l'*Algérie*, le *Dupleix* et des contre-torpilleurs, ~1 500 personnes ([33](33-toulon.md)). Réquisition et concentration des stocks sardes. Premières émeutes. *(prov.)* Ordonnance n° 1 : **Inscription générale**. Toute personne est rattachée à un bord ([13](13-societe-de-bord.md)). *(prov.)* Face aux émeutes, le Conseil choisit de **siéger à bord du *Dunkerque***, au mouillage devant Su Siccu, plutôt qu'au Palazzo Regio ([23](23-dunkerque-siege-du-conseil.md)).
 - **[U] Automne** : *(prov.)* Holland rédige le **Code de l'Îlot**, à bord de l'*Ark Royal*, qu'il commande ([25](25-ark-royal.md)). *(prov.)* **Accord du Rocher** : Gibraltar, avant-poste et partenaire, échange son mazout, ses cales sèches et la garde du détroit contre le blé sarde ([07](07-le-monde-apres.md) §2 bis).
 - **[U] Juillet – octobre** : contacts radio intermittents avec l'îlot de l'Est (Cunningham et Godfroy), qui s'installe en Crète.
 - **[U] Automne 1940 – 1941** : *(prov.)* **réfugiés corses** : 20 000 à 40 000 traversées des bouches de Bonifacio ; environ 4 000 intégrés. **Première crise du Conseil** sur les quotas d'accueil ([11](11-ilot-de-civilisation.md) §1 bis).
@@ -40,6 +44,7 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 - **[U] Novembre 1940** : **dernier message reçu de l'îlot de l'Est.** Ensuite, le silence.
 - **[U] Automne 1940** : *(prov.)* création du **Conseil scientifique**, organe consultatif présidé par le recteur de l'université de Cagliari. La priorité reste aux besoins militaires ([19](19-savoir-et-medecine.md) §3). Les malades sont soignés à bord du *Provence* (chirurgie, maternité, enfants) et de l'*Ark Royal* (médecine, isolement) jusqu'en 1943 ([19](19-savoir-et-medecine.md) §4, [26](26-provence.md)).
 - **[U] Octobre 1940 – 1941** : environ 1 500 **rescapés de Bizerte** gagnent la Sardaigne en trois vagues ([16](16-contacts-radio.md) §4).
+- **[U] Hiver 1940 – 1941** : **les canons du *Bretagne* arment la batterie du golfe de Palmas** : *(prov.)* 138 mm débarqués au capo Sperone et vers Porto Pino ; deux 340 mm sur un affût fixe en 1942-43 ([28](28-bretagne.md) §3 bis).
 - **[U] Décembre 1940** : **effondrement de Bizerte** : émeutes, incendie des dépôts, derniers appels au secours ([16](16-contacts-radio.md) §4).
 
 ## 1941 : l'année sans soleil
@@ -62,6 +67,7 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 - **[U] Hiver 1943 – 1944** : la peste pulmonaire frappe l'**îlot de l'Est** en Crète. Malades parqués à Spinalonga. Il perd environ la moitié de sa population en 1944-1945 (inconnu des Sardes).
 - **[U] 1944** : *(prov.)* l'hôpital revient à terre : l'hôpital San Giovanni di Dio de Cagliari devient l'**Hôpital de l'Îlot** ([19](19-savoir-et-medecine.md) §4). **La maternité reste sur le *Provence*** jusqu'en 1952 ([26](26-provence.md) §4).
 - **[U] 1944** : *(prov.)* La Morìa atteint les Balkans, l'Égypte et la Chine du Sud. **L'Île fermée** : quarantaine maritime (lazaret de l'Asinara, seul port d'entrée), côtes gardées, silence radio. Création de **la Zone** (le Sarrabus) pour les malades, et de la visite quotidienne.
+- **[U] Mars – avril 1944** : **second départ de Toulon**, avant la fermeture de l'île : *(prov.)* ~1 200 personnes avec l'amiral Duplat, parmi les premiers passagers de la quarantaine de l'Asinara ; le *Foch* et le *Colbert* restent dans la darse. **Printemps 1945** : la Morìa en Provence, dernières vacations de Saint-Mandrier ([33](33-toulon.md) §5).
 - **[U] Mai 1944** : **le *Hood* est posé volontairement** devant Su Siccu, cap au sud-est, comme **batterie fixe** du golfe ; *(prov.)* le 22 mai, pompes des tourelles A et B passées à l'électricité ([24](24-hood-forteresse-du-golfe.md) §3.3).
 - **[U] 1945 – 1947** : **les 102 mm du *Hood* sont débarqués** et arment les **batteries des caps** : *(prov.)* capo Boi, cap de Pula, capo Sant'Elia ; la garde de l'entrée du golfe passe de la mer à la terre ([24](24-hood-forteresse-du-golfe.md) §3.4).
 - **[U] 1944 – 1946** : blé et reconstitution du cheptel. Déclin du mazout : passage progressif au charbon et à la voile. *(prov.)* Les deux torpilleurs et le *Vortigern* sont convertis au charbon (« avisos charbonniers ») pour la garde des côtes ([15](15-energie.md) §5).
@@ -95,6 +101,10 @@ Légende : **[H]** fait historique réel · **[U]** événement uchronique · *(
 - **[U] 1946** : *(prov.)* ouverture de l'**École navale de l'Îlot**, à bord du *Dunkerque* ([13](13-societe-de-bord.md) §4 quater). Ses chaudières sont éteintes depuis 1945 : un câble venu de la terre l'alimente ([23](23-dunkerque-siege-du-conseil.md)).
 - **[U] 1946** : point bas démographique mondial (~2,3 M). L'îlot compte environ 49 000 personnes.
 - **[U] 1944 – 1946** : *(prov.)* premiers échanges de troupeaux avec les bergers de la Barbagia ; porcs dans les chênaies ; reprise des salines ([17](17-autosuffisance-alimentaire.md)).
-- **[U] 1946 – 1960** : *(hors des îlots)* formation des **chefferies** héréditaires ; cannibalisme rituel ou guerrier dans certaines d'entre elles ; piraterie côtière.
+- **[U] 1946 – 1960** : *(hors des îlots)* formation des **chefferies** héréditaires ; cannibalisme rituel ou guerrier dans certaines d'entre elles. Des voisins de toutes sortes : coopératifs, méfiants, agressifs. **Renaissance de la piraterie, surtout en Afrique du Nord** : *(prov.)* razzias tunisiennes sur les pêcheurs, les madragues et l'archipel sulcitain ([07](07-le-monde-apres.md) §1 bis).
+- **[U] 1949 – 1960** : **politique de l'îlot** : l'autosuffisance d'abord, puis les avant-postes (Malte, Sazan, Gibraltar) et, à partir du milieu des années 1950, des **accords d'entraide avec les colonies de survivants amicales** ([07](07-le-monde-apres.md) §1 bis).
+- **[U] 1953 – 1956** : *(prov.)* **retour à Toulon** : reconnaissance du *Georges Leygues* (1953), accord avec les survivants de Saint-Mandrier, puis **garnison de Toulon** (1956), cinquième avant-poste ([33](33-toulon.md) §6).
+- **[U] Années 1950** : *(prov.)* des navires désarmés reprennent du service comme **navires de garde des avant-postes** (Malte, Sazan, Gibraltar), avec une soute scellée pour une évacuation d'urgence ([29](29-flotte-des-annees-1950.md) §4.4).
+- **[U] 1955 – 1960** : *(prov.)* **les postes d'officier s'ouvrent petit à petit aux femmes**, y compris dans le Pont et à bord des navires actifs ; seuls les fusiliers marins leur restent fermés ([13](13-societe-de-bord.md) §4 ter).
 - **[U] 1947 – 1950** : *(prov.)* le **« grand berceau »** : 2 000 à 2 500 naissances par an, natalité d'environ 45 ‰ ([21](21-demographie.md)). Autosuffisance alimentaire ([17](17-autosuffisance-alimentaire.md)). *(prov.)* **Règle de Joseph** : une année de grain en réserve, dont 4 000 à 5 000 t à bord du *Bretagne*, le reste dans les galeries des mines ; vers 1956, la réserve passe à des silos à terre ([28](28-bretagne.md)). Retour du paludisme dans les plaines. Retour du thon dans les madragues vers 1948-1950. Les naissances reprennent. *(prov.)* Conversion du *Georges Leygues* en « croiseur charbonnier » (1947-1951). Les mines du Sulcis produisent 150 000 à 250 000 t par an.
 - **[U] Années 1950** : réchauffement (CO₂ des incendies) et retour de la couche d'ozone. Expansion de l'îlot sur toute la Sardaigne.

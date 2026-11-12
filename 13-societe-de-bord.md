@@ -204,7 +204,7 @@ Le risque principal est la **reproduction sociale par le savoir** (§9) : les en
 
 | Génération | Qui | Quand |
 |---|---|---|
-| **Les fondateurs** | Gensoul, Somerville, Lai, nés entre 1880 et 1890 | 1940 – années 1950 |
+| **Les fondateurs** | Gensoul, Somerville, Sportiello, nés entre 1880 et 1890 | 1940 – années 1950 |
 | **Les officiers de 1940** | Commandants et officiers des flottes, nés entre 1895 et 1915, cooptés par le Conseil (§8) | Années 1950 – 1970 |
 | **Les anciens élèves** | Les premiers reçus de l'École (promotions 1946-1955), dont beaucoup de Sardes | À partir de 1975-1980 |
 
@@ -212,7 +212,7 @@ C'est avec cette troisième génération que **le Carré cesse d'être une affai
 
 ## 4 ter. Les femmes : un rôle grandissant [canon : principe ; provisoire : détails]
 
-**Décision de l'auteur** : **les femmes ont un rôle grandissant, surtout dans les unités de soutien.**
+**Décision de l'auteur** : **les femmes ont un rôle grandissant, surtout dans les unités de soutien.** Elles sont **d'abord réservées aux unités de soutien** (ingénieurs, soutien logistique, santé), puis **accèdent petit à petit aux postes d'officier**. **Seules les troupes de marine, les fusiliers marins, restent réservées aux hommes.**
 
 ### Le point de départ (1940)
 
@@ -244,8 +244,9 @@ Les femmes sont inscrites comme tout le monde (§2). De 1940 à 1943, elles sont
 |---|---|
 | **1940 – 1943** | Elles sont matelots, quartiers-maîtres et maîtres dans les corps de soutien. Les officiers restent des hommes, à l'exception de quelques médecins et des officières venues des Wrens |
 | **1944 – 1947 : la Morìa** | **Les femmes volontaires de la Zone** (infirmières, religieuses, revenues) deviennent des figures héroïques. Plusieurs reçoivent des promotions exceptionnelles. Le premier commandement d'un bord confié à une femme est celui d'un **bord de la Zone** |
-| **Années 1950** | L'École navale de l'Îlot est ouverte aux femmes pour les corps de soutien. Des femmes commandent des bords de terre (hôpitaux, dépôts, écoles, stations radio, domaines agricoles). L'une d'elles peut entrer au **Grand Carré** |
-| **Au-delà** | Les **bords à flot** et les gardes-côtes restent presque entièrement masculins. Leur ouverture aux femmes, et l'accès d'une femme au **Conseil des Amiraux**, restent des questions ouvertes |
+| **Années 1950** | L'École navale de l'Îlot est ouverte aux femmes pour les corps de soutien, **y compris les ingénieurs** de Machines et Génie. Des femmes commandent des bords de terre (hôpitaux, dépôts, écoles, stations radio, domaines agricoles). L'une d'elles peut entrer au **Grand Carré** |
+| **Vers 1955 – 1960** | **Les postes d'officier s'ouvrent petit à petit** : d'abord les officiers mécaniciens, médecins et commissaires embarqués, puis le **corps du Pont** et les Capitaineries ; les premières officières servent à bord des navires actifs (le *Georges Leygues*, les avisos) |
+| **Ce qui reste fermé** | **Les fusiliers marins** (garde armée des bords, garnisons des avant-postes, troupes de débarquement des expéditions) restent **réservés aux hommes**. L'accès d'une femme au **Conseil des Amiraux** reste une question ouverte |
 
 **Pourquoi cette place grandit** :
 - **La démographie** : les naissances reprennent à partir de 1947. Les mères sont protégées (ration de mère jusqu'au sevrage, congé, travaux interdits, une sage-femme par bord), et l'îlot fait venir des femmes après 1952, les **dotées** ([21](21-demographie.md) §4.4 et §4.6). La moitié des enfants qui entrent comme mousses sont des filles, et elles passent les mêmes brevets.
@@ -265,10 +266,10 @@ Les femmes sont inscrites comme tout le monde (§2). De 1940 à 1943, elles sont
 
 ## 6. L'intégration des Sardes : entrer dans le rôle
 
-C'est le point où la hiérarchie peut soit **fondre** l'îlot, soit le **fracturer**. En 1946, environ 28 500 des 49 000 habitants sont sardes ou italiens ; s'y ajoutent environ 3 000 Corses ([11](11-ilot-de-civilisation.md) §1 bis).
+C'est le point où la hiérarchie peut soit **fondre** l'îlot, soit le **fracturer**. En 1946, environ 27 500 des 49 000 habitants sont sardes ou italiens ; s'y ajoutent environ 3 000 Corses ([11](11-ilot-de-civilisation.md) §1 bis).
 
 **Ce qui facilite l'intégration** [canon] :
-- **L'amiral Lai et les officiers italiens** de La Maddalena et de Cagliari entrent directement au Carré, avec leurs grades. Il y a donc des Sardes au sommet dès le premier jour.
+- **L'amiral Sportiello et les officiers italiens** de La Maddalena et de Cagliari entrent directement au Carré, avec leurs grades. Il y a donc des Italiens au sommet dès le premier jour, et des Sardes parmi les officiers de réserve et des Capitaineries.
 - **Les mineurs du Sulcis** ont déjà une culture de discipline, de travail en équipe et de danger partagé, très proche de celle des marins. Ils forment les premiers bords de fond et fournissent une grande partie de la Maistrance sarde.
 - **L'inscription** efface la distinction d'origine : un Sarde inscrit a exactement les mêmes droits et la même ration qu'un marin du *Hood*.
 - **Les mariages** entre marins et femmes sardes, qui deviennent la norme (environ 82 % des arrivants étaient des hommes), lient les familles aux bords.
@@ -323,7 +324,7 @@ La doctrine du Conseil tient en une phrase : **« d'abord le sel, puis le médec
 
 | Domaine | Coutume |
 |---|---|
-| **Langue** | Une **langue de bord** se forme : une base italienne et sarde, avec le vocabulaire technique et les ordres en français et en anglais. Elle rappelle le **sabir** (*lingua franca*), la langue de contact des ports méditerranéens jusqu'au XIXᵉ siècle [histoire]. Les ordres restent courts et codifiés |
+| **Langue** | Une **langue de bord** se forme : une base italienne et sarde, avec le vocabulaire technique et les ordres en français et en anglais. Elle rappelle le **sabir** (*lingua franca*), la langue de contact des ports méditerranéens jusqu'au XIXᵉ siècle [histoire]. Les ordres restent courts et codifiés. **[canon]** Dans chaque navire et chaque bord, **la langue du bord a cours** ; **l'enseignement se fait en anglais**, pour intégrer à égalité Italiens et Britanniques ([30](30-formation-technique.md) §4). La langue de bord devient un **créole franco-anglo-italien** (décision de l'auteur, §7 bis) |
 | **Calendrier** | L'**an I** commence le 1er juillet 1940. Le 1er juillet, **la Nuit de feu**, est un jour de deuil : feux éteints, minute de silence au coucher du soleil, à l'heure où le ciel s'est embrasé |
 | **Fête** | Le 12 juillet, **jour de Cagliari**, célèbre l'accord fondateur. Il se fête à bord, avec double ration |
 | **Pavillon** | Les trois pavillons sont hissés ensemble jusqu'en 1941 environ. Un pavillon de l'Îlot les remplace ensuite |
@@ -331,6 +332,30 @@ La doctrine du Conseil tient en une phrase : **« d'abord le sel, puis le médec
 | **Funérailles** | L'immersion en mer, avec le pavillon, devient la norme, même pour les Sardes. Elle économise la terre et le bois |
 | **Rites de passage** | Le passage de mousse à matelot, vers 16 ans, est une cérémonie publique. Le premier galon de maître est un événement familial |
 | **Religion** | Les aumôniers catholiques et anglicans sont officiers assimilés. La messe du dimanche à bord rythme la semaine |
+
+## 7 bis. Le créole de l'Îlot et la diglossie [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : un **créole franco-anglo-italien** se développe, dans une **diglossie** (option A) : chaque langue a son domaine.
+
+**Pourquoi un créole** [histoire, estimation] : les créoles naissent quand des enfants grandissent au milieu d'adultes qui n'ont pas de langue commune et se parlent par un jargon de contact. C'est la situation de l'îlot : dans un couple sur deux, la mère est sarde et le père vient de l'une des trois marines ([21](21-demographie.md) §6). Le jargon des chantiers et des bords de 1940-1944 (le **sabir de bord**) devient la langue maternelle des enfants nés après 1944. Ce sont eux qui le régularisent.
+
+**Sa forme** [canon provisoire] :
+- **la base** est **italo-sarde**, parce que c'est la langue des mères et de la majorité de la population : les mots de la maison, de la terre, de la cuisine, de la famille ;
+- **le français** fournit l'organisation, les grades, l'administration et une part des ordres (la base française de Bonaria, [22](22-organisation-militaire.md)) ;
+- **l'anglais** fournit les machines, la radio, l'aviation et les mots de l'école ;
+- une grammaire simplifiée : peu de conjugaison, pas de genre grammatical pour les objets techniques ; les exemples du **sotto**, du **comun** et du **varrant** ([22](22-organisation-militaire.md) §3.3) en sont les premiers mots.
+
+**Qui parle quoi, et où** :
+
+| Domaine | Langue |
+|---|---|
+| **La maison, la rue, le marché, les jeux** | **Le créole**, langue maternelle des enfants nés après 1944 |
+| **Le travail à bord et dans les bords** | **La langue du bord** : le français au *Georges Leygues*, l'anglais au *Hood*, l'italien dans les Capitaineries ; le créole de plus en plus dans les bords de terre |
+| **L'école, l'École technique, les *Cahiers techniques*** | **L'anglais** ([30](30-formation-technique.md) §4) |
+| **La loi, le Conseil, les archives** | Les textes officiels en **trois langues** (français, anglais, italien), comme l'accord de Bonaria |
+| **La messe** | Le latin, et le sermon dans la langue du bord |
+
+**Ce que cela produit** : vers 1960, un enfant de l'îlot parle le créole avec sa mère, apprend à lire en anglais, et reçoit ses ordres en français ou en italien. Les fondateurs ne parlent pas le créole et s'en méfient. Leurs petits-enfants ne parlent rien d'autre entre eux. **C'est un ressort pour un futur récit** : la langue marque la frontière entre les générations, plus que l'origine.
 
 ## 8. Le régime politique révisé [canon provisoire]
 
@@ -348,7 +373,7 @@ La hiérarchie qui a sauvé l'îlot porte en elle ses propres dangers. Ce sont d
 
 1. **La caste déguisée** : la loi interdit l'hérédité du grade (§4 bis), mais les enfants d'officiers grandissent entourés de livres, de cartes et de conversations de carré. Ils réussissent mieux les brevets. Le danger n'est pas une noblesse officielle, c'est une **reproduction sociale par le savoir**. L'îlot la combat par l'internat pour tous, une place par bord au Collège de l'Îlot, les répétiteurs de bord et le concours de la flotte (§4 quater).
 2. **La rigidité** : une société conçue pour survivre à la pénurie supporte mal l'abondance revenue dans les années 1950. Que faire de la ration quand il y a assez à manger ?
-3. **Le plafond des femmes** : leur rôle grandit dans les corps de soutien (§4 ter), mais les bords à flot et le Conseil des Amiraux leur restent fermés. Combien de temps une société fondée sur le mérite peut-elle maintenir cette limite ?
+3. **Le plafond des femmes** : les postes d'officier s'ouvrent petit à petit à la fin des années 1950 (§4 ter), mais les fusiliers marins leur restent fermés, et aucune n'a encore siégé au Conseil des Amiraux. Combien de temps une société fondée sur le mérite peut-elle maintenir ces limites ?
 4. **La fracture d'origine** entre un Carré issu des flottes et une base sarde (§6).
 5. **La mémoire** : le récit officiel fera de la flotte le sauveur de l'île. Les Sardes de l'intérieur garderont une autre mémoire.
 6. **La comparaison avec l'Est** : si l'îlot de Crète réapparaît, quel régime aura-t-il choisi ? Une société plus libre, ou plus dure encore ?

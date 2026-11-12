@@ -88,6 +88,8 @@ Il faut trouver, à moins de quelques jours de mer, un lieu où **20 000 personn
 
 Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent sur le principe d'un **refuge commun**, à choisir dans les 72 heures ([06](06-mers-el-kebir.md) §4). Ils ne s'accordent pas sur le lieu.
 
+**Pourquoi pas Toulon.** Le port d'attache de Gensoul, que la convention d'armistice lui ordonne de regagner, n'est pas plus loin que Cagliari. Mais il est déjà rayé de la liste : rentrer à Toulon, c'est obéir à Nérac et rompre avec les Britanniques, et l'amiral Duplat lui-même a câblé de Toulon dans la nuit du 5 au 6 : *« Ne venez pas. »* ([33](33-toulon.md) §3)
+
 **Gensoul plaide pour l'Oranie.** C'est une terre française ; les silos d'Oran sont là ; les familles de ses marins aussi ; on n'a pas à traverser une mer de nuit avec des cargos chargés. À défaut, il propose **la Corse**, île française.
 
 **Somerville plaide pour Malte.** C'est l'arsenal de la Royal Navy, avec ses cales sèches et ses galeries ; Gibraltar servirait de point d'appui. Son gouvernement ne répond plus, mais Malte reste britannique.
@@ -134,13 +136,52 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 **Ce qu'en garde la mémoire** : sauvetage ou conquête ? Les marins se souviennent qu'ils ont apporté le blé ; les Sardes, qu'ils ont vu entrer dans leur golfe des cuirassés aux tourelles pointées. Les réquisitions de l'automne 1940 ([11](11-ilot-de-civilisation.md) §7) achèvent de brouiller la réponse. C'est la question de la **mémoire officielle** que l'îlot doit trancher ([09](09-questions-ouvertes.md) B8).
 
+## 9 bis. L'état des forces italiennes de Sardaigne (juillet 1940) [histoire, puis canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : il faut d'abord établir **l'état des forces italiennes sur place**. L'auteur pense qu'il y aura **une bonne entente**, car l'arrivée des Français et des Britanniques promet **la stabilisation de la situation et des bras pour remettre l'île à flot**.
+
+### Ce qu'il y a dans l'île le 1er juillet 1940 [histoire]
+
+| Arme | Commandement | Forces |
+|---|---|---|
+| **Armée** | **XIII Corpo d'Armata**, QG à Cagliari : général **Augusto de Pignier** (1937 – novembre 1940) | Division **Sabauda** (général **Ubaldo Scanagatta**, QG Cagliari ; 45ᵉ régiment à Iglesias, 46ᵉ à Cagliari, 16ᵉ d'artillerie), **concentrée en juin 1940 sur le Sulcis**, jugé le lieu le plus probable d'un débarquement ; division **Calabria** (général **Carlo Petra di Caccuri**, QG Sassari) au nord ; défense territoriale : 5 régiments mobiles (15 bataillons), cohortes de Chemises noires, **8 groupes d'artillerie côtière**, une légion de DCA à Cagliari |
+| **Regia Marina** | **Amiral Ettore Sportiello**, commandant des forces navales de Sardaigne, à **La Maddalena** (base de 2ᵉ classe) ; Cagliari est une base de 3ᵉ classe, rattachée au commandement de Naples 🔎 | **VII Grupsom** à Cagliari (capitaine de frégate Giovanni di Gropello) : *Alagi*, *Axum*, *Aradam*, *Turchese* ([12](12-flottes-survivantes.md) §4) ; artillerie côtière de La Maddalena ; hydravions CANT Z.501 à Elmas ; torpilleurs et MAS 🔎 |
+| **Regia Aeronautica** | **Aeronautica della Sardegna** : général **Ottorino Vespignani**, QG à Cagliari | Chasseurs CR.32 et CR.42 à Monserrato ; S.79 à Villacidro et à **Decimomannu** ; CANT Z.506 et Ro.37 à **Elmas** ; Ba.88 à Alghero |
+| **Autorité civile** | Préfet de Cagliari : **Leone Leone** (février 1940 – 1943) | Carabiniers, administration provinciale |
+
+**Effectifs** : le total exact n'est pas retrouvé 🔎. En ordre de grandeur, **30 000 à 50 000 hommes** sous les armes, dont une grande part de **réservistes sardes** rappelés en juin 1940 [estimation].
+
+**Le moral** : l'île est en guerre depuis trois semaines et a déjà été bombardée. Des avions français (Glenn Martin, puis Douglas DB-7 venus d'Afrique du Nord) ont frappé **Elmas et le port de Cagliari** entre le 16 et le 24 juin 1940, sans grands dégâts [histoire 🔎 dates à recouper]. Les troupes attendent un débarquement français dans le Sulcis.
+
+### Ce qu'il en reste le 8 juillet [canon provisoire]
+
+- **La Nuit de feu** a épargné les casemates, les casernes en dur et les navires au port, mais **Rome ne répond plus**, ni Naples. Le commandement de l'île est seul pour la première fois.
+- **L'armée fond** : en une semaine, des milliers de réservistes sardes **rentrent dans leurs villages** pour nourrir leur famille, avec ou sans permission. Les officiers ne les retiennent pas : ils n'ont pas de quoi les nourrir. Restent les **cadres**, les carabiniers, la marine, les artilleurs de la côte, l'aviation et les soldats venus du continent, qui n'ont nulle part où aller : **une dizaine de milliers d'hommes** encadrés [estimation].
+
+**Le lien avec la démographie** [estimation] : de ces dix mille, environ la moitié sont des **Sardes** (militaires de carrière, carabiniers, marins des Capitaineries), qui rejoignent leur famille au cours de 1940-41 et sont ensuite comptés parmi les **civils sardes** ; l'autre moitié, environ **5 000 hommes venus du continent**, reste sous les armes. Avec la même survie que les arrivants des flottes (environ deux sur trois de 1940 à 1946), il en reste **~3 300 en 1946** : c'est le groupe des **militaires italiens** du modèle démographique ([21](21-demographie.md) §4.2). Les chiffres de l'îlot ne changent donc pas.
+- **Les vivres manquent déjà** : la moisson de juin est rentrée, mais elle est dans les fermes et non dans les dépôts de l'armée ; les villes s'agitent dès que le ciel s'éteint.
+- **Les troupes sont au mauvais endroit** pour résister : la Sabauda attend dans le Sulcis un débarquement qui viendra par le golfe de Cagliari, et elle n'a ni essence ni munitions pour une longue campagne.
+
+### Pourquoi l'entente se fait
+
+Pour le commandement italien, l'arrivée des flottes n'est pas seulement une menace : c'est **la seule issue**.
+- **Les vivres** : le blé d'Oran et les stocks de Gibraltar, de quoi tenir jusqu'à la récolte de 1943.
+- **L'ordre** : une force de 20 000 hommes disciplinés, quand l'armée se défait et que les villes grondent.
+- **Les bras et le savoir** : des mécaniciens, des médecins, des ingénieurs, pour faire tourner les mines, les centrales et les barrages.
+- **Une place égale** au commandement, que le dossier Mercadier prévoyait dès le départ.
+
+Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'eau, l'université, l'administration et la connaissance du pays** ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, mais sans rancœur au sommet** : au Conseil, l'amiral italien est un égal, et les officiers italiens gardent leurs grades (reclassés à Bonaria en 1943, [22](22-organisation-militaire.md)). La rancœur, quand elle vient, vient d'en bas : des villages réquisitionnés à l'automne 1940 ([11](11-ilot-de-civilisation.md) §7).
+
+**Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. Il remplace au canon l'amiral inventé Vittorio Lai, selon la règle des noms. **[canon provisoire]** : il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent. Le 8 juillet, il répond par la radio de la base ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari pour signer l'accord vers le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
+
 ## 10. Questions ouvertes
 
 1. ✅ **Le choix** : un débat entre les deux amiraux, tranché par la grille et par l'argument du terrain neutre (option 1B).
 2. ✅ **L'Afrique du Nord** : l'Oranie et l'Algérie sont dans l'étude, 39 sur 66 (option 2A).
 3. ✅ **Le départ** : sans réponse de Cagliari, de gré ou de force (option 3A).
 4. ✅ **L'auteur de l'idée** : un officier de l'état-major de Gensoul ; nom inventé, le capitaine de frégate Paul Mercadier (option 4A).
-5. ❓ **La réponse italienne** : qui répond à Cagliari entre le 8 et le 12 juillet, et comment se déroule la négociation ? (lié à l'amiral Lai et à [09](09-questions-ouvertes.md) B8)
-6. 🔎 **Les plans de 1940 contre la Sardaigne** : les états-majors français et britannique ont-ils étudié des opérations contre la Sardaigne en 1939-1940 ? Qui a bombardé Cagliari et Elmas en juin 1940 ?
+5. ❓ **La réponse italienne** : qui répond à Cagliari entre le 8 et le 12 juillet, et comment se déroule la négociation ? (lié à [09](09-questions-ouvertes.md) B8) *Décidé : l'amiral Ettore Sportiello (§9 bis).*
+6. 🔎 **Les plans de 1940 contre la Sardaigne** : les états-majors français et britannique ont-ils étudié des opérations contre la Sardaigne en 1939-1940 ? *Bombardements de juin 1940 : avions français venus d'Afrique du Nord (Glenn Martin du GR I/61, Douglas DB-7), dates à recouper (§9 bis).*
+8. ✅ **Les forces italiennes** : état établi (§9 bis) ; bonne entente au sommet (décision de l'auteur). Qui répond : l'amiral **Ettore Sportiello** (option A, décision de l'auteur). 🔎 Effectifs totaux, torpilleurs et MAS de Sardaigne.
 7. 🔎 **L'Algérie en 1936-1940** : population ; production du charbon de Kenadsa et de la ligne de chemin de fer du Sud-Oranais.
 

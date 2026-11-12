@@ -115,7 +115,42 @@ La plupart des 2,3 millions de survivants de 1946 ([05](05-population.md) §3) *
 - **Le contraste justifie la discipline de fer.** Chaque inscrit sait ce qu'il y a de l'autre côté de la mer : Bizerte, les pirates, la peste. La hiérarchie de bord est le prix de ne pas y retomber.
 - **L'îlot se vit comme un dépositaire** : celui de l'écrit, de la médecine, de la technique et de la mémoire d'avant 1940. La **bibliothèque de l'Îlot** ([11](11-ilot-de-civilisation.md) §8) devient une institution sacrée.
 - **Les expéditions des années 1950** (Malte, l'Albanie) se font en terre barbare : il faut négocier, impressionner ou combattre.
-- **La grande question des générations suivantes** : faut-il rester une forteresse, ou **reconquérir et reciviliser** les terres voisines ?
+- **Forteresse ou reconquête** : voir ci-dessous, « La politique de l'îlot ».
+
+### Les voisins : trois attitudes [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **il y a de tout.** Certains groupes de survivants se montrent **très coopératifs**, d'autres **méfiants et distants**, d'autres **très agressifs**. La **piraterie** renaît, **surtout en Afrique du Nord**.
+
+| Attitude | Qui [canon provisoire] | Ce que fait l'îlot |
+|---|---|---|
+| **Coopératifs** | Les Gozitains ([18](18-expedition-albanie.md) §5 ter) ; des communautés de pêcheurs de la côte orientale de la Corse et de l'archipel toscan, que visitent les expéditions de recueil ([21](21-demographie.md) §4.5) ; plus tard, les survivants de Toulon (§1 ter) | Échanges réguliers, médecin, quarantaine commune, mariages ; ces groupes peuvent devenir des **colonies amies** (voir ci-dessous) |
+| **Méfiants et distants** | La Barbagia avant les pactes de village ([13](13-societe-de-bord.md) §6 bis) ; les villages de montagne corses ; les bergers du Gennargentu | Troc à distance, pierre de troc, patience : on ne force pas la porte |
+| **Agressifs** | Les chefferies côtières de **Tunisie et d'Algérie orientale** ; les bandes de Sicile occidentale ; certaines chefferies de la côte tyrrhénienne | Défense, escorte des convois, quarantaine armée ; pas d'expédition punitive sans vote du Conseil |
+
+**La piraterie barbaresque, seconde manière** [canon : principe ; provisoire : détail] : le phénomène a un précédent exact. Du XVIᵉ au début du XIXᵉ siècle, les **corsaires barbaresques** d'Alger, de Tunis et de Tripoli razziaient les côtes de Sardaigne, de Corse et d'Italie pour les captifs ; c'est contre eux que furent bâties les **tours côtières** sardes. En **1798**, des corsaires tunisiens enlevèrent la plus grande partie des habitants de **Carloforte**, rachetés des années plus tard ; **Sant'Antioco** fut encore razziée en 1815 [histoire 🔎 chiffres à vérifier]. Après la comète, les chefferies côtières de Tunisie, qui ont des barques, des voiliers et quelques moteurs, reprennent le même métier :
+- **leurs cibles** : les pêcheurs, les madragues (Carloforte, Portoscuso), les îles de l'archipel sulcitain, Pantelleria et Lampedusa, la route de Malte ;
+- **leurs moyens** : des voiliers rapides et des barques à rames, une centaine d'hommes au plus par coup de main ; des fusils tant qu'il reste des cartouches ;
+- **la réponse de l'îlot** : les avisos et les petits vapeurs gardent le sud de l'île ; les **tours côtières** sardes reprennent du service comme postes de guet ; les cargos de Malte et de Sazan naviguent en convoi ; les batteries du golfe de Palmas couvrent le mouillage du *Bretagne* ([28](28-bretagne.md) §3 bis).
+
+C'est aussi la toile de fond de la question du **rachat des captifs** ([21](21-demographie.md) §8, [09](09-questions-ouvertes.md) B25).
+
+### La politique de l'îlot : l'autosuffisance d'abord, puis l'entraide [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : l'îlot **ne part pas à la reconquête**. Il se concentre **d'abord sur son autosuffisance** ; il **développe ses avant-postes de Malte, de l'Albanie (Sazan) et de Gibraltar** ; il **noue des relations avec les colonies de survivants amicales**, dans un souci de **développement et d'entraide mutuelle**.
+
+| Temps | Politique [canon provisoire pour les dates] |
+|---|---|
+| **1940 – 1949 : la forteresse** | Survivre, nourrir l'île, passer la Morìa ; l'Île fermée |
+| **1949 – 1955 : les avant-postes** | Malte (1949), Sazan (1950), Gibraltar renforcé ; l'îlot prend pied là où il trouve de l'énergie et des cales sèches |
+| **1955 – 1960 : les colonies amies** | Avec les groupes coopératifs : médecin, semences, outils, quarantaine commune, radio ; en retour, des bras, des femmes qui choisissent de partir, des vivres, des escales. Ni conquête ni tribut : **des accords** |
+
+**Ce que l'îlot refuse** : imposer sa loi à des voisins qui ne la demandent pas. **Ce qu'il accepte** : qu'un groupe ami entre dans le rôle, s'il le demande, comme la Barbagia par le pacte de village ou Gozo par le rattachement de 1955.
+
+## 1 ter. Toulon [canon : principe ; détail au chapitre 33]
+
+**Décision de l'auteur** : la situation de Toulon après la catastrophe et pendant la Morìa **est à développer**. Si elle se dégrade trop, Toulon **reprend contact avec l'îlot**, et **les dernières forces françaises de Toulon partent pour la Sardaigne**. Plus tard, après la réouverture, l'îlot peut **revenir à Toulon** et y installer une **garnison** pour garder les installations du port, précieuses pour l'avenir.
+
+**Décidé** : deux départs, en août 1940 et au printemps 1944 (option 5B) ; garnison de l'îlot en 1956. Le détail est au chapitre [33](33-toulon.md).
 
 ## 2. Les autres îlots plausibles [canon provisoire]
 
@@ -191,5 +226,5 @@ La plupart des 2,3 millions de survivants de 1946 ([05](05-population.md) §3) *
 
 - **1945 – 1950** : stabilisation des îlots qui ont passé le goulet. Disparition des groupes trop petits.
 - **Années 1950** : le réchauffement dû au CO₂ des incendies arrive et la couche d'ozone se reconstitue. **Expansion** des îlots sur les terres désertées, aux sols lessivés mais libres.
-- **Années 1960** : reprise des contacts maritimes entre îlots, à la voile et à la vapeur de charbon.
+- **Années 1960** : reprise des contacts maritimes entre îlots, à la voile et à la vapeur de charbon. *La bible s'arrête au début des années 1960 (décision de l'auteur : 1940-1960 pour un premier tome).*
 - La question pour la suite de l'uchronie : **quelle civilisation renaît ?** Une technologie de 1940 conservée en partie (électricité, radio, médecine, métallurgie), mais **sans industrie pétrolière** pendant des décennies, sur une planète vidée.

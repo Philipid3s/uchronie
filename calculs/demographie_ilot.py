@@ -47,7 +47,8 @@ GROUPES_1946 = [
     ("Refugies corses",                      3_000, 0.44, 0.34, 0.22, P_CIVILS, P_CIVILS),
     ("Survivants maltais",                     250, 0.42, 0.38, 0.20, P_CIVILS, P_CIVILS),
     ("Militaires italiens",                  3_300, 1.00, 0.00, 0.0, P_MARINS, P_CIVILS),
-    ("Civils sardes",                       25_750, 0.32, 0.47, 0.21, P_SARDES, P_SARDES),
+    ("Marins et familles de Toulon (1944)",    1_000, 0.60, 0.25, 0.15, P_MARINS, P_CIVILS),  # second depart (chap. 33)
+    ("Civils sardes",                       24_750, 0.32, 0.47, 0.21, P_SARDES, P_SARDES),
 ]
 
 def pop_1946():
