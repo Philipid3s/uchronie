@@ -43,8 +43,8 @@
 
 ## 3. Le mouillage [canon provisoire]
 
-- **La position** : dans la **rade de Cagliari**, à l'est du port, à environ **600 m du rivage de Su Siccu**, au pied de la colline de Bonaria. 🔎 *Fonds à vérifier : il en faut au moins 10 à 11 m pour un tirant d'eau de 8 à 9 m.*
-- **L'embossage** : le navire est tenu par **quatre ancres et corps-morts**, cap fixe, l'avant tourné vers le large, au sud-est, d'où viennent la houle du scirocco et celle du libeccio. Il ne tourne plus sur son ancre, ce qui permet de poser des câbles fixes vers la terre. 🔧 *À vérifier : tenue d'un embossage de 35 000 t par gros temps de sud.*
+- **La position** : dans la **rade de Cagliari**, à l'est du port, à environ **600 m du rivage de Su Siccu**, au pied de la colline de Bonaria. [à vérifier : fonds ; il en faut au moins 10 à 11 m pour un tirant d'eau de 8 à 9 m]
+- **L'embossage** : le navire est tenu par **quatre ancres et corps-morts**, cap fixe, l'avant tourné vers le large, au sud-est, d'où viennent la houle du scirocco et celle du libeccio. Il ne tourne plus sur son ancre, ce qui permet de poser des câbles fixes vers la terre. [à vérifier : tenue d'un embossage de 35 000 t par gros temps de sud]
 - **L'allègement** : on débarque le mazout (qui sert aux centrales) et une partie des munitions. Le tirant d'eau tombe vers **8 m** [estimation].
 - **La liaison avec la terre** : l'**échelle de Su Siccu**, un débarcadère en bois construit en 1940, avec un poste de garde et, à partir de 1944, un **poste de visite sanitaire** ([14](14-epidemie.md)). Le va-et-vient se fait en **canots à avirons** et en **vedette** tant qu'il reste de l'essence, puis avec un **petit remorqueur à vapeur** du port, chauffé au charbon du Sulcis [estimation].
 - **Les câbles** : en 1942, un **câble téléphonique sous-marin** relie le bord au réseau de Cagliari, et par lui aux centres radio d'Elmas et du Poetto ([16](16-contacts-radio.md) §1 bis). En 1946, un **câble électrique** vient alimenter le bord depuis la terre (§4.3).
@@ -85,7 +85,7 @@
 
 Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940 et peut appareiller à tout moment. On touche peu à ses aménagements :
 - **Le Conseil siège dans le salon de l'amiral**, autour de la table de Gensoul : trois amiraux, Holland, un secrétaire par Siège. C'est une pièce d'une quarantaine de mètres carrés [estimation].
-- **Le secrétariat de Holland** occupe les bureaux de l'état-major. Il tient les procès-verbaux en trois langues ([11](11-ilot-de-civilisation.md) §8), puis rédige le **Code de l'Îlot** (automne 1940).
+- **Le secrétariat de Holland** occupe les bureaux de l'état-major. Il tient les procès-verbaux en trois langues ([11](11-ilot-de-civilisation.md) §8), Holland, lui, rédige le **Code de l'Îlot** à son bord (automne 1940, [25](25-ark-royal.md) §2).
 - **Les trois pavillons** (français, britannique, italien) sont hissés ensemble pendant les séances, jusqu'à l'adoption du pavillon de l'Îlot ([13](13-societe-de-bord.md) §7).
 - **L'hiver 1940-41** : faute d'essence, les Loire 130 ne volent plus. Ils sont débarqués et mis en conservation à Elmas ([20](20-capacites-aeronavales.md)). **Le hangar d'aviation est libre.**
 
@@ -95,7 +95,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 - **La centrale de Cagliari** : une ou deux chaudières restent allumées. Ses turbo-dynamos alimentent le port, l'hôpital et les quartiers bas. Le bord produit du courant continu ; il faut des **groupes convertisseurs** (un moteur à courant continu qui entraîne un alternateur) pour le réseau alternatif de la ville [estimation] 🔧. Il brûle environ **15 t de mazout par jour** ([15](15-energie.md) §3), soit **environ 1 MW électrique en moyenne** [calcul, ordre de grandeur : 15 t × 41 MJ/kg ≈ 7 MW thermiques, rendement de 10 à 15 %].
 - **La salle des transmissions** : avec l'ouverture des centres d'Elmas et du Poetto (1942), le central radio du bord devient le **central du Conseil**. Les messages arrivent par téléphone ; les émetteurs du bord restent en **secours** ([16](16-contacts-radio.md)).
 - **Le désarmement partiel** : la **tourelle I** (330 mm) reste armée, avec un équipage réduit, et ses soutes pleines : elle suffit à dissuader une flottille ([11](11-ilot-de-civilisation.md) §9). La **tourelle II** et la plupart des 130 mm sont mises en réserve ; leurs servants partent vers les bords de terre.
-- **1943 : l'accord de Bonaria** est signé au sanctuaire ([22](22-organisation-militaire.md) §2), puis **son original est déposé à bord**, dans le coffre du Conseil. Le **Grand Carré**, créé la même année, ne siège pas sur le *Dunkerque*, trop petit : il se réunit dans le **hangar de l'*Ark Royal***, le plus grand espace couvert de l'îlot, jusqu'au démantèlement du navire en 1957 ([25](25-ark-royal.md)) ([12](12-flottes-survivantes.md)).
+- **1943 : l'accord de Bonaria** est signé au sanctuaire ([22](22-organisation-militaire.md) §2), puis **son original est déposé à bord**, dans le coffre du Conseil. Le **Grand Carré**, créé la même année, ne siège pas sur le *Dunkerque*, trop petit : il se réunit dans le **hangar de l'*Ark Royal***, le plus grand espace couvert de l'îlot, jusqu'au démantèlement du navire en 1957 ([25](25-ark-royal.md) §4).
 - **1944 : l'île fermée** ([14](14-epidemie.md)). Le bord devient un sanctuaire sanitaire : nul ne monte à bord sans être passé au poste de visite de Su Siccu, amiral Sportiello compris.
 
 ### 4.3 1945-1955 : le bâtiment du Conseil et de l'École
@@ -104,7 +104,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 - **1946 : le courant vient de la terre.** Un câble à moyenne tension, depuis le réseau de Cagliari (barrages du Tirso et centrales au charbon), alimente le bord. Les groupes convertisseurs de 1942 tournent désormais dans l'autre sens, pour le réseau continu du bord [estimation] 🔧. Il ne faut plus que **100 à 300 kW** : éclairage, pompes, radio, ventilation [estimation].
 - **La vie sans chaudières** : plus de bouilleurs ; l'**eau douce** arrive par une citerne flottante depuis la terre. Les **cuisines et la boulangerie** passent au charbon. L'hiver, on chauffe les locaux habités avec des poêles.
 - **1946 : l'École navale de l'Îlot** ouvre à bord ([13](13-societe-de-bord.md) §4 quater). Elle prend les **postes d'équipage de l'arrière** (dortoirs), le **carré des officiers mariniers** (salles de cours) et la **plage arrière** (place d'armes et instruction). Première promotion : une trentaine d'élèves, une soixantaine de personnes avec les cadres.
-- **L'équipage diminue** : ~1 380 hommes en 1940, ~1 100 inscrits du bord en 1946 ([12](12-flottes-survivantes.md)), dont la moitié détachés à terre. Vers 1950, **environ 500 personnes vivent à bord** (§6).
+- **L'équipage diminue** : ~1 380 hommes en 1940, dont ~1 100 valides après la nuit de feu ([12](12-flottes-survivantes.md)) ; en 1946, la moitié sont détachés à terre. Vers 1950, **environ 500 personnes vivent à bord** (§6).
 
 ### 4.4 1955-1960 : le navire-mémoire
 
@@ -167,7 +167,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 **Décision de l'auteur** : le Conseil revient **progressivement** à terre. Le navire ne suffit plus à un gouvernement qui grandit, et l'îlot sort de l'état de siège.
 
 **Pourquoi le retour** :
-- **L'îlot grandit** : après la patente de 1952, il faut gérer l'immigration, les dotées, les expéditions, les avant-postes (Malte, Sazan, Gibraltar), les grands travaux, puis l'expansion vers le nord ([21](21-demographie.md)). Les bureaux du Conseil ne tiennent plus dans un hangar d'hydravions.
+- **L'îlot grandit** : après la patente de 1952, il faut gérer l'immigration, les dotées, les expéditions, les avant-postes (Gibraltar, Malte, Sazan, puis Toulon en 1956), les grands travaux, puis l'expansion vers le nord ([21](21-demographie.md)). Les bureaux du Conseil ne tiennent plus dans un hangar d'hydravions.
 - **Les raisons de 1940 tombent** : il n'y a plus d'émeutes, la quarantaine est levée, l'électricité vient de la terre. Rester au large ne protège plus rien.
 - **Le Conseil change de nature** : les fondateurs se retirent, les officiers de 1940 leur succèdent ([13](13-societe-de-bord.md) §8). Le régime glisse de la loi de bord vers la « république de bord » : un gouvernement installé à terre, au milieu de ceux qu'il gouverne, en est le signe.
 
@@ -201,8 +201,8 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 | **Central radio** | Transmissions de l'escadre | **Central du Conseil** : téléphone vers Elmas et le Poetto, émetteurs de secours |
 | **Appartements de l'amiral** (arrière) | Logement et salon de Gensoul | **Salle du Conseil** (l'ancien salon), cabinet du président du mois, logement de Gensoul |
 | **Bureaux de l'état-major** | État-major de la Force de Raid | **Secrétariat du Conseil** : procès-verbaux, Code de l'Îlot, correspondance avec les bords |
-| **Hangar d'aviation** | Loire 130 | **Bureaux des trois Sièges** (Vivres, Défense, Administration de l'île), puis des services du Conseil 🔎 *volume du hangar à documenter* |
-| **Soutes arrière** (130 mm) | Munitions | **Archives du Conseil** : procès-verbaux, journaux de bord de 1940, original de l'accord de Bonaria. Une copie de tout est déposée à la bibliothèque de l'Îlot ([19](19-savoir-et-medecine.md)) |
+| **Hangar d'aviation** | Loire 130 | **Bureaux des Sièges des Vivres et de la Défense**, puis des services du Conseil [à documenter : volume du hangar] |
+| **Soutes arrière** (130 mm) | Munitions | **Archives du Conseil** : procès-verbaux, journaux de bord de 1940, original de l'accord de Bonaria. Une copie de tout est déposée au Conservatoire de l'Îlot ([19](19-savoir-et-medecine.md) §5), selon la règle de la double copie (§7) |
 | **Postes d'équipage arrière, carré des officiers mariniers** | Logement | **École navale** (1946-1955), puis bureaux |
 | **Plage arrière** | Catapulte, manœuvre | **Place d'honneur** : réception des visiteurs, prises d'armes, serments, promotions de l'École |
 | **Infirmerie, cuisines, boulangerie** | Services du bord | Mêmes usages ; cuisines au charbon après 1945 |
@@ -232,7 +232,7 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 ## 7. Ce que coûte un siège flottant [estimation]
 
 - **L'entretien** : il faut de 100 à 150 personnes rien que pour garder le navire à flot, sec et propre (pompes, coque, peinture, électricité). Un palais à terre en demanderait dix fois moins.
-- **La coque** : il n'y a **pas de cale sèche assez grande en Sardaigne** pour un navire de 215 m 🔎. Sans carénage, la coque se couvre d'algues et de coquillages, et la tôle se ronge à la flottaison. On l'inspecte avec des **scaphandriers**, on gratte ce qu'on peut, on pose des **anodes de zinc** (une protection connue depuis le XIXᵉ siècle) 🔧. Une coque surveillée et pompée peut tenir longtemps : dans notre histoire, le cuirassé américain *Texas* (1914) est resté à flot comme navire-musée de 1948 à 2022, avec des voies d'eau à répétition [référence réelle, hors uchronie]. **Après l'échouage de 1957** (§4.5), la coque ne travaille plus ; seule la flottaison demande encore des soins, et l'équipe d'entretien tombe à une soixantaine de personnes.
+- **La coque** : il n'y a **pas de cale sèche assez grande en Sardaigne** pour un navire de 215 m 🔎. Sans carénage, la coque se couvre d'algues et de coquillages, et la tôle se ronge à la flottaison. On l'inspecte avec des **scaphandriers**, on gratte ce qu'on peut, on pose des **anodes de zinc** (une protection connue depuis le XIXᵉ siècle) 🔧. Une coque surveillée et pompée peut tenir longtemps : dans notre histoire, le cuirassé américain *Texas* (1914) est resté à flot comme navire-musée de 1948 à 2022, avec des voies d'eau à répétition. **Après l'échouage de 1957** (§4.5), la coque ne travaille plus ; seule la flottaison demande encore des soins, et l'équipe d'entretien tombe à une soixantaine de personnes.
 - **La vulnérabilité** : un incendie, une tempête de sud qui fait chasser les ancres (jusqu'en 1957), un sabotage, et le gouvernement perd son siège et ses archives. D'où la **règle de la double copie** : tout document du Conseil est copié et déposé à terre.
 - **Ce qu'il rapporte** : jusqu'en 1945, il produit l'électricité de Cagliari ; ensuite, il rapporte surtout du **prestige** et de la **légitimité**.
 
@@ -251,12 +251,12 @@ Le *Dunkerque* reste un navire de combat. Il escorte les convois de l'été 1940
 | **1944 – 1949** | Poste de visite sanitaire à l'échelle de Su Siccu (île fermée) |
 | **1945** | Dernière chauffe du *Dunkerque* ; machines en conservation |
 | **1946** | Câble électrique depuis la terre ; ouverture de l'École navale à bord |
+| **1952 – 1955** | Les services de la réouverture (immigration, expéditions, grands travaux) s'installent à terre, à Su Siccu [canon : retour progressif] |
 | **1955** | L'École passe à terre ; le bord devient siège et archives |
 | **Années 1950** | Inspections de la coque par scaphandriers ; le Conseil décide l'échouage [canon : principe] |
 | **1956** | Préparation du lit de sable et de gravier, à 300 m de Su Siccu |
 | **Hiver 1956-57** | Démontage des machines : turbines, dynamos, cuivre et bronze pour les ateliers de l'îlot |
 | **4 juillet 1957** | **Échouage volontaire** : le *Dunkerque* est posé sur son lit, pour le dix-septième anniversaire du Conseil |
-| **1952 – 1955** | Les services de la réouverture (immigration, expéditions, grands travaux) s'installent à terre, à Su Siccu [canon : retour progressif] |
 | **1957 – 1958** | Construction de la jetée du Conseil ; on monte à bord à pied ; naissance du quartier du Conseil |
 | **Fin des années 1950** | Secrétariat et bureaux des Sièges au Palazzo Regio |
 | **Années 1960** | Les séances ordinaires passent à terre ; le *Dunkerque* garde les séances solennelles, les archives et le pavillon |

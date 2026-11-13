@@ -37,7 +37,7 @@ Modèle [calcul] : l'onde de bord a une amplitude initiale de 5 500 m, limitée 
 
 ## 3. Le sol tremble
 
-Le séisme de M 9,9 est enregistré partout, mais à plus de 3 000 km il ne cause pas de dégâts notables. Il peut déclencher des séismes et des éruptions sur des failles déjà chargées de la ceinture de feu du Pacifique dans les mois suivants (spéculatif, non retenu au canon).
+Le séisme de M 9,9 est enregistré partout, mais à plus de 3 000 km il ne cause pas de dégâts notables. Il peut déclencher des séismes et des éruptions sur des failles déjà chargées de la ceinture de feu du Pacifique dans les mois suivants (hypothèse spéculative, que ce livre ne retient pas).
 
 ## 4. La pluie d'éjectas : le tueur mondial [estimation]
 

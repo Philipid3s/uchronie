@@ -10,10 +10,10 @@
 |---|---|
 | **Type** | Transport d'hydravions, le seul de la Marine française |
 | **Construction** | Forges et Chantiers de la Gironde, Bordeaux ; lancé en 1929, en service en 1932 |
-| **Dimensions** | **167 m** de long, **27 m** de large, **6,7 à 6,9 m** de tirant d'eau selon les sources ([Wikipédia](https://en.wikipedia.org/wiki/French_seaplane_carrier_Commandant_Teste), [Navypedia](https://navypedia.org/ships/france/fr_cv_commandant_teste.htm)) |
+| **Dimensions** | **167 m** de long, **27 m** de large, **6,7 à 6,9 m** de tirant d'eau |
 | **Déplacement** | ~10 000 t (standard), ~12 100 t à pleine charge |
 | **Hangar** | Un grand hangar central, d'environ 84 × 27 m sur 7 m de haut 🔎 |
-| **Manutention** | **Cinq grues de 12 t** : deux de chaque bord pour les catapultes, une à l'arrière ([Naval Encyclopedia](https://naval-encyclopedia.com/ww2/france/commandant-teste.php?amp=1)) |
+| **Manutention** | **Cinq grues de 12 t** : deux de chaque bord pour les catapultes, une à l'arrière |
 | **Catapultes** | Quatre, à air comprimé, pour des appareils de 2,5 à 3 t |
 | **Ateliers d'origine** | Ateliers d'entretien des hydravions : moteurs, cellules, hélices, instruments, électricité 🔎 |
 | **Machines** | Turbines à engrenages, deux hélices, ~20 nœuds ; chaudières au mazout 🔎 |
@@ -22,11 +22,11 @@
 
 **Dans notre histoire**, il quitte Mers el-Kébir pour Toulon le 3 juillet 1940, se saborde en novembre 1942, est renfloué, puis démoli après la guerre [histoire]. **Dans l'uchronie**, il arrive intact à Cagliari.
 
-## 2. Le quai : le tirant d'eau vérifié [estimation 🔎]
+## 2. Le quai et le tirant d'eau [estimation 🔎]
 
 - **Le navire cale 6,7 à 6,9 m**, et environ 7 m à pleine charge. Allégé de son mazout et de ses munitions, il remonte vers 6,5 m.
-- **Le port de Cagliari** a été dragué en 1936 : des fonds de **9 à 15 m** sont signalés devant le môle de Ponente, d'après les études environnementales du port publiées par le ministère italien de l'Environnement (va.mite.gov.it) 🔎. Il faut au moins un mètre de pied de pilote sous la quille, soit **8 m** au quai.
-- **Conclusion** : un quai du port, sans doute le long du **môle de Ponente** ou du **môle Sabaudo**, peut recevoir le navire. Les fonds exacts au quai en 1940 restent à confirmer par un plan hydrographique de l'époque 🔎.
+- **Le port de Cagliari** a été dragué en 1936 : des fonds de **9 à 15 m** sont signalés devant le môle de Ponente. [histoire, à vérifier : études environnementales du port, ministère italien de l'Environnement] Il faut au moins un mètre de pied de pilote sous la quille, soit **8 m** au quai.
+- **Conclusion** : un quai du port, sans doute le long du **môle de Ponente** ou du **môle Sabaudo**, peut recevoir le navire. [à vérifier : fonds exacts au quai en 1940, par un plan hydrographique de l'époque]
 
 **Ce que le quai apporte** :
 - on y accède **à pied et en charrette**, sans canot : les pièces arrivent par la voie ferrée du port et repartent de même ;
@@ -44,11 +44,11 @@
 | **Moteurs** | Moteurs Diesel du sous-marin et des groupes électrogènes ([29](29-flotte-des-annees-1950.md) §4.1) ; **gazogènes** des camions ([15](15-energie.md) §2) ; moteurs d'avion de la Flottille d'Elmas (Hispano-Suiza du Loire 130, Bristol Pegasus du Swordfish, [20](20-capacites-aeronavales.md)) |
 | **Électricité** | **Rebobinage** des dynamos et des moteurs électriques, magnétos, démarreurs, révision des dynamos démontées sur les donneurs ([29](29-flotte-des-annees-1950.md) §5) |
 | **Instruments** | Manomètres, thermomètres, compas, chronomètres, sextants, appareils de mesure des centrales et des mines ; **optique** (jumelles, télémètres) |
-| **Radio** | Réparation des postes, des récepteurs de trafic et des émetteurs ; tri et essai des **lampes**, qu'on ne sait pas fabriquer ([09](09-questions-ouvertes.md) B28) |
+| **Radio** | Réparation des postes, des récepteurs de trafic et des émetteurs ; tri et essai des **lampes**, qu'on ne sait pas fabriquer ; à partir de 1950, l'**atelier des lampes** y rénove les grosses lampes d'émission démontables ([16](16-contacts-radio.md) §7) |
 | **Aviation** | Cellules, entoilage, hélices en bois ; **les planeurs** de l'école de vol à voile, dont le premier sort du hangar en 1950 ([20](20-capacites-aeronavales.md) §4) |
 | **Petit usinage** | Tours, fraiseuses et perceuses de précision : pièces de rechange fines, engrenages, filetages |
 
-**Les machines-outils** : les ateliers d'origine ne suffisent pas. En 1941, le Conseil fait **rassembler sur le *Commandant Teste* les tours, les fraiseuses et les rectifieuses** des ateliers de bord des navires désarmés : chaque croiseur, chaque grand bâtiment avait le sien [estimation]. C'est ce rassemblement qui fait de lui l'atelier central de 1946 ([12](12-flottes-survivantes.md)).
+**Les machines-outils** : les ateliers d'origine ne suffisent pas. En 1941, le Conseil fait **rassembler sur le *Commandant Teste* les tours, les fraiseuses et les rectifieuses** des ateliers de bord des navires désarmés : chaque croiseur, chaque grand bâtiment avait le sien [estimation]. C'est ce rassemblement qui fait de lui le grand atelier flottant de 1946 ([12](12-flottes-survivantes.md)).
 
 **Le hangar** : quelque 2 300 m² couverts, éclairés et chauffés, au ras de l'eau, avec des grues au-dessus [calcul : 84 × 27].
 
@@ -67,7 +67,7 @@
 
 ## 5. Les hydravions de 1940 [canon provisoire]
 
-- **En juillet 1940**, le navire porte **quelques hydravions**, des Loire 130 de reconnaissance [à vérifier 🔎 ; voir [20](20-capacites-aeronavales.md) §1].
+- **En juillet 1940**, le navire porte **quelques hydravions**, des Loire 130 de reconnaissance ([20](20-capacites-aeronavales.md) §1) [à vérifier].
 - **Été 1940** : ils volent au-dessus des convois d'Oran, avec ceux des croiseurs.
 - **Hiver 1940-41** : l'essence est épuisée ; les appareils sont **débarqués à Elmas** et mis en conservation avec ceux de l'*Ark Royal* ([20](20-capacites-aeronavales.md) §2). Le hangar est libre pour les ateliers.
 - **1949-1951** : quand la Flottille d'Elmas renaît, ce sont les mécaniciens du *Commandant Teste* qui remettent les moteurs en état.
@@ -76,7 +76,7 @@
 
 - **Pourquoi** : l'arsenal à terre grandit avec l'École technique ([30](30-formation-technique.md)) et les avisos neufs ; un atelier à terre s'agrandit, un navire non. Et une coque de 1929 au quai demande de l'entretien.
 - **Le transfert** (milieu des années 1960) : les machines-outils, les bancs d'essai et les outillages passent dans un **atelier de précision de l'arsenal** ; les grues de 12 t sont démontées et remontées sur le quai.
-- **La coque** prend son tour au chantier de démolition, après l'*Ark Royal*, le *Provence* et le *Bretagne* ([26](26-provence.md) §6) : **dans les années 1970** [canon provisoire].
+- **La coque** prend son tour au chantier de démolition, après l'*Ark Royal*, le *Provence*, le *Bretagne* et le *Strasbourg* ([26](26-provence.md) §6) : **dans les années 1970** [canon provisoire].
 
 ## 7. Chronologie
 
@@ -87,7 +87,7 @@
 | **Hiver 1940 – 1941** | Appareils débarqués à Elmas ; le hangar est libre |
 | **1941** | Amarré à quai dans le port de Cagliari ; rassemblement des machines-outils des navires désarmés |
 | **1942 – 1945** | Courant de terre, fourni par le *Dunkerque* |
-| **1946** | « Atelier central » de l'îlot ([12](12-flottes-survivantes.md)) |
+| **1946** | Atelier flottant de l'îlot ([12](12-flottes-survivantes.md)) |
 | **1948** | Bord de stage de l'École technique (sections Moteurs, Électricité, Transmissions) |
 | **1949 – 1951** | Remise en état des moteurs de la Flottille d'Elmas |
 | **1950** | Premier planeur-école construit dans le hangar |

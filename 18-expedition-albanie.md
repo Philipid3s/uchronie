@@ -1,6 +1,6 @@
 # 18 — L'expédition d'Albanie (1950) : composition, combustibles, équipages
 
-> Ce chapitre détaille [15](15-energie.md) §3 ter. **Composition [canon, décision de l'auteur]** : le *Georges Leygues*, un cargo et un pétrolier. Expédition surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté. Les bilans viennent de [calculs/expedition_albanie.py](calculs/expedition_albanie.py) [estimation] ; le reste est [canon provisoire] sauf mention contraire.
+> Ce chapitre détaille [15](15-energie.md) §3 ter. **Composition [canon, décision de l'auteur]** : le *Georges Leygues*, un cargo et un pétrolier. Expédition surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté. Les bilans chiffrés sont des estimations. [calcul : calculs/expedition_albanie.py] [canon provisoire : le reste, sauf mention contraire]
 
 ## 1. En bref
 
@@ -18,7 +18,7 @@
 | **Objectif** | Pomper les cuves du terminal de Vlorë et rapporter **4 000 à 8 000 t de brut** |
 | **Rendement** | Chaque tonne de mazout brûlée en rapporte **20 à 40** |
 
-Ces chiffres confirment l'ordre de grandeur posé au chapitre 15 (moins de 5 % de la réserve).
+Ces chiffres confirment l'ordre de grandeur posé au [15](15-energie.md) §3 ter (moins de 5 % de la réserve).
 
 ## 2. Les trois navires
 
@@ -30,7 +30,7 @@ Ces chiffres confirment l'ordre de grandeur posé au chapitre 15 (moins de 5 % d
 
 **Pourquoi le pétrolier n'est pas converti au charbon** : c'est un navire à moteur Diesel ; on ne le convertit pas. Le Conseil préfère dépenser une centaine de tonnes de la réserve pour son premier voyage. **Au retour**, sa chaudière auxiliaire brûle le brut d'Albanie, après des essais au mouillage, et ses moteurs marchent ensuite sur la coupe distillée à Cagliari ([29](29-flotte-des-annees-1950.md) §4.3) : le brut de Kuçova est lourd et contient peu de fractions légères ([15](15-energie.md) §3 ter).
 
-**🔧 À vérifier** : les moteurs lents du *San Adolfo* acceptent-ils un fioul léger, ou faut-il une vraie coupe de gazole ? À défaut, l'appoint vient des huiles de goudron de Carbonia ([15](15-energie.md) §6) ; le bilan du §4 change peu.
+**Les moteurs du pétrolier** [à vérifier : les moteurs lents du *San Adolfo* acceptent-ils un fioul léger, ou faut-il une vraie coupe de gazole ?] : s'ils refusent le fioul léger, l'appoint vient des huiles de goudron de Carbonia ([15](15-energie.md) §6) ; le bilan du §4 change peu.
 
 **Ce qui ne part pas** [canon] : ni escorte supplémentaire, ni sous-marin. Les avisos charbonniers restent à la garde des côtes. Le *Volta* reste en réserve à Cagliari.
 
@@ -66,9 +66,8 @@ Ces chiffres confirment l'ordre de grandeur posé au chapitre 15 (moins de 5 % d
 **Son identité : le capitaine de vaisseau Louis Collinet** [canon, décision de l'auteur].
 
 - **[histoire]** Collinet commande le *Strasbourg* en juin-juillet 1940. Le 3 juillet, dans l'histoire réelle, il fait appareiller son navire dès les premiers obus britanniques et le sort de la rade de Mers el-Kébir sous le feu : c'est l'origine de sa réputation de sang-froid.
-- **[histoire, à vérifier]** Un officier de marine nommé **Louis-Edmond Collinet (1892-1949)** figure dans les catalogues du Service historique de la Défense. S'il s'agit bien de lui, il a **58 ans en 1950**. Dans l'histoire réelle, il meurt en 1949 ; dans l'uchronie, rien n'oblige à reprendre cette date.
+- Né en 1892, il a **58 ans en 1950** [histoire, à vérifier : un officier de marine nommé Louis-Edmond Collinet (1892-1949) figure dans les catalogues du Service historique de la Défense ; dans l'histoire réelle, il meurt en 1949, et l'uchronie n'oblige pas à reprendre cette date].
 - **Dans l'uchronie**, il n'y a pas de bataille le 3 juillet : la nuit de feu l'a précédée. [canon provisoire] Son sang-froid se montre la nuit du 1er juillet, quand il fait fermer le *Strasbourg* et arroser les ponts sous la pluie d'éjectas, puis pendant dix ans au commandement d'un équipage immobilisé. Il est toujours capitaine de vaisseau en 1950 : dans l'îlot, les promotions sont rares.
-- **Ce qu'on ignore encore** [à documenter] : son lieu de naissance, sa famille, sa carrière avant 1940.
 
 ## 4. Les combustibles
 
@@ -150,7 +149,7 @@ Le retour obligatoire par l'Asinara ([14](14-epidemie.md) §5.6) allonge la rout
 
 ![Le Georges Leygues entre dans le Grand Harbour de La Valette en avril 1950, suivi du cargo et du pétrolier](illustrations/georges-leygues-la-valette-1950.png)
 
-*Peinture de marine réaliste. Le* Georges Leygues *entre dans le Grand Harbour, suivi du* Har Zion *et du* San Adolfo. *La fumée noire est celle du charbon du Sulcis ; dans le port, des épaves de 1942-43 et le tas du dépôt de charbon.* **Écarts** : le navire porte des tourelles doubles, alors que le vrai *Georges Leygues* avait trois tourelles triples de 152 mm (deux à l'avant, une à l'arrière) ; le pavillon tricolore n'est pas celui de l'Îlot, qui reste à décider ([09](09-questions-ouvertes.md) B10).
+*Peinture de marine réaliste. Le* Georges Leygues *entre dans le Grand Harbour, suivi du* Har Zion *et du* San Adolfo. *La fumée noire est celle du charbon du Sulcis ; dans le port, des épaves de 1942-43 et le tas du dépôt de charbon.* **Écarts** : le navire porte des tourelles doubles, alors que le vrai *Georges Leygues* avait trois tourelles triples de 152 mm (deux à l'avant, une à l'arrière) ; le pavillon tricolore n'est pas celui de l'Îlot [à décider : le pavillon de l'Îlot, voir 09 B10].
 
 ## 5 ter. Les survivants maltais et la peur de la contagion [canon : principe ; provisoire : détail]
 
@@ -160,7 +159,7 @@ Le retour obligatoire par l'Asinara ([14](14-epidemie.md) §5.6) allonge la rout
 
 | Groupe | Effectif | Situation |
 |---|---|---|
-| **Survivants de l'île de Malte** | ~300 en 1942, ~12 en 1949 | Les survivants des galeries ont été ramenés en Sardaigne en 1942 ([11](11-ilot-de-civilisation.md) §1). En 1949, le bord de Malte trouve une douzaine d'isolés, réfugiés dans des fermes et des chapelles de l'intérieur. Ils font quarante jours au **lazaret de l'île Manoel**, puis sont inscrits au bord de Malte |
+| **Survivants de l'île de Malte** | ~300 en 1942, ~12 en 1949 | Les survivants des galeries ont été ramenés en Sardaigne en 1942 ([15](15-energie.md) §3 bis). En 1949, le bord de Malte trouve une douzaine d'isolés, réfugiés dans des fermes et des chapelles de l'intérieur. Ils font quarante jours au **lazaret de l'île Manoel**, puis sont inscrits au bord de Malte |
 | **Les Gozitains** | **~80** | Paysans et pêcheurs de **Gozo**, la deuxième île de l'archipel (67 km², ~27 000 habitants en 1940 [histoire, ordre de grandeur]). Ils ne sont pas inscrits ; c'est le seul groupe autonome de l'archipel |
 
 **Pourquoi Gozo a gardé des survivants** :
@@ -177,7 +176,7 @@ Depuis 1949, le bord de Malte et les Gozitains vivent **à 5 km l'un de l'autre,
 - **L'échange se fait à distance**, sur le modèle d'Eyam (1666, [14](14-epidemie.md) §5.4) : une **pierre de troc** sur la côte de **Comino**, l'îlot désert qui sépare les deux îles. Chacun y dépose sa part, se retire, et l'autre vient la chercher. Les rares papiers sont **trempés dans le vinaigre**.
 - **Le bord donne** du sel, du savon, des hameçons, du fil de pêche, des outils de l'arsenal et un peu de grain de Sardaigne.
 - **Gozo donne** des légumes frais, des œufs, du poisson séché et du fromage de chèvre (*ġbejna* [histoire]). Pour une garnison qui vit de vivres de conserve, le frais vaut cher : c'est **la meilleure défense contre le scorbut**.
-- **La règle du bord de Malte** : aucun Gozitain à La Valette, aucun homme du bord à Gozo. Tant que cette règle tient, Malte reste un **avant-poste sain**, et ses relèves ne font que la quarantaine ordinaire de l'Asinara.
+- **La règle du bord de Malte** : aucun Gozitain à La Valette, aucun homme du bord à Gozo. Tant que cette règle tient, Malte reste un **avant-poste sain**, et ceux qui rentrent par la navette de Malte ne font que la quarantaine ordinaire.
 
 ### L'escale d'avril 1950 : la demande des Gozitains [canon provisoire]
 
@@ -267,7 +266,7 @@ Ce que la réponse contient [canon provisoire] :
 
 **Le roulement** [canon provisoire] :
 - On sert **deux ans** au bord de Malte. **La moitié de la garnison est relevée chaque printemps**, pour que l'autre moitié transmette ce qu'elle sait de l'arsenal, des galeries, des citernes et des gens de Gozo.
-- La relève voyage avec le **convoi annuel de Vlorë** (pétrolier, cargo, aviso charbonnier), qui fait de toute façon escale à La Valette. À l'aller, venant de la Sardaigne saine, elle débarque sans quarantaine. Au retour, ceux qui sont relevés rentrent avec le convoi et font leurs quarante jours à l'Asinara.
+- La relève voyage avec le **convoi de printemps de l'Est** (pétrolier, cargo, escorte du *Georges Leygues*, [29](29-flotte-des-annees-1950.md) §4.5), qui fait de toute façon escale à La Valette. À l'aller, venant de la Sardaigne saine, elle débarque sans quarantaine. Au retour, ceux qui sont relevés rentrent avec le convoi et font leurs quarante jours à l'Asinara.
 - On ne part pas à Malte par punition : c'est une affectation recherchée. On y trouve de l'espace, la mer, une certaine liberté loin du Conseil, et après 1955 les vivres frais de Gozo.
 - La garnison comprend **des femmes**, dans les services de santé, de ravitaillement et de transmissions, comme les autres bords de terre ([13](13-societe-de-bord.md) §4 ter).
 
@@ -302,7 +301,7 @@ Ce que la réponse contient [canon provisoire] :
 
 ### 7.1 L'île de Sazan, base de l'expédition (puis base permanente, §10)
 
-**Sazan (Saseno)** ferme l'entrée de la baie de Vlorë. **Elle était italienne depuis 1920, avec une base navale** [histoire]. Pour l'expédition, c'est la base idéale :
+**Sazan (Saseno)** ferme l'entrée de la baie de Vlorë. **Occupée par l'Italie en 1914, cédée en 1920, elle porte une base navale** [histoire]. Pour l'expédition, c'est la base idéale :
 - un mouillage abrité pour les trois navires ;
 - une île **coupée du continent** : pas de rats venus de terre, pas d'attaque surprise ;
 - des **casernes et des magasins italiens** de 1940, peut-être encore utilisables.
@@ -330,7 +329,7 @@ La Morìa est passée par les Balkans en 1944 ([14](14-epidemie.md)). L'épidém
 
 **Décision de l'auteur** : les survivants se montrent **très amicaux** ; la flotte leur offre gratuitement vivres et soins, et signe en juin 1950 l'**accord de Narta** avec la chefferie locale ([34](34-avant-poste-d-albanie.md) §2-3). Le plan ci-dessous était celui du départ, avant de savoir ce qu'on trouverait.
 
-Ce qui reste de Vlorë en 1950 n'est pas encore fixé ([09](09-questions-ouvertes.md) B.1). Le plan de l'expédition prévoit trois cas :
+Au départ, on ignore ce qui reste de Vlorë. Le plan de l'expédition prévoit trois cas :
 - **une côte déserte** : le chantier avance sans obstacle ;
 - **une chefferie prête à commercer** : échange de grain, de sel et d'outils contre la paix du chantier, peut-être contre de la main-d'œuvre et des guides vers Kuçova ;
 - **une chefferie hostile** : le chantier se retranche à Sazan et au terminal, sous les canons du *Georges Leygues*. C'est pour ce cas que les 250 t de mazout de combat sont embarquées.
@@ -341,7 +340,7 @@ Ce qui reste de Vlorë en 1950 n'est pas encore fixé ([09](09-questions-ouverte
 
 **La rencontre** [canon provisoire] :
 - **Mi-juin 1950**, au deuxième jour du retour, à l'aube, à la sortie du canal d'Otrante, au large de Corfou. Les vigies du *Georges Leygues* signalent une voile.
-- C'est un **caïque grec à deux mâts** des îles Ioniennes (port d'attache [à décider]), avec une dizaine d'hommes. Il fait du cabotage et du troc entre les îles, l'Épire et, une ou deux fois par an, **la Crète**.
+- C'est un **caïque grec à deux mâts** des îles Ioniennes [à décider : port d'attache], avec une dizaine d'hommes. Il fait du cabotage et du troc entre les îles, l'Épire et, une ou deux fois par an, **la Crète**.
 - **On parle en italien**, langue de commerce encore comprise dans les îles Ioniennes [histoire : héritage vénitien], par l'intermédiaire des interprètes de l'expédition, au porte-voix, le caïque tenu à une cinquantaine de mètres sous le vent.
 
 **Ce que raconte le patron du caïque** :
@@ -365,7 +364,7 @@ Ce qui reste de Vlorë en 1950 n'est pas encore fixé ([09](09-questions-ouverte
 
 Il rend compte à Cagliari par radio, en message chiffré, et reprend la route de Malte. **C'est le moment où son sang-froid se voit le mieux** : il a sous la main le premier signe de l'Est depuis dix ans, et il passe son chemin.
 
-**La suite** [à décider] : à partir de juillet 1950, Cagliari écoute aux heures données par le pli. Quand le premier échange radio direct a-t-il lieu, et que dit-il ? Que décide le Conseil sur les retrouvailles ([09](09-questions-ouvertes.md) B.3) ?
+**La suite** : à partir de juillet 1950, Cagliari écoute aux heures données par le pli. La première rencontre a lieu en 1952, par le voyage du *Strasbourg* en baie de Souda ([27](27-strasbourg.md) §6). [à décider : la date et le contenu du premier échange radio direct, voir 09 B.3]
 
 ## 8. Le bilan attendu [estimation]
 
@@ -399,7 +398,7 @@ Il rend compte à Cagliari par radio, en message chiffré, et reprend la route d
 **Pourquoi Sazan** :
 - **Elle commande la baie** : l'île ferme l'entrée de la baie de Vlorë, à quelques milles du terminal. Rien n'entre ni ne sort par mer sans être vu.
 - **Elle est coupée du continent** : on ne l'attaque qu'en bateau, et les rats de terre n'y passent pas. C'est la réponse à la fois au danger des chefferies et à la peste (§7.3).
-- **Elle est déjà fortifiée** : base navale italienne depuis 1920, avec des casernes, des magasins et des batteries [histoire, état en 1940 à documenter].
+- **Elle est déjà fortifiée** : base navale italienne depuis 1914, avec des casernes, des magasins et des batteries [histoire, état en 1940 à documenter].
 - **Elle évite l'engrenage du continent** : l'îlot garde un pied en Albanie sans s'établir sur la terre ferme, ce que la lettre de commandement interdit (§3 bis).
 
 **Le rôle de la garnison** :
@@ -431,5 +430,5 @@ C'est un **bord détaché**, sur le modèle de Malte, **relevé une fois par an*
 - **Combustible** : ~100 t de charbon par an pour la cuisine, la chaudière du chantier et les dynamos de la radio, laissées par le cargo et renouvelées à chaque voyage.
 - **Isolement** : soixante personnes sur une île de 5 km², à plus de 350 milles de Malte. Le choix du commandant de la garnison compte autant que celui du chef d'expédition.
 
-**La suite** : en 1951, la garnison de Sazan devient le quartier général d'un bord à trois postes (Sazan, le terminal, Kuçova), d'environ 180 personnes ([34](34-avant-poste-d-albanie.md) §6). Reste le nom du poste.
+**La suite** : en 1951, la garnison de Sazan devient le quartier général d'un bord à trois postes (Sazan, le terminal, Kuçova), d'environ 180 personnes ([34](34-avant-poste-d-albanie.md) §6). [à nommer : le poste]
 

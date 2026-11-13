@@ -21,7 +21,7 @@
 | **Vlorë** | ~9 000 habitants (1941) ; base de ravitaillement italienne ; un aérodrome au nord de la ville |
 | **Sazan** | Italienne depuis 1914 (cession de 1920) : un phare, des fortifications, quelques familles de pêcheurs des Pouilles |
 
-Sources : [annexes/sources.md](annexes/sources.md). 🔎 Restent à trouver : le nombre de puits en 1940, la méthode de pompage, l'emplacement des stations de l'oléoduc, la capacité des réservoirs du terminal, le point d'écoulement du brut.
+[à documenter : sources dans annexes/sources.md ; restent à trouver le nombre de puits en 1940, la méthode de pompage, l'emplacement des stations de l'oléoduc, la capacité des réservoirs du terminal, le point d'écoulement du brut]
 
 ## 2. Ce que trouve l'expédition de 1950 [canon provisoire]
 
@@ -31,12 +31,12 @@ Sources : [annexes/sources.md](annexes/sources.md). 🔎 Restent à trouver : le
 
 | Groupe | Où | Combien [estimation] | Ce qu'ils sont |
 |---|---|---|---|
-| **La chefferie de Narta** | Le village de Narta, au bord de la lagune, les salines, le monastère de Zvërnec sur son îlot ; les oliveraies au sud de Vlorë | **2 000 à 3 000 personnes** | Une chefferie formée autour du **sel** et de la **pêche de la lagune**, qui ont permis de passer les années noires. Son chef, **Llazar Kondi** [personnage inventé], ancien patron de salines, tient sa place de la distribution du sel pendant la famine plus que du sang. Elle est jeune : elle n'a pas encore les traits durs des chefferies du chapitre 07 |
+| **La chefferie de Narta** | Le village de Narta, au bord de la lagune, les salines, le monastère de Zvërnec sur son îlot ; les oliveraies au sud de Vlorë | **2 000 à 3 000 personnes** | Une chefferie formée autour du **sel** et de la **pêche de la lagune**, qui ont permis de passer les années noires. Son chef, **Llazar Kondi** [personnage inventé], ancien patron de salines, tient sa place de la distribution du sel pendant la famine plus que du sang. Elle est jeune : elle n'a pas encore les traits durs des chefferies du monde d'après ([07](07-le-monde-apres.md) §1 bis) |
 | **Les gens de Petrolia** | Le vieux camp de l'AIPA à Kuçova | **300 à 400 personnes** | D'anciens ouvriers du pétrole et leurs familles. Ils ont survécu en **puisant le brut à la main** dans les puits abandonnés, avec une écope au bout d'un câble, pour se chauffer, s'éclairer et faire du troc. Ils savent encore où sont les puits et comment ils marchaient |
 | **Les Italiens restés** | Kuçova | **Deux** | **Aldo Ferretti**, contremaître de l'AIPA, et **Gino Sartori**, mécanicien de l'atelier de 1936 [personnages inventés], restés en juillet 1940, mariés à des Albanaises. Ils parlent albanais et ils ont gardé des **plans de l'AIPA** |
 | **Vlorë** | La ville | Quelques centaines | Une ville presque morte, dont les survivants vivent sous la protection de Narta |
 
-**Pourquoi ils sont amicaux** : ils ont tout perdu en dix ans, et ils n'ont aucune force à opposer. Les enfants meurent de faim au printemps, de paludisme en été, de dysenterie en automne. Une flotte qui arrive avec du **grain** et des **médecins**, et qui les **donne**, est une délivrance, non une menace. Ils ont aussi un ennemi commun avec l'îlot : les **pirates** qui razzient la côte depuis le sud (les chefferies de la côte de Himara et de l'Épire) [canon provisoire, [07](07-le-monde-apres.md) §1 bis].
+**Pourquoi ils sont amicaux** : ils ont tout perdu en dix ans, et ils n'ont aucune force à opposer. Les enfants meurent de faim au printemps, de paludisme en été, de dysenterie en automne. Une flotte qui arrive avec du **grain** et des **médecins**, et qui les **donne**, est une délivrance, non une menace. Ils ont aussi un ennemi commun avec l'îlot : les **pirates** qui razzient la côte depuis le sud (les chefferies de la côte de Himara et de l'Épire) ([07](07-le-monde-apres.md) §1 bis) [canon provisoire].
 
 ## 3. Le premier contact et l'accord de Narta (mai – juin 1950) [canon : principe ; provisoire : détail]
 
@@ -62,7 +62,7 @@ Sources : [annexes/sources.md](annexes/sources.md). 🔎 Restent à trouver : le
 
 **Ce que l'accord n'est pas** : ni un tribut, ni une soumission. L'Albanie n'entre pas dans le rôle de l'îlot. C'est le modèle des **accords d'entraide** que l'îlot passera ensuite avec les colonies amies ([07](07-le-monde-apres.md) §1 bis).
 
-**Le vote de Kuçova** (février 1951) : la lettre de commandement de Collinet interdisait de s'établir sur la terre ferme ([18](18-expedition-albanie.md) §3 bis et §10). Pour exploiter le gisement, il faut y renoncer. Le Conseil des Amiraux vote en février 1951 l'**établissement à terre**, à deux conditions : la base reste à Sazan, et les postes à terre doivent pouvoir être évacués en une journée [canon provisoire].
+**Le vote de Kuçova** (février 1951) : la lettre de commandement de Collinet interdisait de s'établir sur la terre ferme ([18](18-expedition-albanie.md) §3 bis). Pour exploiter le gisement, il faut y renoncer. Le Conseil des Amiraux vote en février 1951 l'**établissement à terre**, à deux conditions : la base reste à Sazan, et les postes à terre doivent pouvoir être évacués en une journée [canon provisoire].
 
 ## 4. La remise en état (1951 – 1953) [canon : principe ; provisoire : détail]
 
@@ -133,7 +133,7 @@ En attendant l'oléoduc, le brut voyage **en fûts de 200 litres** (~190 kg).
 
 ## 6. La garnison : trois postes [canon : option 1A ; provisoire : détail]
 
-**Le bord d'Albanie** : en 1951, la garnison de Sazan (~60 personnes, [18](18-expedition-albanie.md) §10) devient un bord à trois postes, d'environ **180 personnes**. Le nom du bord et celui de son commandant restent à décider.
+**Le bord d'Albanie** : en 1951, la garnison de Sazan (~60 personnes, [18](18-expedition-albanie.md) §10) devient un bord à trois postes, d'environ **180 personnes** [à nommer : le bord et son commandant].
 
 | Poste | Lieu | Effectif | Rôle |
 |---|---|---|---|
@@ -142,7 +142,7 @@ En attendant l'oléoduc, le brut voyage **en fûts de 200 litres** (~190 kg).
 | **Le camp de Kuçova** | Le vieux camp de l'AIPA | ~85 | Ingénieurs, foreurs, mécaniciens, chauffeurs ; une section de **fusiliers marins** (~30) ; un médecin. Avec **200 à 400 ouvriers albanais** |
 
 **Les techniciens** [canon : option 4C] :
-- **De l'îlot** : un ingénieur des mines formé à Iglesias, chef du champ ; des **mineurs du Sulcis** (le travail de fond, les treuils, la ventilation, le danger du gaz) ; des **chaudronniers et tuyauteurs** de l'arsenal, anciens de Ferryville ; des **mécaniciens** de la flotte ; des **pompistes** du pétrolier ([30](30-formation-technique.md)).
+- **De l'îlot** : un ingénieur des mines formé à Iglesias, chef du champ ; des **mineurs du Sulcis** (le travail de fond, les treuils, la ventilation, le danger du gaz) ; des **chaudronniers et tuyauteurs** de l'arsenal, anciens de Ferryville ; des **mécaniciens** de la flotte ; des **pompistes** du pétrolier ([18](18-expedition-albanie.md) §3).
 - **Albanais** : les **anciens ouvriers de l'AIPA** retrouvés à Petrolia, qui connaissent chaque puits ; ce sont eux qui forment les équipes de l'îlot au métier de foreur.
 - **Italiens** : **Ferretti** devient le **contremaître du champ** ; **Sartori** tient l'atelier. Ils sont inscrits au rôle de l'îlot en 1951, avec leurs familles, par décision du Conseil.
 

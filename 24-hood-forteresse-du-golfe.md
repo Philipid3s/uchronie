@@ -15,7 +15,7 @@
 | **Artillerie principale** | 8 canons de 381 mm (15 pouces) en **quatre tourelles doubles**, deux à l'avant (A, B), deux à l'arrière (X, Y) ; hausse maximale de 30°, portée d'environ **27 à 28 km** 🔎 |
 | **Artillerie secondaire** | Canons de 102 mm à double usage en affûts doubles (sept affûts, soit 14 pièces, d'après l'état de 1941) ; pom-poms octuples de 40 mm ; mitrailleuses ; projecteurs 🔎 |
 | **Machines** | 24 chaudières, 4 groupes de turbines, ~144 000 ch ; ~31 nœuds à neuf, moins en 1940 |
-| **Puissance des tourelles** | **Hydraulique** : pompes entraînées, sauf erreur, par des machines à vapeur 🔎 |
+| **Puissance des tourelles** | **Hydraulique** : pompes entraînées par des machines à vapeur |
 | **Équipage** | ~1 420 hommes ([12](12-flottes-survivantes.md)) |
 | **Commandant** | **Captain Irvine Glennie** (1892-1980), commandant du *Hood* de mai 1939 à février 1941 [histoire] |
 | **Rôle en juillet 1940** | **Navire amiral de la Force H**, marque du vice-amiral Somerville |
@@ -26,15 +26,15 @@
 
 ## 2. Ce que peut un *Hood* immobile [calcul et estimation]
 
-Les chiffres de cette section sortent de [calculs/defense_golfe.py](calculs/defense_golfe.py).
+[calcul : calculs/defense_golfe.py]
 
 **1. Un seul navire ne ferme pas le golfe.** L'entrée du golfe de Cagliari, du cap de Pula au capo Carbonara, mesure **45 km** [calcul]. Depuis son lit devant Su Siccu, le *Hood* est à **23 km** du cap de Pula et à **35 km** du capo Carbonara. Ses 381 mm couvrent **80 %** de la ligne d'entrée [calcul], tout le fond du golfe, le port et les plages du Poetto. Il manque l'angle est, côté Carbonara.
 
 **2. Le canonnier ne voit pas aussi loin que tire sa pièce.** Depuis la direction de tir, à environ 35 m au-dessus de l'eau, l'horizon est à **21 km** [calcul]. Au-delà, il faut que d'autres voient pour lui : la vigie de la Sella del Diavolo (capo Sant'Elia, ~120 m, horizon à ~39 km 🔎) et celle du Serpeddì (1 067 m, [16](16-contacts-radio.md) §1 bis). Le tir lointain du *Hood* est donc un **tir sur renseignement**, réglé depuis la côte (§4).
 
-**3. Sans vapeur, une tourelle est presque inerte.** Orienter, pointer et charger une tourelle de 381 mm se fait à l'hydraulique. Si les pompes sont à vapeur 🔎, le *Hood* doit garder une chaudière allumée pour rester une forteresse, au prix de plusieurs tonnes de mazout par jour. Sinon, on manœuvre à bras : quelques coups par heure, pas plus. **L'électrification des pompes** est la vraie condition de la forteresse (§3.3).
+**3. Sans vapeur, une tourelle est presque inerte.** Orienter, pointer et charger une tourelle de 381 mm se fait à l'hydraulique. Les pompes étant à vapeur, le *Hood* doit garder une chaudière allumée pour rester une forteresse, au prix de plusieurs tonnes de mazout par jour. Sinon, on manœuvre à bras : quelques coups par heure, pas plus. **L'électrification des pompes** est la vraie condition de la forteresse (§3.3).
 
-**4. La menace n'appelle pas du 381.** Après 1944, ce qui s'approche du golfe, ce sont des barques d'affamés, des voiliers de pillards ([07](07-le-monde-apres.md) §1 bis) et des bateaux suspects de peste ([14](14-epidemie.md) §5.5). Un obus de 381 mm contre une barque, c'est un marteau-pilon contre une mouche : il faut des pièces légères, des projecteurs et des guetteurs. **Le 381 dissuade ; le 102 et les patrouilles arrêtent.** D'où la décision en deux temps : poser le navire (B), puis débarquer ses pièces légères (C).
+**4. La menace n'appelle pas du 381.** Après 1944, ce qui s'approche du golfe, ce sont des barques d'affamés, des voiliers de pillards ([07](07-le-monde-apres.md) §1 bis) et des bateaux suspects de peste ([14](14-epidemie.md) §5.5). Un obus de 381 mm contre une barque, c'est un marteau-pilon contre une mouche : il faut des pièces légères, des projecteurs et des guetteurs. **Le 381 dissuade ; le 102 et les patrouilles arrêtent.** D'où la décision en deux temps : poser le navire, puis débarquer ses pièces légères.
 
 ## 3. Les âges de la forteresse [canon provisoire]
 
@@ -54,7 +54,7 @@ Les chiffres de cette section sortent de [calculs/defense_golfe.py](calculs/defe
 
 ### 3.3 1944 : la pose [canon : principe ; provisoire : détail]
 
-**Pourquoi en 1944.** Au début de 1944, la Morìa approche ([14](14-epidemie.md) §5.1). Le Conseil ferme l'île et vote l'ordre d'**ouvrir le feu sur tout bateau qui force la quarantaine** (§5.2). Il faut une défense **permanente, sûre et sobre** :
+**Pourquoi en 1944.** Au début de 1944, la Morìa approche ([14](14-epidemie.md) §5.1). Le Conseil ferme l'île et vote l'ordre d'**ouvrir le feu sur tout bateau qui force la quarantaine** ([14](14-epidemie.md) §5.2). Il faut une défense **permanente, sûre et sobre** :
 - **Permanente** : un navire à flot peut chasser sur ses ancres par tempête de sud ; un navire posé reste à sa place, et ses tables de tir restent justes (§4).
 - **Sûre** : un navire posé ne coule pas. Une voie d'eau dans une coque de 1918 ne menace plus que quelques compartiments.
 - **Sobre** : plus de chaudière, plus de mazout. Dans le budget de 1944 ([15](15-energie.md) §3), les 1 000 à 1 800 t par an de la chaudière du *Hood* paient une partie des patrouilles de la quarantaine.

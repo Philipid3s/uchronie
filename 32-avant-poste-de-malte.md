@@ -6,7 +6,7 @@
 
 ## 1. Pourquoi l'enclave [canon]
 
-**Deux cents hommes ne tiennent pas La Valette.** Le bord de Malte compte environ 200 personnes en 1949 et 250 vers 1950 ([15](15-energie.md) §3 ter, [21](21-demographie.md)). La Valette est une ville fortifiée faite pour des milliers de soldats ; ses remparts sont trop longs pour une poignée d'hommes.
+**Deux cents hommes ne tiennent pas La Valette.** Le bord de Malte compte environ 200 personnes à partir de 1949, et environ 300 vers 1960 ([15](15-energie.md) §3 ter, [21](21-demographie.md)). La Valette est une ville fortifiée faite pour des milliers de soldats ; ses remparts sont trop longs pour une poignée d'hommes.
 
 **Les Trois Cités, elles, enferment tout ce que l'îlot vient chercher** :
 - **l'arsenal** et ses **docks**, sur les rives de la Darse (*Dockyard Creek*) et de French Creek ;
@@ -23,7 +23,7 @@
 |---|---|---|
 | **Fort Saint-Ange** | Pointe de Birgu | **Quartier général** du bord de Malte ; ancien quartier général de la Royal Navy [histoire]. **Station radio**, avec les antennes récupérées à la station de transmissions de Rinella 🔎 |
 | **Docks 1 et 2** | Bormla, au fond de la Darse | Carénage des petits navires : avisos, cargos, pétrolier ([29](29-flotte-des-annees-1950.md) §5). Environ 160 m [à vérifier 🔎] |
-| **Le grand bassin de 1909** | Rive de French Creek, dans l'enclave [emplacement à vérifier 🔎] | Long d'environ **241 m** (790 pieds), divisible en deux par un bateau-porte ([Grace's Guide](https://www.gracesguide.co.uk/Malta_Dockyard)). Carénage du *Georges Leygues* (179 m) et du *Strasbourg* (215 m) |
+| **Le grand bassin de 1909** | Rive de French Creek, dans l'enclave [emplacement à vérifier 🔎] | Long d'environ **241 m** (790 pieds), divisible en deux par un bateau-porte [histoire : Grace's Guide, Malta Dockyard]. Carénage du *Georges Leygues* (179 m) et du *Strasbourg* (215 m) |
 | **Dépôt de charbon** | Quais de l'arsenal, au fond de French Creek | Environ **2 000 t** de charbon du Sulcis ([18](18-expedition-albanie.md) §5 bis) ; on charbonne à quai |
 | **Mouillage** | Grand Harbour, entre La Valette et Senglea | Escales des navires de l'îlot |
 | **Lazaret de l'île Manoel** | Marsamxett, l'autre port de La Valette | Quarante jours pour les isolés retrouvés à Malte, avant leur inscription ([18](18-expedition-albanie.md) §5 ter) |
@@ -57,9 +57,9 @@
 
 **Écarts au canon** : la géographie est recomposée. Le fort Saint-Ange est en réalité à la pointe de Birgu, face à La Valette et près de l'entrée du port ; les Cottonera Lines sont du côté de la terre, et non au bord de l'eau ; l'île Manoel, Comino et Gozo, au nord-ouest, ne sont pas visibles depuis cet angle. Le *Georges Leygues* avait trois tourelles triples.
 
-## 3. Le carénage du *Strasbourg* : un point à vérifier 🔎
+## 3. Le carénage du *Strasbourg* (1952) [à vérifier : largeur d'entrée du bassin]
 
-Le grand bassin de 1909 est assez **long** pour le *Strasbourg* (215 m sur 241). Sa **largeur d'entrée** n'a pas été retrouvée. Or le *Strasbourg* fait **31 m** de large, et les bassins de 1909 ont été conçus pour les cuirassés de l'époque, larges d'environ 25 à 27 m.
+Le grand bassin de 1909 est assez **long** pour le *Strasbourg* (215 m sur 241). Mais le *Strasbourg* fait **31 m** de large, et les bassins de 1909 ont été conçus pour les cuirassés de l'époque, larges d'environ 25 à 27 m. Les ingénieurs de l'îlot ne savent pas si l'entrée le laissera passer.
 
 - **Si l'entrée est assez large**, le carénage de 1952 se fait comme prévu ([27](27-strasbourg.md) §6).
 - **Sinon**, deux solutions [canon provisoire, à trancher si besoin] : un **dock flottant** de l'Amirauté, s'il en reste un en état à Malte en 1952 (un « dock flottant n° VIII » est attesté à Malte pendant la guerre [histoire, à vérifier]) ; ou un **carénage partiel** par scaphandriers et à la gîte, sans mise au sec.

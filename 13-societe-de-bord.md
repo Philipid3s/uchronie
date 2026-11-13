@@ -1,8 +1,6 @@
 # 13 — La société de bord : une hiérarchie née de la nécessité
 
 > **Décision de l'auteur** : la société de l'îlot se structure autour du noyau des marins. Elle adopte leurs coutumes et leurs grades et devient **très hiérarchisée**. Cette hiérarchie n'est pas un choix idéologique : c'est la condition de la survie. **Sans colonne vertébrale, les survivants sont rattrapés par la destruction et le chaos.**
->
-> Ce chapitre fixe le principe [canon] et propose une organisation détaillée [canon provisoire]. Il remplace l'évolution « vers une constitution civile » envisagée dans [11](11-ilot-de-civilisation.md) §8.
 
 ## 1. Pourquoi la hiérarchie s'impose
 
@@ -64,7 +62,7 @@ Le mot « bord » (le navire, au sens où l'on dit « à bord ») désigne la ce
 | **Bords au mouillage** | Les grands navires immobilisés : *Dunkerque* (siège du Conseil), *Hood* (forteresse, posé en 1944), *Strasbourg* (centrale, puis navire de réserve), *Valiant* (centrale jusqu'en 1942), *Ark Royal* (hôpital, germoirs, puis Grand Carré), *Provence* (hôpital, puis maternité et école des mousses) | 800 à 2 000, dont les civils logés à bord ou rattachés | Le commandant du navire |
 | **Bords de fond** | Les mines du Sulcis et de l'Iglesiente : Serbariu (Carbonia), Monteponi, Montevecchio. La mine est traitée comme un navire enterré : galeries, puits, quarts | 2 000 à 5 000 | Un officier, assisté de l'ingénieur des mines (officier assimilé) |
 | **Bords de terre** | Les domaines agricoles du Campidano, les barrages du Tirso et du Coghinas, l'arsenal, l'université | 300 à 3 000 | Un officier ou un officier assimilé |
-| **Bords détachés** (à partir de 1949) | Les avant-postes hors de Sardaigne : **le bord de Malte** (La Valette, puis Gozo à partir de 1955), **Sazan** (1950). Relevés par roulement (à Malte, deux ans de service, la moitié relevée chaque printemps) ; les relèves font la quarantaine de l'Asinara ; des **fixés**, mariés sur place, sortent du roulement ([15](15-energie.md) §3 ter, [18](18-expedition-albanie.md) §5 ter et §10) | 60 à 250 | Un officier de marine désigné par le Conseil |
+| **Bords détachés** (à partir de 1949) | Les avant-postes hors de Sardaigne : **le bord de Malte** (La Valette, puis Gozo à partir de 1955), **Sazan** (1950), **Toulon** (1956). Relevés par roulement (à Malte, deux ans de service, la moitié relevée chaque printemps) ; les relèves font la quarantaine de l'Asinara ; des **fixés**, mariés sur place, sortent du roulement ([15](15-energie.md) §3 ter, [18](18-expedition-albanie.md) §5 ter et §10) | 60 à 250 | Un officier de marine désigné par le Conseil |
 
 Chaque bord porte le nom de son navire d'origine ou de son lieu. Les bords à terre créés après 1940 reçoivent souvent le nom d'un navire perdu ou désarmé, pour en perpétuer la mémoire.
 
@@ -136,6 +134,49 @@ C'est ce qui rend la hiérarchie acceptable. Une discipline de fer n'est support
 - **L'intégration des Sardes** s'en trouve accélérée : dès la fin des années 1940, des fils et des filles de mineurs et de paysans sardes réussissent le concours de l'École navale. Le Carré cesse d'être une affaire de flottes étrangères au cours des années 1950.
 - **La légitimité des chefs** est forte : chacun sait que son commandant a passé les mêmes épreuves.
 - **La compétition est rude** : les brevets deviennent l'événement de l'année dans chaque bord, et l'échec est vécu comme une honte.
+
+## 4 ter. Les femmes : un rôle grandissant [canon : principe ; provisoire : détails]
+
+**Décision de l'auteur** : **les femmes ont un rôle grandissant, surtout dans les unités de soutien.** Elles sont **d'abord réservées aux unités de soutien** (ingénieurs, soutien logistique, santé), puis **accèdent petit à petit aux postes d'officier**. **Seules les troupes de marine, les fusiliers marins, restent réservées aux hommes.**
+
+### Le point de départ (1940)
+
+- Les marines de 1940 n'ont **aucune femme à bord**. Les arrivants sont des hommes à environ 82 %, et les seuls marins à plus de 98 % ([11](11-ilot-de-civilisation.md) §1, [21](21-demographie.md) §4).
+- Mais dès l'été 1940, les femmes sont là : les civiles d'Oran (infirmières, institutrices, épouses d'ouvriers d'arsenal), les femmes de la garnison et de l'hôpital de Gibraltar, puis **les Sardes**, qui forment une grande partie de la population survivante.
+- **Le manque de bras est tel que la question ne se pose pas longtemps** : l'îlot ne peut pas se priver de la moitié de ses survivants.
+
+**[histoire] Les précédents** :
+- Le **Women's Royal Naval Service** britannique (les « Wrens »), recréé en 1939. Ses membres assurent les transmissions, le chiffre, le suivi radar, la météo, l'entretien et le ravitaillement des bases navales. Certaines officières de l'îlot de Gibraltar peuvent en venir.
+- Les **infirmières de la marine** : Queen Alexandra's Royal Naval Nursing Service côté britannique, infirmières des hôpitaux maritimes côté français.
+- Les **Services féminins de la flotte**, créés par la Marine française en 1943-1944 dans l'histoire réelle.
+
+### Les unités de soutien [canon provisoire]
+
+Les femmes sont inscrites comme tout le monde (§2). De 1940 à 1943, elles sont regroupées dans des **corps de soutien** (fondus en 1943 dans les corps de la Marine de l'Îlot, [22](22-organisation-militaire.md) §5), qui ont leurs propres grades, alignés sur ceux de la marine et soumis aux mêmes brevets (§4 bis).
+
+| Corps de soutien | Rôle | Place des femmes |
+|---|---|---|
+| **Santé** | Hôpitaux du *Provence* (chirurgie, maternité) et de l'*Ark Royal*, **la Zone**, la visite quotidienne, les maternités | Majoritaires dès 1940. Les infirmières-chefs entrent dans la Maistrance |
+| **Commissariat** | Dépôts, cartes de ration, cuisines de bord, conserves, comptabilité des stocks | Majoritaires dès 1941. **Ce sont elles qui tiennent les registres de la ration**, le poste le plus sensible de l'îlot |
+| **Transmissions** | Écoute radio, chiffre, signaux, météo | Formées par les Wrens et les radios de la flotte. Ce sont elles qui captent les appels du monde en 1943-44 |
+| **Instruction** | Écoles des mousses, alphabétisation, copie des livres de la bibliothèque de l'Îlot | Majoritaires |
+| **Ateliers** | Couture des tenues et des voiles, réparation, filature, fabrication des masques | Majoritaires |
+| **Agriculture** | Fermes du Campidano, germoirs et pépinière de l'*Ark Royal*, champignonnières des mines | Paritaire |
+
+### Une montée en puissance [canon provisoire]
+
+| Période | Place des femmes |
+|---|---|
+| **1940 – 1943** | Elles sont matelots, quartiers-maîtres et maîtres dans les corps de soutien. Les officiers restent des hommes, à l'exception de quelques médecins et des officières venues des Wrens |
+| **1944 – 1947 : la Morìa** | **Les femmes volontaires de la Zone** (infirmières, religieuses, revenues) deviennent des figures héroïques. Plusieurs reçoivent des promotions exceptionnelles. Le premier commandement d'un bord confié à une femme est celui d'un **bord de la Zone** |
+| **Années 1950** | L'École navale de l'Îlot est ouverte aux femmes pour les corps de soutien, **y compris les ingénieurs** de Machines et Génie. Des femmes commandent des bords de terre (hôpitaux, dépôts, écoles, stations radio, domaines agricoles). L'une d'elles peut entrer au **Grand Carré** |
+| **Vers 1955 – 1960** | **Les postes d'officier s'ouvrent petit à petit** : d'abord les officiers mécaniciens, médecins et commissaires embarqués, puis le **corps du Pont** et les Capitaineries ; les premières officières servent à bord des navires actifs (le *Georges Leygues*, les avisos) |
+| **Ce qui reste fermé** | **Les fusiliers marins** (garde armée des bords, garnisons des avant-postes, troupes de débarquement des expéditions) restent **réservés aux hommes**. L'accès d'une femme au **Conseil des Amiraux** reste une question ouverte |
+
+**Pourquoi cette place grandit** :
+- **La démographie** : les naissances reprennent à partir de 1947. Les mères sont protégées (ration de mère jusqu'au sevrage, congé, travaux interdits, une sage-femme par bord), et l'îlot fait venir des femmes après 1952, les **dotées** ([21](21-demographie.md) §4.4 et §4.6). La moitié des enfants qui entrent comme mousses sont des filles, et elles passent les mêmes brevets.
+- **Le mérite** : dans une société fondée sur les examens (§4 bis), les résultats des femmes aux brevets s'imposent.
+- **La survie** : les corps de soutien (santé, ration, transmissions) sont ceux qui ont permis de traverser l'hiver d'impact et la Morìa. Leur prestige rejaillit sur celles qui les tiennent.
 
 ## 4 quater. Le renouvellement des élites : l'École navale de l'Îlot [canon : principe ; provisoire : détail]
 
@@ -209,49 +250,6 @@ Le risque principal est la **reproduction sociale par le savoir** (§9) : les en
 | **Les anciens élèves** | Les premiers reçus de l'École (promotions 1946-1955), dont beaucoup de Sardes | À partir de 1975-1980 |
 
 C'est avec cette troisième génération que **le Carré cesse d'être une affaire de flottes étrangères** (§6) : les amiraux des années 1980 sont nés dans l'île ou y sont arrivés enfants.
-
-## 4 ter. Les femmes : un rôle grandissant [canon : principe ; provisoire : détails]
-
-**Décision de l'auteur** : **les femmes ont un rôle grandissant, surtout dans les unités de soutien.** Elles sont **d'abord réservées aux unités de soutien** (ingénieurs, soutien logistique, santé), puis **accèdent petit à petit aux postes d'officier**. **Seules les troupes de marine, les fusiliers marins, restent réservées aux hommes.**
-
-### Le point de départ (1940)
-
-- Les marines de 1940 n'ont **aucune femme à bord**. Les arrivants sont des hommes à environ 82 %, et les seuls marins à plus de 98 % ([11](11-ilot-de-civilisation.md) §1, [21](21-demographie.md) §4).
-- Mais dès l'été 1940, les femmes sont là : les civiles d'Oran (infirmières, institutrices, épouses d'ouvriers d'arsenal), les femmes de la garnison et de l'hôpital de Gibraltar, puis **les Sardes**, qui forment une grande partie de la population survivante.
-- **Le manque de bras est tel que la question ne se pose pas longtemps** : l'îlot ne peut pas se priver de la moitié de ses survivants.
-
-**[histoire] Les précédents** :
-- Le **Women's Royal Naval Service** britannique (les « Wrens »), recréé en 1939. Ses membres assurent les transmissions, le chiffre, le suivi radar, la météo, l'entretien et le ravitaillement des bases navales. Certaines officières de l'îlot de Gibraltar peuvent en venir.
-- Les **infirmières de la marine** : Queen Alexandra's Royal Naval Nursing Service côté britannique, infirmières des hôpitaux maritimes côté français.
-- Les **Services féminins de la flotte**, créés par la Marine française en 1943-1944 dans l'histoire réelle.
-
-### Les unités de soutien [canon provisoire]
-
-Les femmes sont inscrites comme tout le monde (§2). De 1940 à 1943, elles sont regroupées dans des **corps de soutien** (fondus en 1943 dans les corps de la Marine de l'Îlot, [22](22-organisation-militaire.md) §5), qui ont leurs propres grades, alignés sur ceux de la marine et soumis aux mêmes brevets (§4 bis).
-
-| Corps de soutien | Rôle | Place des femmes |
-|---|---|---|
-| **Santé** | Hôpitaux du *Provence* (chirurgie, maternité) et de l'*Ark Royal*, **la Zone**, la visite quotidienne, les maternités | Majoritaires dès 1940. Les infirmières-chefs entrent dans la Maistrance |
-| **Commissariat** | Dépôts, cartes de ration, cuisines de bord, conserves, comptabilité des stocks | Majoritaires dès 1941. **Ce sont elles qui tiennent les registres de la ration**, le poste le plus sensible de l'îlot |
-| **Transmissions** | Écoute radio, chiffre, signaux, météo | Formées par les Wrens et les radios de la flotte. Ce sont elles qui captent les appels du monde en 1943-44 |
-| **Instruction** | Écoles des mousses, alphabétisation, copie des livres de la bibliothèque de l'Îlot | Majoritaires |
-| **Ateliers** | Couture des tenues et des voiles, réparation, filature, fabrication des masques | Majoritaires |
-| **Agriculture** | Fermes du Campidano, germoirs et pépinière de l'*Ark Royal*, champignonnières des mines | Paritaire |
-
-### Une montée en puissance [canon provisoire]
-
-| Période | Place des femmes |
-|---|---|
-| **1940 – 1943** | Elles sont matelots, quartiers-maîtres et maîtres dans les corps de soutien. Les officiers restent des hommes, à l'exception de quelques médecins et des officières venues des Wrens |
-| **1944 – 1947 : la Morìa** | **Les femmes volontaires de la Zone** (infirmières, religieuses, revenues) deviennent des figures héroïques. Plusieurs reçoivent des promotions exceptionnelles. Le premier commandement d'un bord confié à une femme est celui d'un **bord de la Zone** |
-| **Années 1950** | L'École navale de l'Îlot est ouverte aux femmes pour les corps de soutien, **y compris les ingénieurs** de Machines et Génie. Des femmes commandent des bords de terre (hôpitaux, dépôts, écoles, stations radio, domaines agricoles). L'une d'elles peut entrer au **Grand Carré** |
-| **Vers 1955 – 1960** | **Les postes d'officier s'ouvrent petit à petit** : d'abord les officiers mécaniciens, médecins et commissaires embarqués, puis le **corps du Pont** et les Capitaineries ; les premières officières servent à bord des navires actifs (le *Georges Leygues*, les avisos) |
-| **Ce qui reste fermé** | **Les fusiliers marins** (garde armée des bords, garnisons des avant-postes, troupes de débarquement des expéditions) restent **réservés aux hommes**. L'accès d'une femme au **Conseil des Amiraux** reste une question ouverte |
-
-**Pourquoi cette place grandit** :
-- **La démographie** : les naissances reprennent à partir de 1947. Les mères sont protégées (ration de mère jusqu'au sevrage, congé, travaux interdits, une sage-femme par bord), et l'îlot fait venir des femmes après 1952, les **dotées** ([21](21-demographie.md) §4.4 et §4.6). La moitié des enfants qui entrent comme mousses sont des filles, et elles passent les mêmes brevets.
-- **Le mérite** : dans une société fondée sur les examens (§4 bis), les résultats des femmes aux brevets s'imposent.
-- **La survie** : les corps de soutien (santé, ration, transmissions) sont ceux qui ont permis de traverser l'hiver d'impact et la Morìa. Leur prestige rejaillit sur celles qui les tiennent.
 
 ## 5. Discipline et justice [canon provisoire]
 
@@ -358,8 +356,6 @@ La doctrine du Conseil tient en une phrase : **« d'abord le sel, puis le médec
 **Ce que cela produit** : vers 1960, un enfant de l'îlot parle le créole avec sa mère, apprend à lire en anglais, et reçoit ses ordres en français ou en italien. Les fondateurs ne parlent pas le créole et s'en méfient. Leurs petits-enfants ne parlent rien d'autre entre eux. **C'est un ressort pour un futur récit** : la langue marque la frontière entre les générations, plus que l'origine.
 
 ## 8. Le régime politique révisé [canon provisoire]
-
-Cette décision remplace l'évolution « vers une Assemblée élue puis une constitution civile » envisagée dans [11](11-ilot-de-civilisation.md) §8.
 
 | Période | Régime |
 |---|---|

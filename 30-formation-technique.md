@@ -119,7 +119,7 @@ Ils sortent **enseignes de première classe** et rejoignent leur bord avec un an
 - **la copie** : les manuels essentiels sont **copiés en plusieurs exemplaires**, à la machine à écrire avec papier carbone, puis imprimés sur les presses de Cagliari quand il y a du papier ; il faut pour cela **une papeterie et une imprimerie de l'îlot** (§7 bis) ;
 - **la traduction** : ils sont traduits **en anglais**, la langue d'enseignement de l'École technique (§4) ; les manuels britanniques passent tels quels, les français et les italiens sont traduits, avec un **lexique trilingue** des termes de métier en fin de cahier, pour qu'un mécanicien puisse retrouver le mot de son bord ;
 - **les *Cahiers techniques de l'Îlot*** : une collection numérotée, qui réunit les manuels traduits et, de plus en plus, **ce que l'îlot a appris lui-même** : la conversion des chaudières au charbon, la règle des frères, les batteries refaites au plomb de l'Iglesiente, la conservation du grain à bord du *Bretagne*. Les **carnets de vie** des machines ([29](29-flotte-des-annees-1950.md) §5) en sont la matière première ;
-- **la double copie** : un exemplaire de chaque cahier est gardé à la bibliothèque, un autre dans les archives du *Dunkerque* ([23](23-dunkerque-siege-du-conseil.md) §7), et un troisième part avec le Plan de l'Arche ([27](27-strasbourg.md) §5).
+- **les trois copies** : un exemplaire de chaque cahier est gardé à la bibliothèque, un autre dans les archives du *Dunkerque* ([23](23-dunkerque-siege-du-conseil.md) §7), et un troisième part avec le Plan de l'Arche ([27](27-strasbourg.md) §5).
 
 ## 7 bis. Le papier et l'imprimerie [canon : principe ; provisoire : détail]
 

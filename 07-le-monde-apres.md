@@ -148,9 +148,9 @@ C'est aussi la toile de fond de la question du **rachat des captifs** ([21](21-d
 
 ## 1 ter. Toulon [canon : principe ; détail au chapitre 33]
 
-**Décision de l'auteur** : la situation de Toulon après la catastrophe et pendant la Morìa **est à développer**. Si elle se dégrade trop, Toulon **reprend contact avec l'îlot**, et **les dernières forces françaises de Toulon partent pour la Sardaigne**. Plus tard, après la réouverture, l'îlot peut **revenir à Toulon** et y installer une **garnison** pour garder les installations du port, précieuses pour l'avenir.
+**Décision de l'auteur** : Toulon ferme sa porte à la flotte de Gensoul en juillet 1940, puis se replie dans l'enclave de l'arsenal. Quand la situation se dégrade, **les dernières forces françaises de Toulon partent pour la Sardaigne**, en deux départs : en août 1940 et au printemps 1944. Après la réouverture, l'îlot **revient à Toulon** et y installe en 1956 une **garnison** pour garder les installations du port, précieuses pour l'avenir.
 
-**Décidé** : deux départs, en août 1940 et au printemps 1944 (option 5B) ; garnison de l'îlot en 1956. Le détail est au chapitre [33](33-toulon.md).
+Le détail est au chapitre [33](33-toulon.md).
 
 ## 2. Les autres îlots plausibles [canon provisoire]
 
@@ -216,7 +216,7 @@ C'est aussi la toile de fond de la question du **rachat des captifs** ([21](21-d
 
 **Conséquences pour l'îlot de Sardaigne** :
 - **L'incertitude** devient un thème politique : sont-ils morts, en guerre, ou indifférents ?
-- Une **expédition** serait possible, à environ 1 300 milles de Cagliari à Souda. Mais elle coûte du mazout, et le mazout est vital. [canon provisoire] **Aucune expédition avant le retour de la navigation à voile ou au charbon** (années 1950).
+- Une **expédition** serait possible, à environ 720 milles (1 330 km) de Cagliari à Souda. Mais elle coûte du mazout, et le mazout est vital. [canon provisoire] **Aucune expédition avant le retour de la navigation à voile ou au charbon** (années 1950).
 - **[canon] Juin 1950 : le premier signe.** Au retour de l'expédition d'Albanie, le convoi croise au large de Corfou un caïque ionien qui commerce avec la Crète. L'îlot de l'Est survit ; il n'émet qu'à heures fixes, faute d'énergie, et cherche « les navires de l'Ouest ». Un pli donne sa fréquence radio. Collinet refuse le détour : la mission avant tout ([18](18-expedition-albanie.md) §7.5).
 - **Les retrouvailles**, quand elles auront lieu, sont un ressort majeur pour la suite de l'uchronie : deux sociétés nées le même été, séparées pendant une génération.
 

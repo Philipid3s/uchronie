@@ -4,12 +4,12 @@
 
 ## 1. La méthode [estimation]
 
-- **Point de départ : 1946**, l'année où la population est la plus basse et la mieux connue (le canon donne la composition par origine, [11](11-ilot-de-civilisation.md) §2). Chaque groupe d'origine reçoit une structure par âge et par sexe plausible.
+- **Point de départ : 1946**, l'année où la population est la plus basse et la mieux connue (sa composition par origine est donnée au [11](11-ilot-de-civilisation.md) §2). Chaque groupe d'origine reçoit une structure par âge et par sexe plausible.
 - **Projection année par année jusqu'en 1960**, par âge simple et par sexe :
   - **mortalité** d'un pays méditerranéen pauvre d'avant-guerre (la Sardaigne de 1936 avait une espérance de vie d'environ 50 ans), sans antibiotiques mais avec la visite quotidienne et la ration garantie. La mortalité infantile passe de 130 ‰ en 1946 à 80 ‰ en 1960 ;
   - **fécondité naturelle** des femmes mariées (barème de Coale et Trussell), réduite d'environ 30 % par l'allaitement long et les séquelles de la famine. Presque toutes les femmes se marient, puisque les hommes sont en surnombre ;
   - **immigration** : quelques centaines par an de 1949 à 1951, puis environ **850 par an** à partir de la patente de 1952 ([14](14-epidemie.md) §5.6), dont **60 % de femmes** (§4.4).
-- **Avant 1946**, on ne projette pas : les années 1940-1945 sont trop chaotiques. On les décrit par les ordres de grandeur du canon.
+- **Avant 1946**, on ne projette pas : les années 1940-1945 sont trop chaotiques. On les décrit par les ordres de grandeur du [11](11-ilot-de-civilisation.md) §2.
 
 ## 2. L'évolution de 1940 à 1960
 
@@ -22,7 +22,7 @@
 | Fin 1941 | ~95 000 | — | L'année sans soleil, le typhus |
 | 1943 | ~54 000 | ~175 | Première vraie récolte. Plus aucune naissance depuis deux ans |
 | **1946** | **~49 000** | **~176** | Point bas. La Morìa ([14](14-epidemie.md)) |
-| **1950** | **~54 000** (canon : ~55 000) | ~164 | Le « grand berceau » : 2 400 à 2 500 naissances par an |
+| **1950** | **~54 000** (~55 000 au [11](11-ilot-de-civilisation.md) §2) | ~164 | Le « grand berceau » : 2 400 à 2 500 naissances par an |
 | 1955 | ~65 000 | ~146 | Les premières dotées de la patente (§4.4) |
 | **1960** | **~77 000** | ~134 | Plus d'un habitant sur trois a moins de 15 ans |
 
@@ -117,7 +117,7 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 
 *Avec l'immigration féminine (§4.4). Sans elle, il resterait environ 6 000 hommes sans épouse possible en 1960.*
 
-**Note** : le modèle retient **82 % d'hommes parmi les arrivants** ([11](11-ilot-de-civilisation.md) §1), mais environ 98 % parmi les seuls marins. Le chapitre 13 a été aligné sur ce chiffre.
+**Note** : le modèle retient **82 % d'hommes parmi les arrivants** ([11](11-ilot-de-civilisation.md) §1), mais environ 98 % parmi les seuls marins.
 
 ### 4.2 D'où vient le déséquilibre
 
@@ -207,7 +207,7 @@ Un enfant de moins de cinq ans pour sept habitants : **les crèches et les mater
 
 ### 4.7 Le bilan des entrées (1949-1959) : qui arrive, par quelle voie [canon provisoire]
 
-Ce tableau fait la somme des dotées (§4.4), des expéditions de recueil (§4.5) et des pactes de la Barbagia ([13](13-societe-de-bord.md) §6 bis). **Il est calé sur le modèle** : son total est le solde migratoire qui donne ~77 000 habitants en 1960 ([calculs/demographie_ilot.py](calculs/demographie_ilot.py), qui vérifie l'égalité).
+Ce tableau fait la somme des dotées (§4.4), des expéditions de recueil (§4.5) et des pactes de la Barbagia ([13](13-societe-de-bord.md) §6 bis). **Il est calé sur le modèle** : son total est le solde migratoire qui donne ~77 000 habitants en 1960 ; le script de calcul vérifie l'égalité.
 
 | Origine | Voie d'entrée | Effectif | Femmes |
 |---|---|---|---|
@@ -247,7 +247,7 @@ On part des **besoins de l'île en 1950** (nourriture, énergie, vêtements, san
 | **Énergie** | Centrales des navires, barrages du Tirso, usine à gaz, distillerie de goudron | — | ~550 | 10 % |
 | **Bords à flot** | *Georges Leygues*, contre-torpilleurs, sous-marins, chalutiers armés | — | **~2 000** | 0 % |
 | **Arsenal et ateliers** | Entretien de la flotte, forges, outils, pièces | — | ~1 400 | 10 % |
-| **Garde et avant-postes** | Côtes, dépôts, la Ligne, l'Asinara ; Malte (~250), Sazan (~60) | — | ~1 900 | 2 % |
+| **Garde et avant-postes** | Côtes, dépôts, la Ligne, l'Asinara ; Malte (~200), Sazan (~60) | — | ~1 900 | 2 % |
 | **Bâtiment** | Logements, toits, citernes, fours | ~1 ouvrier pour 40 habitants | ~1 400 | 5 % |
 | **Textile, vêtement, cuir** | Laine, lin, chanvre, peaux : tout ce que l'on porte | ~1 ouvrier pour 40 habitants | ~1 400 | 70 % |
 | **Transports** | Charrois, voie ferrée du Sulcis, cabotage | — | ~800 | 5 % |
@@ -260,7 +260,7 @@ On part des **besoins de l'île en 1950** (nourriture, énergie, vêtements, san
 ### 5.3 Ce que montre ce bilan
 
 - **Nourrir l'île occupe environ 7 000 personnes**, soit un tiers des postes ; **l'énergie et la mine, environ 4 700** ; **la mer et la garde (flotte, arsenal, garde), environ 5 300**. C'est la structure d'une **base navale agricole** : un tiers aux champs et à la pêche, un tiers à la mine et à la mer, un tiers aux services.
-- **Les femmes tiennent les services** : santé, crèches, cuisines, vêtement. C'est exactement le rôle que leur donne le canon ([13](13-societe-de-bord.md) §4 ter).
+- **Les femmes tiennent les services** : santé, crèches, cuisines, vêtement. C'est le rôle que leur donne la société de bord ([13](13-societe-de-bord.md) §4 ter).
 - **Le vêtement est un vrai problème** : sans importations, il faut tondre, filer, tisser, tanner et coudre tout ce que portent 55 000 personnes. Les uniformes des flottes sont usés jusqu'à la corde vers 1945. Le métier à tisser à bras revient dans chaque bord de terre [estimation].
 - **La pêche demande beaucoup de bras** pour peu de calories (7 %), mais elle fournit les protéines ([17](17-autosuffisance-alimentaire.md) §6). Les Corses en sont le noyau.
 
@@ -280,8 +280,6 @@ On part des **besoins de l'île en 1950** (nourriture, énergie, vêtements, san
 - **Le travail domestique** : l'eau, le bois, la lessive, les potagers familiaux, la couture de la famille. Il pèse surtout sur les femmes.
 - **Les mousses** (12-16 ans) travaillent l'après-midi ([13](13-societe-de-bord.md) §4), mais ce sont les enfants de la Nuit : ils sont très peu nombreux.
 - **Le reste est une réserve** que le Conseil emploie aux grands travaux, puis à l'expansion (§5.6).
-
-**Note** : le chapitre 17 affirme que « le facteur limitant est le travail, pas la terre ». Le modèle le précise : le travail manque **aux pointes de la moisson et pour les bêtes de trait**, pas en moyenne sur l'année. Le chapitre 17 a été nuancé dans ce sens.
 
 ### 5.5 L'évolution des métiers (1940-1960) [canon provisoire]
 

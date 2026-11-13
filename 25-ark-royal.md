@@ -8,7 +8,7 @@
 
 | Caractéristique | Valeur |
 |---|---|
-| **Type** | Porte-avions, en service en 1938 ; le premier porte-avions britannique conçu comme tel dès l'origine |
+| **Type** | Porte-avions, en service en 1938 ; le premier grand porte-avions moderne de la Royal Navy |
 | **Construction** | Cammell Laird, Birkenhead ; lancé en 1937 |
 | **Dimensions** | ~244 m de long, ~29 m de large, ~8,5 m de tirant d'eau 🔎 |
 | **Déplacement** | ~22 000 t (standard), ~28 000 t à pleine charge 🔎 |
@@ -56,7 +56,7 @@ Le hangar inférieur, au cœur du navire et le mieux protégé du froid, devient
 ### 3.3 Le hangar supérieur : la pépinière et les germoirs (1941-1943)
 
 **Les germoirs, sans lumière** (option C). Pendant l'année sans soleil, rien ne pousse dehors, et le scorbut menace un îlot nourri de grain et de conserves.
-- **Le principe** : une graine sèche ne contient presque pas de vitamine C, mais **une graine germée en fabrique** en quelques jours, même dans le noir. On fait tremper du blé, de l'orge, des fèves ou des lentilles, puis on les étale en couches humides sur des claies, et on les mange au bout de trois à cinq jours [histoire : les légumineuses germées ont été données contre le scorbut aux troupes britanniques et indiennes de Mésopotamie en 1917, à vérifier 🔎].
+- **Le principe** : une graine sèche ne contient presque pas de vitamine C, mais **une graine germée en fabrique** en quelques jours, même dans le noir. On fait tremper du blé, de l'orge, des fèves ou des lentilles, puis on les étale en couches humides sur des claies, et on les mange au bout de trois à cinq jours (en 1917, on a donné des légumineuses germées contre le scorbut aux troupes britanniques et indiennes de Mésopotamie) [à vérifier].
 - **Les ordres de grandeur** [estimation 🔧] : quelques dizaines de grammes de germes par jour suffisent à prévenir le scorbut chez l'adulte. Pour 90 000 personnes, cela fait plusieurs tonnes de germes par jour, et 1 000 à 2 000 t de grain par an, prises sur les stocks de 1940.
 - **Le germoir central** : le hangar supérieur ne peut pas nourrir toute l'île. Il sert de **germoir modèle et d'école** : on y met au point la méthode (température, rinçages, moisissures à éviter), et chaque bord installe ensuite ses propres claies. **Les enfants, les femmes enceintes et les malades sont servis en premier.**
 
@@ -93,7 +93,7 @@ Le hangar inférieur, au cœur du navire et le mieux protégé du froid, devient
 |---|---|
 | **Hangar inférieur** | Après le départ de l'hôpital (1944) : **les métiers du bord** (voilerie, corderie, menuiserie) et magasins de l'arsenal ; les instruments vont au *Commandant Teste* ([31](31-commandant-teste.md) §4) |
 | **Pont d'envol** | **Citerne d'eau de pluie** : 7 000 m² × ~0,4 m de pluie par an ≈ **2 500 à 3 000 m³ par an**, environ 7 à 8 m³ par jour, assez pour l'équipage du bord [calcul, ordre de grandeur 🔎 pluviométrie de Cagliari]. **Champ d'antennes** de réception de secours ([16](16-contacts-radio.md)). Séchage du poisson et du linge, place d'armes |
-| **Station radio** | Écoute de 1940 à 1942, avec le *Dunkerque* ([14](14-epidemie.md) §5.1) ; en secours après l'ouverture du centre d'Elmas (1942) |
+| **Station radio** | Écoute de 1940 à 1942, avec le *Dunkerque* ([16](16-contacts-radio.md) §5) ; en secours après l'ouverture du centre d'Elmas (1942) |
 | **Tourelles de 114 mm** | Gardées armées, avec un équipage réduit, pour la défense rapprochée de la rade |
 
 **L'équipage** : ~1 250 hommes valides en juillet 1940, ~700 en 1943 avec le personnel de l'hôpital, ~400 en 1950 [estimation].
@@ -129,7 +129,7 @@ Le hangar inférieur, au cœur du navire et le mieux protégé du froid, devient
 | 24, 25 | Le **câble de terre**, posé sur le fond (courant de la terre, 1946) |
 | 26 | Le canot à avirons du va-et-vient avec la terre |
 
-**Écarts au canon** : le cortège descend par un escalier voisin, et non par l'ascenseur arrière lui-même ; la coque reste un peu courte pour 240 m.
+**Écarts au canon** : le cortège descend par un escalier voisin, et non par l'ascenseur arrière lui-même ; la coque reste un peu courte pour 244 m.
 
 ## 6. 1957-1963 : le démantèlement [canon : principe ; provisoire : détail]
 
@@ -154,7 +154,7 @@ Le hangar inférieur, au cœur du navire et le mieux protégé du froid, devient
 | Rails des ascenseurs, profilés | Voies ferrées de l'expansion vers le nord |
 | Turbo-dynamos, moteurs, câbles | Centrales et réseaux à terre |
 | Cuivre et bronze | Ateliers de l'arsenal, fonderie de l'arsenal |
-| **Tourelles de 114 mm** | **Batteries côtières** : capo Carbonara quand la Zone se réduit ([24](24-hood-forteresse-du-golfe.md) §9), La Maddalena, avant-postes [à décider, §8] |
+| **Tourelles de 114 mm** | **Batteries côtières** : capo Carbonara quand la Zone se réduit ([14](14-epidemie.md) §5.4), La Maddalena, avant-postes [à décider, §8] |
 | Hublots, cloches, plaques | Mémoire : la **cloche de l'*Ark Royal*** est accrochée dans la nouvelle salle du Grand Carré |
 
 ## 7. Chronologie

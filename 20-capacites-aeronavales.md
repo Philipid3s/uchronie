@@ -9,8 +9,8 @@
 | **HMS *Ark Royal*** (Force H) | **Fairey Swordfish** | Biplan torpilleur et de reconnaissance, 3 places | ~30 (trois escadrilles) | Robuste, lent, décolle court. Structure métallique entoilée |
 | | **Blackburn Skua** | Chasseur et bombardier en piqué, 2 places | ~20-25 (deux escadrilles) | Déjà dépassé en 1940 |
 | **Croiseurs et croiseurs de bataille français** (*Dunkerque*, *Strasbourg*, division d'Alger, ralliés de Toulon) | **Loire 130** | Hydravion de reconnaissance catapultable, 3 places | ~10-20 | Lancés par catapulte, récupérés à la grue |
-| ***Commandant Teste*** | Hydravions | Reconnaissance | Quelques Loire 130 [canon provisoire] | [à vérifier] : appareils à bord à Mers el-Kébir en juillet 1940 ? Débarqués à Elmas pendant l'hiver 1940-41 ([31](31-commandant-teste.md) §5) |
-| **Regia Aeronautica en Sardaigne** | Hydravions **CANT Z.501 et Z.506** (Elmas) ; bombardiers **SM.79** et quelques chasseurs (Decimomannu, Elmas, Alghero) | Reconnaissance maritime, bombardement | Plusieurs dizaines | [à vérifier] : ordre de bataille de l'Aeronautica della Sardegna en juin-juillet 1940 |
+| ***Commandant Teste*** | Hydravions | Reconnaissance | Quelques Loire 130 [canon provisoire] | À bord à Mers el-Kébir en juillet 1940 [à vérifier]. Débarqués à Elmas pendant l'hiver 1940-41 ([31](31-commandant-teste.md) §5) |
+| **Regia Aeronautica en Sardaigne** | Hydravions **CANT Z.501 et Z.506** (Elmas) ; bombardiers **SM.79** et quelques chasseurs (Decimomannu, Elmas, Alghero) | Reconnaissance maritime, bombardement | Plusieurs dizaines | Aeronautica della Sardegna [à vérifier : ordre de bataille de juin-juillet 1940] |
 
 **Au total** : de l'ordre de **100 à 150 appareils** au début de juillet 1940. Une partie est détruite ou endommagée par la nuit de feu et les tempêtes de l'été 1940 (appareils parqués dehors, en particulier sur les terrains italiens).
 
@@ -66,14 +66,14 @@
 
 | Élément | Choix |
 |---|---|
-| **Nom** | **Flottille aéronavale de l'Îlot**, ou plus simplement « la Flottille » |
+| **Nom** | **Flottille aéronavale de l'Îlot**, dite « Flottille d'Elmas » ou « la Flottille » |
 | **Statut** | Un **bord de terre**, le **bord d'Elmas** ([13](13-societe-de-bord.md) §3.1), rattaché au commandement de la Flotte. Pilotes du corps du Pont (spécialité aéronavale), mécaniciens du corps de Machines et Génie ; les aviateurs de 1940 étaient restés inscrits au **rôle des navigants** depuis l'accord de Bonaria de 1943 ([22](22-organisation-militaire.md) §6 bis) |
 | **Base** | **Elmas**, à la porte de Cagliari : l'aérodrome pour les avions, l'étang de Cagliari pour les hydravions [histoire : Elmas était à la fois aérodrome et base d'hydravions] |
 | **Appareils** | **Deux appareils en ligne** : un **Swordfish** (terrestre) et un **Loire 130** (hydravion). Les autres appareils conservés servent de réserve de pièces |
 | **Effectif** | **~40 personnes** : 6 pilotes, 4 observateurs-navigateurs, ~25 mécaniciens, des radios, un météorologue, des gardiens |
 | **Commandant** | **Capitaine de corvette Edward Halloran** [personnage inventé], ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann** [personnage inventé] (§4.5) |
 | **Modèle** | **La Fleet Air Arm** : organisation, instruction, entretien et procédures d'héritage britannique, mis en place par les cadres de l'aéronavale de l'*Ark Royal* (§4.7) |
-| **Carburant** | **~10 à 15 t par an** [estimation] : un Swordfish consomme de l'ordre de 0,1 t de carburant par heure de vol. Cela fait 50 à 70 heures de vol par an pour les deux appareils. Le carburant est un mélange de **benzol de Carbonia** et des **fractions légères du brut d'Albanie** |
+| **Carburant** | **~10 à 15 t par an** [estimation] : un Swordfish consomme de l'ordre de 0,1 t de carburant par heure de vol. Cela fait 100 à 150 heures de vol par an pour les deux appareils. Le carburant est un mélange de **benzol de Carbonia** et des **fractions légères du brut d'Albanie** |
 
 ### 4.3 Le calendrier [canon provisoire]
 
@@ -96,11 +96,11 @@
 
 ### 4.5 Le commandant : Edward Halloran [canon : origine britannique ; provisoire : détail]
 
-**Décision de l'auteur** : le commandant de la Flottille est **d'origine britannique**, dans la logique de l'héritage de la Fleet Air Arm (§4.7). *(Elle remplace une première décision, qui le voulait français.)*
+**Décision de l'auteur** : le commandant de la Flottille est **d'origine britannique**, dans la logique de l'héritage de la Fleet Air Arm (§4.7).
 
 **Le commandant** :
 - **Edward Halloran** [personnage inventé, à remplacer si l'on retrouve un nom réel], né en 1908 à Plymouth, entre dans la Royal Navy en 1926, puis passe dans la Fleet Air Arm.
-- **En juillet 1940**, il est lieutenant et pilote de Swordfish dans l'une des escadrilles de l'*Ark Royal* (810, 818 ou 820 Squadron 🔎).
+- **En juillet 1940**, il est lieutenant et pilote de Swordfish dans l'une des escadrilles de l'*Ark Royal* [à vérifier : 810, 818 ou 820 Squadron].
 - **1940-1943** : quand l'essence s'épuise, il est l'un des officiers du service de l'air de l'*Ark Royal* qui organisent la **mise en réserve** : conservation des appareils à Elmas, carnets, puis **rôle des navigants** repris par l'accord de Bonaria ([22](22-organisation-militaire.md) §6 bis).
 - **1943-1949** : sans avion, il enseigne la navigation à l'École navale et tient chaque année la **journée des navigants** d'Elmas.
 - **1949** : il a 41 ans. Avec Kerlann, il pousse le Conseil des Amiraux à recréer la Flottille, et en prend le commandement comme **capitaine de corvette**.

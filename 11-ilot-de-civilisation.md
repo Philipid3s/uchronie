@@ -28,7 +28,7 @@
 
 ## 1 bis. Les réfugiés de Corse (1940-1941) [canon : principe ; provisoire : détail]
 
-**Décision de l'auteur** : des réfugiés corses gagnent la Sardaigne, selon les propositions ci-dessous.
+**Décision de l'auteur** : des réfugiés corses gagnent la Sardaigne en 1940-1941.
 
 - **La Corse survit à l'impact, puis s'effondre.** Ajaccio est à 921 km de Rambouillet : le souffle de l'impact B n'y casse que quelques vitres ([annexes](annexes/resultats_calculs.md)). Mais la nuit de feu tue à découvert, et l'île, montagneuse, sans charbon ni grandes réserves de grain, est frappée par la famine dès l'automne 1940. Sur environ 200 000 habitants, des milliers fuient vers le sud.
 - **Les bouches de Bonifacio** ne font qu'une douzaine de kilomètres. Une barque les traverse en quelques heures.
@@ -142,10 +142,10 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 - Les stocks sardes sont dispersés dans des milliers de fermes, de villages et de coopératives agricoles.
 - **Les dynamiques inévitables** :
   1. **Concentration** des stocks (réquisitions, par la négociation ou par la force) dans des dépôts gardés : les mines, l'arsenal, les navires.
-  2. **Rationnement** par cartes, avec un **choix implicite ou explicite** de qui est nourri. La règle canonique est la suivante : est nourri qui **travaille pour l'îlot** (mines, agriculture, santé, garde, ateliers), plus les enfants et les mères de famille.
+  2. **Rationnement** par cartes, avec un **choix implicite ou explicite** de qui est nourri. La règle est la suivante : est nourri qui **travaille pour l'îlot** (mines, agriculture, santé, garde, ateliers), plus les enfants et les mères de famille.
   3. **Violence** : émeutes, assauts contre les dépôts, banditisme dans les montagnes (Barbagia), exécutions sommaires sous la loi martiale.
   4. **Intégration** : les Sardes qui rejoignent l'îlot deviennent **citoyens à part entière**. Dès 1946, ils sont majoritaires. Les mariages entre marins et Sardes deviennent la norme.
-- **L'histoire officielle de l'îlot** décrira-t-elle cette période comme un sauvetage ou comme une conquête ? C'est un ressort majeur pour la suite.
+- **L'histoire officielle de l'îlot** décrira-t-elle cette période comme un sauvetage ou comme une conquête ? C'est la question de la mémoire officielle ([10](10-choix-du-refuge.md) §9).
 
 ## 8. Le Conseil des Amiraux [canon]
 
@@ -153,8 +153,8 @@ C'est la dimension la plus difficile de l'étude, et il faut l'assumer :
 
 | Siège | Titulaire | Ce qu'il apporte | Portefeuille |
 |---|---|---|---|
-| **France** | Vice-amiral d'escadre **Marcel Gensoul** [histoire] | Le **blé d'Oran**, les civils, environ 5 500 marins, le *Dunkerque* et le *Strasbourg* | **Vivres et rationnement**, santé, civils |
-| **Royaume-Uni** | Vice-amiral **Sir James Somerville** [histoire] | Les **stocks et le mazout de Gibraltar**, environ 6 800 marins, le *Hood*, le *Valiant*, l'*Ark Royal* | **Défense**, opérations navales, **énergie** (mazout puis charbon) |
+| **France** | Vice-amiral d'escadre **Marcel Gensoul** [histoire] | Le **blé d'Oran**, les civils, environ 8 700 marins (Mers el-Kébir, Oran, Alger), le *Dunkerque* et le *Strasbourg* | **Vivres et rationnement**, santé, civils |
+| **Royaume-Uni** | Vice-amiral **Sir James Somerville** [histoire] | Les **stocks et le mazout de Gibraltar**, environ 6 500 marins et 3 000 hommes de Gibraltar, le *Hood*, le *Valiant*, l'*Ark Royal* | **Défense**, opérations navales, **énergie** (mazout puis charbon) |
 | **Italie** | Amiral **Ettore Sportiello** [histoire : né à Torre del Greco en 1882 ; dans notre histoire, mort à Rome en 1948], commandant des forces navales de Sardaigne à La Maddalena ([10](10-choix-du-refuge.md) §9 bis) | **L'île** : terres, mines, barrages, population, université | **Administration de l'île**, ordre public, mines, agriculture |
 | Chef d'état-major conjoint (sans droit de vote) | Capitaine de vaisseau **Cedric Holland** [histoire] | Il parle français, il est le trait d'union entre les deux flottes depuis le 3 juillet. Il garde le commandement de l'*Ark Royal* ([25](25-ark-royal.md)) | Secrétariat, procès-verbaux, liaison |
 
@@ -185,7 +185,7 @@ C'est un **triumvirat d'équilibre**, sur le modèle des coalitions de nécessit
 
 ### Évolution du régime [canon]
 
-**Décision de l'auteur** : la société se structure autour du noyau des marins, adopte leurs grades et leurs coutumes, et devient très hiérarchisée. L'hypothèse d'une Assemblée élue puis d'une constitution civile est abandonnée. Voir [13](13-societe-de-bord.md) : bords, grades, ration, justice, régime (loi de bord, puis Grand Carré, puis république de bord).
+**Décision de l'auteur** : la société se structure autour du noyau des marins, adopte leurs grades et leurs coutumes, et devient très hiérarchisée. Voir [13](13-societe-de-bord.md) : bords, grades, ration, justice, régime (loi de bord, puis Grand Carré, puis république de bord).
 
 - **Langues** : l'italien et le sarde (majoritaires après 1946), le français et l'anglais (langues des flottes, de la technique et des archives). **Une langue de travail mixte apparaîtra.**
 - **Savoir** : l'université de Cagliari, les bibliothèques de bord et les manuels techniques des navires forment une **« bibliothèque de l'Îlot »**, avec la copie systématique des ouvrages essentiels.

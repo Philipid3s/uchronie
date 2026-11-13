@@ -45,7 +45,7 @@
 | **Agronomie** | Un agronome |
 | **Secrétaire** | Le conservateur de la bibliothèque de l'Îlot |
 
-Les autres titulaires sont à nommer, parmi les savants du §3.6. Le Conseil peut s'adjoindre des experts selon les sujets.
+Les autres titulaires sont choisis parmi les savants du §3.6. Le Conseil peut s'adjoindre des experts selon les sujets.
 
 ### 3.3 Un rôle consultatif [canon]
 
@@ -85,7 +85,7 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 
 ### 3.6 Le vivier des savants [canon : principe ; provisoire : détail]
 
-**Décision de l'auteur** : il faut **lister tous les savants possibles** : ceux qui sont en Sardaigne en 1940, ceux de la flotte, ceux du Sud de la France qui ont pu fuir vers l'îlot, et ceux qu'on trouve à Malte ou en Albanie vers 1950. Cette liste est la première tâche du Conseil scientifique ; elle devient le noyau du registre des savoirs (§3.8).
+**Décision de l'auteur** : la liste couvre **tous les savants possibles** : ceux qui sont en Sardaigne en 1940, ceux de la flotte, ceux du Sud de la France qui ont pu fuir vers l'îlot, et ceux qu'on trouve à Malte ou en Albanie vers 1950. Cette liste est la première tâche du Conseil scientifique ; elle devient le noyau du registre des savoirs (§3.8).
 
 | Origine | Arrivée | Qui [histoire, sauf mention] | Noms retenus |
 |---|---|---|---|
@@ -196,7 +196,7 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 |---|---|---|
 | **1940 – 1943** | Pas de nouvelle promotion : les étudiants de 1940 finissent leurs études au lit des malades, sur le *Provence* et l'*Ark Royal* | **Cours d'infirmières de bord**, sur le tas, pour les volontaires, surtout des femmes d'Oran et de Cagliari |
 | **À partir de 1944** | **Reprise des cours de la faculté** à San Giovanni di Dio, devenu l'Hôpital de l'Îlot ; six ans d'études ; **premiers médecins formés dans l'îlot en 1950** | **École d'infirmières de l'Îlot**, à l'Hôpital : deux ans d'études ; ~30 à 40 diplômées par an |
-| **À partir de 1952** | 8 à 12 médecins par an ; stages dans les hôpitaux de secteur, à la Zone et au lazaret de l'Asinara | Une infirmière par bord ; l'**École de sages-femmes** s'y ajoute ([21](21-demographie.md) §4.6) |
+| **À partir de 1952** | 8 à 12 médecins par an ; stages dans les hôpitaux de secteur, à la Zone et au lazaret de l'Asinara | Une infirmière par bord ; l'**École de sages-femmes**, née sur le *Provence*, s'installe à l'Hôpital ([21](21-demographie.md) §4.6) |
 
 **La langue** : les cours sont donnés **en anglais**, la langue d'enseignement de l'îlot ([30](30-formation-technique.md) §4), avec des manuels traduits et copiés par le Conservatoire (§5).
 

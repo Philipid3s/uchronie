@@ -63,7 +63,7 @@
 - **Le Conseil**, Holland et le secrétariat ;
 - **Les archives** : la seconde copie, celle de la règle de la double copie ([23](23-dunkerque-siege-du-conseil.md) §7) ;
 - **Les semences** : un jeu de toutes les variétés cultivées dans l'île, renouvelé chaque année par le corps de la Terre ;
-- **Le savoir** : les livres essentiels de la bibliothèque de l'Îlot, et une **liste de savants, de médecins et d'ingénieurs** ([19](19-savoir-et-medecine.md)) ;
+- **Le savoir** : la troisième copie des livres essentiels et des cahiers techniques (règle des trois copies, [19](19-savoir-et-medecine.md) §5), et une **liste de savants, de médecins et d'ingénieurs** ([19](19-savoir-et-medecine.md)) ;
 - **Des familles** : au total **2 000 personnes** au plus pour une traversée courte [estimation].
 
 **Les destinations** : Gibraltar d'abord, puis Malte.
@@ -104,26 +104,26 @@
 
 ## 6. 1952 : le grand voyage [canon : principe ; provisoire : date et détail]
 
-**Le seul appareillage.** Le *Strasbourg* ne sort qu'une fois de toute la période. C'est un voyage en trois étapes, en 1952, l'année de la **patente de santé** qui rouvre l'île ([14](14-epidemie.md) §5.6).
+**Le seul appareillage.** Le *Strasbourg* ne sort qu'une fois de toute la période. C'est un voyage en trois étapes, en 1952, l'année de la **patente de santé**, qui rend la navigation libre ([14](14-epidemie.md) §5.6).
 
 | Étape | Distance | Ce qu'on y fait |
 |---|---|---|
-| **Cagliari → La Valette** | ~550 km | **Carénage** dans le grand bassin de 1909, long d'environ 241 m (largeur d'entrée à vérifier pour ses 31 m, [32](32-avant-poste-de-malte.md) §3) 🔎 : on gratte douze ans d'algues et de coquillages, on refait la peinture et les anodes, on contrôle les hélices |
+| **Cagliari → La Valette** | ~550 km | **Carénage** dans le grand bassin de 1909, long d'environ 241 m (pour sa largeur d'entrée, voir [32](32-avant-poste-de-malte.md) §3) : on gratte douze ans d'algues et de coquillages, on refait la peinture et les anodes, on contrôle les hélices |
 | **La Valette → baie de Souda** | ~870 km | **Les retrouvailles avec l'îlot de l'Est** ([07](07-le-monde-apres.md) §3) : la première rencontre physique depuis 1940 |
 | **Souda → Cagliari** | ~1 330 km | Retour, quarantaine à l'Asinara |
 
 **Le mazout** [estimation] : environ 2 750 km, soit quatre jours de route à 15 nœuds, à 100 à 200 t par jour ([12](12-flottes-survivantes.md) §7), plus les escales, la montée en pression et la marge de sécurité : **1 000 à 1 200 t**, soit environ 10 à 12 % de la réserve.
 
-**Pourquoi le *Strasbourg*** : on ne va pas en Crète avec un caïque. Après douze ans de silence, l'îlot de l'Ouest veut montrer qu'il est encore une flotte. Arriver en baie de Souda à bord d'un croiseur de bataille de 1939, c'est dire à l'îlot de l'Est, plus durement touché par la peste ([14](14-epidemie.md) §6), qui a tenu.
+**Pourquoi le *Strasbourg*** : on ne va pas en Crète avec un caïque. Après douze ans de séparation, l'îlot de l'Ouest veut montrer qu'il est encore une flotte. Arriver en baie de Souda à bord d'un croiseur de bataille de 1939, c'est dire à l'îlot de l'Est, plus durement touché par la peste ([14](14-epidemie.md) §6), qui a tenu.
 
 **Le commandement** : Collinet, commandant du *Strasbourg*, qui a déjà été le chef de l'expédition d'Albanie et rapporté le pli de Souda en 1950 ([18](18-expedition-albanie.md) §7.5). Un membre du Conseil, ou Holland lui-même, embarque pour parler au nom de l'îlot [à décider].
 
-**Ce qui se passe à Souda** reste à écrire ([09](09-questions-ouvertes.md) B3) : ce qu'est devenu l'îlot de l'Est, qui le commande, ce qu'on échange, ce qu'on se promet.
+[à écrire : ce qui se passe à Souda, ce qu'est devenu l'îlot de l'Est, qui le commande, ce qu'on échange, ce qu'on se promet ; voir 09 B3]
 
 ## 7. Vers 1960 : les machines passent à terre [canon : principe ; provisoire : détail]
 
 **Pourquoi la réserve n'a plus de sens** :
-- **Le monde extérieur est connu** : les retrouvailles avec la Crète sont faites, Gibraltar, Malte et Sazan sont des avant-postes, et les chefferies n'ont pas de flotte capable de menacer l'île.
+- **Le monde extérieur est connu** : les retrouvailles avec la Crète sont faites, Gibraltar, Malte, Sazan et Toulon sont des avant-postes, et les chefferies n'ont pas de flotte capable de menacer l'île.
 - **Le mazout s'épuise** : la réserve fond à chaque chauffe d'essai, et le brut d'Albanie, irrégulier, sert d'abord aux centrales et au pétrolier.
 - **Les machines valent plus à terre** : l'expansion vers le nord (1955-1960, [21](21-demographie.md) §5.6) crée des villes sans électricité.
 
@@ -132,7 +132,7 @@
 - **Un groupe de turbines** : couplé à un alternateur dans une centrale au charbon du Sulcis [lieu à décider]. Un groupe de propulsion, d'environ 27 000 ch, est bien plus puissant que ce que l'île consomme : il tournera à faible charge, et les trois autres groupes restent en magasin comme pièces de rechange 🔧.
 - **Les chaudières**, les pompes et les tuyauteries vont aux ateliers et aux centrales.
 
-**La coque** : elle reste au mouillage comme ponton, à côté de son jumeau posé. Sa démolition attendra son tour au chantier, après celle du *Provence* ([26](26-provence.md) §6) [canon provisoire].
+**La coque** : elle reste au mouillage comme ponton, à côté de son jumeau posé. Sa démolition attendra son tour au chantier, après celles du *Provence* et du *Bretagne* ([26](26-provence.md) §6) [canon provisoire].
 
 ## 8. Chronologie
 
@@ -143,7 +143,7 @@
 | **1942 – 1945** | L'une des deux centrales flottantes ; le *Valiant* s'arrête |
 | **1946 – 1948** | La dernière centrale flottante |
 | **1948** | Dernière chauffe de centrale ; **réserve de l'Amirauté** ; le *Strasbourg* devient navire de réserve et vient mouiller à Cagliari près du *Dunkerque* |
-| **1949 – 1960** | Conservation : turbines virées chaque mois, une chauffe d'essai par an ; le Plan de l'Arche |
+| **1948 – 1960** | Conservation : turbines virées chaque mois, une chauffe d'essai par an ; le Plan de l'Arche |
 | **Avril – juin 1950** | Collinet, son commandant, est le **chef de l'expédition d'Albanie** ; il arbore sa marque sur le *Georges Leygues*, qui garde son propre commandant |
 | **1952** | **Le grand voyage** : carénage à La Valette, retrouvailles en baie de Souda, retour par l'Asinara |
 | **Années 1950** | Le Grand Carré apprend l'existence de la liste de l'Arche |

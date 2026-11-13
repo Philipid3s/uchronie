@@ -57,6 +57,6 @@ Les deux fragments commencent à se fragmenter vers 106 km d'altitude mais attei
 
 ## 6. Limites du modèle
 
-- Pour les très grandes énergies, le panache perce l'atmosphère et une part de l'énergie s'échappe vers l'espace. **[canon] On applique un couplage d'un tiers pour le souffle et le rayonnement direct** (colonnes « canon » du script).
+- Pour les très grandes énergies, le panache perce l'atmosphère et une part de l'énergie s'échappe vers l'espace. **[canon] On applique un couplage d'un tiers pour le souffle et le rayonnement direct** : ce sont les valeurs « retenues » des tableaux.
 - **La pluie d'éjectas n'est pas calculée par le script.** Elle est estimée à partir de la littérature sur Chicxulub (voir [03](03-impact-pacifique.md) §4). C'est l'incertitude la plus lourde de conséquences pour la survie.
 - Pour le tsunami, le modèle d'onde de bord en 1/r est incertain d'un facteur 2 à 3.

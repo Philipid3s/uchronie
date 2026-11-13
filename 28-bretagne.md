@@ -14,7 +14,7 @@
 | **Artillerie** | 10 canons de 340 mm en cinq tourelles doubles ; canons de 138 mm en casemates ; canons antiaériens de 75 mm 🔎 |
 | **Machines** | Construit pour le charbon ; chaudières passées au mazout lors des refontes de l'entre-deux-guerres. **Les anciennes soutes à charbon existent encore** ([15](15-energie.md) §5) |
 | **Équipage** | ~1 130 hommes ([12](12-flottes-survivantes.md)) |
-| **Commandant** | Capitaine de vaisseau **Louis Le Pivain** (Louis René Edmond) [histoire] |
+| **Commandant** | Capitaine de vaisseau **Louis Le Pivain** [histoire : Louis René Edmond] [histoire] |
 
 **Dans notre histoire**, le *Bretagne* est touché le 3 juillet 1940 par les obus de la Force H ; une soute explose et le navire chavire en quelques minutes : **977 morts**, la plus lourde perte de Mers el-Kébir [histoire], dont son commandant, le capitaine de vaisseau Le Pivain. **Dans l'uchronie**, il n'y a pas de bataille : ses neuf cents hommes valides arrivent à Cagliari. Personne dans l'îlot ne sait ce qu'ils ont évité.
 
@@ -80,7 +80,7 @@ La coque reste au mouillage dans le golfe de Palmas, avec un petit équipage de 
 
 **Pourquoi** : le golfe abrite le grenier de l'îlot, la centrale du *Strasbourg* et, à terre, les mines du Sulcis et les ports charbonniers de Portovesme et de Sant'Antioco. C'est la côte la plus exposée aux razzias venues de Tunisie ([07](07-le-monde-apres.md) §1 bis). Un grenier ne doit pas avoir à se défendre lui-même : ses soutes sont pleines de grain, pas de poudre.
 
-| Étape | Ce qu'on débarque | Où [lieux provisoires 🔎] |
+| Étape | Ce qu'on débarque | Où [à vérifier : lieux provisoires] |
 |---|---|---|
 | **Hiver 1940 – 1941** | Les **138 mm** des casemates : des pièces de quelques tonnes, que les mâts de charge du bord et une chaloupe suffisent à mettre à terre [estimation 🔧] | Deux batteries de flanc : au **capo Sperone** (pointe sud de Sant'Antioco) et sur la rive est du golfe, vers **Porto Pino** ; ensemble, elles croisent leurs feux sur l'entrée du golfe (une vingtaine de kilomètres) |
 | **1942 – 1943** | **Deux canons de 340 mm**, tirés d'une tourelle : chaque tube pèse plusieurs dizaines de tonnes, et il faut une bigue montée sur un ponton et une plate-forme bétonnée [estimation 🔧] | Un affût fixe au-dessus du mouillage, d'où sa portée (25 km environ 🔎) couvre tout le golfe |

@@ -1,0 +1,126 @@
+/* Première édition de la bible — mise en page A4 pour Paged.js */
+
+:root {
+  --encre: #1f1d1a;
+  --gris: #5f5a52;
+  --filet: #c9c2b6;
+  --fond-tete: #efe9df;
+  --accent: #7a2e1e;
+  --serif: "EB Garamond", Georgia, serif;
+  --sans: "IBM Plex Sans Condensed", "Arial Narrow", sans-serif;
+}
+
+@page {
+  size: A4;
+  margin: 24mm 20mm 24mm 22mm;
+  @bottom-center { content: counter(page); font: 9pt var(--serif); color: var(--gris); }
+}
+@page :left {
+  margin-left: 20mm; margin-right: 22mm;
+  @top-left { content: string(partie); font: italic 9pt var(--serif); color: var(--gris); }
+}
+@page :right {
+  @top-right { content: string(chapitre); font: italic 9pt var(--serif); color: var(--gris); }
+}
+@page couverture { margin: 0; @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
+@page liminaire { @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
+@page partie { @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
+@page chapitre:first { @top-left { content: none; } @top-right { content: none; } }
+
+html { font-family: var(--serif); font-size: 10.5pt; line-height: 1.42; color: var(--encre); }
+body { margin: 0; hyphens: auto; -webkit-hyphens: auto; }
+p, li { text-align: justify; orphans: 3; widows: 3; }
+p { margin: 0 0 0.55em; }
+strong { font-weight: 600; }
+
+/* --- Couverture et pages liminaires ------------------------------------------------------- */
+.couverture {
+  page: couverture; break-after: page; height: 297mm; box-sizing: border-box;
+  padding: 70mm 25mm 0; background: #23303b; color: #f2ece1; text-align: center;
+}
+.couv-sur { font: 600 11pt var(--sans); letter-spacing: .25em; text-transform: uppercase; color: #c9b88f; }
+.couv-titre { font: 500 64pt/1 var(--serif); margin: 18mm 0 10mm; letter-spacing: .02em; }
+.couv-sous { font: italic 16pt/1.35 var(--serif); text-align: center; }
+.couv-ed { margin-top: 60mm; font: 600 11pt var(--sans); letter-spacing: .15em; text-transform: uppercase; color: #c9b88f; text-align: center; }
+
+.faux-titre { page: liminaire; break-after: page; text-align: center; padding-top: 70mm; }
+.faux-titre h1 { font: 500 34pt var(--serif); margin: 0 0 6mm; }
+.faux-titre p { text-align: center; font-style: italic; }
+.faux-titre .colophon { margin-top: 120mm; font: 8.5pt/1.5 var(--sans); font-style: normal; color: var(--gris); }
+
+.sommaire { page: liminaire; break-after: page; }
+.sommaire h1 { font: 500 24pt var(--serif); margin: 0 0 8mm; }
+.sommaire ol { list-style: none; padding: 0; margin: 0; }
+.sommaire li { text-align: left; }
+.sommaire a { color: inherit; text-decoration: none; display: flex; align-items: baseline; }
+.sommaire a::after {
+  content: target-counter(attr(href), page);
+  margin-left: auto; padding-left: 3mm; font-variant-numeric: oldstyle-nums;
+}
+.toc-chap a { background: radial-gradient(circle, var(--filet) 0.45pt, transparent 0.6pt) 0 88% / 2.2mm 1mm repeat-x; }
+.toc-chap a > span, .toc-chap a::after { background: #fff; }
+.toc-chap .titre { background: #fff; padding-right: 1.5mm; }
+.toc-partie { font: 600 9pt var(--sans); letter-spacing: .08em; text-transform: uppercase; margin: 5mm 0 1.5mm; color: var(--accent); }
+.toc-chap { font-size: 11pt; margin: 0.6mm 0 0.6mm 2mm; }
+.toc-chap .n { display: inline-block; width: 8mm; color: var(--gris); }
+
+/* --- Parties ------------------------------------------------------------------------------ */
+.partie { page: partie; break-before: right; break-after: page; padding-top: 85mm; text-align: center; }
+.partie-num { font: 600 10pt var(--sans); letter-spacing: .25em; text-transform: uppercase; color: var(--accent); text-align: center; }
+.partie-titre { font: 500 38pt/1.1 var(--serif); margin: 6mm 0; string-set: partie content(text); }
+.partie-dates { font: italic 14pt var(--serif); color: var(--gris); text-align: center; }
+
+/* --- Chapitres ---------------------------------------------------------------------------- */
+.chapitre { page: chapitre; break-before: page; }
+.chap-tete { margin: 18mm 0 10mm; border-bottom: 0.6pt solid var(--filet); padding-bottom: 5mm; }
+.chap-num { font: 600 9pt var(--sans); letter-spacing: .22em; text-transform: uppercase; color: var(--accent); margin: 0 0 2mm; text-align: left; }
+.chap-titre { font: 500 26pt/1.12 var(--serif); margin: 0; string-set: chapitre content(text); }
+
+.chapitre h2 { font: 600 14pt/1.25 var(--serif); margin: 7mm 0 2.5mm; break-after: avoid; }
+.chapitre h3 { font: 600 11.5pt/1.3 var(--serif); margin: 5mm 0 2mm; break-after: avoid; font-style: italic; }
+.chapitre h4 { font: 600 10.5pt var(--serif); margin: 4mm 0 1.5mm; break-after: avoid; }
+
+ul, ol { margin: 0 0 0.6em; padding-left: 5mm; }
+li { margin-bottom: 0.2em; }
+
+blockquote {
+  margin: 0 0 5mm; padding: 0 0 0 4mm; border-left: 2pt solid var(--filet);
+  font-style: italic; color: #3b3732;
+}
+blockquote p { text-align: left; }
+
+/* --- Tableaux ----------------------------------------------------------------------------- */
+table {
+  width: 100%; border-collapse: collapse; margin: 3mm 0 5mm;
+  font: 8.4pt/1.32 var(--sans); break-inside: auto;
+}
+thead { display: table-header-group; }
+th { background: var(--fond-tete); text-align: left; font-weight: 600; padding: 1.6mm 1.8mm; border-bottom: 0.8pt solid var(--encre); vertical-align: bottom; }
+td { padding: 1.3mm 1.8mm; border-bottom: 0.4pt solid var(--filet); vertical-align: top; text-align: left; }
+tr { break-inside: avoid; }
+td strong, th strong { font-weight: 600; }
+
+/* --- Figures ------------------------------------------------------------------------------ */
+img { max-width: 100%; }
+p > img:only-child { display: block; margin: 3mm auto 1mm; max-height: 150mm; }
+figure.atlas { margin: 4mm 0 6mm; break-inside: avoid; }
+figure.atlas img { display: block; width: 100%; max-height: 165mm; object-fit: contain; border: 0.4pt solid var(--filet); }
+figcaption { font: 8.6pt/1.35 var(--sans); color: var(--gris); margin-top: 1.8mm; text-align: left; }
+figcaption .genre { font-weight: 600; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); margin-right: 1.5mm; }
+
+a { color: inherit; text-decoration: none; }
+code { font-family: var(--sans); font-size: 9pt; }
+hr { border: 0; border-top: 0.5pt solid var(--filet); margin: 6mm 20%; }
+
+/* --- Avant-propos --------------------------------------------------------------------------- */
+.avant-propos { page: liminaire; break-before: right; break-after: page; }
+.ap-titre { font: 500 24pt var(--serif); margin: 18mm 0 8mm; }
+.avant-propos p { font-size: 11pt; line-height: 1.5; }
+
+/* --- Index ---------------------------------------------------------------------------------- */
+.annexe h2 { break-after: avoid; }
+ul.index { list-style: none; padding: 0; columns: 2; column-gap: 8mm; font-size: 9.5pt; line-height: 1.35; }
+ul.index li { text-align: left; break-inside: avoid; margin: 0 0 0.6mm; }
+.ixp::before { content: ", "; }
+.ixt + .ixp::before { content: " "; }
+.ixp::after { content: target-counter(attr(href), page); }

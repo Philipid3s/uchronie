@@ -173,7 +173,7 @@ Besoin : environ **46 milliards de kcal par an** pour 55 000 personnes (recalcul
 - **La pêche et l'élevage pèsent peu en calories, mais beaucoup en protéines, en graisses et en vitamines.** Sans eux, l'îlot mangerait assez mais serait carencé.
 - **11 500 ha seulement** : le facteur limitant est le travail, pas la terre. Plus précisément, le travail manque **aux pointes de la moisson et des semailles**, et faute de bêtes de trait ; sur l'année, l'îlot a une réserve de bras ([21](21-demographie.md) §5.4). Les 5 800 réfugiés et rescapés ajoutent environ 1 000 ha et 400 travailleurs aux besoins, mais ils apportent aussi des bras.
 
-**[canon provisoire] La règle de Joseph** : à partir de 1947, le Conseil impose de **garder en réserve une année entière de grain** (environ 6 000 t de céréales pour 55 000 personnes), partagée entre **le *Bretagne***, grenier flottant à l'abri des rats dans le golfe de Palmas (4 000 à 5 000 t, [28](28-bretagne.md)), et les galeries sèches des mines, jusqu'aux silos à terre de 1956, comme Joseph dans les greniers d'Égypte. La mémoire de 1941 rend cette règle intouchable. C'est la ration de la prochaine catastrophe.
+**[canon provisoire] La règle de Joseph** : à partir de 1947, le Conseil impose de **garder en réserve une année entière de récolte de céréales** (environ 6 000 t pour 55 000 personnes), partagée entre **le *Bretagne***, grenier flottant à l'abri des rats dans le golfe de Palmas (4 000 à 5 000 t, [28](28-bretagne.md)), et les galeries sèches des mines, jusqu'aux silos à terre de 1956, comme Joseph dans les greniers d'Égypte. La mémoire de 1941 rend cette règle intouchable. C'est la ration de la prochaine catastrophe.
 
 ## 7. Les menaces
 

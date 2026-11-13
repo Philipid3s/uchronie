@@ -59,7 +59,6 @@ Il faut trouver, à moins de quelques jours de mer, un lieu où **20 000 personn
 | Distance à B (1) | 2 | 1 | 3 | 3 | 3 | 2 | 3 |
 | **Total (sur 66)** | **60** | **28** | **46** | **36** | **40** | **31** | **39** |
 
-*Les totaux de la version précédente comportaient des erreurs d'addition (Sardaigne 59, Sicile 48, Malte 37, Crète 42) ; ils sont corrigés ici (11 novembre 2026). Le classement ne change pas.*
 
 **Verdict : la Sardaigne, et plus précisément la Sardaigne du Sud** : Cagliari, le Campidano et le Sulcis.
 
@@ -115,7 +114,7 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 - **Le dossier Mercadier** : au printemps 1940, quand la guerre avec l'Italie se prépare, les états-majors français et britannique étudient les possessions italiennes comme objectifs [à vérifier 🔎]. Mercadier, officier de renseignement, a monté un dossier sur **la Sardaigne comme objectif d'attaque** : les ports de Cagliari et de La Maddalena, leurs défenses et leurs fonds, l'aérodrome d'Elmas, la population, les routes, et ce qui fait la force économique de l'île.
 - **Ce que tout le monde sait** : la ville minière de **Carbonia**, inaugurée en 1938 à grand renfort de propagande, et le **barrage du Tirso** (1924), longtemps l'un des plus grands lacs artificiels d'Europe [histoire]. Ce ne sont pas des secrets.
-- **Ce que savent les Britanniques** : Cagliari et l'aérodrome d'Elmas ont été bombardés à plusieurs reprises en juin 1940, les 16, 18 et 24 juin selon l'article de Wikipédia sur les bombardements de Cagliari [histoire, à vérifier 🔎 : auteurs des raids]. Ceux qui ont préparé ces attaques connaissent le port et ses approches.
+- **Ce que savent les Britanniques** : Cagliari et l'aérodrome d'Elmas ont été bombardés à plusieurs reprises en juin 1940, les 16, 18 et 24 juin [histoire, à vérifier : article de Wikipédia sur les bombardements de Cagliari ; auteurs des raids]. Ceux qui ont préparé ces attaques connaissent le port et ses approches.
 
 **L'ironie**, que l'îlot aime raconter : **le plan préparé pour frapper la Sardaigne devient le plan pour y survivre.** Les mêmes cartes, les mêmes relevés de fonds, les mêmes listes de dépôts servent désormais à choisir un mouillage, une mine et un grenier.
 
@@ -138,7 +137,7 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 ## 9 bis. L'état des forces italiennes de Sardaigne (juillet 1940) [histoire, puis canon : principe ; provisoire : détail]
 
-**Décision de l'auteur** : il faut d'abord établir **l'état des forces italiennes sur place**. L'auteur pense qu'il y aura **une bonne entente**, car l'arrivée des Français et des Britanniques promet **la stabilisation de la situation et des bras pour remettre l'île à flot**.
+**Décision de l'auteur** : l'accueil dépend d'abord de **l'état des forces italiennes sur place**. L'entente se fera, car l'arrivée des Français et des Britanniques promet **la stabilisation de la situation et des bras pour remettre l'île à flot**.
 
 ### Ce qu'il y a dans l'île le 1er juillet 1940 [histoire]
 
@@ -166,17 +165,17 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 Pour le commandement italien, l'arrivée des flottes n'est pas seulement une menace : c'est **la seule issue**.
 - **Les vivres** : le blé d'Oran et les stocks de Gibraltar, de quoi tenir jusqu'à la récolte de 1943.
-- **L'ordre** : une force de 20 000 hommes disciplinés, quand l'armée se défait et que les villes grondent.
+- **L'ordre** : quelque 18 000 hommes disciplinés, quand l'armée se défait et que les villes grondent.
 - **Les bras et le savoir** : des mécaniciens, des médecins, des ingénieurs, pour faire tourner les mines, les centrales et les barrages.
 - **Une place égale** au commandement, que le dossier Mercadier prévoyait dès le départ.
 
 Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'eau, l'université, l'administration et la connaissance du pays** ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, mais sans rancœur au sommet** : au Conseil, l'amiral italien est un égal, et les officiers italiens gardent leurs grades (reclassés à Bonaria en 1943, [22](22-organisation-militaire.md)). La rancœur, quand elle vient, vient d'en bas : des villages réquisitionnés à l'automne 1940 ([11](11-ilot-de-civilisation.md) §7).
 
-**Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. Il remplace au canon l'amiral inventé Vittorio Lai, selon la règle des noms. **[canon provisoire]** : il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent. Le 8 juillet, il répond par la radio de la base ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari pour signer l'accord vers le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
+**Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. **[canon provisoire]** Il il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent. Le 8 juillet, il répond par la radio de la base ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari pour signer l'accord vers le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
 
 ## 9 ter. La scission : le Roi contre le Parti (juillet – août 1940) [canon : principe ; provisoire : détail]
 
-**Décision de l'auteur** : les forces fascistes les plus virulentes s'opposent à tout prix à la venue des Français et des Britanniques, et **une scission s'opère** avec les forces italiennes moins fanatisées. Deux épisodes au canon : **le coup de feu de Cagliari** (option B) et **la dissidence du Sulcis** (option A). Les plus fanatiques **se replient ensuite vers l'intérieur** de l'île, et **certains partent pour l'Italie continentale**.
+**Décision de l'auteur** : les forces fascistes les plus virulentes s'opposent à tout prix à la venue des Français et des Britanniques, et **une scission s'opère** avec les forces italiennes moins fanatisées. Elle tient en deux épisodes : **le coup de feu de Cagliari** (option B) et **la dissidence du Sulcis** (option A). Les plus fanatiques **se replient ensuite vers l'intérieur** de l'île, et **certains partent pour l'Italie continentale**.
 
 ### Les deux camps [histoire, puis canon provisoire]
 
@@ -202,7 +201,7 @@ Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'
 
 - **Le 12 juillet au soir**, le fédéral et les cohortes de **Carbonia** et d'**Iglesias** refusent l'accord et **tiennent les mines** : les puits, les centrales, les dépôts d'explosifs, la voie ferrée. Ils menacent de **noyer les puits** si la flotte approche. C'est l'endroit le plus fasciste de l'île, et c'est aussi celui dont l'îlot a besoin pour vivre ([15](15-energie.md) §4).
 - **L'opération** (fin juillet – début août 1940) : les **fusiliers marins** de la flotte, débarqués au golfe de Palmas, et les **réguliers de la division Sabauda**, déjà déployés dans le Sulcis depuis juin, montent une opération commune. Les **mineurs** eux-mêmes, qui n'ont aucune envie de voir leurs puits noyés, ouvrent les portes. **Quelques jours de combat, quelques dizaines de morts** [canon provisoire].
-- **Pourquoi c'est fondateur** : l'alliance ne naît pas d'une capitulation, mais d'**un combat commun** pour le charbon. Français, Britanniques et Italiens fidèles au Roi se sont battus du même côté. Le nom de l'opération reste à trouver ([09](09-questions-ouvertes.md)).
+- **Pourquoi c'est fondateur** : l'alliance ne naît pas d'une capitulation, mais d'**un combat commun** pour le charbon. Français, Britanniques et Italiens fidèles au Roi se sont battus du même côté. [à nommer : le nom de l'opération, voir 09]
 
 ### Le repli vers l'intérieur et le départ pour le continent [canon : principe ; provisoire : détail]
 

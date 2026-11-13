@@ -10,7 +10,7 @@
 |---|---|---|
 | **Charbon du Sulcis** | 300 000 à 500 000 t par an ([15](15-energie.md) §4 bis) | La seule ressource abondante : **toute la flotte active marche au charbon** |
 | **Mazout** | La réserve de l'Amirauté (10 000 t en 1948), entamée par l'Albanie (1950), le voyage du *Strasbourg* (1952, [27](27-strasbourg.md)) et les chauffes d'essai : **7 000 à 8 000 t vers 1955** | Une **réserve stratégique**, jamais un combustible courant |
-| **Brut d'Albanie** | 4 000 à 8 000 t par voyage, si Kuçova coule encore ([18](18-expedition-albanie.md) §8, [09](09-questions-ouvertes.md) B5) | Le fioul distillé va aux centrales et au pétrolier |
+| **Brut d'Albanie** | 4 000 à 8 000 t en 1950 ([18](18-expedition-albanie.md) §8), puis 6 000 à 7 000 t par voyage, deux fois par an ([34](34-avant-poste-d-albanie.md) §4.2) | Le fioul distillé va aux centrales et au pétrolier |
 | **Huiles de goudron** | Quelques centaines à 2 000 t par an ([15](15-energie.md) §6) | Les moteurs Diesel (le sous-marin, les groupes électrogènes) et **les lubrifiants** |
 | **Les bras** | Un navire au charbon demande **deux à trois fois plus de chauffeurs** qu'au mazout | La flotte ne doit pas dépasser un millier de marins |
 | **Les cales** | Cales de halage à Cagliari et à La Maddalena pour les petits navires 🔎 ; **grandes cales sèches à La Valette** ([15](15-energie.md) §3 ter) | Les grandes coques se carènent à Malte |
@@ -77,7 +77,7 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 
 ### 4.4 Les navires de garde des avant-postes [canon : principe et choix des navires ; provisoire : détail]
 
-**Décision de l'auteur** : certains des **navires oubliés** (torpilleurs italiens, contre-torpilleurs désarmés) reprennent du service : ils sont **mis en poste dans les garnisons de l'Albanie, de Malte et de Gibraltar**, comme **navires de secours en cas d'évacuation urgente**.
+**Décision de l'auteur** : certains des **navires oubliés** (torpilleurs italiens, contre-torpilleurs désarmés) reprennent du service : ils sont **mis en poste dans les garnisons de l'Albanie, de Malte et de Gibraltar**, puis de Toulon à partir de 1956, comme **navires de secours en cas d'évacuation urgente**.
 
 **Le principe** : un avant-poste est à plusieurs jours de mer de Cagliari (Malte : ~600 km ; Sazan : ~1 300 km ; Gibraltar : ~1 300 km). Si la garnison est attaquée, frappée par une épidémie ou coupée de ses relèves, elle doit pouvoir partir **par ses propres moyens**, sans attendre le *Georges Leygues*. D'où un navire **à poste**, au mouillage, qui ne sort presque jamais.
 
@@ -87,7 +87,7 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 | **Sazan** (Albanie) | Le ***Kersaint***, contre-torpilleur de la classe *Vauquelin* venu d'Oran (~2 500 t, ~300 personnes en surcharge) ; désarmé en 1943, il a peu servi pendant la crise ([12](12-flottes-survivantes.md) §3.1) | Le seul avant-poste qui a son propre fioul : le brut de Vlorë, distillé à Cagliari et renvoyé par le pétrolier ([18](18-expedition-albanie.md)) |
 | **Gibraltar** | Le ***Canopo***, torpilleur italien de la classe *Spica* (~650 t, ~120 personnes en surcharge), de la IXᵉ escadrille de La Maddalena ([12](12-flottes-survivantes.md) §4) ; il rejoint le *Wrestler* et le *Vidette* | Renforcer la garnison, qui garde ses propres navires ([07](07-le-monde-apres.md) §2 bis) |
 
-**Le plein d'évacuation** : ces navires marchent au mazout, que l'île n'a presque plus ([15](15-energie.md)). Chacun garde donc **une soute scellée**, juste assez pour **un seul voyage** vers le refuge le plus proche (Malte pour Sazan, Cagliari pour Malte, Cagliari pour Gibraltar) : quelques dizaines à quelques centaines de tonnes, prises sur le brut d'Albanie [estimation 🔧]. Le scellé ne se rompt que sur ordre du chef de la garnison, qui en répond devant le Conseil. C'est le **Plan de l'Arche** ([27](27-strasbourg.md) §5) à l'échelle d'un avant-poste.
+**Le plein d'évacuation** : ces navires marchent au mazout, que l'île n'a presque plus ([15](15-energie.md)). Chacun garde donc **une soute scellée**, juste assez pour **un seul voyage** vers le refuge le plus proche (Malte pour Sazan, Cagliari pour Malte, Cagliari pour Gibraltar et pour Toulon) : quelques dizaines à quelques centaines de tonnes, prises sur le brut d'Albanie [estimation 🔧]. Le scellé ne se rompt que sur ordre du chef de la garnison, qui en répond devant le Conseil. C'est le **Plan de l'Arche** ([27](27-strasbourg.md) §5) à l'échelle d'un avant-poste.
 
 **La vie à poste** : un équipage réduit (30 à 60 hommes), relevé avec la garnison ; une chauffe d'essai par an ; le navire sert aussi de poste radio de secours et de logement. Il ne patrouille pas : la garde des côtes reste aux avisos et aux petits vapeurs.
 
@@ -100,7 +100,7 @@ On ne brûle pas du brut tel quel dans une chaudière : ses fractions légères 
 | Navire | En 1940 [histoire] | Caractéristiques [histoire] | Sa ligne |
 |---|---|---|---|
 | ***San Adolfo*** | Pétrolier de l'Eagle Oil & Shipping, arrivé à Gibraltar le 1er juillet 1940, sans doute à vide | 1935, 7 365 tjb, 11 335 tpl ; moteur Diesel | Le convoi de l'Est |
-| ***Har Zion*** | Vapeur de la Palestine Maritime Lloyd (Haïfa), sous pavillon britannique ; il a amené à Gibraltar des évacués de Marseille et y attend un convoi | 1907, construit au Danemark, 2 478 tjb, 3 285 tpl ; triple expansion, 11 nœuds ; chauffe au charbon probable 🔎 | Le convoi de l'Est ; c'est aussi le cargo de l'expédition d'Albanie ([18](18-expedition-albanie.md) §2) |
+| ***Har Zion*** | Vapeur de la Palestine Maritime Lloyd (Haïfa), sous pavillon britannique ; il a amené à Gibraltar des évacués de Marseille et y attend un convoi | 1907, construit au Danemark, 2 478 tjb, 3 285 tpl ; triple expansion, 11 nœuds ; chaudières au charbon [à vérifier] | Le convoi de l'Est ; c'est aussi le cargo de l'expédition d'Albanie ([18](18-expedition-albanie.md) §2) |
 | ***Jacques Schiaffino*** | Vapeur de la Société algérienne de navigation Charles Schiaffino (Alger), construit pour la ligne de Sète ; à Alger le 1er juillet [canon provisoire] | 1930, Sunderland, 1 757 tjb, ~2 700 tpl [estimation] | La navette de Malte et la ligne de Toulon |
 | ***Anadyr*** | Cargo des Messageries maritimes ; parti de Bordeaux, il fait escale à Gibraltar le 18 juin 1940 et y est retenu | 1930, Newcastle (ex-*Red Sea*), 5 278 tjb, 9 786 tpl ; triple expansion, trois chaudières **au charbon**, 11 nœuds ; ~53 hommes | La ligne de Gibraltar : ses grandes cales portent le blé et le charbon du Rocher |
 
@@ -179,8 +179,8 @@ L'hiver (décembre-février) est la saison des carénages : chaque cargo passe u
 | Étape | Ce qu'on fait [canon provisoire] |
 |---|---|
 | **1955 – 1960 : les chalutiers armés** | Les meilleurs chalutiers à vapeur de 1940 (de 300 à 500 t, déjà au charbon) sont **reconvertis en avisos** : un canon de 75 ou de 100 mm pris sur les désarmés, une mitrailleuse, une radio, des logements pour une vingtaine d'hommes. C'est ce que la Royal Navy et la Marine française ont fait en masse en 1939-1940 [histoire]. Deux ou trois suffisent pour la garde des côtes et l'escorte contre les pirates ([07](07-le-monde-apres.md) §1 bis) |
-| **1956 – 1960 : le chantier naval de l'Îlot** | Une **cale de construction** à côté de l'arsenal de Cagliari [lieu à décider, B57], des grues prises sur le *Commandant Teste* et les navires démolis, un atelier de rivetage, l'acier de l'*Ark Royal* (1957-1963). Les ouvriers viennent de la section **Coque et chaudronnerie** de l'École technique et des charpentiers de Carloforte |
-| **Vers 1960 – 1965 : les avisos neufs** | Le premier navire d'acier construit dans l'île : **400 à 600 t**, coque rivetée, **machine à triple expansion** et chaudières cylindriques prises sur les cargos désarmés, **une dizaine de nœuds** ; une machine simple, que l'île sait réparer. La série (nombre, noms) reste à décider |
+| **1956 – 1960 : le chantier naval de l'Îlot** | Une **cale de construction** à côté de l'arsenal de Cagliari [lieu à décider, B57], des grues prises sur les navires démolis, un atelier de rivetage, l'acier de l'*Ark Royal* (1957-1963). Les ouvriers viennent de la section **Coque et chaudronnerie** de l'École technique et des charpentiers de Carloforte |
+| **Vers 1960 – 1965 : les avisos neufs** | Le premier navire d'acier construit dans l'île : **400 à 600 t**, coque rivetée, **machine à triple expansion** et chaudières cylindriques prises sur les cargos désarmés, **une dizaine de nœuds** ; une machine simple, que l'île sait réparer [à décider : la série, nombre et noms] |
 
 **Les ingénieurs de construction navale** : en 1940, l'île n'en a que quelques-uns (officiers du **Génie maritime** français et du **Genio Navale** italien, constructors de la Royal Navy) [estimation 🔎]. L'îlot crée une **option de construction navale** dans l'année d'application des ingénieurs, puis à la **faculté d'ingénieurs** de 1958 ([30](30-formation-technique.md) §6). Les premiers diplômés arrivent juste à temps pour les avisos neufs.
 

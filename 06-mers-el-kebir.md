@@ -61,7 +61,7 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 
 | Débouché | Distance | Attrait | Ce qui l'élimine |
 |---|---|---|---|
-| **Rentrer au pays** (Clyde, Scapa Flow) | ~1 300 – 1 500 milles | Le roi, l'Amirauté, les familles des marins | Londres est ravagée par la Nuit de feu puis par l'onde de choc de Rambouillet (22 kPa, [02](02-impact-rambouillet.md)) ; le gouvernement se replie vers le nord ; l'Écosse gèle ([07](07-le-monde-apres.md) §2). Le pays importait la moitié de ses vivres : la flotte y arriverait comme 15 000 bouches de plus |
+| **Rentrer au pays** (Clyde, Scapa Flow) | ~1 300 – 1 500 milles | Le roi, l'Amirauté, les familles des marins | Londres est ravagée par la Nuit de feu puis par l'onde de choc de Rambouillet (22 kPa, [02](02-impact-rambouillet.md)) ; le gouvernement se replie vers le nord ; l'Écosse gèle ([07](07-le-monde-apres.md) §2). Le pays importait la moitié de ses vivres : la flotte y arriverait comme 8 000 bouches de plus |
 | **Rejoindre Cunningham** (Alexandrie) | ~1 800 milles | Le commandant en chef en Méditerranée, son supérieur naturel | Cinq à six jours de mer dans la nuit qui tombe, avec des cargos ; le delta du Nil est une marée d'affamés ; Cunningham a déjà trop de bouches |
 | **Les îles de l'Atlantique** (Açores, Madère, Canaries) | ~600 – 1 000 milles | Des îles en plein océan, le meilleur tampon thermique | Ni charbon ni industrie ; des pays neutres ; pas de blé à y apporter |
 | **Freetown** (Sierra Leone) | ~1 600 milles | Un port britannique, un dépôt de charbon, les tropiques | Sols pauvres, paludisme sans quinine, trop loin |
@@ -119,7 +119,7 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 
 ## 6 bis. La menace italienne (1940 – 1943) [canon : principe ; provisoire : détail]
 
-**Décision de l'auteur** : la flotte fasciste ne menace l'îlot que pendant quelques mois. Deux épisodes au canon : **l'alerte de septembre 1940** (option B) et **les sous-marins perdus** (option D, 1940-1943). Après 1943, il n'y a plus de marine italienne organisée ; Malte et l'Albanie ne courent aucun danger naval italien dans les années 1950.
+**Décision de l'auteur** : la flotte fasciste ne menace l'îlot que pendant quelques mois. Elle tient en deux épisodes : **l'alerte de septembre 1940** (option B) et **les sous-marins perdus** (option D, 1940-1943). Après 1943, il n'y a plus de marine italienne organisée ; Malte et l'Albanie ne courent aucun danger naval italien dans les années 1950.
 
 ### Pourquoi la menace fond [estimation]
 

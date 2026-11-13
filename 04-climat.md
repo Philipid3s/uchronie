@@ -5,7 +5,7 @@
 | Agent | Source | Quantité | Durée de vie | Effet |
 |---|---|---|---|---|
 | **Poussières fines** (< 1 µm) | Condensats du noyau vaporisé (5 – 20 % de 1,6 × 10¹⁴ kg) et basalte pulvérisé (0,1 – 0,3 % d'environ 10¹⁶ kg) | **20 000 – 60 000 Tg** | Semaines à mois (coagulation rapide aux fortes charges) | Épaisseur optique τ > 100 au début : **nuit totale** |
-| **Suies** | Incendies mondiaux allumés par la pluie d'éjectas, sur 20 à 30 % des terres émergées, plus les villes | **1 000 – 5 000 Tg** (canon : 2 000) | 1 à 3 ans (auto-élévation stratosphérique) | Prolongent l'obscurité au-delà de la retombée des poussières. C'est le facteur dominant de 1941 |
+| **Suies** | Incendies mondiaux allumés par la pluie d'éjectas, sur 20 à 30 % des terres émergées, plus les villes | **1 000 – 5 000 Tg** (valeur retenue : 2 000) | 1 à 3 ans (auto-élévation stratosphérique) | Prolongent l'obscurité au-delà de la retombée des poussières. C'est le facteur dominant de 1941 |
 | **Aérosols sulfatés** | Soufre cométaire (~3 % du réfractaire, soit ~4,7 × 10¹² kg de S) et sulfates marins | **~9 000 Tg de SO₂** (Tambora : 60 ; Chicxulub : 10⁵ à 10⁶, à cause du gypse de la cible) | Durée e-folding de 1 à 2 ans | Refroidissement massif 1941-1943 |
 | **Vapeur d'eau stratosphérique** | Océan vaporisé (~10¹⁶ kg) | ~10¹⁵ kg au-dessus de la tropopause, soit **plus de 100 fois** la normale | 5 à 10 ans | Effet de serre stratosphérique ; nuages stratosphériques polaires permanents |
 | **Halogènes** | Cl et Br de l'eau de mer | Cl actif : **plus de 100 fois** la charge chlorée de la stratosphère des années 1990 | 3 à 8 ans | **Destruction quasi totale de l'ozone** |

@@ -26,7 +26,7 @@
 
 ## 2. Rayons caractéristiques [calcul, colonne « canon » avec couplage 1/3]
 
-| Seuil | Rayon (canon) | Rayon (brut) | Territoires |
+| Seuil | Rayon retenu | Rayon brut du calcul | Territoires |
 |---|---|---|---|
 | Béton armé détruit (426 kPa) | **79 km** | 114 km | Toute l'Île-de-France, Chartres, Dreux, Évreux, Orléans |
 | Bâtiments en béton ou acier gravement endommagés (100 kPa) | **158 km** | 228 km | Rouen, Le Havre, Tours, Le Mans, Amiens, Compiègne, Beauvais, Troyes |
@@ -83,7 +83,7 @@ Le Royaume-Uni de 1940 attend les bombardiers allemands. Il dispose de **sirène
 
 ## 5. Population présente et victimes [estimation]
 
-| Zone (rayon canon) | Effets | Population présente le 2 juillet | Létalité | Morts |
+| Zone (rayon retenu) | Effets | Population présente le 2 juillet | Létalité | Morts |
 |---|---|---|---|---|
 | 0 – 160 km | Destruction totale, incendie, ensevelissement | ~11 M (Paris et la région parisienne en partie vidés par l'exode, réfugiés sur les routes, Normandie, Centre, Picardie) | ~98 % | **~10,8 M** |
 | 160 – 250 km | Effondrements, tempêtes de feu | ~6 M (Nord, Basse-Normandie, Pays de la Loire, Bourgogne, Champagne) | ~55 % | **~3,3 M** |

@@ -15,3 +15,6 @@ desktop.ini
 
 # Claude Code (réglages locaux)
 .claude/
+
+# Livre construit par edition/build.py
+edition/build/

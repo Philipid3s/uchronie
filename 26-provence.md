@@ -88,7 +88,7 @@ Du 5 au 12 juillet 1940, environ **4 000 civils d'Oran** embarquent sur la flott
 **L'acier n'est pas rare, la découpe l'est** [estimation 🔧] :
 - **Le stock** : les grands navires de 1940 représentent environ 250 000 t de déplacement, soit de l'ordre de **150 000 t d'acier**.
 - **Le besoin** : une île de 60 000 à 77 000 habitants, sans grande industrie, emploie peut-être **10 à 20 kg d'acier par habitant et par an**, soit 1 000 à 1 500 t par an. Pour comparaison, l'Italie de 1938 en consommait environ 50 kg. La flotte suffit pour des décennies.
-- **Le goulot, c'est le chalumeau** : on découpe à l'oxygène et à l'acétylène. L'acétylène vient du **carbure de calcium**, fabriqué au four électrique avec de la chaux et du coke, ce qui demande beaucoup de courant ; l'oxygène vient d'une unité de liquéfaction de l'air, s'il en existe une à Cagliari 🔎. L'îlot ne découpe donc qu'**un navire à la fois**, de l'ordre de **2 000 à 3 000 t par an**.
+- **Le goulot, c'est le chalumeau** : on découpe à l'oxygène et à l'acétylène. L'acétylène vient du **carbure de calcium**, fabriqué au four électrique avec de la chaux et du coke, ce qui demande beaucoup de courant ; l'oxygène vient d'une unité de liquéfaction de l'air, rare et fragile [à vérifier : existence d'une telle unité à Cagliari]. L'îlot ne découpe donc qu'**un navire à la fois**, de l'ordre de **2 000 à 3 000 t par an**.
 - **Conséquence** : les démolitions se font **en file**, au rythme du chantier. L'*Ark Royal* l'occupe de 1957 à 1963 ([25](25-ark-royal.md) §6). Le *Provence* attend son tour.
 
 **Le calendrier** [canon provisoire] :

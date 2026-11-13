@@ -1,7 +1,7 @@
 # 05 — Population : la quasi-extinction
 
 Population mondiale au 1er juillet 1940 : **environ 2,3 milliards**.
-Canon : **environ 2,3 millions de survivants en 1946**, soit 0,1 %.
+Survivants retenus : **environ 2,3 millions en 1946**, soit 0,1 %.
 
 ## 1. Les vagues de mortalité [estimation]
 

@@ -12,7 +12,7 @@
 
 | Gisement (en 1940) | Distance de Cagliari | Accès |
 |---|---|---|
-| **Albanie** : Devoli et Kuçova, exploités par une société italienne, avec un oléoduc vers le port de Vlorë [histoire] | ~1 100 km par mer | Le plus proche. **Objectif de la première grande expédition** (§3 ter) |
+| **Albanie** : Devoli et Kuçova, exploités par une société italienne, avec un oléoduc vers le port de Vlorë [histoire] | ~1 000 km par mer | Le plus proche. **Objectif de la première grande expédition** (§3 ter) |
 | Roumanie (Ploiești) | Mer Noire, après les Détroits | Hors de portée |
 | Irak, Iran | Golfe Persique ou Levant | Hors de portée, et **au cœur de la Morìa** |
 | Sicile (Gela), Algérie (Sahara) | — | **Pas encore découverts** : ils le seront en 1956 dans l'histoire réelle |
@@ -81,7 +81,7 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 **Pourquoi l'Albanie** :
 - **Les réserves proches sont épuisées** : Malte, Gibraltar et Augusta ont été vidés en 1942-43, et les grands dépôts italiens et français ont brûlé.
-- **C'est une source, pas un stock** : le gisement de **Kuçova (Devoli)**, exploité par une société italienne en 1940, produisait **137 000 t en 1939** [histoire] ; un oléoduc d'environ 75 km le reliait au terminal d'Uji i Ftohtë, au sud de Vlorë ([34](34-avant-poste-d-albanie.md) §1). Exploité par l'îlot à partir de 1951, il donne 12 000 à 15 000 t par an vers 1956-1960 ([34](34-avant-poste-d-albanie.md) §4). Un **oléoduc** le reliait au port de **Vlorë**.
+- **C'est une source, pas un stock** : le gisement de **Kuçova (Devoli)**, exploité par une société italienne en 1940, produisait **137 000 t en 1939** [histoire] ; un oléoduc d'environ 75 km le reliait au terminal d'Uji i Ftohtë, au sud de Vlorë ([34](34-avant-poste-d-albanie.md) §1). Exploité par l'îlot à partir de 1951, il donne 12 000 à 15 000 t par an vers 1956-1960 ([34](34-avant-poste-d-albanie.md) §4).
 - **Le brut albanais est lourd et soufré.** C'est un défaut pour l'essence, mais **un avantage pour l'îlot** : après une simple distillation pour en retirer les fractions légères, il peut brûler presque tel quel dans les chaudières des navires.
 - **La distance** : environ 1 000 km (540 milles) de Cagliari par le détroit de Messine, ou environ 1 270 km (690 milles) avec l'escale de Malte. C'est à la portée du croiseur charbonnier, surtout avec le dépôt de charbon de Malte.
 
@@ -99,7 +99,7 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 **Le résultat** [canon provisoire] : Malte devient le **deuxième avant-poste** de l'îlot, après Gibraltar. Une petite garnison de l'îlot (un bord de terre d'environ 200 personnes) y tient l'arsenal, le dépôt de charbon et une station radio, dans l'**enclave des Trois Cités**, avec son quartier général au fort Saint-Ange ([32](32-avant-poste-de-malte.md)). Une douzaine d'isolés retrouvés sur l'île de Malte sont inscrits après quarante jours au lazaret de l'île Manoel. **Les ~80 Gozitains**, qui avaient refusé de partir en 1942 et que la Morìa a frappés en 1945, restent autonomes. On commerce avec eux sans contact, par une pierre de troc sur Comino ([18](18-expedition-albanie.md) §5 ter).
 
-**L'expédition d'Albanie** (1950-1951), **au départ de Malte**. Composition **validée par l'auteur** [canon] : surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté (moins de 5 % de la réserve, ordre de grandeur à vérifier). Les voyages réguliers qui suivront se font **sans toucher à la réserve** : le pétrolier garde à chaque retour environ 300 t du fioul distillé de sa cargaison pour le voyage suivant, et l'escorte est un aviso charbonnier ([29](29-flotte-des-annees-1950.md) §4.3).
+**L'expédition d'Albanie** (1950-1951), **au départ de Malte**. Composition [canon] : surtout au charbon, avec un appoint de mazout pris sur la réserve de l'Amirauté (moins de 5 % de la réserve) [ordre de grandeur, à vérifier]. Les voyages réguliers qui suivront se font **sans toucher à la réserve** : le pétrolier garde à chaque retour environ 300 t du fioul distillé de sa cargaison pour le voyage suivant, et l'escorte est un aviso charbonnier ([29](29-flotte-des-annees-1950.md) §4.3).
 
 | Élément | Contenu |
 |---|---|
@@ -110,7 +110,7 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 *Composition, personnel, bilans de combustibles et calendrier détaillés : voir [18](18-expedition-albanie.md).*
 
-**La suite** [canon : principe] : **l'île de Sazan, à l'entrée de la baie de Vlorë, devient une base fortifiée avec une petite garnison** (~60 personnes, [18](18-expedition-albanie.md) §10). C'est la première implantation fondée par l'îlot hors de Sardaigne. Reste à décider comment extraire le brut à Kuçova, dans l'intérieur des terres [à décider].
+**La suite** [canon : principe] : **l'île de Sazan, à l'entrée de la baie de Vlorë, devient une base fortifiée avec une petite garnison** (~60 personnes, [18](18-expedition-albanie.md) §10). C'est la première implantation fondée par l'îlot hors de Sardaigne. L'extraction du brut à Kuçova, dans l'intérieur des terres, repose sur l'accord de Narta ([34](34-avant-poste-d-albanie.md)).
 
 ## 4. Y a-t-il du charbon en Sardaigne ? Oui : le bassin du Sulcis [histoire]
 
@@ -200,7 +200,7 @@ C'est **le seul grand gisement de charbon d'Italie**, et l'une des raisons princ
 | **1947 – 1951** | Le croiseur léger ***Georges Leygues*** : une chaufferie au charbon, l'autre au mazout | **Le « croiseur charbonnier »** : il fait route au charbon à 12-14 nœuds, et garde une part de la **réserve de l'Amirauté** (§3) pour pousser à pleine vitesse en cas de danger. C'est le navire de **l'expédition d'Albanie** (§3 ter) |
 | **Années 1950** | Construction de **petits vapeurs neufs** à coque de bois ou d'acier récupéré, sur le modèle des chalutiers | La marine de l'îlot devient une marine de vapeurs lents et de voiliers, avec quelques survivants de 1940 ; composition, budget et doctrine d'entretien au chapitre [29](29-flotte-des-annees-1950.md) |
 
-**Estimation pour le croiseur charbonnier** : à 12 nœuds, environ **150 t de charbon du Sulcis par jour**. Avec environ 1 500 t en soute, il tient environ 10 jours, soit environ 2 900 milles. Cagliari – Souda (environ 1 300 milles) est faisable, mais **l'aller-retour est juste**. Il faut un dépôt de charbon en route, ou un charbonnier d'accompagnement.
+**Estimation pour le croiseur charbonnier** : à 12 nœuds, environ **150 t de charbon du Sulcis par jour**. Avec environ 1 500 t en soute, il tient environ 10 jours, soit environ 2 900 milles. Cagliari – Souda (environ 720 milles) est faisable **aller et retour sans escale**, avec une marge pour les détours et le mauvais temps.
 
 **Les navires à mazout gardés jusqu'en 1946** (*Foxhound*, *Faulknor*, *Volta*) sont mis en réserve quand le mazout est gelé, en 1948. Le *Volta*, le plus rapide, est **conservé intact**, car il pourrait servir en dernier recours avec la réserve de l'Amirauté.
 

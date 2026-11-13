@@ -85,7 +85,7 @@ Verdict **de nuit / de jour** (OK : sûr ; ~ : intermittent ; rare ; – : impos
 | Maurice | 8 299 km | 3 | rare / – | rare / – | ~ / ~ | ~ / ~ | ~ / ~ | ~ / ~ |
 | Floride | 8 385 km | 3 | ~ / – | ~ / – | ~ / ~ | **OK** / ~ | ~ / ~ | **OK** / ~ |
 | Perth | 13 518 km | 5 | rare / – | rare / – | rare / – | ~ / – | rare / – | ~ / – |
-| Nouvelle-Zélande | 18 600 km | 6 | rare / – | rare / – | rare / – | ~ / – | rare / – | ~ / – |
+| Nouvelle-Zélande | 18 779 km | 6 | rare / – | rare / – | rare / – | ~ / – | rare / – | ~ / – |
 
 ### Ce que le calcul apprend
 
@@ -96,7 +96,7 @@ Verdict **de nuit / de jour** (OK : sûr ; ~ : intermittent ; rare ; – : impos
 - **En téléphonie**, il faut environ **11 dB de plus** qu'en Morse. La voix passe la nuit jusqu'à environ 4 000 km (Dakar, les Canaries) ; **au-delà, seul le Morse passe**.
 - **L'onde de sol en ondes moyennes** (500 kHz) porte de jour à 300-500 km sur mer : la Corse, Bizerte, Minorque, Malte à la limite. C'est la radio des **expéditions de recueil** et des liaisons avec La Maddalena.
 
-**🔧 Ce que cela corrige** : la version précédente de ce chapitre disait que les liaisons de plus de 6 000 km étaient « rares avant 1946 ». **La physique les permet de nuit dès 1940.** Si l'îlot n'entend presque rien de lointain avant 1947, c'est pour d'autres raisons (§7).
+**Ce qu'il faut en retenir** : les liaisons de plus de 6 000 km ne sont pas rares avant 1946 : **la physique les permet de nuit dès 1940.** Si l'îlot n'entend presque rien de lointain avant 1947, c'est pour d'autres raisons (§7).
 
 ## 3. Les stations possibles [canon provisoire]
 
@@ -122,7 +122,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 |---|---|---|---|---|---|---|
 | **Écosse** (Clyde, Scapa Flow) | 2 100 – 2 350 km | 72-75° | Home Fleet, administration britannique repliée, mines de charbon | 🟡 Intermittent ([07](07-le-monde-apres.md)) | 🟡 Très affaibli par le froid | 🟡 |
 | **Canaries** | 2 573 km | 101,8° | Garnison espagnole, port de Las Palmas | 🟡 | 🟡 | ✅ |
-| **Açores** | 3 013 km | 90,3° | Garnison portugaise, **stations des câbles transatlantiques** de Horta | 🟡 | 🟡 | ✅ |
+| **Açores** | 3 244 km | 90,3° | Garnison portugaise, **stations des câbles transatlantiques** de Horta | 🟡 | 🟡 | ✅ |
 | **Islande** | 3 431 km | 65,7° | Troupes britanniques d'occupation (depuis mai 1940) [histoire] ; chaleur géothermique | ❌ Bord de la zone d'incendies | ❌ | 🟡 Possible petite poche |
 | **Dakar** | 3 761 km | 114,5° | **Le cuirassé *Richelieu*, réfugié là depuis juin 1940** [histoire], et la base de l'Afrique-Occidentale française | ✅ | ✅ | ✅ |
 | **Freetown** | 4 079 km | 121,4° | Base britannique des convois | 🟡 | 🟡 | ✅ |
@@ -137,7 +137,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 |---|---|---|---|---|---|---|
 | **Aden** | 4 587 km | 107,7° | Base britannique | 🟡 | ❌ La Morìa (1943) | ❌ |
 | **Bombay** | 6 452 km | 87,7° | Base de la Royal Indian Navy | 🟡 | ❌ La Morìa (1943-44) | 🟡 |
-| **Ceylan** (Trincomalee, Colombo) | 7 869 km | 90,4° | Base de l'East Indies Fleet | 🟡 | 🟡 | ✅ |
+| **Ceylan** (Trincomalee, Colombo) | 7 865 km | 90,4° | Base de l'East Indies Fleet | 🟡 | 🟡 | ✅ |
 | **Mombasa, Diego-Suarez, Maurice** | 5 700 – 8 300 km | 125-127° | Bases britannique et française, garnisons | 🟡 | 🟡 | ✅ |
 | **Saïgon, Singapour, Surabaya** | 9 900 – 11 700 km | 72-82° | Marines française, britannique et néerlandaise | ❌ | ❌ | 🟡 La Morìa y passe en 1944-45 |
 | **Perth** (Fremantle) | 13 518 km | 99,8° | Australie occidentale, abritée du tsunami du Pacifique | ❌ | ❌ | ✅ |
@@ -183,7 +183,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 | **1943** | **Des appels du Levant et d'Égypte parlent d'une « peste noire »** ([14](14-epidemie.md) §5.1). Ils se taisent dans l'année |
 | **1944 – 1946** | L'Île fermée **écoute en silence**. Le minimum solaire réduit la portée. Le monde semble se réduire à la Méditerranée occidentale et à l'Afrique de l'Ouest |
 | **1947 – 1949 : l'été radio** | **Le monde réapparaît.** On entend la Martinique, la Floride, Ceylan, Maurice, Perth, et même la Nouvelle-Zélande par l'antipode. Des voix en anglais, en français, en espagnol, en portugais. L'îlot découvre qu'il n'est pas seul, mais aussi **combien le monde est vide** |
-| **Juillet 1950** | *(prov.)* Grâce au pli rapporté par l'expédition d'Albanie, Cagliari **écoute la Crète aux heures de vacation qu'elle a données** ([18](18-expedition-albanie.md) §7.5). Date du premier échange [à décider] |
+| **Juillet 1950** | *(prov.)* Grâce au pli rapporté par l'expédition d'Albanie, Cagliari **écoute la Crète aux heures de vacation qu'elle a données** ([18](18-expedition-albanie.md) §7.5). [à décider : date du premier échange] |
 | **1950 – 1952** | Avec la réouverture de l'île, l'îlot répond de nouveau. Les premiers échanges réguliers s'organisent avec Dakar, Gibraltar, les Canaries et la Martinique, à **heures fixes** (§7) |
 | **1953 – 1955** | *(prov.)* **Le creux** : minimum solaire de 1954. Les voix lointaines faiblissent ; les liaisons méditerranéennes et atlantiques restent sûres la nuit |
 | **1956 – 1959 : le second été radio** | *(prov.)* Le cycle solaire le plus fort jamais mesuré. L'îlot, rouvert, **répond** cette fois : vacations régulières avec la Martinique, Ceylan, peut-être la Floride ; contacts occasionnels avec Perth et la Nouvelle-Zélande. C'est la première fois depuis 1940 que l'îlot **parle** au monde lointain, au lieu de seulement l'écouter |

@@ -23,7 +23,7 @@ De 1940 à 1943, chacun garde ses galons. Les bords restent en majorité nationa
 |---|---|---|
 | **Les équivalences** | Un *capo di prima classe* italien vaut-il un maître principal français ou un Chief Petty Officer britannique ? Un *capitaine de corvette* vaut-il un *Lieutenant-Commander* ? Les échelles ne coïncident pas exactement | Une **table d'équivalence** établie par Holland, révisée à chaque litige |
 | **L'ancienneté** | Dans un bord mixte, le commandement revient au plus ancien dans le grade le plus élevé. Mais les dates de nomination ne se comparent pas d'une marine à l'autre | La **règle de Cagliari** : on compte l'ancienneté à partir du 12 juillet 1940 pour tous |
-| **Les anciens ennemis** | Des marins britanniques refusent d'obéir à un maître italien ; des Français, à un officier britannique après Mers el-Kébir, qui n'a pas eu lieu mais dont on savait qu'il se préparait | Le conseil de discipline et, surtout, la faim : en 1941, les rancunes reculent devant la ration |
+| **Les anciens ennemis** | Des marins britanniques refusent d'obéir à un maître italien ; des Français, à un officier britannique, à cause de Catapult, l'attaque de Mers el-Kébir qui n'a pas eu lieu mais dont on savait qu'elle se préparait | Le conseil de discipline et, surtout, la faim : en 1941, les rancunes reculent devant la ration |
 | **Les civils et les Sardes** | Comment donner un grade à un ingénieur des mines, à une infirmière, à un berger chef ? | Les **assimilés** ([13](13-societe-de-bord.md) §4) : un grade « à titre civil », que les marins regardent de haut |
 | **La langue des ordres** | Trois langues dans le même bord | Le français par défaut ([11](11-ilot-de-civilisation.md) §8), puis des ordres courts et codifiés ([13](13-societe-de-bord.md) §7) |
 
@@ -110,7 +110,7 @@ L'accord tient parce que **chaque marine y retrouve quelque chose d'elle-même**
 
 ### 3.3 Le glissement vers la langue de bord (1945-1960) [canon provisoire]
 
-Comme le prévoit l'option B2, l'usage fond peu à peu les trois langues ([13](13-societe-de-bord.md) §7) :
+L'usage fond peu à peu les trois langues ([13](13-societe-de-bord.md) §7) :
 
 | Grade officiel | Usage vers 1955-1960 |
 |---|---|
@@ -157,7 +157,7 @@ L'accord de Bonaria crée sept corps. Tous ont la même échelle de grades ; seu
 
 **Les femmes** : les **corps de soutien** de 1940-1943 ([13](13-societe-de-bord.md) §4 ter) sont fondus dans les corps de **Santé**, du **Commissariat**, de la **Terre** et de **Machines et Génie** (ateliers). Les transmissions deviennent une spécialité du corps du **Pont**, la seule où les femmes servent dans ce corps jusqu'au milieu des années 1950. **Décision de l'auteur** : les postes d'officier s'ouvrent ensuite petit à petit, y compris dans le Pont, les Capitaineries et à bord des navires actifs ; **seuls les fusiliers marins restent réservés aux hommes** ([13](13-societe-de-bord.md) §4 ter).
 
-**Les fusiliers marins** [canon : principe ; provisoire : détail] : la garde armée du corps du Pont prend le nom de **fusiliers marins**, sur le modèle des fusiliers marins français et des Royal Marines [histoire]. Ce sont eux qui tiennent les garnisons des avant-postes (Malte, Sazan), forment les troupes de débarquement des expéditions et gardent les bords à flot. C'est la seule spécialité fermée aux femmes.
+**Les fusiliers marins** [canon : principe ; provisoire : détail] : la garde armée du corps du Pont prend le nom de **fusiliers marins**, sur le modèle des fusiliers marins français et des Royal Marines [histoire]. Ce sont eux qui tiennent les garnisons des avant-postes (Malte, Sazan, puis Toulon), forment les troupes de débarquement des expéditions et gardent les bords à flot. C'est la seule spécialité fermée aux femmes.
 
 ## 6. Les Capitaineries de l'Îlot [canon provisoire]
 
@@ -214,7 +214,7 @@ L'accord les fait entrer dans la Marine de l'Îlot comme les autres (article 9).
 | **La Flottille aéronavale de l'Îlot** | Un **bord de terre**, le **bord d'Elmas** ([20](20-capacites-aeronavales.md) §4.2), rattaché au **commandement de la Flotte** (§7) |
 | **Le commandant** | Le capitaine de corvette **Edward Halloran**, d'origine britannique, ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann**, d'origine française ; tous deux officiers du corps du Pont, spécialité aéronavale ([20](20-capacites-aeronavales.md) §4.5) |
 | **Les pilotes et les observateurs** | Officiers et maîtres du **corps du Pont**, avec la **spécialité aéronavale** |
-| **Les mécaniciens d'aviation** | **Corps de Machines et Génie**. Le chef mécanicien est un **warrant** (§3.1) : c'est la place naturelle du chef mécanicien italien encore à choisir ([20](20-capacites-aeronavales.md) §5) |
+| **Les mécaniciens d'aviation** | **Corps de Machines et Génie**. Le chef mécanicien est un **warrant** (§3.1) : c'est la place naturelle du chef mécanicien italien d'Elmas [à nommer] ([20](20-capacites-aeronavales.md) §5) |
 | **Les radios et le météorologue** | Spécialité transmissions du corps du **Pont** |
 | **L'école de vol à voile** | Rattachée au bord d'Elmas ([20](20-capacites-aeronavales.md) §4.6). Les mousses et les *comuni* peuvent y entrer sur concours. Le **brevet de vol à voile** est le premier brevet de la spécialité aéronavale |
 | **La formation des officiers** | Les élèves du corps du Pont à l'**École navale** peuvent choisir la spécialité aéronavale en troisième année ([13](13-societe-de-bord.md) §4 quater) |

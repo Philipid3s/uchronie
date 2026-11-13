@@ -10,7 +10,7 @@
 |---|---|
 | **La ville** | ~150 000 habitants en 1936 🔎 ; le premier port de guerre français ; l'**arsenal** (Darse Vauban, Missiessy, Castigneau), les **formes de radoub**, les ateliers, la pyrotechnie, l'école de mécaniciens ; la presqu'île de **Saint-Mandrier** et son hôpital maritime |
 | **Le commandement** | Le préfet maritime, **vice-amiral d'escadre Léon-Henri Devin** (janvier – juillet 1940) ; la **3ᵉ escadre** du **vice-amiral Émile Duplat**, pavillon sur l'*Algérie* ([sources](annexes/sources.md)) |
-| **L'escadre** | Les croiseurs lourds ***Algérie***, ***Dupleix***, ***Foch*** et ***Colbert***, qui ont bombardé Gênes le 14 juin ; des contre-torpilleurs et des torpilleurs ; des sous-marins 🔎 (composition exacte de juillet 1940 à recouper) |
+| **L'escadre** | Les croiseurs lourds ***Algérie***, ***Dupleix***, ***Foch*** et ***Colbert***, qui ont bombardé Gênes le 14 juin ; des contre-torpilleurs et des torpilleurs ; des sous-marins 🔎 [à vérifier : composition exacte de juillet 1940] |
 | **La situation** | L'armistice est signé depuis dix jours. Le Midi est plein des **réfugiés de l'exode** de mai-juin 1940. La Provence ne se nourrit pas elle-même : elle importe son blé d'Algérie par Marseille. **La convention d'armistice prévoit le retour des navires dans leurs ports d'attache** pour y être désarmés [histoire] : pour la flotte de Gensoul, c'est Toulon |
 
 **Dans notre histoire**, le 3 juillet 1940, l'*Algérie*, le *Foch* et le *Colbert* appareillent avec douze contre-torpilleurs pour aller au-devant de la flotte attaquée à Mers el-Kébir ; le *Strasbourg* les rejoint le 4 au soir [histoire].
@@ -99,7 +99,7 @@ Pourquoi Gensoul ne rentre-t-il pas à Toulon ? C'est son port, la convention d'
 |---|---|
 | **1953** | **Reconnaissance** du *Georges Leygues*, avec Duplat à bord. La ville est vide ; quelques dizaines de survivants vivent à Saint-Mandrier et dans les vallons du cap Sicié. On retrouve le *Foch* et le *Colbert*, rouillés, à flot |
 | **1954 – 1955** | Accord avec les survivants de Saint-Mandrier, qui demandent à entrer dans le rôle ; ce sont des **voisins coopératifs** ([07](07-le-monde-apres.md) §1 bis). Inventaire de l'arsenal |
-| **1956** | **La garnison de Toulon**, cinquième avant-poste de l'îlot (après Gibraltar, Malte et Sazan) : 60 à 80 fusiliers marins, ouvriers et transmetteurs, relevés comme à Malte (deux voyages par an du *Jacques Schiaffino*, [29](29-flotte-des-annees-1950.md) §4.5), dans l'enclave de l'arsenal et de Saint-Mandrier ; un **navire de garde** avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) |
+| **1956** | **La garnison de Toulon**, quatrième avant-poste de l'îlot (après Gibraltar, Malte et Sazan) : 60 à 80 fusiliers marins, ouvriers et transmetteurs, relevés comme à Malte (deux voyages par an du *Jacques Schiaffino*, [29](29-flotte-des-annees-1950.md) §4.5), dans l'enclave de l'arsenal et de Saint-Mandrier ; un **navire de garde** avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) |
 | **1957 – 1960** | Premières remises en état d'une forme de radoub ; récupération de machines-outils pour le chantier naval de l'Îlot ([29](29-flotte-des-annees-1950.md) §6) ; contacts avec les survivants de l'intérieur |
 
 ## 7. Ce que Toulon change pour l'îlot

@@ -1,0 +1,130 @@
+{
+  "france": {
+    "titre": "Impact de Rambouillet",
+    "sous_titre": "48,585° N · 1,745° E — cratère 24,6 km — séisme M 8,5"
+  },
+  "pacifique": {
+    "titre": "Impact du Pacifique Nord",
+    "sous_titre": "48,585° N · 178,255° O — fond 5 500 m — cavité 95 km — M 9,9"
+  },
+  "mediterranee": {
+    "titre": "Le refuge méditerranéen",
+    "sous_titre": "Distances angulaires à l'impact A — convois de juillet-août 1940 — îles comparées"
+  },
+  "sardaigne": {
+    "titre": "L'îlot de Sardaigne",
+    "sous_titre": "Ports, mouillages, mines, énergie, quarantaine, vivres, aviation, Barbagia, radio — 1940-1960"
+  },
+  "cagliari": {
+    "titre": "Cagliari, capitale de l'îlot",
+    "sous_titre": "Le Conseil, les navires, la défense, l'hôpital, l'université, la radio — 1940-1960"
+  },
+  "routes": {
+    "titre": "La mer de l'Îlot",
+    "sous_titre": "Convois, campagnes et expéditions, 1940-1960 — distances par l'arc de grand cercle des points de route"
+  },
+  "malte": {
+    "titre": "Malte, l'avant-poste",
+    "sous_titre": "L'enclave des Trois Cités, les docks, le charbon, le lazaret, Gozo — 1949-1960"
+  },
+  "albanie": {
+    "titre": "L'expédition d'Albanie",
+    "sous_titre": "Avril – juillet 1950 · Georges Leygues, un cargo, un pétrolier · chef de l'expédition : capitaine de vaisseau Louis Collinet"
+  },
+  "kucova": {
+    "titre": "Vlorë – Kuçova, l'avant-poste du pétrole",
+    "sous_titre": "Le bord d'Albanie et l'accord de Narta — 1950-1960"
+  },
+  "mazout": {
+    "titre": "Le mazout, ressource qui commande tout",
+    "graphiques": [
+      {
+        "fichier": "mazout-1.png",
+        "titre": "Stock de mazout en fin d'année",
+        "sous_titre": "Un navire-centrale au mouillage brûle environ 15 t par jour. Trois tournent en 1940-41, deux pendant les années sombres, un seul après 1946."
+      },
+      {
+        "fichier": "mazout-2.png",
+        "titre": "Brûlé et récupéré chaque année",
+        "sous_titre": ""
+      },
+      {
+        "fichier": "mazout-3.png",
+        "titre": "Les dépôts de la Méditerranée",
+        "sous_titre": "Les cuves enterrées ont résisté à la nuit de feu. Une fois vidées, elles sont perdues : c'est ce qui mène à l'Albanie, la seule source proche."
+      }
+    ]
+  },
+  "population": {
+    "titre": "La quasi-extinction et la reprise",
+    "graphiques": [
+      {
+        "fichier": "population-1.png",
+        "titre": "Le monde : six vagues de mortalité",
+        "sous_titre": "Population restante après chaque vague, sur une échelle logarithmique : chaque graduation vaut dix fois la précédente. Le trait marque la perte de la vague."
+      },
+      {
+        "fichier": "population-2.png",
+        "titre": "L'îlot : l'effondrement, 1940-1946",
+        "sous_titre": "En juillet 1940, environ 21 000 arrivants et 650 000 Sardes. Le premier hiver, puis l'année sans soleil."
+      },
+      {
+        "fichier": "population-3.png",
+        "titre": "L'îlot : la reprise, 1946-1960",
+        "sous_titre": "Projection du modèle démographique, année par année. Le canon retient environ 55 000 habitants en 1950."
+      },
+      {
+        "fichier": "population-4.png",
+        "titre": "Naissances, décès, immigrés",
+        "sous_titre": ""
+      },
+      {
+        "fichier": "population-5.png",
+        "titre": "Hommes pour 100 femmes",
+        "sous_titre": ""
+      },
+      {
+        "fichier": "population-6.png",
+        "titre": "Qui arrive, 1949-1959 : 7 850 entrées",
+        "sous_titre": ""
+      }
+    ]
+  },
+  "pyramide": {
+    "titre": "1946 : une pyramide en forme de toupie",
+    "sous_titre": "Tranches de 5 ans · même échelle pour les quatre années",
+    "graphiques": [
+      {
+        "fichier": "pyramide-1946.png",
+        "titre": "1946 : une pyramide en forme de toupie",
+        "sous_titre": "1946"
+      },
+      {
+        "fichier": "pyramide-1950.png",
+        "titre": "1946 : une pyramide en forme de toupie",
+        "sous_titre": "1950"
+      },
+      {
+        "fichier": "pyramide-1955.png",
+        "titre": "1946 : une pyramide en forme de toupie",
+        "sous_titre": "1955"
+      },
+      {
+        "fichier": "pyramide-1960.png",
+        "titre": "1946 : une pyramide en forme de toupie",
+        "sous_titre": "1960"
+      }
+    ]
+  },
+  "metiers": {
+    "titre": "Les métiers de 1950",
+    "sous_titre": "23 057 postes permanents déduits des besoins de l'île · 24 % tenus par des femmes",
+    "graphiques": [
+      {
+        "fichier": "metiers.png",
+        "titre": "Les métiers de 1950",
+        "sous_titre": ""
+      }
+    ]
+  }
+}

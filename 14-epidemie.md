@@ -1,12 +1,8 @@
 # 14 — La Morìa : l'épidémie née au Moyen-Orient (1942-1947)
 
-> **Décision de l'auteur** : une épidémie née au Moyen-Orient ravage l'Europe et l'Asie dans les années qui suivent l'impact.
+> **Décision de l'auteur** : une épidémie née au Moyen-Orient ravage l'Europe et l'Asie dans les années qui suivent l'impact. Le pathogène est **la peste**. **L'îlot de Sardaigne survit, mais au prix d'une discipline de fer** : l'île est isolée, une stricte quarantaine est imposée, et les malades sont parqués dans une zone précise de l'île, tenus à l'écart (§5.4).
 >
-> **Décisions de l'auteur** :
-> - **le pathogène est la peste** ;
-> - **l'îlot de Sardaigne survit, mais au prix d'une discipline de fer** : l'île est isolée, une stricte quarantaine est imposée, et les malades sont parqués dans une zone précise de l'île, tenus à l'écart (§5.4).
->
-> Les dates et les bilans restent [canon provisoire]. Le nom **« la Morìa »** (de l'italien et du sarde *morìa*, « mortalité, épizootie ») est celui que lui donne l'îlot de Sardaigne.
+> Le nom **« la Morìa »** (de l'italien et du sarde *morìa*, « mortalité, épizootie ») est celui que lui donne l'îlot de Sardaigne. [canon provisoire : dates et bilans]
 
 ## 1. Quel pathogène ? La peste [canon]
 

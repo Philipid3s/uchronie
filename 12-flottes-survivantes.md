@@ -30,8 +30,8 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 | HMS *Active* | Destroyer | 1929 | ~145 | ~120 | Patrouille | Désarmé en 1942 |
 | HMS *Wrestler* | Destroyer (classe V et W) | 1918 | ~130 | ~105 | Garde de Gibraltar | Laissé à Gibraltar (avant-poste), voir [07](07-le-monde-apres.md) §2 bis |
 | HMS *Vidette* | Destroyer (classe V et W) | 1918 | ~130 | ~105 | Garde de Gibraltar | Laissé à Gibraltar |
-| HMS *Vortigern* | Destroyer (classe V et W) | 1917 | ~130 | ~105 | Pêche, remorquage | Désarmé en 1942 |
-| ***San Adolfo*** (Eagle Oil & Shipping, 1935) [histoire : arrivé à Gibraltar le 1er juillet 1940, sans doute à vide ; aucun pétrolier de la Royal Fleet Auxiliary n'y est attesté ce jour-là] | Pétrolier marchand à moteur Diesel, 7 365 tjb, 11 335 tpl | — | — | ~45 [estimation] | **Capital** : il transporte le mazout du dépôt de Gibraltar vers Cagliari, puis le brut d'Albanie à partir de 1950 | [historicalrfa.uk](https://historicalrfa.uk/requisitioned-auxiliary-san-adolfo/) |
+| HMS *Vortigern* | Destroyer (classe V et W) | 1917 | ~130 | ~105 | Pêche, remorquage | Désarmé en 1942, puis converti au charbon (1944-1947) : aviso charbonnier ([15](15-energie.md) §5) |
+| [***San Adolfo***](https://historicalrfa.uk/requisitioned-auxiliary-san-adolfo/) | Pétrolier marchand à moteur Diesel (Eagle Oil & Shipping), 7 365 tjb, 11 335 tpl [histoire : arrivé à Gibraltar le 1er juillet 1940, sans doute à vide ; aucun pétrolier de la Royal Fleet Auxiliary n'y est attesté ce jour-là] | 1935 | ~45 [estimation] | ~45 | **Capital** : il transporte le mazout du dépôt de Gibraltar vers Cagliari, puis le brut d'Albanie à partir de 1950 | En service, seul pétrolier de l'îlot |
 | **Sous-total Force H** | **17 bâtiments de combat** | | **~8 000** | **~6 500** | | |
 
 ## 3. France
@@ -88,12 +88,12 @@ Historiquement, six croiseurs légers de classe *La Galissonnière* se trouvaien
 
 ## 4. Italie
 
-Les identifications précises restent [à documenter] ; voici la composition retenue au canon, par type.
+Les unités italiennes ralliées, par type [à documenter : identifications précises] :
 
 | Unité | Type | Effectif | Origine | Rôle dans l'îlot |
 |---|---|---|---|---|
 | 3 à 5 sous-marins | Sous-marins océaniques et côtiers (classes *Adua*, *Argonauta*, etc.) | ~40 – 55 chacun, ~200 au total | **Le VII Grupsom de Cagliari** (capitaine de frégate Giovanni di Gropello) : l'***Alagi***, l'***Axum*** et l'***Aradam*** (classe *Adua*, 71ª Squadriglia) et le ***Turchese*** (72ª Squadriglia), rentrés de patrouille fin juin et **au port de Cagliari le 1er juillet** [histoire 🔎 : dans notre histoire, ils appareillent le 3 juillet après Mers el-Kébir] ; d'autres en patrouille en Méditerranée occidentale, qui survivent en plongée | **Expéditions longue distance à faible consommation** (diesel), reconnaissance, écoute radio. Ce sont les seuls capables d'un voyage vers l'îlot de l'Est quand le Conseil le décidera |
-| 4 torpilleurs de la **IXᵉ escadrille** : ***Cassiopea*** (chef d'escadrille) et ***Canopo*** (classe *Spica*, ~650 t), ***Fratelli Cairoli*** et ***Antonio Mosto*** (anciens torpilleurs de 1914-1915) | Torpilleurs | ~100 chacun | **La Maddalena** le 10 juin 1940 [histoire 🔎 : la base est Cagliari selon une autre source] | Patrouille côtière, lutte contre les flottilles de pillards ; le *Canopo* devient le **navire de garde de Gibraltar** ([29](29-flotte-des-annees-1950.md) §4.4) |
+| 4 torpilleurs de la **IXᵉ escadrille** : ***Cassiopea*** (chef d'escadrille) et ***Canopo*** (classe *Spica*, ~650 t), ***Fratelli Cairoli*** et ***Antonio Mosto*** (anciens torpilleurs de 1914-1915) | Torpilleurs | ~100 chacun | **La Maddalena** le 10 juin 1940 [à vérifier : la base est Cagliari selon une autre source] | Patrouille côtière, lutte contre les flottilles de pillards ; le *Canopo* devient le **navire de garde de Gibraltar** ([29](29-flotte-des-annees-1950.md) §4.4) |
 | ***Orione*** (classe *Orsa*, ~1 600 t à pleine charge) [histoire 🔎] | Torpilleur d'escorte | ~150 | 4ᵉ escadrille de Naples ; *(prov.)* rallie l'îlot le 23 septembre 1940, en quittant la force fasciste venue de Naples ([06](06-mers-el-kebir.md) §6 bis) | Escorte ; **navire de garde de Malte** dans les années 1950 ([29](29-flotte-des-annees-1950.md) §4.4) |
 | Flottille de MAS (vedettes lance-torpilles) | Vedettes rapides | ~10 chacune | La Maddalena | Surveillance des côtes. Moteurs à essence, rapidement immobilisés |
 | Hydravions de Cagliari-Elmas | Hydravions de reconnaissance | — | Base d'Elmas | Volent jusqu'à l'épuisement de l'essence (fin 1940) |
@@ -105,7 +105,7 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 |---|---|---|
 | Port d'Oran | ~8 cargos | **Transport des ~45 000 t de grain** d'Oran ([11](11-ilot-de-civilisation.md) §2) |
 | Gibraltar | 2 à 4 cargos, dont le ***Har Zion*** (1907, 3 285 tpl, venu de Marseille avec des évacués) et l'***Anadyr*** (Messageries maritimes, 1930, 9 786 tpl, chauffé au charbon, à Gibraltar depuis le 18 juin) [histoire : présents le 1er juillet 1940] ; le pétrolier ***San Adolfo*** | Stocks de siège, mazout ; dans les années 1950, le *Har Zion* est le cargo de l'Est et l'*Anadyr* celui de Gibraltar ([29](29-flotte-des-annees-1950.md) §4.5) |
-| Alger | 3 à 5 cargos, dont le ***Jacques Schiaffino*** (Société algérienne de navigation Charles Schiaffino, 1930, ~2 700 tpl) [histoire : sur les lignes d'Algérie en 1940 ; présence à Alger le 1er juillet : canon provisoire] | Grain, matériel ; dans les années 1950, le *Jacques Schiaffino* fait la navette de Malte ([29](29-flotte-des-annees-1950.md) §4.5) |
+| Alger | 3 à 5 cargos, dont le ***Jacques Schiaffino*** (Société algérienne de navigation Charles Schiaffino, 1930, ~2 700 tpl) [histoire : sur les lignes d'Algérie en 1940] [canon provisoire : présence à Alger le 1er juillet] | Grain, matériel ; dans les années 1950, le *Jacques Schiaffino* fait la navette de Malte ([29](29-flotte-des-annees-1950.md) §4.5) |
 | Cagliari | Caboteurs et voiliers sardes | Cabotage, pêche. **Ils deviennent la vraie flotte de l'îlot après 1945** |
 
 ## 6. Bilan
@@ -113,9 +113,9 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 | Pavillon | Bâtiments de combat | Dont grands bâtiments (croiseurs de bataille, cuirassés, porte-avions) | Hommes valides en juillet 1940 |
 |---|---|---|---|
 | Royaume-Uni | 17 | 4 (*Hood*, *Valiant*, *Resolution*, *Ark Royal*) | ~6 500 |
-| France | 27 – 28 (avec Oran, Alger, Toulon) | 5 (*Dunkerque*, *Strasbourg*, *Provence*, *Bretagne*, *Commandant Teste*) | ~9 700 avec les ralliés de Toulon |
-| Italie | 5 – 9 et des vedettes | 0 | ~600 marins, plus la garnison de l'île |
-| **Total** | **~50 bâtiments de combat** | **9** | **~16 800 marins** |
+| France | 27 – 28 (avec Oran, Alger, Toulon) | 5 (*Dunkerque*, *Strasbourg*, *Provence*, *Bretagne*, *Commandant Teste*) | ~10 200 avec les ralliés de Toulon |
+| Italie | 8 – 10 et des vedettes | 0 | ~600 marins, plus la garnison de l'île |
+| **Total** | **~50 bâtiments de combat** | **9** | **~17 300 marins** |
 
 **Bâtiments encore en état de naviguer en 1946 [canon]** : HMS *Foxhound*, HMS *Faulknor*, le *Volta*, le *Georges Leygues*, deux torpilleurs, deux ou trois sous-marins (italiens et français), plus la flottille de caboteurs et de pêche à voile.
 
@@ -128,6 +128,6 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 - Un croiseur de bataille au mouillage, chaudières au minimum pour produire électricité et eau douce, consomme de l'ordre de **10 à 20 t de mazout par jour**. En route à 15 nœuds, c'est **100 à 200 t par jour**.
 - Stocks de départ : les soutes des flottes (de l'ordre de 40 000 à 50 000 t au total, pleines ou presque) et les dépôts de Mers el-Kébir et de Gibraltar (plusieurs dizaines de milliers de tonnes, en partie embarquées sur les pétroliers et cargos citernes).
 - **Décision du Conseil, août 1940 [canon]** : **tous les grands bâtiments sont immobilisés.** Seuls deux ou trois tournent comme centrales électriques. Les croiseurs légers, contre-torpilleurs et destroyers sont désarmés un à un.
-- Le mazout disponible, environ 80 000 à 100 000 t, permet alors **4 à 6 ans** de production électrique et de quelques sorties. **Le relais est pris par le charbon du Sulcis** dans des chaudières terrestres à partir de 1942. Les navires à chaudières à mazout ne peuvent pas brûler de charbon sans transformation lourde.
+- Le mazout disponible, environ 105 000 t ([15](15-energie.md) §3), permet alors **4 à 6 ans** de production électrique et de quelques sorties. **Le relais est pris par le charbon du Sulcis** dans des chaudières terrestres à partir de 1942. Les navires à chaudières à mazout ne peuvent pas brûler de charbon sans transformation lourde.
 - **[canon] Conversion progressive au charbon** quand c'est possible : cargos et caboteurs (1942-1944), deux torpilleurs et le *Vortigern* (1944-1947), puis le *Georges Leygues*, devenu « croiseur charbonnier » (1947-1951). Les grands navires restent au mazout et au mouillage. Détail dans [15](15-energie.md) §5.
 - **[canon] Campagne des dépôts** (1941-1943) : environ 45 000 t récupérées à Malte, à Augusta et à Gibraltar. Le mazout dure jusqu'en 1948 ([15](15-energie.md) §3 bis).
