@@ -49,6 +49,36 @@
 - **La liaison avec la terre** : l'**échelle de Su Siccu**, un débarcadère en bois construit en 1940, avec un poste de garde et, à partir de 1944, un **poste de visite sanitaire** ([14](14-epidemie.md)). Le va-et-vient se fait en **canots à avirons** et en **vedette** tant qu'il reste de l'essence, puis avec un **petit remorqueur à vapeur** du port, chauffé au charbon du Sulcis [estimation].
 - **Les câbles** : en 1942, un **câble téléphonique sous-marin** relie le bord au réseau de Cagliari, et par lui aux centres radio d'Elmas et du Poetto ([16](16-contacts-radio.md) §1 bis). En 1946, un **câble électrique** vient alimenter le bord depuis la terre (§4.3).
 
+### La rade de Cagliari en 1955 [illustration]
+
+![Vue cavalière de la rade de Cagliari en 1955 : les navires-bords au mouillage, le Hood posé, Castello, Bonaria, les salines](illustrations/cagliari-1955.png)
+
+*Vue cavalière dans le style des encyclopédies des années 1980, vers le nord. C'est la dernière année où tous les grands navires-bords sont réunis : le* Dunkerque *est encore à flot (échouage en 1956-58, §4.5), l'*Ark Royal *n'est pas encore démoli ([25](25-ark-royal.md) §6).*
+
+| N° | Légende |
+|---|---|
+| 1 | **Castello**, la vieille ville fortifiée |
+| 2 | La **basilique de Bonaria**, sur sa colline ([22](22-organisation-militaire.md) : l'accord de Bonaria) |
+| 3 | La descente de Bonaria vers le rivage de **Su Siccu** et son débarcadère, l'**échelle de Su Siccu** |
+| 4 | L'***Ark Royal***, salle du Grand Carré ([25](25-ark-royal.md)) |
+| 5 | Le ***Provence***, école des mousses depuis 1952 ([26](26-provence.md)) |
+| 6 | Le ***Commandant Teste***, atelier de précision à quai ([31](31-commandant-teste.md)) |
+| 7 | Le parc à charbon, la gare et les voies du port |
+| 8 | L'**étang de Santa Gilla** |
+| 9 | Les **salines de Molentargius** |
+| 10 | Les **câbles** entre les navires et la terre |
+| 11 | **Elmas**, de l'autre côté de l'étang : la Flottille et l'école de vol à voile ([20](20-capacites-aeronavales.md)) |
+| 12 | Les flamants de Molentargius |
+| 13 | La **Sella del Diavolo** |
+| 14 | La batterie du capo Sant'Elia ([24](24-hood-forteresse-du-golfe.md)) |
+| 15 | Le ***Dunkerque***, siège du Conseil, au mouillage devant Su Siccu ; les canots du va-et-vient |
+| 16 | Le ***Strasbourg***, navire de réserve, près de son jumeau ([27](27-strasbourg.md)) |
+| 17 | Le ***Hood***, posé en 1944 sur son lit d'enrochements, forteresse du golfe ([24](24-hood-forteresse-du-golfe.md)) |
+
+*Sans numéro : le pétrolier* San Adolfo, *des petits vapeurs et des cargos au charbon ([29](29-flotte-des-annees-1950.md)), des barques à voile latine.*
+
+**Écarts au canon** : le *Hood* avait deux cheminées (l'image n'en montre qu'une) ; sa position, à 1,5 km au sud du *Dunkerque*, est seulement approchée.
+
 ## 4. Les âges du réaménagement [canon provisoire]
 
 ### 4.1 1940-1942 : le navire amiral

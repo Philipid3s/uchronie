@@ -221,6 +221,8 @@ Ce tableau fait la somme des dotées (§4.4), des expéditions de recueil (§4.5
 | **Autres** | Baléares, Sicile, rescapés en mer | ~250 | 50 % |
 | **Total** | | **~7 850** | **~60 %** |
 
+**La priorité des savants** : à chaque voie d'entrée, les candidats qui ont un diplôme d'ingénieur, de médecin ou un doctorat scientifique passent en premier, hors quota, après la même quarantaine ([19](19-savoir-et-medecine.md) §3.7).
+
 **Par voie** : ~5 250 arrivées spontanées (67 %), ~1 600 par les expéditions de recueil (20 %), ~1 000 par les pactes de la Barbagia (13 %).
 
 **Ce qu'on ne compte pas** : la population de l'îlot est celle des **inscrits**. Les survivants **hors-rôle** de l'intérieur de la Sardaigne n'y figurent pas : environ **8 000 à 12 000 personnes en 1950** [estimation], dont 4 000 à 6 000 dans la Barbagia proprement dite. C'est le réservoir d'où viennent les Sardes de l'intérieur et les villages des pactes. Après 1960, chaque nouveau pacte fait monter la population de l'îlot **en plus** de la courbe du §2.

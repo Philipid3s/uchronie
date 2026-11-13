@@ -204,10 +204,27 @@ Le calcul (§2 bis) montre que la physique est généreuse. Ce qui rend le conta
 |---|---|---|
 | **Le rendez-vous** | Pour se parler à 8 000 km, il faut écouter **la bonne fréquence, à la bonne heure, dans la bonne fenêtre** de propagation, qui ne dure parfois qu'une heure. Sans horaire convenu, deux stations peuvent se manquer pendant des années | Les contacts lointains naissent par hasard, puis deviennent réguliers dès qu'on convient de **vacations** (heures fixes et fréquences). C'est ce que fait l'îlot de l'Est avec son pli de 1950 ([18](18-expedition-albanie.md) §7.5) |
 | **L'énergie** | Un émetteur d'un kilowatt consomme plusieurs kilowatts. Une station qui rationne son charbon ou son mazout n'émet que quelques minutes par jour | La plupart des stations lointaines émettent peu, et à heures fixes. Celles qui disposent d'hydroélectricité (la Nouvelle-Zélande) ou d'un navire (Dakar, la Martinique) sont les plus constantes |
-| **Les lampes** | Les tubes électroniques s'usent (quelques milliers d'heures) et ne se fabriquent plus | Les stations se taisent une à une dans les années 1950, faute de lampes, sauf celles qui ont de gros stocks (les arsenaux, les navires). L'îlot garde ses lampes sous clé et n'émet que l'essentiel |
+| **Les lampes** | Les tubes électroniques s'usent (quelques milliers d'heures) et ne se fabriquent plus | Les stations se taisent une à une dans les années 1950, faute de lampes, sauf celles qui ont de gros stocks (les arsenaux, les navires). L'îlot garde ses lampes sous clé, n'émet que l'essentiel, puis **apprend à en refaire** (ci-dessous) |
 | **Les opérateurs et les langues** | Le Morse, les **codes Q** et les abréviations internationales permettent de se comprendre sans langue commune | Une station sans opérateur formé est muette. L'îlot forme ses opérateurs dans le corps du Pont (spécialité transmissions, [22](22-organisation-militaire.md) §5) |
 
 **Le choix de l'îlot de 1944 à 1949** : l'Île fermée **écoute mais ne répond presque plus** (§1). Elle garde donc ses lampes, mais elle laisse passer l'été radio sans établir de vacations : quand elle se met à répondre, en 1950, le maximum solaire s'achève. **Il faut attendre le second été radio (1956-1959) pour des liaisons lointaines régulières.**
+
+### L'atelier des lampes : une industrie du tube à vide [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **une industrie du tube à vide est rapidement nécessaire** sur l'îlot.
+
+**Le stock** [estimation] : en 1940, les navires, les arsenaux et les stations de la flotte réunissent plusieurs milliers de lampes de réception et quelques centaines de lampes d'émission. À quelques milliers d'heures par lampe, et parce que le réseau de l'îlot doit tourner tous les jours (Malte, Sazan, Gibraltar, les expéditions), **le stock d'émission s'épuise au milieu des années 1950**.
+
+**Les étapes** [canon provisoire] :
+
+| Période | Ce que fait l'îlot |
+|---|---|
+| **1940 – 1948** | Inventaire de toutes les lampes, gardées sous clé ; on démonte les postes des navires désarmés ; une lampe ne sert qu'à la radio et à l'hôpital |
+| **Vers 1950** | **L'atelier des lampes** ouvre à l'atelier radio du ***Commandant Teste*** ([31](31-commandant-teste.md)) : on y **rénove** les grosses lampes d'émission démontables, qu'on peut rouvrir, refaire et repomper [histoire : les lampes d'émission de forte puissance étaient souvent démontables] |
+| **Vers 1955** | **Les premières lampes faites dans l'îlot** : des triodes simples, à la main. Il faut une **verrerie** (sable, soude, chaux) qui souffle des ampoules régulières ; des **filaments** de tungstène pris sur les lampes mortes ou les ampoules électriques ; une **pompe à vide** (pompe mécanique, puis pompe à diffusion de mercure) ; un **getter** au magnésium pour finir le vide 🔧 |
+| **Vers 1960** | Une petite production régulière, quelques dizaines de lampes par an : assez pour la radio de l'îlot, pas pour un poste par foyer |
+
+**Les hommes** : les radios de la flotte, les électriciens de l'École technique ([30](30-formation-technique.md) §4) et un verrier ; c'est l'un des métiers que le registre des savoirs cherche en priorité ([19](19-savoir-et-medecine.md) §3.8).
 
 ### Le réseau de l'îlot
 
@@ -223,6 +240,6 @@ Le calcul (§2 bis) montre que la physique est généreuse. Ce qui rend le conta
 
 1. ❓ **Les vacations lointaines** : avec quelles stations l'îlot établit-il des heures fixes pendant le second été radio (1956-1959) ? Qui répond le premier ?
 2. ✅ **La station à terre** : émetteur à Molentargius – Poetto, récepteur à Elmas (1942), vigies à Guardia Vecchia (1940), au Serpeddì (1944) et au Limbara (vers 1958) (§1 bis).
-3. ❓ **Les lampes** : l'îlot a-t-il un stock suffisant pour tenir jusqu'aux années 1960, ou doit-il apprendre à refaire des tubes à vide (verrerie, vide, filaments) ?
+3. ✅ **Les lampes** : retour aux bougies et aux lampes à huile pour une large partie de la population ([15](15-energie.md) §6 bis) ; une industrie du tube à vide, l'atelier des lampes (décision de l'auteur, §7). 🔧 Reste à vérifier la faisabilité (verrerie, vide, filaments).
 4. 🔎 **À vérifier** : puissance et bandes des émetteurs de bord des grands bâtiments français, britanniques et italiens en 1940 ; récepteurs de trafic en service ; durée de vie des lampes d'émission.
 5. 🔎 **À vérifier** : les hypothèses propres à l'uchronie (absorption par les oxydes d'azote, baisse de la couche F2 après un impact océanique, couche E sporadique) ; ordres de grandeur dans la littérature sur les impacts et sur les orages ionosphériques.

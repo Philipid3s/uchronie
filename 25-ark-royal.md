@@ -98,6 +98,39 @@ Le hangar inférieur, au cœur du navire et le mieux protégé du froid, devient
 
 **L'équipage** : ~1 250 hommes valides en juillet 1940, ~700 en 1943 avec le personnel de l'hôpital, ~400 en 1950 [estimation].
 
+### L'*Ark Royal* en 1946 : coupe [illustration]
+
+![Coupe de l'Ark Royal en 1946 : la salle du Grand Carré dans le hangar supérieur, les ateliers dans le hangar inférieur, le pont d'envol citerne](illustrations/ark-royal-cagliari-1946.png)
+
+*Coupe dans le style des encyclopédies des années 1980 : le navire au mouillage dans la rade, Cagliari en arrière-plan.*
+
+| N° | Légende |
+|---|---|
+| 1, 2 | L'avant fermé jusqu'au pont d'envol, et les chaînes des ancres : le navire est **au mouillage** devant le port |
+| 3 | L'ascenseur avant |
+| 4 | Descentes d'eau de pluie, du pont d'envol vers les citernes |
+| 5, 8 | Les mâts du **champ d'antennes** de réception de secours ([16](16-contacts-radio.md)) |
+| 6 | L'îlot, passerelle désarmée |
+| 7 | La cheminée, froide |
+| 9 | Séchoirs à poisson |
+| 10 | Lignes de linge |
+| 11 | Une section à l'exercice sur la **place d'armes** du pont d'envol |
+| 12 | L'**ascenseur arrière**, bloqué en position haute (§4) |
+| 13 | Le cortège d'officiers des trois marines descend dans la salle |
+| 14 | La **salle du Grand Carré**, en fer à cheval, face à l'estrade (§4) |
+| 15 | La **voilerie** (hangar inférieur, §5) |
+| 16 | La **corderie** |
+| 17 | La **menuiserie** |
+| 18 | Les **magasins** de l'arsenal |
+| 19, 20 | **Tourelles de 114 mm**, gardées armées par un équipage réduit (§5) |
+| 21 | Les **citernes d'eau de pluie** |
+| 22 | Les chaudières, froides depuis 1943 (§3.4) |
+| 23 | Les turbines, à l'arrêt |
+| 24, 25 | Le **câble de terre**, posé sur le fond (courant de la terre, 1946) |
+| 26 | Le canot à avirons du va-et-vient avec la terre |
+
+**Écarts au canon** : le cortège descend par un escalier voisin, et non par l'ascenseur arrière lui-même ; la coque reste un peu courte pour 240 m.
+
 ## 6. 1957-1963 : le démantèlement [canon : principe ; provisoire : détail]
 
 **Pourquoi démanteler**, alors qu'on garde le *Dunkerque* et le *Hood* :

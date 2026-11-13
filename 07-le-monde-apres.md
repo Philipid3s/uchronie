@@ -182,7 +182,7 @@ C'est aussi la toile de fond de la question du **rachat des captifs** ([21](21-d
 | **Les cales sèches et l'arsenal** : carénage et grosses réparations des navires de l'îlot | **Le charbon du Sulcis** pour la vapeur et le chauffage, après 1943 |
 | **La garde du détroit** : vigie sur l'Atlantique, alerte sur tout ce qui entre en Méditerranée | Des fèves, du fromage, du sel, des médicaments fabriqués à Cagliari |
 | **Le relais radio** vers Casablanca, Dakar, les Canaries et l'Atlantique ([16](16-contacts-radio.md)) | **Des familles** : à partir des années 1940, des familles sardes, et des Sardes mariées à des soldats du Rocher, s'y installent |
-| La pêche du détroit, et le thon qui passe au printemps | Des renforts et des relèves |
+| La pêche du détroit, et le thon qui passe au printemps | Des renforts et des relèves, chaque trimestre par le cargo *Anadyr* ([29](29-flotte-des-annees-1950.md) §4.5) |
 
 ### Le statut
 

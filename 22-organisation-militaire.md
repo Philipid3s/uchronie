@@ -207,10 +207,12 @@ L'accord les fait entrer dans la Marine de l'Îlot comme les autres (article 9).
 
 ### 1949-1952 : la Flottille dans l'organisation [canon provisoire]
 
+**Décision de l'auteur** : l'aviation suit **en priorité l'héritage britannique**. Ce sont principalement les cadres de l'aéronavale de l'*Ark Royal* qui l'organisent à l'origine : mise en réserve de 1940-43, rôle des navigants, puis organisation, instruction et entretien de la Flottille sur le modèle de la Fleet Air Arm ([20](20-capacites-aeronavales.md) §4.7).
+
 | Élément | Place dans l'organisation de Bonaria |
 |---|---|
 | **La Flottille aéronavale de l'Îlot** | Un **bord de terre**, le **bord d'Elmas** ([20](20-capacites-aeronavales.md) §4.2), rattaché au **commandement de la Flotte** (§7) |
-| **Le commandant** | Le capitaine de corvette **Yves Kerlann**, officier du corps du Pont, spécialité aéronavale ([20](20-capacites-aeronavales.md) §4.5) |
+| **Le commandant** | Le capitaine de corvette **Edward Halloran**, d'origine britannique, ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann**, d'origine française ; tous deux officiers du corps du Pont, spécialité aéronavale ([20](20-capacites-aeronavales.md) §4.5) |
 | **Les pilotes et les observateurs** | Officiers et maîtres du **corps du Pont**, avec la **spécialité aéronavale** |
 | **Les mécaniciens d'aviation** | **Corps de Machines et Génie**. Le chef mécanicien est un **warrant** (§3.1) : c'est la place naturelle du chef mécanicien italien encore à choisir ([20](20-capacites-aeronavales.md) §5) |
 | **Les radios et le météorologue** | Spécialité transmissions du corps du **Pont** |

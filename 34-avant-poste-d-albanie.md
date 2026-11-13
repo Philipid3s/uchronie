@@ -137,7 +137,7 @@ En attendant l'oléoduc, le brut voyage **en fûts de 200 litres** (~190 kg).
 
 | Poste | Lieu | Effectif | Rôle |
 |---|---|---|---|
-| **Sazan** (quartier général) | L'île, à l'entrée de la baie | ~60 | Commandement, **station radio** (Malte, Cagliari), dépôt, infirmerie et **quarantaine** des gens de l'îlot ; **le navire de garde**, un contre-torpilleur avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) ; garde du mouillage |
+| **Sazan** (quartier général) | L'île, à l'entrée de la baie | ~60 | Commandement, **station radio** (Malte, Cagliari), dépôt, infirmerie et **quarantaine** des gens de l'îlot ; **le navire de garde**, le contre-torpilleur ***Kersaint***, avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) ; garde du mouillage |
 | **Le terminal** | Uji i Ftohtë, au sud de Vlorë | ~35 | Réservoirs, ligne de chargement, **distillerie** ; le **dispensaire** de l'accord ; garde de la côte |
 | **Le camp de Kuçova** | Le vieux camp de l'AIPA | ~85 | Ingénieurs, foreurs, mécaniciens, chauffeurs ; une section de **fusiliers marins** (~30) ; un médecin. Avec **200 à 400 ouvriers albanais** |
 
@@ -152,7 +152,7 @@ En attendant l'oléoduc, le brut voyage **en fûts de 200 litres** (~190 kg).
 - **Les vivres** : la ration de l'îlot, complétée par le pain de maïs, le fromage, les olives et le poisson de la lagune achetés au lampant.
 - **Le danger** : les incendies de puits et le **gaz** (le brut soufré dégage de l'hydrogène sulfuré, mortel dans les fosses) ; les mineurs du Sulcis connaissent ce danger.
 
-**La relève** : comme à Malte, un **roulement de deux ans**, la moitié relevée chaque printemps, avec la quarantaine de l'Asinara au retour ([18](18-expedition-albanie.md) §5 ter). **Les mariages** avec des Albanaises sont permis à partir de 1955, sur le modèle de Gozo ; les mariés peuvent se fixer à Kuçova ou au terminal [canon provisoire].
+**La relève** : comme à Malte, un **roulement de deux ans**, la moitié relevée chaque printemps, avec la quarantaine de l'Asinara au retour ([18](18-expedition-albanie.md) §5 ter). Relèves et vivres viennent par le convoi de l'Est (le pétrolier *San Adolfo* et le cargo *Har Zion*), au printemps et à l'automne ([29](29-flotte-des-annees-1950.md) §4.5). **Les mariages** avec des Albanaises sont permis à partir de 1955, sur le modèle de Gozo ; les mariés peuvent se fixer à Kuçova ou au terminal [canon provisoire].
 
 **Les relations** : le commandant du bord rencontre le chef de Narta chaque mois. Les deux médecins de l'avant-poste soignent plus d'Albanais que de gens de l'îlot. Vers 1958, l'école du terminal accueille les enfants de Narta le matin [canon provisoire].
 

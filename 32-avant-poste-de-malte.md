@@ -41,7 +41,7 @@ Le grand bassin de 1909 est assez **long** pour le *Strasbourg* (215 m sur 241).
 - **La pierre de troc de Comino** (1949-1953) : sur l'île de Comino, entre Malte et Gozo. On y dépose le grain et le sel ; les Gozitains y laissent fromages et légumes ; personne ne se croise ([18](18-expedition-albanie.md) §5 ter).
 - **Mġarr**, le port de Gozo : c'est là qu'embarquent, en 1952, les quelque 41 Gozitains qui partent pour l'Asinara.
 - **Victoria**, au centre de Gozo : les survivants autonomes autour de Dun Ġwann Xuereb ; rattachés au bord de Malte en 1955.
-- **La route des relèves** : du Grand Harbour, par la côte nord-est de Malte et le canal de Comino.
+- **La route des relèves** : du Grand Harbour, par la côte nord-est de Malte et le canal de Comino. Le cargo *Jacques Schiaffino* y vient de Cagliari tous les deux mois, et le convoi de l'Est deux fois par an ([29](29-flotte-des-annees-1950.md) §4.5).
 
 ## 5. Questions ouvertes
 

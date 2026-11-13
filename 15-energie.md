@@ -61,7 +61,7 @@ Hypothèses de consommation :
 
 Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider les **dépôts abandonnés les plus proches**. Les cuves enterrées des bases navales ont résisté à la nuit de feu, et le mazout s'y conserve sans s'altérer pendant des années.
 
-**L'outil** : le ou les **pétroliers de la Royal Fleet Auxiliary** venus de Gibraltar ([12](12-flottes-survivantes.md) §1), et les cargos-citernes réquisitionnés à Oran, escortés par le *Georges Leygues* ou le *Volta*. Il faut aussi des pompes, des tuyaux et des équipes du génie pour remettre en marche les installations.
+**L'outil** : le pétrolier ***San Adolfo***, venu de Gibraltar ([12](12-flottes-survivantes.md) §2), et les cargos-citernes réquisitionnés à Oran, escortés par le *Georges Leygues* ou le *Volta*. Il faut aussi des pompes, des tuyaux et des équipes du génie pour remettre en marche les installations.
 
 | Dépôt | Distance de Cagliari | État | Récupéré [estimation] |
 |---|---|---|---|
@@ -216,6 +216,23 @@ Il est impossible de raffiner du pétrole qu'on n'a pas. Mais **on peut distille
 **Les lubrifiants sont l'autre pénurie cachée** : sans huile, aucune machine ne tourne longtemps. Ils viennent des huiles de goudron, du **suif de mouton** (l'immense cheptel sarde) et de l'**huile d'olive** de qualité inférieure.
 
 **La synthèse de carburants liquides à partir du charbon** (procédés Bergius ou Fischer-Tropsch) est hors de portée de l'îlot : elle demande hautes pressions, catalyseurs et industrie chimique.
+
+## 6 bis. L'éclairage : la bougie, l'huile et le gaz [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **pour une large partie de la population, on revient aux simples bougies et aux lampes à huile.** L'électricité est réservée à ce qui ne peut pas s'en passer.
+
+**Qui a l'électricité** [canon provisoire] : les hôpitaux, le laboratoire, la radio, les ateliers, les mines, le Conseil et les écoles du soir ; à Cagliari, quelques rues et les lieux de veillée commune. Le reste de l'île s'éclaire comme au XIXᵉ siècle.
+
+| Moyen | D'où il vient | Pour qui |
+|---|---|---|
+| **La chandelle de suif** | Le **suif de mouton** de l'immense cheptel sarde, qui sert aussi de lubrifiant (§6) | La plupart des foyers : c'est la lumière ordinaire de l'îlot |
+| **La bougie de cire** | Les ruches de l'île : peu de cire, donc chère | Les églises, l'hôpital, les salles d'opération de secours |
+| **La lampe à huile** | L'**huile d'olive** de qualité inférieure et l'huile de grignons ; l'**huile de lentisque**, que les Sardes tiraient des baies du lentisque pour la lampe et la cuisine [histoire 🔎] ; l'huile de poisson des madragues | Les maisons, les bergeries, les bords de terre |
+| **La lampe à carbure** | Le carbure de calcium fabriqué à Cagliari pour la découpe des navires ([26](26-provence.md) §6) | Les mines, les ateliers, la pêche de nuit |
+| **Le gaz de houille** | La distillation du charbon du Sulcis (§4, §6) | Les rues et les bâtiments publics de Cagliari et de Carbonia, si l'usine à gaz tourne 🔎 |
+| **Le pétrole lampant** | La distillerie de Vlorë, à partir de 1952 ([34](34-avant-poste-d-albanie.md) §5) | D'abord les bords et les postes de garde ; une **lampe à pétrole par foyer** devient, vers 1958, l'un des signes de la prospérité revenue |
+
+**La veillée commune** : chaque bord de terre a une salle éclairée le soir, où l'on lit, coud, répare et fait l'école des adultes. C'est moins une mesure d'économie qu'un trait de la société de bord : la lumière se partage comme le grain ([13](13-societe-de-bord.md)).
 
 ## 7. Le bouquet énergétique de l'îlot
 

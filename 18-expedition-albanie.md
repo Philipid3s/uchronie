@@ -25,12 +25,12 @@ Ces chiffres confirment l'ordre de grandeur posé au chapitre 15 (moins de 5 % d
 | Navire | Type | Propulsion | Vitesse | Équipage | Rôle |
 |---|---|---|---|---|---|
 | ***Georges Leygues*** | Croiseur léger de 1936 (classe *La Galissonnière*), devenu **croiseur charbonnier** ([15](15-energie.md) §5). **Caréné à Malte en 1949** | Chaufferie avant au charbon du Sulcis (croisière) ; chaufferie arrière au mazout (vitesse) | 12-14 nœuds au charbon ; plus de 25 nœuds pendant quelques heures avec le mazout | ~420 | Chef d'expédition, escorte, artillerie, radio, hôpital de bord, distillation d'eau douce |
-| **Le cargo** | Vapeur de ~3 500 tpl, réquisitionné en 1940 et repassé au charbon en 1942-44 ([12](12-flottes-survivantes.md) §5) [identité à décider] | Chaudières écossaises au charbon | 9 nœuds : c'est lui qui fixe l'allure du convoi | ~35 | Matériel du chantier, charbon du chantier, vivres, marchandises d'échange, fusiliers et équipes techniques |
-| **Le pétrolier** | Pétrolier de flotte de la Royal Fleet Auxiliary venu de Gibraltar en 1940 ([12](12-flottes-survivantes.md) §2), ~10 000 tpl [identité à documenter] | Vapeur, chaudières au mazout | ~10 nœuds | ~50 | Rapporter le brut. **Ses pompes de cargaison et ses serpentins de réchauffage** servent aussi au chantier |
+| **Le cargo** | Le ***Har Zion*** [histoire : vapeur construit au Danemark en 1907, 2 478 tjb, 3 285 tpl ; à Gibraltar le 1er juillet 1940, où il a amené des évacués de Marseille], réquisitionné en 1940 ([12](12-flottes-survivantes.md) §5) | Machine à triple expansion, chaudières au charbon 🔎 | 11 nœuds neuf, 9 nœuds en 1950 : c'est lui qui fixe l'allure du convoi | ~35 | Matériel du chantier, charbon du chantier, vivres, marchandises d'échange, fusiliers et équipes techniques |
+| **Le pétrolier** | Le ***San Adolfo*** (Eagle Oil & Shipping, 1935), pétrolier marchand venu de Gibraltar en 1940 ([12](12-flottes-survivantes.md) §2), 11 335 tpl [histoire] | **Moteur Diesel** ; une chaudière auxiliaire pour les pompes et le réchauffage de la cargaison | ~10 nœuds | ~50 | Rapporter le brut. **Ses pompes de cargaison et ses serpentins de réchauffage** servent aussi au chantier |
 
-**Pourquoi le pétrolier n'est pas converti au charbon** : sa conversion prendrait un an et mangerait de la place dans ses citernes. Le Conseil préfère dépenser une centaine de tonnes de la réserve. **Au retour, il brûle le brut d'Albanie** dans ses chaudières, après des essais au mouillage : le brut de Kuçova est lourd et contient peu de fractions légères ([15](15-energie.md) §3 ter).
+**Pourquoi le pétrolier n'est pas converti au charbon** : c'est un navire à moteur Diesel ; on ne le convertit pas. Le Conseil préfère dépenser une centaine de tonnes de la réserve pour son premier voyage. **Au retour**, sa chaudière auxiliaire brûle le brut d'Albanie, après des essais au mouillage, et ses moteurs marchent ensuite sur la coupe distillée à Cagliari ([29](29-flotte-des-annees-1950.md) §4.3) : le brut de Kuçova est lourd et contient peu de fractions légères ([15](15-energie.md) §3 ter).
 
-**🔎 À vérifier** : plusieurs pétroliers de la RFA de 1940 (classe *Dale*) étaient des **navires à moteur Diesel**. Si le pétrolier de l'îlot en est un, son appoint vient des huiles de goudron de Carbonia et du gazole restant, et non du mazout ; le bilan du §4 change peu.
+**🔧 À vérifier** : les moteurs lents du *San Adolfo* acceptent-ils un fioul léger, ou faut-il une vraie coupe de gazole ? À défaut, l'appoint vient des huiles de goudron de Carbonia ([15](15-energie.md) §6) ; le bilan du §4 change peu.
 
 **Ce qui ne part pas** [canon] : ni escorte supplémentaire, ni sous-marin. Les avisos charbonniers restent à la garde des côtes. Le *Volta* reste en réserve à Cagliari.
 
@@ -145,6 +145,12 @@ Le retour obligatoire par l'Asinara ([14](14-epidemie.md) §5.6) allonge la rout
 **L'eau douce** : ~4 t par jour pour l'expédition. Le *Georges Leygues* la produit avec ses bouilleurs, et l'on remplit les caisses à La Valette.
 
 **La place restante** dans le cargo sert au retour : fûts de brut, pièces trouvées à Vlorë, livres, cartes et documents de l'ancienne société pétrolière italienne.
+
+### Avril 1950 : l'arrivée à La Valette [illustration]
+
+![Le Georges Leygues entre dans le Grand Harbour de La Valette en avril 1950, suivi du cargo et du pétrolier](illustrations/georges-leygues-la-valette-1950.png)
+
+*Peinture de marine réaliste. Le* Georges Leygues *entre dans le Grand Harbour, suivi du* Har Zion *et du* San Adolfo. *La fumée noire est celle du charbon du Sulcis ; dans le port, des épaves de 1942-43 et le tas du dépôt de charbon.* **Écarts** : le navire porte des tourelles doubles, alors que le vrai *Georges Leygues* avait trois tourelles triples de 152 mm (deux à l'avant, une à l'arrière) ; le pavillon tricolore n'est pas celui de l'Îlot, qui reste à décider ([09](09-questions-ouvertes.md) B10).
 
 ## 5 ter. Les survivants maltais et la peur de la contagion [canon : principe ; provisoire : détail]
 
@@ -381,9 +387,9 @@ Il rend compte à Cagliari par radio, en message chiffré, et reprend la route d
 3. 🔎 **Louis Collinet** : vérifier ses dates (1892-1949 ?) et sa carrière (§3 bis).
 3 bis. ❓ **Le commandant de la garnison de Sazan** et le nom du poste (§10).
 3 ter. ❓ **Après la rencontre ionienne** (§7.5) : date et contenu du premier échange radio direct avec la Crète ; décision du Conseil sur les retrouvailles ; port d'attache et patron du caïque ; qui signe le pli de Souda.
-4. ❓ **L'identité du cargo** et du pétrolier.
+4. ✅ **L'identité du cargo** et du pétrolier : le ***Har Zion*** et le ***San Adolfo***, présents à Gibraltar le 1er juillet 1940 (décision de l'auteur, §2).
 5. 🔎 Capacité des cuves du terminal de Vlorë et de l'oléoduc Kuçova – Vlorë en 1940 ; propriétés du brut de Kuçova (densité, soufre, point d'écoulement).
-6. 🔎 Pétroliers de la RFA à Gibraltar en juillet 1940 : vapeur ou Diesel (§2).
+6. ✅ Aucun pétrolier de la RFA à Gibraltar le 1er juillet 1940 ; le *San Adolfo* est un pétrolier marchand à moteur Diesel (§2).
 7. 🔎 **Sazan en 1940** : ouvrages italiens, batteries côtières, citernes, sources d'eau (§10).
 
 ## 10. Sazan, base fortifiée [canon : principe ; provisoire : détail]

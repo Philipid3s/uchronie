@@ -1,6 +1,6 @@
 # 19 — Le savoir : le Conseil scientifique, la bibliothèque, l'hôpital et le laboratoire
 
-> **Statut** : chapitre en cours de rédaction, section par section (§3, dont la montée du savoir après la réouverture, et §4 rédigés).
+> **Statut** : chapitre en cours de rédaction, section par section (§3 à §5 rédigés : le Conseil scientifique et ses savants, le registre des savoirs, les hôpitaux, l'école de médecine, le laboratoire, le Conservatoire).
 
 ## 1. Décisions de l'auteur [canon]
 
@@ -8,7 +8,12 @@
 - **Les ingénieurs et les scientifiques sont prioritaires** parmi les immigrés.
 - Il faut **recenser, conserver et transmettre tout le savoir de l'humanité**.
 - **L'hôpital et le savoir médical** sont une autre priorité.
-- Un **laboratoire biomédical** est lui aussi prioritaire.
+- Un **laboratoire biomédical** est lui aussi prioritaire. **Sa mission** : l'étude des virus et des bactéries, prioritaire après la Morìa, et la mise au point de vaccins. **Son responsable est un Italien**, issu du personnel médical présent dans l'île en 1940 (§4.2).
+- **Lister tous les savants possibles** : ceux de la Sardaigne, de la flotte, du Sud de la France, et ceux qu'on trouve à Malte ou en Albanie vers 1950 (§3.6).
+- **Tout candidat à l'immigration** qui a un **diplôme d'ingénieur, de médecin ou un doctorat scientifique** est **prioritaire** (§3.7).
+- **Un recensement des savoirs, avec un registre.** Tous les savoirs comptent, et d'abord **les savoirs agricoles et artisanaux**, essentiels à l'autosuffisance de l'île (§3.8).
+- **Une école de médecins et d'infirmières** est créée dans l'île (§4.3).
+- **Une industrie du papier** est développée, et un **Conservatoire de l'Îlot** est créé : il a pour tâche de **recueillir tout le savoir de l'humanité** (§5).
 
 ## 2. Ce que la bible dit déjà
 
@@ -26,20 +31,21 @@
 
 - **Automne 1940**, par ordonnance du Conseil des Amiraux, peu après l'Inscription générale (août 1940, [13](13-societe-de-bord.md) §2).
 - Il naît du **Comité civil consultatif** ([11](11-ilot-de-civilisation.md) §8), dont il reprend les membres savants : le recteur de l'université de Cagliari et le médecin-chef de l'hôpital.
-- **Le président** est le **recteur de l'université de Cagliari** [à nommer].
+- **Le président** est le **recteur de l'université de Cagliari**, le professeur **Giuseppe Brotzu** [histoire : né à Cagliari en 1895, recteur de 1936 à 1945, directeur de l'Institut d'hygiène depuis 1934 ; hygiéniste, il a dirigé les dispensaires antipaludiques de la ville dès 1919]. Il a 45 ans en 1940 : c'est l'un des rares savants de l'île qui traverse toute la période (il meurt en 1976 dans notre histoire).
+- **Sa place en juillet 1940** [canon provisoire] : recteur nommé sous le régime, il se range du côté de l'amiral Sportiello et du camp du Roi lors de la scission ([10](10-choix-du-refuge.md) §9 ter). Il se présente lui-même comme « un technicien, non un politique ». Cette mémoire lui sera reprochée par certains Sardes, jamais par le Conseil.
 
 ### 3.2 Composition [canon provisoire]
 
 | Siège | Titulaire |
 |---|---|
-| **Président** | Le recteur de l'université de Cagliari |
-| **Médecine** | Le médecin-chef de l'hôpital de Cagliari, et un médecin de marine |
+| **Président** | **Giuseppe Brotzu**, recteur de l'université de Cagliari [histoire] ; il dirige aussi le laboratoire (§4.2) |
+| **Médecine** | Le médecin-chef de l'hôpital de Cagliari [à nommer], et un médecin de marine : le médecin en chef **Antoine Ferrandi** [personnage inventé], du *Provence* ([26](26-provence.md) §2) |
 | **Mines et énergie** | L'ingénieur en chef des mines de Carbonia |
 | **Machines** | Un ingénieur mécanicien de la flotte |
 | **Agronomie** | Un agronome |
 | **Secrétaire** | Le conservateur de la bibliothèque de l'Îlot |
 
-Les titulaires sont à nommer. Le Conseil peut s'adjoindre des experts selon les sujets.
+Les autres titulaires sont à nommer, parmi les savants du §3.6. Le Conseil peut s'adjoindre des experts selon les sujets.
 
 ### 3.3 Un rôle consultatif [canon]
 
@@ -77,7 +83,69 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 
 **Une tension qui demeure** : les militaires restent au Conseil des Amiraux, et la société reste une société de bord. Le partage des ressources entre la flotte et le savoir est un débat permanent des années 1950.
 
-## 4. Où soigner : les hôpitaux et le laboratoire [canon]
+### 3.6 Le vivier des savants [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : il faut **lister tous les savants possibles** : ceux qui sont en Sardaigne en 1940, ceux de la flotte, ceux du Sud de la France qui ont pu fuir vers l'îlot, et ceux qu'on trouve à Malte ou en Albanie vers 1950. Cette liste est la première tâche du Conseil scientifique ; elle devient le noyau du registre des savoirs (§3.8).
+
+| Origine | Arrivée | Qui [histoire, sauf mention] | Noms retenus |
+|---|---|---|---|
+| **L'université de Cagliari** | Sur place en 1940 | Les facultés de médecine, de pharmacie, de sciences, de droit et de lettres ; l'ingénierie des mines et la faculté d'éducation, créées sous le rectorat de Brotzu ; la Bibliothèque universitaire | **Giuseppe Brotzu** (hygiène, recteur) ; **Antonio Spanedda**, son élève et collaborateur [histoire] ; les autres professeurs [à nommer 🔎] |
+| **Les mines du Sulcis et l'école d'Iglesias** | Sur place | Les ingénieurs de Carbonia et de l'Iglesiente, géologues, chimistes ; les maîtres de l'école des mines ([30](30-formation-technique.md) §5) | L'ingénieur en chef de Carbonia [à nommer] |
+| **Les hôpitaux et les médecins sardes** | Sur place | San Giovanni di Dio, les médecins de ville et de campagne, les pharmaciens ; les médecins des dispensaires antipaludiques | Le médecin-chef de l'hôpital [à nommer] |
+| **La Regia Marina** | Sur place | Médecins de marine, ingénieurs du *Genio Navale* de Cagliari et de La Maddalena, hydrographes, radios | — |
+| **La Force de Raid (Oran)** | Juillet 1940 | Médecins de marine, ingénieurs mécaniciens, hydrographes, officiers radio ; **les médecins et les infirmières d'Oran** embarqués avec les familles ([26](26-provence.md) §2) | **Antoine Ferrandi** [inventé] ; **Yves Kerlann**, météorologue de 1941 à 1949 [inventé] ([20](20-capacites-aeronavales.md) §4.5) |
+| **La Force H et Gibraltar** | Juillet 1940 | Médecins de la Royal Navy et du Royal Army Medical Corps, **Royal Engineers**, électriciens et artificiers, officiers techniques de la Fleet Air Arm | — |
+| **Toulon** | Août 1940, puis printemps 1944 ([33](33-toulon.md)) | Les **ingénieurs du Génie maritime** de l'arsenal ; les médecins de l'**hôpital Sainte-Anne** et de l'école d'application du Service de santé de la Marine 🔎 ; des professeurs et des étudiants réfugiés de Marseille et d'Aix | — |
+| **Bizerte** | 1940-1941 ([16](16-contacts-radio.md) §4) | Les ingénieurs et les contremaîtres de l'arsenal de **Ferryville** ; peut-être un ou deux chercheurs de l'**Institut Pasteur de Tunis** 🔎, recueillis avec la première vague | — |
+| **La Corse** | 1940-1941, puis 1955-1959 | Médecins de campagne, instituteurs, pharmaciens | — |
+| **Malte et Gozo** | À partir de 1949 | Peu de savants vivants ; mais **des livres** : les bibliothèques de La Valette et de l'université de Malte 🔎 (§5) | — |
+| **L'Albanie** | 1950 | Les **techniciens pétroliers italiens** restés en 1940 ([34](34-avant-poste-d-albanie.md) §3) | **Aldo Ferretti**, **Gino Sartori** [inventés] |
+| **Les expéditions de recueil** | 1955-1960 ([21](21-demographie.md) §4.5) | Rares : un médecin ou un instituteur par expédition, au mieux. Chacun est une prise de premier rang | — |
+
+**Ce que montre la liste** : l'îlot est riche en **ingénieurs** et en **médecins** (la flotte en emporte beaucoup), pauvre en **chercheurs** des sciences fondamentales (physique, chimie, biologie) et presque sans **agronomes** : d'où le poids du savoir paysan dans le registre (§3.8).
+
+### 3.7 La priorité des savants dans l'accueil [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **tout candidat à l'immigration qui a un diplôme d'ingénieur, de médecin, ou un doctorat scientifique est prioritaire.**
+
+**La règle des diplômes** [canon provisoire] :
+- **Hors quota** : en 1940-41, les diplômés corses sont admis en plus du quota mensuel ([11](11-ilot-de-civilisation.md) §1 bis) ; l'accueil des dotées et les expéditions de recueil des années 1950 ([21](21-demographie.md) §4.4 et §4.5) appliquent la même règle.
+- **Pas d'exemption de quarantaine** : un médecin fait ses quarante jours à l'Asinara comme tout le monde ; il y sert souvent, d'ailleurs, au lazaret.
+- **L'examen des diplômes** : la plupart arrivent sans papiers. Une commission du Conseil scientifique les **interroge** sur leur métier ; le diplôme est reconnu sur examen.
+- **Priorité d'admission, pas de grade** : le diplômé entre plus vite, mais il est inscrit comme tout le monde. Il est **officier assimilé à l'essai**, puis titularisé au mérite ([13](13-societe-de-bord.md) §4). C'est la réponse de l'îlot au reproche de privilège : le diplôme ouvre la porte, il ne donne pas la place.
+- **Les expéditions ont une consigne** : chercher, parmi les survivants, les médecins, les ingénieurs et les maîtres d'école, et leur offrir le passage en premier.
+
+**Les tensions** : les Sardes de l'intérieur, qui attendent leur tour, voient passer des étrangers diplômés. Le Conseil répond par la règle du mérite et par le registre, qui reconnaît aussi leurs propres savoirs (§3.8).
+
+### 3.8 Le registre des savoirs [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **un recensement des savoirs, avec un registre. Tous les savoirs sont importants**, et d'abord les **savoirs agricoles et artisanaux**, essentiels à l'autosuffisance de l'île.
+
+**Le principe** : le registre est **adossé à l'Inscription générale** ([13](13-societe-de-bord.md) §2). Chaque inscrit y déclare, en plus de son bord et de son grade, **ce qu'il sait faire**.
+
+| Ce qu'on recense | Exemples |
+|---|---|
+| **Les diplômes et les sciences** | Médecine, pharmacie, ingénierie, chimie, géologie, enseignement |
+| **Les métiers de la flotte** | Machines, électricité, radio, navigation, artillerie, plongée |
+| **Les savoirs paysans** | Labour, semences, greffe, taille, irrigation, élevage et transhumance, fromage, laine, lin, apiculture, charbon de bois |
+| **Les savoirs artisanaux** | Forge, charronnage, tonnellerie, vannerie, poterie, tannerie, cordonnerie, tissage, maçonnerie à la chaux, meunerie |
+| **Les savoirs de la mer** | Pêche, madragues de Carloforte et de Portoscuso, salaison, construction de barques, voile |
+| **Les langues** | Pour les interprètes et la traduction des manuels ([30](30-formation-technique.md) §7) |
+
+**Le calendrier** [canon provisoire] :
+- **Août 1940** : une simple colonne « métier » dans l'Inscription générale.
+- **1943** : **le grand recensement des savoirs**, la même année que celui des manuels techniques ([30](30-formation-technique.md) §7) et que l'accord de Bonaria ([22](22-organisation-militaire.md)). Chacun est interrogé par un greffier de son bord.
+- **À partir de 1950** : mise à jour à chaque recensement ; chaque arrivant y passe à sa sortie de l'Asinara.
+
+**À quoi il sert** :
+- **Trouver celui ou celle qui sait** : en cas de panne, d'épidémie ou de chantier, le Conseil sait qui appeler.
+- **Les maîtres de savoir** : celui qui est seul à savoir faire une chose (un tonnelier, un vannier, un maître de madrague) devient **maître de savoir** ; il reçoit des apprentis et une ration de maître, pour que son savoir ne meure pas avec lui.
+- **Les *Cahiers des métiers*** : à partir de 1950, les élèves du Collège et les greffiers vont écouter les anciens, paysans, bergers et artisans, et **mettent par écrit** ce qu'ils savent. C'est le pendant paysan des *Cahiers techniques* ([30](30-formation-technique.md) §7) ; ils sont gardés au Conservatoire (§5).
+- **Préparer les formations** : le registre montre les savoirs qui vieillissent sans relève.
+
+**Où il est gardé** : en deux copies, au Conservatoire (§5) et dans les archives du *Dunkerque* ([23](23-dunkerque-siege-du-conseil.md) §7), selon la règle de la double copie.
+
+## 4. Où soigner : les hôpitaux, l'école de médecine et le laboratoire [canon]
 
 **Validé par l'auteur** : les emplacements ci-dessous sont canon. Les points marqués [à documenter] ou [à vérifier] restent à confirmer historiquement.
 
@@ -106,13 +174,63 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 
 **L'autre option écartée** : un laboratoire isolé à l'écart de la ville. On l'écarte parce que les médecins, l'électricité et les livres sont à Cagliari.
 
-## 5. Questions ouvertes
+**Les missions** [canon : décision de l'auteur ; provisoire : détail] :
+- **L'étude des virus et des bactéries**, prioritaire après la Morìa : identifier les germes, suivre la peste chez les rongeurs ([14](14-epidemie.md) §2), surveiller la typhoïde, la tuberculose et les fièvres.
+- **Les vaccins et les sérums** : le **vaccin contre la variole**, sur génisse, à la manière du XIXᵉ siècle [histoire : c'est le plus simple à produire] ; un **vaccin contre la peste** tué par la chaleur, du type Haffkine [histoire], puis un vaccin vivant atténué si le laboratoire y parvient 🔧 ; le vaccin contre la typhoïde ; le traitement de la rage.
+- **Les analyses** pour l'hôpital et la quarantaine : examens de sang, de crachats, d'eau.
+- **L'enseignement** : la microbiologie et l'hygiène pour les élèves de l'école de médecine (§4.3).
 
-1. ❓ **Le Conseil scientifique** : noms du président et des membres (§3.2). Son statut évolue-t-il dans les années 1950 (avis obligatoire, siège au Conseil des Amiraux), ou reste-t-il consultatif, avec une influence de fait (§3.5) ?
-2. ❓ **La priorité du savoir dans l'accueil** : comment s'articule-t-elle avec le quota mensuel des réfugiés corses (1940-41), les rescapés de Bizerte, la quarantaine de l'Asinara et les expéditions de la réouverture ? Quelles tensions avec les Sardes et avec le principe du mérite ([13](13-societe-de-bord.md) §4 bis) ?
-3. ❓ **Le recensement des savoirs** : un registre adossé à l'Inscription générale ? Inclut-il les savoir-faire paysans et artisanaux ?
-4. ❓ **La conservation** : où garder les livres, combien de copies, comment refaire du papier ?
+**Le responsable** [canon : un Italien du personnel médical de 1940 ; provisoire : le nom] : **Giuseppe Brotzu** dirige le laboratoire, comme il dirigeait l'Institut d'hygiène, avec son élève **Antonio Spanedda** [histoire] comme chef de laboratoire. Brotzu préside aussi le Conseil scientifique (§3.1) ; Spanedda prend la direction effective dans les années 1950.
+
+**La découverte de Su Siccu** [canon : décision de l'auteur ; provisoire : détail] : **dans notre histoire**, Brotzu prélève des moisissures dans l'eau de mer polluée de **Su Siccu**, à l'est du port de Cagliari ; le 20 juillet 1945, avec Spanedda, il isole un champignon, *Cephalosporium acremonium*, qui tue le bacille de la typhoïde. C'est l'origine des **céphalosporines** [histoire]. Faute d'appui en Italie, il envoie la souche à Oxford, où d'autres en tirent le médicament. **Dans l'uchronie**, il n'y a ni Rome ni Oxford : la découverte, faite à quelques centaines de mètres du *Dunkerque*, **reste dans l'île**. Le laboratoire en tire, à petite échelle, un antibiotique brut, essayé sur les typhiques de San Giovanni di Dio à partir de 1947 (comme dans notre histoire). C'est le **premier médicament de l'îlot**, et la meilleure preuve que le savoir ne sert pas qu'à conserver.
+
+### 4.3 L'école de médecine et d'infirmières [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **une école pour la formation des médecins et des infirmières** est établie dans l'île.
+
+**Le besoin** [estimation] : vers 1960, l'îlot compte ~77 000 habitants. Avec un médecin pour 1 000 habitants et une infirmière pour 250, il lui faut **~75 médecins et ~300 infirmières**. Les médecins de 1940 vieillissent : il faut en former **8 à 12 par an** à partir du début des années 1950.
+
+**Le modèle** [histoire] : avant la guerre, les élèves de l'École du service de santé de la Marine, à Bordeaux, suivaient les cours de la faculté de médecine de la ville et recevaient leur formation militaire à l'École. L'îlot fait de même : **la faculté de médecine de Cagliari**, qui existe en 1940, forme les médecins ; l'**École navale** leur donne le rang d'officier assimilé ([13](13-societe-de-bord.md) §4 quater).
+
+| Période | Médecins | Infirmières |
+|---|---|---|
+| **1940 – 1943** | Pas de nouvelle promotion : les étudiants de 1940 finissent leurs études au lit des malades, sur le *Provence* et l'*Ark Royal* | **Cours d'infirmières de bord**, sur le tas, pour les volontaires, surtout des femmes d'Oran et de Cagliari |
+| **À partir de 1944** | **Reprise des cours de la faculté** à San Giovanni di Dio, devenu l'Hôpital de l'Îlot ; six ans d'études ; **premiers médecins formés dans l'îlot en 1950** | **École d'infirmières de l'Îlot**, à l'Hôpital : deux ans d'études ; ~30 à 40 diplômées par an |
+| **À partir de 1952** | 8 à 12 médecins par an ; stages dans les hôpitaux de secteur, à la Zone et au lazaret de l'Asinara | Une infirmière par bord ; l'**École de sages-femmes** s'y ajoute ([21](21-demographie.md) §4.6) |
+
+**La langue** : les cours sont donnés **en anglais**, la langue d'enseignement de l'îlot ([30](30-formation-technique.md) §4), avec des manuels traduits et copiés par le Conservatoire (§5).
+
+## 5. Le Conservatoire de l'Îlot : recueillir le savoir de l'humanité [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **une industrie du papier est développée dans l'île** ([30](30-formation-technique.md) §7 bis), et **un conservatoire-bibliothèque est créé**. Il a pour tâche de **recueillir tout le savoir de l'humanité**.
+
+**De la bibliothèque au Conservatoire** [canon provisoire] :
+- **1940** : la **bibliothèque de l'Îlot** réunit la Bibliothèque universitaire de Cagliari, les bibliothèques de bord et les manuels techniques ([11](11-ilot-de-civilisation.md) §8). Son conservateur est le secrétaire du Conseil scientifique (§3.2).
+- **1950** : à la réouverture, une ordonnance du Conseil des Amiraux en fait le **Conservatoire de l'Îlot**, avec sa mission : **recueillir, conserver, copier et transmettre** tout le savoir de l'humanité.
+
+**Recueillir** :
+- **La consigne des livres** : toute expédition rapporte les livres qu'elle trouve, d'abord ceux de médecine, de technique et d'agriculture. Les grandes moissons : **La Valette** (1949-1950 : bibliothèques de la ville et de l'université de Malte 🔎), **Toulon** (1953 : bibliothèque de la Marine et de l'hôpital Sainte-Anne 🔎), les villes mortes de la côte tyrrhénienne (1958-1960).
+- **Les savoirs vivants** : le registre et les *Cahiers des métiers* (§3.8).
+
+**Conserver et copier** :
+- **L'ordre des copies** : médecine, agriculture, techniques, sciences, puis l'histoire, les lois et les lettres.
+- **La règle des trois copies** : un exemplaire au Conservatoire, un dans les archives du *Dunkerque* ([23](23-dunkerque-siege-du-conseil.md) §7), un troisième dans la liste du Plan de l'Arche ([27](27-strasbourg.md) §5) ; c'est la règle des *Cahiers techniques* ([30](30-formation-technique.md) §7) étendue à tous les livres essentiels.
+- **Les copistes** : un atelier de dactylographes copie au carbone ; l'Imprimerie de l'Îlot tire les ouvrages les plus demandés.
+- **La conservation** : des salles sèches et ventilées, des reliures refaites en cuir de mouton, la chasse aux insectes et à l'humidité.
+
+**Le papier** : jusqu'en 1956, le Conservatoire passe après les registres et les archives dans la règle du papier ([30](30-formation-technique.md) §7 bis) ; la papeterie de 1956 lui ouvre enfin la copie en grand.
+
+**Le lieu** [à décider] : la Bibliothèque universitaire de Cagliari, dans le vieux palais de l'université 🔎, ou un bâtiment du quartier du Conseil à Su Siccu ([23](23-dunkerque-siege-du-conseil.md)).
+
+
+## 6. Questions ouvertes
+
+1. ❓ **Le Conseil scientifique** : le président est décidé (**Giuseppe Brotzu**, §3.1). Restent les autres membres (§3.2, à choisir dans le vivier du §3.6). Son statut évolue-t-il dans les années 1950 (avis obligatoire, siège au Conseil des Amiraux), ou reste-t-il consultatif, avec une influence de fait (§3.5) ?
+2. ✅ **La priorité du savoir dans l'accueil** : les diplômés (ingénieurs, médecins, docteurs en sciences) sont prioritaires ; priorité d'admission, pas de grade (décision de l'auteur, §3.7).
+3. ✅ **Le recensement des savoirs** : un registre, adossé à l'Inscription générale, qui inclut les savoirs agricoles et artisanaux (décision de l'auteur, §3.8).
+4. ✅ **La conservation** : le Conservatoire de l'Îlot et l'industrie du papier (décision de l'auteur, §5). ❓ Reste le bâtiment du Conservatoire.
 5. ✅ **La transmission** : pour les techniciens et les ingénieurs, voir [30](30-formation-technique.md) (École technique de l'Îlot, école des mines d'Iglesias, faculté d'ingénieurs, *Cahiers techniques de l'Îlot*). Reste la formation des maîtres d'école.
-6. ❓ **L'hôpital** : les lieux sont décidés (§4.1). Reste la formation des médecins et des infirmières. Pour les sages-femmes, une **École de sages-femmes** à l'Hôpital de l'Îlot et une sage-femme par bord découlent de la politique des naissances ([21](21-demographie.md) §4.6).
-7. ❓ **Le laboratoire biomédical** : le lieu est décidé (§4.2). Restent les responsables et les missions générales.
-8. 🔎 **À documenter** : l'hôpital San Giovanni di Dio en 1940 (capacité) ; les hôpitaux de Carbonia et de La Maddalena en 1940 ; l'emplacement des instituts de l'université ; fonds de la Bibliothèque universitaire de Cagliari en 1940 ; facultés de l'université de Cagliari en 1940 ; nombre de médecins en Sardaigne en 1940.
+6. ✅ **L'hôpital** : une école de médecins et d'infirmières (décision de l'auteur, §4.3). Pour les sages-femmes, une **École de sages-femmes** à l'Hôpital de l'Îlot et une sage-femme par bord découlent de la politique des naissances ([21](21-demographie.md) §4.6).
+7. ✅ **Le laboratoire biomédical** : virus, bactéries et vaccins ; un responsable italien du personnel médical de 1940, Giuseppe Brotzu, avec Antonio Spanedda (décision de l'auteur, §4.2). ✅ La découverte de la céphalosporine à Su Siccu (1945) reste dans l'île : premier médicament de l'îlot (décision de l'auteur).
+8. ❓ **Les savants à nommer** (§3.6) : les professeurs de l'université de Cagliari en 1940, les ingénieurs de Carbonia, les médecins d'Oran, les ingénieurs de Ferryville.
+9. 🔎 **À documenter** : l'hôpital San Giovanni di Dio en 1940 (capacité) ; les hôpitaux de Carbonia et de La Maddalena en 1940 ; l'emplacement des instituts de l'université ; fonds de la Bibliothèque universitaire de Cagliari en 1940 ; facultés et corps enseignant de l'université de Cagliari en 1940 (*Annuario* 1940-41) ; nombre de médecins en Sardaigne en 1940 ; Institut Pasteur de Tunis en 1940 ; bibliothèques de La Valette et de la Marine à Toulon en 1940.

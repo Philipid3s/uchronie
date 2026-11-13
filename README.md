@@ -8,7 +8,7 @@
 
 **« L'Îlot »** : la Sardaigne est une grande île, pas un îlot. Le nom vient de l'expression **« îlot de civilisation »**, réduite à « l'Îlot » dans les institutions ; il désigne la société inscrite au rôle, longtemps plus petite que l'île elle-même ([11](11-ilot-de-civilisation.md) §0).
 
-Ton : **étude documentée « hard science »**. Les récits sont suspendus pour la v3.
+Ton : **étude documentée « hard science »**. Les récits sont suspendus pour la v3 : **le récit, l'aspect romanesque, commencera après la finalisation de la première édition de la bible** (1940-1960).
 
 ## Décisions arrêtées par l'auteur
 
@@ -90,6 +90,7 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 | [33-toulon.md](33-toulon.md) | Toulon : pourquoi la flotte ne rentre pas (« Ne venez pas »), l'enclave de l'arsenal (1940-1944), les deux départs vers la Sardaigne, la garnison de 1956 |
 | [34-avant-poste-d-albanie.md](34-avant-poste-d-albanie.md) | L'avant-poste d'Albanie : le pétrole albanais en 1940, la chefferie de Narta et l'accord de 1950, la remise en état des puits et de l'oléoduc, la distillerie de Vlorë, les trois postes de la garnison (Sazan, terminal, Kuçova) |
 | [cartes/index.html](cartes/index.html) | **Atlas de l'Îlot**, treize planches interactives : impacts de Rambouillet et du Pacifique, Méditerranée, Sardaigne, Cagliari (le Conseil, les navires, la défense, l'hôpital, l'université, la radio, avec un cartouche du centre historique), Malte (l'enclave des Trois Cités, les docks, Gozo, avec un cartouche du Grand Harbour), routes de l'îlot 1940-1960, expédition d'Albanie, mazout, population, pyramide des âges, métiers de 1950 ([version en ligne](https://philipid3s.github.io/uchronie/)) |
+| [illustrations/](illustrations/) | **Illustrations** générées, dans le style des encyclopédies des années 1980 : coupe de l'*Ark Royal* en 1946 ([25](25-ark-royal.md)), coupe du *Strasbourg* en 1951 ([27](27-strasbourg.md)), le *Georges Leygues* à La Valette en 1950 ([18](18-expedition-albanie.md)), la rade de Cagliari en 1955 ([23](23-dunkerque-siege-du-conseil.md)). Chacune est légendée dans son chapitre, avec ses écarts au canon |
 | [annexes/resultats_calculs.md](annexes/resultats_calculs.md) | Sortie brute du modèle physique |
 | [annexes/sources.md](annexes/sources.md) | Bibliographie |
 | [calculs/impact_effects.py](calculs/impact_effects.py) | Script de calcul |
@@ -104,7 +105,8 @@ Ton : **étude documentée « hard science »**. Les récits sont suspendus pour
 
 ```
 README.md            présentation, décisions arrêtées, index (ce fichier)
-01-…32-*.md          chapitres de la bible
+01-…34-*.md          chapitres de la bible
+illustrations/       images générées, légendées dans les chapitres
 annexes/             sorties brutes des scripts, bibliographie
 calculs/             scripts Python (modèles physiques, démographie, radio, expédition)
 cartes/              carte interactive (HTML autonome, s'ouvre dans un navigateur),

@@ -72,6 +72,36 @@
 
 **Les exercices** : une fois par an, à la chauffe d'essai, on fait monter à bord les caisses d'archives et de semences, puis on les redescend.
 
+### Le *Strasbourg* en 1951 : coupe [illustration]
+
+![Coupe du Strasbourg en 1951 : la chauffe d'essai annuelle et l'exercice du Plan de l'Arche](illustrations/strasbourg-cagliari-1951.png)
+
+*Coupe dans le style des encyclopédies des années 1980 : la chauffe d'essai annuelle (§4) et l'exercice du Plan de l'Arche (§5), au mouillage devant Cagliari. En arrière-plan, son jumeau, le* Dunkerque.
+
+| N° | Légende |
+|---|---|
+| 1 | L'avant |
+| 2 | La **tourelle I** (quatre canons de 330 mm), manœuvrée à bras par son équipage (§4) |
+| 3 | La tourelle II : toute l'artillerie principale est à l'avant, comme sur toute la classe *Dunkerque* |
+| 4 | La tour-passerelle |
+| 5 | La cheminée unique : une chaudière allumée pour la chauffe d'essai |
+| 6 | Le ***Dunkerque***, siège du Conseil |
+| 7, 8 | Les **couchettes de l'Arche** : 2 000 places pour une traversée courte (§5) |
+| 9 | Les turbines |
+| 10 | Une turbine **virée à la main** au vireur (§4) |
+| 12 | Manomètres et carnets de vie des machines ([29](29-flotte-des-annees-1950.md) §5) |
+| 13 | La chaudière allumée : **brûleurs à mazout**, flamme derrière le hublot de contrôle |
+| 14 | Tuyauteries de mazout et de vapeur |
+| 15 | Les chaudières **vidées et asséchées**, avec des sacs de **chaux vive** contre l'humidité (§4) |
+| 16 | La soute gardée |
+| 17 | Les **archives** (la seconde copie), les **livres** de la bibliothèque de l'Îlot et les **semences** (§5) |
+| 18 | Les caisses numérotées montent par l'échelle de coupée |
+| 19 | La vedette et les canots du va-et-vient avec la terre |
+| 20 | Les ancres : le navire est **au mouillage** |
+| 21, 22 | Le **câble de terre**, posé sur le fond |
+
+**Écarts au canon** : les turbines sont dessinées à l'avant des chaudières et sous les couchettes, alors que les machines occupent le milieu du navire ; il n'y a pas de n° 11.
+
 ## 6. 1952 : le grand voyage [canon : principe ; provisoire : date et détail]
 
 **Le seul appareillage.** Le *Strasbourg* ne sort qu'une fois de toute la période. C'est un voyage en trois étapes, en 1952, l'année de la **patente de santé** qui rouvre l'île ([14](14-epidemie.md) §5.6).

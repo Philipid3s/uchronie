@@ -131,11 +131,11 @@ En juillet 1940, la Regia Marina est l'une des plus grosses flottes de Méditerr
 
 ### L'alerte de septembre 1940 (option B) [canon provisoire]
 
-- **Le motif** : les miliciens partis d'Olbia et d'Arbatax en juillet ([10](10-choix-du-refuge.md) §9 ter) arrivent à Naples. Ils racontent la « trahison de Cagliari ». Un capitaine de vaisseau fasciste [nom à trouver] et le fédéral rentré de Sardaigne réunissent ce qui peut encore naviguer : **un croiseur léger, trois destroyers et un torpilleur**, avec quelques centaines de miliciens.
+- **Le motif** : les miliciens partis d'Olbia et d'Arbatax en juillet ([10](10-choix-du-refuge.md) §9 ter) arrivent à Naples. Ils racontent la « trahison de Cagliari ». Un capitaine de vaisseau fasciste [nom à trouver] et le fédéral rentré de Sardaigne réunissent ce qui peut encore naviguer : **un croiseur léger, trois destroyers et un torpilleur**, l'***Orione*** (classe *Orsa*, 4ᵉ escadrille de torpilleurs de Naples [histoire]), avec quelques centaines de miliciens.
 - **L'écoute** : la station de l'îlot capte le trafic radio de Naples ([16](16-contacts-radio.md)). Le Conseil est prévenu deux jours avant.
 - **Le 23 septembre 1940, à l'aube** : un Swordfish de l'*Ark Royal* repère la force à une quarantaine de milles du capo Carbonara ([25](25-ark-royal.md)). Le *Hood*, le *Dunkerque* et le *Valiant* poussent les feux dans le golfe ; les destroyers sortent.
 - **La voix de Sportiello** : l'amiral parle en italien, en clair, sur la fréquence de la Marine : *« Vous avez le mazout pour venir ou pour combattre, pas pour les deux. Ici, il y a du pain. »*
-- **Le demi-tour** : la force reste au large toute la journée, hors de portée, puis fait demi-tour à la nuit. **Le torpilleur ne la suit pas** : son commandant met le cap sur Cagliari et rallie l'îlot. Il compte parmi les torpilleurs italiens de l'îlot ([12](12-flottes-survivantes.md) §4), et c'est lui qui deviendra, dans les années 1950, le **navire de garde de Malte** ([29](29-flotte-des-annees-1950.md) §4.4).
+- **Le demi-tour** : la force reste au large toute la journée, hors de portée, puis fait demi-tour à la nuit. **L'*Orione* ne la suit pas** : son commandant met le cap sur Cagliari et rallie l'îlot. Il compte parmi les torpilleurs italiens de l'îlot ([12](12-flottes-survivantes.md) §4), et c'est lui qui deviendra, dans les années 1950, le **navire de garde de Malte** ([29](29-flotte-des-annees-1950.md) §4.4).
 - **La fin** : la force rentre à Naples avec ses dernières tonnes de mazout. Elle ne ressortira jamais. **Aucun coup de canon n'est tiré.**
 
 ### Les sous-marins perdus (option D, 1940 – 1943) [canon provisoire]

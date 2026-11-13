@@ -31,7 +31,7 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 | HMS *Wrestler* | Destroyer (classe V et W) | 1918 | ~130 | ~105 | Garde de Gibraltar | Laissé à Gibraltar (avant-poste), voir [07](07-le-monde-apres.md) §2 bis |
 | HMS *Vidette* | Destroyer (classe V et W) | 1918 | ~130 | ~105 | Garde de Gibraltar | Laissé à Gibraltar |
 | HMS *Vortigern* | Destroyer (classe V et W) | 1917 | ~130 | ~105 | Pêche, remorquage | Désarmé en 1942 |
-| Pétrolier(s) de la Royal Fleet Auxiliary présent(s) à Gibraltar | Pétrolier de flotte | — | — | — | **Capital** : il transporte le mazout du dépôt de Gibraltar vers Cagliari | [à documenter] |
+| ***San Adolfo*** (Eagle Oil & Shipping, 1935) [histoire : arrivé à Gibraltar le 1er juillet 1940, sans doute à vide ; aucun pétrolier de la Royal Fleet Auxiliary n'y est attesté ce jour-là] | Pétrolier marchand à moteur Diesel, 7 365 tjb, 11 335 tpl | — | — | ~45 [estimation] | **Capital** : il transporte le mazout du dépôt de Gibraltar vers Cagliari, puis le brut d'Albanie à partir de 1950 | [historicalrfa.uk](https://historicalrfa.uk/requisitioned-auxiliary-san-adolfo/) |
 | **Sous-total Force H** | **17 bâtiments de combat** | | **~8 000** | **~6 500** | | |
 
 ## 3. France
@@ -48,7 +48,7 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 | ***Mogador*** | Contre-torpilleur | 1937 | ~260 | ~210 | Force mobile rapide | Désarmé en 1943 (consommation trop forte) |
 | ***Volta*** | Contre-torpilleur | 1936 | ~260 | ~210 | Force mobile rapide, **expéditions** | **Gardé en service jusqu'en 1946** |
 | ***Le Terrible*** | Contre-torpilleur | 1933 | ~220 | ~180 | Force mobile | Désarmé en 1944 |
-| ***Kersaint*** | Contre-torpilleur | 1931 | ~220 | ~180 | Patrouille | Désarmé en 1943 |
+| ***Kersaint*** | Contre-torpilleur | 1931 | ~220 | ~180 | Patrouille | Désarmé en 1943 ; **navire de garde de Sazan** dans les années 1950 ([29](29-flotte-des-annees-1950.md) §4.4) |
 | ***Tigre*** | Contre-torpilleur | 1924 | ~200 | ~160 | Patrouille | Désarmé en 1942 |
 | ***Lynx*** | Contre-torpilleur | 1924 | ~200 | ~160 | Patrouille | Désarmé en 1942 |
 | **Sous-total Force de Raid** | **11 bâtiments** | | **~6 950** | **~5 570** | | |
@@ -93,7 +93,8 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 | Unité | Type | Effectif | Origine | Rôle dans l'îlot |
 |---|---|---|---|---|
 | 3 à 5 sous-marins | Sous-marins océaniques et côtiers (classes *Adua*, *Argonauta*, etc.) | ~40 – 55 chacun, ~200 au total | **Le VII Grupsom de Cagliari** (capitaine de frégate Giovanni di Gropello) : l'***Alagi***, l'***Axum*** et l'***Aradam*** (classe *Adua*, 71ª Squadriglia) et le ***Turchese*** (72ª Squadriglia), rentrés de patrouille fin juin et **au port de Cagliari le 1er juillet** [histoire 🔎 : dans notre histoire, ils appareillent le 3 juillet après Mers el-Kébir] ; d'autres en patrouille en Méditerranée occidentale, qui survivent en plongée | **Expéditions longue distance à faible consommation** (diesel), reconnaissance, écoute radio. Ce sont les seuls capables d'un voyage vers l'îlot de l'Est quand le Conseil le décidera |
-| 2 à 4 torpilleurs (classe *Spica* ou équivalents) | Torpilleurs | ~100 chacun | Base de La Maddalena ou Cagliari ; *(prov.)* l'un d'eux rallie le 23 septembre 1940, en quittant la force fasciste venue de Naples ([06](06-mers-el-kebir.md) §6 bis) | Patrouille côtière, lutte contre les flottilles de pillards |
+| 4 torpilleurs de la **IXᵉ escadrille** : ***Cassiopea*** (chef d'escadrille) et ***Canopo*** (classe *Spica*, ~650 t), ***Fratelli Cairoli*** et ***Antonio Mosto*** (anciens torpilleurs de 1914-1915) | Torpilleurs | ~100 chacun | **La Maddalena** le 10 juin 1940 [histoire 🔎 : la base est Cagliari selon une autre source] | Patrouille côtière, lutte contre les flottilles de pillards ; le *Canopo* devient le **navire de garde de Gibraltar** ([29](29-flotte-des-annees-1950.md) §4.4) |
+| ***Orione*** (classe *Orsa*, ~1 600 t à pleine charge) [histoire 🔎] | Torpilleur d'escorte | ~150 | 4ᵉ escadrille de Naples ; *(prov.)* rallie l'îlot le 23 septembre 1940, en quittant la force fasciste venue de Naples ([06](06-mers-el-kebir.md) §6 bis) | Escorte ; **navire de garde de Malte** dans les années 1950 ([29](29-flotte-des-annees-1950.md) §4.4) |
 | Flottille de MAS (vedettes lance-torpilles) | Vedettes rapides | ~10 chacune | La Maddalena | Surveillance des côtes. Moteurs à essence, rapidement immobilisés |
 | Hydravions de Cagliari-Elmas | Hydravions de reconnaissance | — | Base d'Elmas | Volent jusqu'à l'épuisement de l'essence (fin 1940) |
 | Défenses côtières de Cagliari et de La Maddalena | Batteries, casemates | Plusieurs milliers d'hommes avec la garnison | | Défense terrestre, ordre public sous l'amiral Sportiello |
@@ -103,8 +104,8 @@ Les identifications précises restent [à documenter] ; voici la composition ret
 | Origine | Nombre [canon] | Usage |
 |---|---|---|
 | Port d'Oran | ~8 cargos | **Transport des ~45 000 t de grain** d'Oran ([11](11-ilot-de-civilisation.md) §2) |
-| Gibraltar | 2 à 4 cargos et le(s) pétrolier(s) de la RFA | Stocks de siège, mazout |
-| Alger | 3 à 5 cargos | Grain, matériel |
+| Gibraltar | 2 à 4 cargos, dont le ***Har Zion*** (1907, 3 285 tpl, venu de Marseille avec des évacués) et l'***Anadyr*** (Messageries maritimes, 1930, 9 786 tpl, chauffé au charbon, à Gibraltar depuis le 18 juin) [histoire : présents le 1er juillet 1940] ; le pétrolier ***San Adolfo*** | Stocks de siège, mazout ; dans les années 1950, le *Har Zion* est le cargo de l'Est et l'*Anadyr* celui de Gibraltar ([29](29-flotte-des-annees-1950.md) §4.5) |
+| Alger | 3 à 5 cargos, dont le ***Jacques Schiaffino*** (Société algérienne de navigation Charles Schiaffino, 1930, ~2 700 tpl) [histoire : sur les lignes d'Algérie en 1940 ; présence à Alger le 1er juillet : canon provisoire] | Grain, matériel ; dans les années 1950, le *Jacques Schiaffino* fait la navette de Malte ([29](29-flotte-des-annees-1950.md) §4.5) |
 | Cagliari | Caboteurs et voiliers sardes | Cabotage, pêche. **Ils deviennent la vraie flotte de l'îlot après 1945** |
 
 ## 6. Bilan

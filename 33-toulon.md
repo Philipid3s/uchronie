@@ -99,7 +99,7 @@ Pourquoi Gensoul ne rentre-t-il pas à Toulon ? C'est son port, la convention d'
 |---|---|
 | **1953** | **Reconnaissance** du *Georges Leygues*, avec Duplat à bord. La ville est vide ; quelques dizaines de survivants vivent à Saint-Mandrier et dans les vallons du cap Sicié. On retrouve le *Foch* et le *Colbert*, rouillés, à flot |
 | **1954 – 1955** | Accord avec les survivants de Saint-Mandrier, qui demandent à entrer dans le rôle ; ce sont des **voisins coopératifs** ([07](07-le-monde-apres.md) §1 bis). Inventaire de l'arsenal |
-| **1956** | **La garnison de Toulon**, cinquième avant-poste de l'îlot (après Gibraltar, Malte et Sazan) : 60 à 80 fusiliers marins, ouvriers et transmetteurs, relevés comme à Malte, dans l'enclave de l'arsenal et de Saint-Mandrier ; un **navire de garde** avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) |
+| **1956** | **La garnison de Toulon**, cinquième avant-poste de l'îlot (après Gibraltar, Malte et Sazan) : 60 à 80 fusiliers marins, ouvriers et transmetteurs, relevés comme à Malte (deux voyages par an du *Jacques Schiaffino*, [29](29-flotte-des-annees-1950.md) §4.5), dans l'enclave de l'arsenal et de Saint-Mandrier ; un **navire de garde** avec sa soute scellée ([29](29-flotte-des-annees-1950.md) §4.4) |
 | **1957 – 1960** | Premières remises en état d'une forme de radoub ; récupération de machines-outils pour le chantier naval de l'Îlot ([29](29-flotte-des-annees-1950.md) §6) ; contacts avec les survivants de l'intérieur |
 
 ## 7. Ce que Toulon change pour l'îlot

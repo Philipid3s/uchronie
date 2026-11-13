@@ -71,7 +71,8 @@
 | **Base** | **Elmas**, à la porte de Cagliari : l'aérodrome pour les avions, l'étang de Cagliari pour les hydravions [histoire : Elmas était à la fois aérodrome et base d'hydravions] |
 | **Appareils** | **Deux appareils en ligne** : un **Swordfish** (terrestre) et un **Loire 130** (hydravion). Les autres appareils conservés servent de réserve de pièces |
 | **Effectif** | **~40 personnes** : 6 pilotes, 4 observateurs-navigateurs, ~25 mécaniciens, des radios, un météorologue, des gardiens |
-| **Commandant** | **Capitaine de corvette Yves Kerlann** [personnage fictif] (§4.5) |
+| **Commandant** | **Capitaine de corvette Edward Halloran** [personnage inventé], ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann** [personnage inventé] (§4.5) |
+| **Modèle** | **La Fleet Air Arm** : organisation, instruction, entretien et procédures d'héritage britannique, mis en place par les cadres de l'aéronavale de l'*Ark Royal* (§4.7) |
 | **Carburant** | **~10 à 15 t par an** [estimation] : un Swordfish consomme de l'ordre de 0,1 t de carburant par heure de vol. Cela fait 50 à 70 heures de vol par an pour les deux appareils. Le carburant est un mélange de **benzol de Carbonia** et des **fractions légères du brut d'Albanie** |
 
 ### 4.3 Le calendrier [canon provisoire]
@@ -93,17 +94,25 @@
 
 **Ce que la Flottille ne fait pas** : du combat. Avec deux appareils et quelques tonnes de carburant par an, elle est un **conservatoire volant**, pas une force aérienne.
 
-### 4.5 Le commandant : Yves Kerlann [canon : origine française ; provisoire : détail]
+### 4.5 Le commandant : Edward Halloran [canon : origine britannique ; provisoire : détail]
 
-**Décision de l'auteur** : le commandant de la Flottille est **d'origine française**.
+**Décision de l'auteur** : le commandant de la Flottille est **d'origine britannique**, dans la logique de l'héritage de la Fleet Air Arm (§4.7). *(Elle remplace une première décision, qui le voulait français.)*
 
-- **Yves Kerlann** [personnage fictif], né en 1910 à Brest, entre à l'École navale en 1928, puis passe dans l'aéronautique navale.
-- **En juillet 1940**, il est lieutenant de vaisseau et chef de la section d'hydravions **Loire 130 du *Strasbourg*** à Mers el-Kébir.
+**Le commandant** :
+- **Edward Halloran** [personnage inventé, à remplacer si l'on retrouve un nom réel], né en 1908 à Plymouth, entre dans la Royal Navy en 1926, puis passe dans la Fleet Air Arm.
+- **En juillet 1940**, il est lieutenant et pilote de Swordfish dans l'une des escadrilles de l'*Ark Royal* (810, 818 ou 820 Squadron 🔎).
+- **1940-1943** : quand l'essence s'épuise, il est l'un des officiers du service de l'air de l'*Ark Royal* qui organisent la **mise en réserve** : conservation des appareils à Elmas, carnets, puis **rôle des navigants** repris par l'accord de Bonaria ([22](22-organisation-militaire.md) §6 bis).
+- **1943-1949** : sans avion, il enseigne la navigation à l'École navale et tient chaque année la **journée des navigants** d'Elmas.
+- **1949** : il a 41 ans. Avec Kerlann, il pousse le Conseil des Amiraux à recréer la Flottille, et en prend le commandement comme **capitaine de corvette**.
+- **1951** : il fait le premier vol du Swordfish, quelques jours après celui du Loire 130 par Kerlann.
+
+**Le second : Yves Kerlann** [personnage inventé] :
+- Né en 1910 à Brest, École navale en 1928, puis aéronautique navale. **En juillet 1940**, lieutenant de vaisseau, chef de la section d'hydravions **Loire 130 du *Strasbourg*** à Mers el-Kébir.
 - **1940-41** : il vole jusqu'au bout. Il fait les dernières reconnaissances vers la Corse et la Tunisie, puis **le dernier vol de l'îlot**, pendant l'hiver 1940-41 [date à fixer].
-- **1941-1949** : sans avion, il devient **météorologue** de l'îlot. Il organise un service de prévision du temps pour les cultures et la navigation, et garde en secret le carnet de vol de chacun des appareils conservés à Elmas.
-- **1949** : il a 39 ans. C'est le pilote le plus expérimenté encore en état de voler, et celui qui pousse le Conseil des Amiraux à recréer la Flottille. Il en prend le commandement comme **capitaine de corvette**.
-- **1951** : il fait lui-même le premier vol, sur le Loire 130.
-- Il travaille avec un **second britannique**, un ancien pilote de Swordfish de l'*Ark Royal* [à nommer], et un **chef mécanicien italien** d'Elmas [à nommer] : les trois flottes de 1940 se retrouvent dans la Flottille.
+- **1941-1949** : il devient **météorologue** de l'îlot et organise un service de prévision du temps pour les cultures et la navigation.
+- **1951** : il fait lui-même **le premier vol depuis dix ans**, sur le Loire 130. Il commande la section d'hydravions et le service météorologique de la Flottille.
+
+**Les trois flottes** : un commandant britannique, un second français, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
 
 ### 4.6 L'école de vol à voile [canon : principe ; provisoire : détail]
 
@@ -136,9 +145,24 @@
 | **1952** | Premier planeur biplace. Instruction en double commande |
 | **Années 1950** | Les meilleurs élèves passent sur le Swordfish et le Loire 130 de la Flottille |
 
+### 4.7 L'héritage britannique [canon : principe ; provisoire : détail]
+
+**Décision de l'auteur** : **l'organisation militaire de l'aviation suit en priorité l'héritage britannique.** Ce sont principalement **les cadres de l'aéronavale de l'*Ark Royal*** qui organisent à l'origine l'aviation de l'îlot.
+
+**Pourquoi eux** [estimation] : en 1940, l'*Ark Royal* apporte de loin le plus grand groupe d'aviateurs de l'îlot (§3) : ses escadrilles, son service de l'air, ses ateliers et ses magasins. C'est aussi la seule des trois marines qui ait une **aviation navale intégrée à la flotte**, la Fleet Air Arm, exactement ce que l'îlot veut faire ([22](22-organisation-militaire.md) §6 bis). La Marine française a une aéronautique navale plus petite, et la Regia Marina n'en a pas.
+
+**Ce qui vient de la Fleet Air Arm** [canon provisoire] :
+- **1940-1943 : la mise en réserve.** Le service de l'air de l'*Ark Royal* organise l'arrêt des vols, la conservation des appareils à Elmas et le **rôle des navigants** que l'accord de Bonaria reprend en 1943 ([22](22-organisation-militaire.md) §6 bis).
+- **L'organisation de la Flottille** : une escadrille sur le modèle britannique (commandant, officier d'instruction, officier technique, chef mécanicien) et ses **carnets** : carnet de vol de chaque pilote, carnet de chaque appareil et de chaque moteur, avec les visites à heures fixes.
+- **L'instruction** : le programme, les manuels et les épreuves des brevets sont ceux de la Fleet Air Arm, traduits ou gardés en anglais, la langue d'enseignement de l'îlot ([30](30-formation-technique.md) §4). Halloran dirige lui-même l'instruction des jeunes pilotes de 1952.
+- **L'entretien et les procédures** : visites, check-lists, signaux de piste et radio, à la britannique.
+- **Les insignes** : les ailes brodées au-dessus des galons, comme dans la Fleet Air Arm ([22](22-organisation-militaire.md) §6 bis).
+
+**Une maison britannique** : la Flottille est commandée par un Britannique, Edward Halloran, et organisée à l'anglaise (§4.5). Le second, Yves Kerlann, est français ; les Italiens d'Elmas apportent les mécaniciens et le terrain. Les trois marines s'y retrouvent, comme au Conseil des Amiraux.
+
 ## 5. Questions ouvertes
 
-1. ❓ **La Flottille** : noms du second britannique et du chef mécanicien italien (§4.5) ; colline de vol de pente (§4.6).
+1. ❓ **La Flottille** : commandant britannique (décision de l'auteur) : **Edward Halloran** [inventé], avec Kerlann pour second (§4.5) ; restent le nom du chef mécanicien italien et la colline de vol de pente (§4.6). 🔎 L'escadrille de Halloran en 1940, et un nom réel éventuel.
 1 bis. 🔎 Avions-écoles italiens biplaces éventuellement présents à Elmas en 1940.
 2. ❓ **La date du dernier vol** et sa mission (§2).
 3. 🔎 **Ordre de bataille** : appareils de l'*Ark Royal* en juillet 1940 ; hydravions des croiseurs français et du *Commandant Teste* ; Regia Aeronautica en Sardaigne (Elmas, Decimomannu, Alghero).
