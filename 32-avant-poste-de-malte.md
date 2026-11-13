@@ -29,6 +29,34 @@
 | **Lazaret de l'île Manoel** | Marsamxett, l'autre port de La Valette | Quarante jours pour les isolés retrouvés à Malte, avant leur inscription ([18](18-expedition-albanie.md) §5 ter) |
 | **Rinella** | À l'est de l'enclave | Station de transmissions de la Marine en 1940 [à vérifier 🔎] ; démontée, ses antennes vont au fort |
 
+### Le Grand Harbour en 1955 [illustration]
+
+![Vue cavalière du Grand Harbour de Malte en 1955 : La Valette vide, l'enclave des Trois Cités, le Georges Leygues au grand bassin, le dépôt de charbon](illustrations/malte-1955.png)
+
+*Vue cavalière dans le style des encyclopédies des années 1980. En 1955, le* Georges Leygues *fait son carénage triennal au grand bassin ([29](29-flotte-des-annees-1950.md) §5), et Gozo vient d'être rattaché au bord de Malte.*
+
+| N° | Légende |
+|---|---|
+| 1 | **La Valette**, intacte et vide |
+| 2 | **Birgu** |
+| 3 | **Senglea** |
+| 4 | **Bormla**, avec ses jardins en terrasses et ses murets de pierre sèche |
+| 5 | Une porte gardée des **Cottonera Lines**, qui ferment l'enclave du côté de la terre (§1) |
+| 6 | Le ***Georges Leygues*** au **grand bassin de 1909**, sur ses tins, pour son carénage |
+| 7, 8 | Les **docks 1 et 2** : un petit cargo au carénage |
+| 9 | Le **dépôt de charbon** du Sulcis, avec ses wagonnets et ses grues |
+| 10 | Le **fort Saint-Ange**, quartier général du bord et station radio, avec les antennes de Rinella |
+| 11 | L'***Orione***, navire de garde de Malte, sur son coffre ([29](29-flotte-des-annees-1950.md) §4.4) |
+| 12 | Le brise-lames et son phare |
+| 13 | Le ***Jacques Schiaffino***, cargo de la navette de Cagliari ([29](29-flotte-des-annees-1950.md) §4.5) |
+| 14 | L'**île Manoel** et son lazaret ([18](18-expedition-albanie.md) §5 ter) |
+| 15 | **Comino**, l'île de la pierre de troc (§4) |
+| 16 | **Gozo** et sa Citadelle (§4) |
+
+*Sans numéro : des épaves de 1942-43 le long des quais vides de La Valette.*
+
+**Écarts au canon** : la géographie est recomposée. Le fort Saint-Ange est en réalité à la pointe de Birgu, face à La Valette et près de l'entrée du port ; les Cottonera Lines sont du côté de la terre, et non au bord de l'eau ; l'île Manoel, Comino et Gozo, au nord-ouest, ne sont pas visibles depuis cet angle. Le *Georges Leygues* avait trois tourelles triples.
+
 ## 3. Le carénage du *Strasbourg* : un point à vérifier 🔎
 
 Le grand bassin de 1909 est assez **long** pour le *Strasbourg* (215 m sur 241). Sa **largeur d'entrée** n'a pas été retrouvée. Or le *Strasbourg* fait **31 m** de large, et les bassins de 1909 ont été conçus pour les cuirassés de l'époque, larges d'environ 25 à 27 m.
