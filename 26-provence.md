@@ -15,7 +15,7 @@
 | **Artillerie** | 10 canons de 340 mm en cinq tourelles doubles ; **14 canons de 138 mm en casemates**, alignés le long du pont de la **batterie** ; canons antiaériens de 75 mm 🔎 |
 | **Machines** | Construit pour le charbon, passé au **mazout** lors des refontes de l'entre-deux-guerres ([15](15-energie.md) §5) ; ~20 nœuds |
 | **Équipage** | ~1 130 hommes ([12](12-flottes-survivantes.md)) |
-| **Commandant** | Capitaine de vaisseau **G. Barois** [histoire, à recouper : initiales G.T.E., en commandement au printemps 1940] |
+| **Commandant** | Capitaine de vaisseau **Gabriel Théodore Eugène Barois** (1889-1972) [histoire : en commandement à Mers el-Kébir ; portrait en [38](38-personnages-historiques.md) §3] |
 | **Rôle en juillet 1940** | Force de Raid, à Mers el-Kébir |
 
 **Dans notre histoire**, le *Provence* est touché par les obus de la Force H le 3 juillet 1940 et doit s'échouer dans la rade de Mers el-Kébir ; renfloué, il gagne Toulon, où il se saborde en novembre 1942 [histoire]. Son voisin le *Bretagne* explose le 3 juillet, avec 977 morts. **Dans l'uchronie, les deux cuirassés sont intacts.**
@@ -30,7 +30,7 @@
 
 Du 5 au 12 juillet 1940, environ **4 000 civils d'Oran** embarquent sur la flotte ([06](06-mers-el-kebir.md), [08](08-chronologie.md)) : des familles, des ouvriers, et **des médecins et des infirmières** de la ville. Une partie d'entre eux monte sur le *Provence*, et c'est autour d'eux que se forme l'hôpital.
 
-- **Le commandant** reste un officier de marine, le capitaine de vaisseau **Barois** [histoire, à recouper] : le bord est un bord comme les autres, avec son rôle et sa discipline.
+- **Le commandant** reste un officier de marine, le capitaine de vaisseau **Barois** [histoire] : le bord est un bord comme les autres, avec son rôle et sa discipline.
 - **Le médecin-chef** est un médecin de marine, le médecin en chef **Antoine Ferrandi**, un Corse [personnage inventé ; à remplacer si le nom réel est retrouvé], assisté par les **médecins civils d'Oran**, qui deviennent officiers assimilés du corps de Santé à l'accord de Bonaria ([22](22-organisation-militaire.md) §5).
 - **Les infirmières** sont des femmes d'Oran, puis des Sardes formées à bord. Ce sont elles qui font du *Provence* le premier grand bord où les femmes sont majoritaires ([13](13-societe-de-bord.md) §4 ter) ; les **infirmières-chefs** entrent dans la Maistrance.
 - **L'équipage** fond : ~900 hommes valides en juillet 1940, ~400 en 1943, dont la moitié au service de l'hôpital (brancardiers, cuisines, buanderie, chaufferie) [estimation].
@@ -119,7 +119,7 @@ Du 5 au 12 juillet 1940, environ **4 000 civils d'Oran** embarquent sur la flott
 2. ✅ **Après 1944** : maternité jusqu'en 1952, puis école des mousses (option 2, A puis B).
 3. ✅ **Le genre** : le *Provence*, le *Bretagne*.
 4. ❓ **Le destin** : démantèlement à partir de 1963, au canon provisoire. À confirmer, ou garder le *Provence* en ponton au-delà de 1960.
-5. ✅ **Les noms** : le commandant réel, le capitaine de vaisseau **G. Barois** [à recouper] ; le médecin-chef inventé, **Antoine Ferrandi**.
+5. ✅ **Les noms** : le commandant réel, le capitaine de vaisseau **Gabriel Barois** [histoire, confirmé] ; le médecin-chef inventé, **Antoine Ferrandi**.
 6. ❓ **Les lieux à terre** : la maternité de 1952 (pavillon neuf de San Giovanni di Dio ?) et l'école des mousses de 1963.
 7. 🔎 **Le *Provence* en 1940** : dimensions, disposition de la batterie et des casemates, infirmerie, commandant ; civils d'Oran embarqués (nombre de médecins et d'infirmières).
 8. 🔎 **Les écoles de mousses** de la Marine française sur des vaisseaux en rade de Brest (dates, noms des navires).

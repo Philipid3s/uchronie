@@ -288,7 +288,7 @@
 [JR] B88 : C
 89. ✅ **Les savants** (intégré dans [36](36-expedition-de-la-manche.md) §6.5, [35](35-navires-de-l-ilot.md) §6.5 et [19](19-savoir-et-medecine.md) §3.6) : en 1942, quelques volontaires bretons (deux ingénieurs du Génie maritime de Brest, **Georges Teissier** de Roscoff, un biologiste de Concarneau) et des livres et des plans (arsenal de Brest, École navale, bibliothèque du laboratoire de Plymouth) ; l'Angleterre dans les années 1950 (Devonport au pays de Galles, la Clyde). ❓ Restent les noms des deux ingénieurs de Brest et du biologiste de Concarneau ; 🔎 la présence de Teissier à Roscoff en juillet 1940, la bibliothèque de l'École navale en 1940, les architectes navals de la Clyde.
 [JR] B89 : A et B en 1942 puis C dans les annees 50
-90. ✅ **L'officier allemand de Lorient** (intégré dans [36](36-expedition-de-la-manche.md) §6.1, option A) : le vice-amiral **Lothar von Arnauld de la Perière**, commandant réel de la Marine allemande en Bretagne à l'été 1940, replié de Brest sur Lorient. 🔎 Son poste exact et sa résidence en juillet 1940.
+90. ✅ **L'officier allemand de Lorient** (intégré dans [36](36-expedition-de-la-manche.md) §6.1, option A) : le vice-amiral **Lothar von Arnauld de la Perière**, commandant réel de la Marine allemande en Bretagne à l'été 1940, replié de Brest sur Lorient. ✅ Vérifié ([38](38-personnages-historiques.md) §5) : *Marinebefehlshaber Bretagne* du 22 juin au 3 décembre 1940, **quartier général à Brest** ; il se replie sur Lorient dans l'uchronie. Il meurt dans notre histoire en février 1941 (accident d'avion au Bourget).
 [JR] B90 : A
 
 ### L'îlot de l'Est ([37](37-ilot-de-l-est.md) §11)
@@ -299,6 +299,14 @@
 96. ❓ **Les volontaires de l'Ouest en Crète** (~50 par an à partir de 1954, ~300 vers 1960) : faut-il les intégrer au modèle de démographie (`calculs/demographie_ilot.py`, [21](21-demographie.md)) et à l'atlas ?
 97. 🔎 **À documenter** : l'ordre de bataille exact de la Mediterranean Fleet et de la Force X au 1er juillet 1940 (le *Protée*, les croiseurs présents) ; la 5ᵉ division et la gendarmerie en Crète à l'été 1940 ; l'archevêque de Crète en 1940 ; les facultés d'Alexandrie, la bibliothèque municipale, l'Institut d'hydrobiologie et l'hôpital grec en 1940 ; les importations de grain de la Crète ; Tovey à Alexandrie en 1940.
 98. 🔧 **À vérifier** : la population de la Crète par région en 1940 ; l'effectif de la Mediterranean Fleet ; la taille de la Bibliothèque de Souda ; la combustion du brut de Kuçova dans des chaudières de destroyer ; les distances Alexandrie – Souda et Vlorë – Souda.
+
+### Les personnages historiques ([38](38-personnages-historiques.md) §8)
+
+99. ❓ **Les morts naturelles** ([38](38-personnages-historiques.md) §6) : Kemp (1945), Duplat (1945), Sportiello (1948), Collinet (1949), Somerville (1949) et Holland (1950) meurent de maladie dans notre histoire, alors que la bible les fait agir après ces dates. A : ces morts s'appliquent (réécrire Albanie, Souda, le Conseil) ; B : elles ne s'appliquent pas ; C : elles s'appliquent à quelques années près (Somerville vers 1951, ce qui ouvre la crise de succession de [11](11-ilot-de-civilisation.md) §8). *Proposition : C.*
+100. ❓ **Scanagatta** : dans notre histoire, il meurt le 21 juillet 1940 dans un accident de voiture près d'Oristano, en pleine période de la scission sarde. Accident maintenu, mort dans la scission, ou survie ?
+101. ❓ **L'ombre de Brotzu** : recteur, il transmet en 1938 au ministère un avis sur des enseignants juifs visés par les lois raciales (dont Teodoro Levi). Faut-il s'en servir dans le récit ?
+102. ❓ **Les rôles à écrire** : Vespignani (ancien chef d'écoles de pilotes) à la Flottille d'Elmas ? Devin (ancien commandant de l'École navale) à l'École navale de l'Îlot ? La famille de Le Pivain, Brestois, à Brest en 1942 ? L'ambiguïté de Leone Leone (fasciste, mais qui aurait caché une famille juive) ?
+103. 🔎 **À lire** : *L'Aventure de la Force X* (Godfroy, 1953) ; *Flagship Hood* (Briggs, 1985) ; *A poppavia del jack* (1951) ; la nécrologie de Pérez par Teissier ; la biographie de Teissier par Toulmond ; rien n'a été trouvé en ligne sur le caractère de Barois, Duplat, Fane de Salis, Nurra, di Gropello, Vespignani et de Pignier.
 
 ## C. Points scientifiques à affiner
 

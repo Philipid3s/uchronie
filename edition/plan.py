@@ -70,6 +70,7 @@ ANNEXES = [
     ("B", "Sources", "annexes/sources.md"),
     ("C", "État de la bible", None),
     ("D", "Index", None),
+    ("E", "Les personnages historiques", "38-personnages-historiques.md"),
 ]
 
 AVANT_PROPOS = "edition/avant-propos.md"

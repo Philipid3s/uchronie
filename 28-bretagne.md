@@ -16,7 +16,7 @@
 | **Équipage** | ~1 130 hommes ([12](12-flottes-survivantes.md)) |
 | **Commandant** | Capitaine de vaisseau **Louis Le Pivain** [histoire : Louis René Edmond] [histoire] |
 
-**Dans notre histoire**, le *Bretagne* est touché le 3 juillet 1940 par les obus de la Force H ; une soute explose et le navire chavire en quelques minutes : **977 morts**, la plus lourde perte de Mers el-Kébir [histoire], dont son commandant, le capitaine de vaisseau Le Pivain. **Dans l'uchronie**, il n'y a pas de bataille : ses neuf cents hommes valides arrivent à Cagliari. Personne dans l'îlot ne sait ce qu'ils ont évité.
+**Dans notre histoire**, le *Bretagne* est touché le 3 juillet 1940 par les obus de la Force H ; une soute explose et le navire chavire en quelques minutes : **977 morts**, la plus lourde perte de Mers el-Kébir [histoire]. Son commandant, le capitaine de vaisseau Le Pivain, **survit** au naufrage ; il meurt à Brest en 1962 [histoire] ([38](38-personnages-historiques.md) §3). **Dans l'uchronie**, il n'y a pas de bataille : ses neuf cents hommes valides arrivent à Cagliari. Personne dans l'îlot ne sait ce qu'ils ont évité.
 
 ## 2. Pourquoi un grenier flottant [estimation]
 
@@ -136,7 +136,7 @@ Le *Bretagne* et le *Provence* sont **deux navires de la même classe** : leurs 
 4. ✅ **Le destin** : grenier jusqu'aux silos à terre, puis démolition après le *Provence* (option 4A).
 5. ✅ **Les silos à terre** (1956) : **en béton, si les ressources de l'île le permettent** (décision de l'auteur, §3.3). ❓ Reste le lieu (Cagliari, Oristano, les gares du Campidano).
 6. ✅ **Les 138 mm et les 340 mm du *Bretagne*** : ils arment **rapidement** une **batterie du golfe de Palmas** (décision de l'auteur, §3 bis). ❓ Restent les emplacements exacts et le nom des batteries ; 🔧 le débarquement des tubes de 340 mm sans grue lourde.
-7. ✅ **Le commandant du *Bretagne*** : son commandant réel, le capitaine de vaisseau **Louis Le Pivain** [histoire]. Dans notre histoire, il meurt avec son navire ; dans l'uchronie, il vit et commande le grenier.
+7. ✅ **Le commandant du *Bretagne*** : son commandant réel, le capitaine de vaisseau **Louis Le Pivain** [histoire]. Dans notre histoire, il survit au naufrage (contre-amiral en 1941, mort à Brest en 1962) ; dans l'uchronie, il commande le grenier. *Corrigé le 17 novembre 2026 : la bible le disait mort le 3 juillet 1940.* Brestois, voir [38](38-personnages-historiques.md) §3.
 8. 🔎 **Le *Bretagne* en 1940** : capacité des soutes à charbon et des soutes à munitions, conduits d'aération, commandant.
 9. 🔧 **La conservation du grain à bord** : humidité et condensation dans une coque d'acier, température des soutes en été, charançons ; rythme réaliste du roulement annuel.
 10. 🔧 **Le stock de sécurité de 1940** : part du grain d'Oran mise de côté sans compromettre la survie de 1940-1943 ([11](11-ilot-de-civilisation.md) §2).
