@@ -129,6 +129,29 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 - **Le Havre** : ville détruite, à environ 155 km du cratère ; des dizaines de centimètres d'éjectas gris sur les quais.
 - **Le vol du 17 juillet 1942** [canon provisoire] : Kerlann remonte la Seine, passe sur Rouen (environ 60 cm d'éjectas), puis sur **Paris**, qu'il ne trouve qu'à la boucle du fleuve : la ville est **ensevelie sous environ 5 m de débris**, et seuls émergent les plus hauts monuments. Plus au sud-ouest, il voit le **rempart du cratère** dans la brume : un anneau de 25 km de diamètre, d'Épernon à Saint-Arnoult ([02](02-impact-rambouillet.md) §1). **Aucune vie visible.** Le vol dure 3 h 20. Les photographies de cette journée sont les seules images du cratère prises avant les années 1950.
 
+### 6.5 Les savants, les plans et les livres [canon : option B89 A + B ; provisoire : détail]
+
+**Décision de l'auteur** : en 1942, l'expédition ramène **quelques savants et ingénieurs volontaires** de Bretagne (A) et **des livres et des plans** (B) ; l'Angleterre viendra dans les années 1950 ([35](35-navires-de-l-ilot.md) §6.5).
+
+**La consigne** est celle de [19](19-savoir-et-medecine.md) §3.7 : chercher, parmi les survivants, les ingénieurs, les médecins et les savants, et leur offrir le passage en premier. Mais **Brest refuse de partir** (§6.2) : on ne prend pas, on **négocie**.
+
+**Les hommes (A)** [canon provisoire] :
+
+| Qui | D'où | Pourquoi ils partent | Ce qu'ils deviennent dans l'île |
+|---|---|---|---|
+| **Deux ingénieurs du Génie maritime** de l'arsenal de Brest [personnages inventés, à remplacer si les noms réels sont retrouvés 🔎] | L'arsenal de la Penfeld | **Prêtés** par l'îlot breton contre le grain, les semences et la promesse de revenir ; l'un d'eux a sa famille parmi celles de la Force de Raid | Le cœur du **Bureau des plans** de 1946 ([35](35-navires-de-l-ilot.md) §4.2) : la conception navale de l'îlot leur doit tout |
+| **Georges Teissier** [histoire : biologiste de la Sorbonne (1900-1972), habitué de la station de Roscoff, qu'il dirigera de 1945 à 1971 ; canon provisoire : présent à Roscoff en juillet 1940 🔎] | La **station biologique de Roscoff**, à 60 km de Brest | La station n'a plus de quoi travailler ; à Cagliari, il y a une université, une flotte et du poisson à étudier | **Siège de biologie** au Conseil scientifique ([19](19-savoir-et-medecine.md) §3.2) : la mer, la pêche, les *paranze* ([35](35-navires-de-l-ilot.md) §2.3), la statistique des récoltes et des naissances |
+| **Un biologiste du laboratoire de Concarneau** (Collège de France) [à nommer 🔎] | Concarneau, à 25 km de Lorient, recueilli par les gens de Lorient | Il demande à partir lors de la parlementation (§6.1) | La pêche et les étangs de l'île ([17](17-autosuffisance-alimentaire.md) §3) |
+
+- **Ceux qui restent** : **Charles Pérez** [histoire : zoologiste, directeur de la station de Roscoff de 1921 à 1945], 69 ans en 1942, refuse de quitter sa station. Il garde la bibliothèque de Roscoff et en confie quelques ouvrages à Teissier.
+- Ces savants et leurs familles, une quinzaine de personnes, sont compris dans les **environ 150 passagers** de Brest (§7).
+
+**Les plans et les livres (B)** [canon provisoire] :
+- **L'arsenal de Brest** prête, pour copie, les **plans des navires** construits ou refondus à Brest (dont ceux du *Dunkerque* et du *Richelieu*) et les **règlements techniques** de la Marine. Le Bureau des plans de 1946 en fera ses modèles.
+- **Les livres de l'École navale**, restés à Brest après le départ de l'École en juin 1940 🔎 : cours de navigation, de machines, d'architecture navale. Ils fondent la bibliothèque de l'École navale de l'Îlot (1946, [13](13-societe-de-bord.md) §4 quater).
+- **La bibliothèque du laboratoire de Plymouth** : l'un des grands laboratoires de biologie marine d'Europe, celui de la Marine Biological Association, sur Citadel Hill [histoire]. Le bâtiment est abandonné (§6.3). De Salis fait embarquer **les collections de revues et les ouvrages de pêche et d'océanographie**, environ 3 000 volumes, et laisse un reçu au nom du Conseil. C'est la première grande moisson du futur Conservatoire ([19](19-savoir-et-medecine.md) §5).
+- **Le directeur du laboratoire de Plymouth**, **Stanley Kemp** [histoire : directeur de 1936 à sa mort], est parti avec le groupe de mai vers le pays de Galles [canon provisoire] : c'est une raison de plus d'aller les chercher.
+
 ## 7. Le retour et la quarantaine (fin juillet 1942) [canon provisoire]
 
 - **Pas encore de peste en Europe de l'Ouest** : la Morìa naît au Kurdistan à la fin de l'été 1942 ([14](14-epidemie.md)). Mais on craint le **typhus** des abris et les poux. Les **environ 150 passagers de Brest** font **trois semaines de quarantaine** et sont épouillés au lazaret de l'île de San Macario, devant Cagliari [lieu à vérifier 🔎]. Ils sont inscrits au rôle à la fin d'août 1942 ; environ 140 sont encore en vie en 1946 ([21](21-demographie.md) §6).
@@ -154,6 +177,7 @@ D'où la commande du Conseil au **Bureau des plans** en 1946-1947 : un **navire 
 5 ter. ✅ **Son profil** : Brestois, sa famille a quitté Brest en juin 1940 pour la campagne ; il la cherche à l'intérieur pendant que le *Volta* reste à Brest (option C). Ce qu'il trouve est laissé au roman.
 6. ✅ **Devonport** : les survivants sont partis vers le pays de Galles début mai 1942, en laissant un message (option B). ❓ Leur nombre, leur chef, et l'îlot entend-il leur indicatif plus tard ?
 7. ✅ **Lorient** : une communauté mixte de marins allemands et de Lorientais, menée par un officier allemand ; parlementation et troc sans débarquer (option B). ❓ Le nom de cet officier.
+8 bis. ✅ **Les savants** (B89) : en 1942, quelques volontaires bretons (deux ingénieurs du Génie maritime de Brest, Georges Teissier de Roscoff, un biologiste de Concarneau) et des livres et des plans (Brest, l'École navale, la bibliothèque du laboratoire de Plymouth) ; l'Angleterre dans les années 1950 (§6.5). ❓ Les noms des ingénieurs de Brest et du biologiste de Concarneau ; 🔎 la présence de Teissier à Roscoff en juillet 1940.
 8. ✅ **Brest** : un vrai îlot breton de 1 500 à 2 000 personnes, mené par un ingénieur du Génie maritime ; il refuse de partir ; environ 150 personnes des familles des marins rejoignent l'île (option B ; modèle de démographie mis à jour). ❓ Le nom de l'ingénieur ; le lieu de refuge de la famille du commandant du *Volta*.
 9. 🔎 **À documenter** : les familles de la Force de Raid à Brest en 1940 ; les hydravions des croiseurs de la classe *La Galissonnière* (catapulte, grue, nombre d'appareils) ; l'autonomie du Loire 130 ; les champs de mines de la Manche en 1939-1940 ; le lazaret de Cagliari en 1942.
 10. 🔧 **À vérifier** : la consommation de mazout des trois navires ; la dérive des glaces dans la Manche à l'été 1942.

@@ -103,6 +103,13 @@
 - *Émile Duplat*, Wikipedia (fr) : commandant de la 3e escadre, pavillon sur l'*Algérie*. https://fr.wikipedia.org/wiki/%C3%89mile_Duplat
 - *French cruiser Foch*, Wikipedia (en) : sortie de l'*Algérie*, du *Foch* et du *Colbert* le 3 juillet 1940. https://en.wikipedia.org/wiki/French_cruiser_Foch
 
+## Expédition de la Manche (chapitre 36)
+
+- Station biologique de Roscoff, Wikipedia : Charles Pérez directeur de 1921 à 1945, Georges Teissier de 1945 à 1971. https://fr.wikipedia.org/wiki/Station_biologique_de_Roscoff ; biographie de Georges Teissier (1900-1972), SBR. https://www.sb-roscoff.fr/sites/www.sb-roscoff.fr/files/documents/station-biologique-roscoff-georges-teissier-1900-1972-un-biologiste-4117.pdf
+- Marine Biological Association, Plymouth : Stanley Kemp, directeur du laboratoire de 1936 à sa mort (1945). https://plymsea.ac.uk/id/eprint/1303/1/Obituary_Stanley_Wells_Kemp.pdf ; https://www.mba.ac.uk/140-citadel-hill/
+- *Les arsenaux de la Marine française sous l'Occupation : l'exemple du port de Brest (1940-1944)* : le vice-amiral Lothar von Arnauld de la Perière, commandant de la Marine allemande en Bretagne ; reprise du travail à l'arsenal le 4 juillet 1940. https://books.openedition.org/pufc/26264
+- Non retrouvés : le directeur des Constructions navales de Brest en 1940 ; le directeur du laboratoire de Concarneau en 1940.
+
 ## Pétrole albanais et région de Vlorë (chapitre 34)
 
 - Treccani, *Enciclopedia Italiana*, article « Petrolio » : profondeurs des puits du Devoli, oléoduc Devoli – Valona (≈ 80 km, 200 mm, 1 000 m³/jour, par Fier, Roskovec et Skrofotinë jusqu'à Uji i Ftohtë), dépôt de réservoirs enterrés, rendements du brut. https://www.treccani.it/enciclopedia/petrolio_res-7c5b565f-8b74-11dc-8e9d-0016357eee51_(Enciclopedia-Italiana)/

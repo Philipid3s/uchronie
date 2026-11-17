@@ -97,12 +97,14 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 | **La Force H et Gibraltar** | Juillet 1940 | Médecins de la Royal Navy et du Royal Army Medical Corps, **Royal Engineers**, électriciens et artificiers, officiers techniques de la Fleet Air Arm | — |
 | **Toulon** | Août 1940, puis printemps 1944 ([33](33-toulon.md)) | Les **ingénieurs du Génie maritime** de l'arsenal ; les médecins de l'**hôpital Sainte-Anne** et de l'école d'application du Service de santé de la Marine 🔎 ; des professeurs et des étudiants réfugiés de Marseille et d'Aix | — |
 | **Bizerte** | 1940-1941 ([16](16-contacts-radio.md) §4) | Les ingénieurs et les contremaîtres de l'arsenal de **Ferryville** ; peut-être un ou deux chercheurs de l'**Institut Pasteur de Tunis** 🔎, recueillis avec la première vague | — |
+| **La Bretagne** (expédition de la Manche) | Été 1942 ([36](36-expedition-de-la-manche.md) §6.5) | Deux **ingénieurs du Génie maritime** prêtés par l'arsenal de Brest ; la station biologique de Roscoff et le laboratoire de Concarneau ; les plans de l'arsenal, les livres de l'École navale et la bibliothèque du laboratoire de Plymouth | **Georges Teissier** (biologie) ; les ingénieurs et le biologiste de Concarneau [à nommer] |
+| **L'Angleterre, le pays de Galles et la Clyde** | Années 1950 ([35](35-navires-de-l-ilot.md) §6.5) | Les survivants de Devonport ; les architectes navals et les ingénieurs des chantiers de la Clyde | [à chercher] |
 | **La Corse** | 1940-1941, puis 1955-1959 | Médecins de campagne, instituteurs, pharmaciens | — |
 | **Malte et Gozo** | À partir de 1949 | Peu de savants vivants ; mais **des livres** : les bibliothèques de La Valette et de l'université de Malte 🔎 (§5) | — |
 | **L'Albanie** | 1950 | Les **techniciens pétroliers italiens** restés en 1940 ([34](34-avant-poste-d-albanie.md) §3) | **Aldo Ferretti**, **Gino Sartori** [inventés] |
 | **Les expéditions de recueil** | 1955-1960 ([21](21-demographie.md) §4.5) | Rares : un médecin ou un instituteur par expédition, au mieux. Chacun est une prise de premier rang | — |
 
-**Ce que montre la liste** : l'îlot est riche en **ingénieurs** et en **médecins** (la flotte en emporte beaucoup), pauvre en **chercheurs** des sciences fondamentales (physique, chimie, biologie) et presque sans **agronomes** : d'où le poids du savoir paysan dans le registre (§3.8).
+**Ce que montre la liste** : l'îlot est riche en **ingénieurs** et en **médecins** (la flotte en emporte beaucoup), pauvre en **chercheurs** des sciences fondamentales (physique, chimie, biologie ; la biologie marine est en partie sauvée par les Bretons de 1942, [36](36-expedition-de-la-manche.md) §6.5) et presque sans **agronomes** : d'où le poids du savoir paysan dans le registre (§3.8).
 
 ### 3.7 La priorité des savants dans l'accueil [canon : principe ; provisoire : détail]
 
