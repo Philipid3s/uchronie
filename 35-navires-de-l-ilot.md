@@ -207,6 +207,20 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 - **1949 – 1952** : **second** pendant les essais, sous un commandant plus ancien [à décider ; proposition : l'ancien commandant du *Volta*, le capitaine de frégate de 1942 ([36](36-expedition-de-la-manche.md) §3.3)].
 - **1952** : **commandant** du navire, vers 33 ou 34 ans. Il le conduit au premier voyage vers la Bretagne, **dix ans après l'expédition de la Manche.**
 
+![Le prototype de longue expédition passe la pointe Saint-Mathieu, au soir, sous voiles et fumée de charbon, son hydravion Loire 130 sur son ber à l'arrière, devant les ruines de l'abbaye et le phare](illustrations/prototype-saint-mathieu-1953.png)
+
+*Printemps 1953 [année à décider, B75], premier voyage : le prototype de longue expédition arrive devant la pointe Saint-Mathieu, à l'entrée du goulet de Brest, dix ans après l'expédition de la Manche. Fumée noire du charbon du Sulcis, voile d'appoint établie, Loire 130 bâché sur son ber sous la grue arrière, vedette dans ses bossoirs ; sur le toit de la passerelle, un officier observe la côte à la jumelle. Sur la falaise, les ruines de l'abbaye Saint-Mathieu et le phare [histoire : l'abbaye est en ruine depuis la Révolution, le phare est bâti dans son enclos].*
+
+**Écarts de l'image au canon et à l'histoire** :
+- **Le gréement** : seul le mât avant porte de la toile, et ce sont des voiles triangulaires (une sorte de voile au tiers et deux focs) ; le canon prévoit une **misaine et une grand-voile auriques sur les deux mâts**, plus une trinquette et un foc (§6.3 bis). Le mât arrière, qui porte la grue, est nu.
+- **Le vent ne tient pas** : la fumée file vers l'arrière, donc le vent apparent vient de l'avant, alors que les voiles sont gonflées comme par un vent arrière.
+- **La lumière** : c'est un **soleil couchant** sur la mer, à l'ouest, et non l'aube demandée par le prompt. Elle reste cohérente avec un navire venu d'Ouessant, qui fait route à l'est vers le goulet en fin de journée.
+- **Le Loire 130** : l'aile semble déployée, et non repliée le long de la coque, et le moteur au-dessus de l'aile disparaît sous la bâche ; l'appareil est bien un **monoplan à coque** à dérive unique, conforme pour l'essentiel.
+- **La coque** paraît plus courte que les ~80 m prévus, et **trop rouillée** pour un navire armé en 1949 et entretenu par l'arsenal ; la rouille dit plutôt les années fermées.
+- **L'équipage** : une trentaine d'hommes alignés sur le pont, comme pour une revue ; on ne distingue pas les **fusiliers marins** et leurs armes.
+- **Le phare de Saint-Mathieu** a en réalité le **haut de la tour peint en rouge** [histoire 🔎], et la pointe est une falaise d'une vingtaine de mètres, plus basse que sur l'image.
+- **Conformes au canon** : la cheminée unique et la fumée de charbon, la grue sur le mât arrière, le ber de l'hydravion sur la cale arrière, l'antenne radio tendue entre les mâts, la vedette, **aucun pavillon** (le pavillon de l'Îlot n'est pas encore dessiné, B34) et **aucun radar**.
+
 ### 6.3 ter L'autonomie du prototype [estimation 🔧 ; calcul : `calculs/autonomie_prototype.py`]
 
 **La question de l'auteur** : combien de charbon embarquer, quelle réserve d'électricité, et combien de temps le navire tient-il loin de tout ? Le calcul ci-dessous donne des ordres de grandeur ; toutes les hypothèses sont dans le script.
