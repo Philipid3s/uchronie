@@ -34,6 +34,7 @@ PARTIES = [
     ("IV", "Les années fermées", "1940 – 1948", [
         "14-epidemie.md",
         "15-energie.md",
+        "36-expedition-de-la-manche.md",
         "17-autosuffisance-alimentaire.md",
     ]),
     ("V", "La société de l'Îlot", "1940 – 1960", [

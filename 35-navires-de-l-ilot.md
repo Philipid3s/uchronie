@@ -2,7 +2,7 @@
 
 > Comment l'îlot transforme ses chalutiers, ses cargos et ses barques pour dépendre moins du combustible, puis conçoit ses propres navires, dont un **navire de longue expédition** capable d'aller voir l'Europe de l'Atlantique et de la Manche.
 >
-> **[canon]** (décisions de l'auteur) : **un outil par usage** (option 1C) : cargos mixtes voile-vapeur, *paranze* à voile pour la pêche côtière, chalutiers à vapeur sobres pour le large, moteurs rustiques pour les barques ; **en deux temps** (option 2C) : des bricolages dès 1945, puis une conception raisonnée par le chantier naval vers 1956-1960 ; **dès les années 1940, l'îlot étudie un navire de longue expédition** (sur une base de chalutier ou de cargo), **portant un hydravion** mis à l'eau et repris à la grue, pour **aller au plus près de la catastrophe** et rendre compte de l'état de l'Europe (Lorient, Brest, la Manche, les bases anglaises). **[canon provisoire]** : les chiffres et le détail de ce chapitre.
+> **[canon]** (décisions de l'auteur) : **un outil par usage** (option 1C) : cargos mixtes voile-vapeur, *paranze* à voile pour la pêche côtière, chalutiers à vapeur sobres pour le large, moteurs rustiques pour les barques ; **en deux temps** (option 2C) : des bricolages dès 1945, puis une conception raisonnée par le chantier naval vers 1956-1960 ; **dès les années 1940, l'îlot étudie un navire de longue expédition** (sur une base de chalutier ou de cargo), **portant un hydravion** mis à l'eau et repris à la grue, pour **aller au plus près de la catastrophe** et rendre compte de l'état de l'Europe (Lorient, Brest, la Manche, les bases anglaises). Il naît des **leçons de l'expédition de la Manche** de l'été 1942 ([36](36-expedition-de-la-manche.md) §8). **[canon provisoire]** : les chiffres et le détail de ce chapitre.
 >
 > Ce chapitre complète [15](15-energie.md) §5 (la conversion au charbon) et [29](29-flotte-des-annees-1950.md) (la flotte active, le chantier naval).
 
@@ -106,6 +106,8 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 
 **Décision de l'auteur** : l'îlot veut **avoir des nouvelles du plus près de la catastrophe** et **rendre compte de l'état de l'Europe** : la Bretagne (Lorient, Brest), la Manche, les bases anglaises.
 
+**Le précédent de 1942** : l'îlot y est déjà allé une fois, en urgence, avec trois navires à mazout et un hydravion : l'**expédition de la Manche** ([36](36-expedition-de-la-manche.md)). Elle a montré ce qu'on peut voir en trois semaines, et tout ce qu'on n'a pas pu voir. Le navire de longue expédition est fait pour **y retourner**, et y rester.
+
 **La radio ne suffit pas** ([16](16-contacts-radio.md)) :
 - l'Écosse (la Clyde, Scapa Flow) n'est joignable que **par intermittence** ; la Bretagne, la Manche et le sud de l'Angleterre **ne répondent pas** ;
 - **une voix dit qu'on vit, pas comment** : ni l'état des ports, ni celui des terres, ni ce que sont devenus les arsenaux ;
@@ -146,7 +148,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 ### 6.4 Ce qu'il reste à décider
 
 - **La coque** : un **cargo** de 1940 transformé, ou un **chalutier** ? (B76)
-- **La date** du premier voyage : avant ou après l'expédition d'Albanie (1950), qui est au canon **la première grande expédition** ; le Loire 130 ne revole qu'en 1951 ([20](20-capacites-aeronavales.md) §4). (B75)
+- **La date** du premier voyage du navire : l'expédition d'Albanie (1950) est la première sortie après l'épidémie, et le Loire 130 ne revole qu'en 1951 ([20](20-capacites-aeronavales.md) §4) ; le retour dans la Manche se place donc dans les années 1950 (B75).
 - **L'itinéraire** : la Bretagne et la Manche seulement, ou jusqu'à la Clyde et Scapa Flow ? (B77)
 - **Le nom** du navire, et celui du chef de l'expédition. (B78)
 
@@ -156,6 +158,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 |---|---|
 | **1945 – 1946** | Retour des voiles latines sur les caboteurs ; premières **paires de *paranze*** à Carloforte |
 | **1946** | Création du **Bureau des plans**, à bord du *Commandant Teste* |
+| **Été 1942** | **Expédition de la Manche** ([36](36-expedition-de-la-manche.md)), dont les leçons fondent le navire de longue expédition |
 | **1946 – 1947** | Le Conseil demande l'étude d'un **navire de longue expédition** [canon : conception dès les années 1940] |
 | **1946 – 1948** | Voiles d'étai sur les cargos ; carnets de consommation |
 | **1947** | Premières briquettes de Carbonia |

@@ -12,7 +12,7 @@
 
 | Gisement (en 1940) | Distance de Cagliari | Accès |
 |---|---|---|
-| **Albanie** : Devoli et Kuçova, exploités par une société italienne, avec un oléoduc vers le port de Vlorë [histoire] | ~1 000 km par mer | Le plus proche. **Objectif de la première grande expédition** (§3 ter) |
+| **Albanie** : Devoli et Kuçova, exploités par une société italienne, avec un oléoduc vers le port de Vlorë [histoire] | ~1 000 km par mer | Le plus proche. **Objectif de la première grande expédition après l'épidémie** (§3 ter) |
 | Roumanie (Ploiești) | Mer Noire, après les Détroits | Hors de portée |
 | Irak, Iran | Golfe Persique ou Levant | Hors de portée, et **au cœur de la Morìa** |
 | Sicile (Gela), Algérie (Sahara) | — | **Pas encore découverts** : ils le seront en 1956 dans l'histoire réelle |
@@ -23,7 +23,7 @@
 
 | Carburant | Usage | Stock de départ (estimation) | Épuisé |
 |---|---|---|---|
-| **Essence** (dont l'essence aviation de l'*Ark Royal*) | Avions, camions, voitures | Quelques centaines à quelques milliers de tonnes | **Fin 1941.** Les avions de l'*Ark Royal* sont cloués au sol dès l'hiver 1940-41. Les camions passent au **gazogène** (au bois ou au charbon de bois), comme en France et en Italie pendant la guerre [histoire] |
+| **Essence** (dont l'essence aviation de l'*Ark Royal*) | Avions, camions, voitures | Quelques centaines à quelques milliers de tonnes | **Fin 1941.** Les avions de l'*Ark Royal* sont cloués au sol dès l'hiver 1940-41. *(prov.)* Le Conseil met sous scellés **6 t d'essence aviation**, la **réserve d'essence du Conseil**, ouverte une seule fois pour l'hydravion de l'expédition de la Manche (1942, [36](36-expedition-de-la-manche.md) §3.1). Les camions passent au **gazogène** (au bois ou au charbon de bois), comme en France et en Italie pendant la guerre [histoire] |
 | **Gazole** | Sous-marins, groupes électrogènes, quelques moteurs de bateaux | Quelques milliers de tonnes | **Vers 1947-1948.** Réservé en priorité aux sous-marins, qui consomment peu |
 | **Mazout** | Chaudières des navires de guerre : électricité, eau douce, propulsion | ~105 000 t, plus ~45 000 t récupérées dans les dépôts en 1941-1943 (§3 bis) | **Vers 1948**, sauf une réserve gelée (§3) |
 
@@ -45,15 +45,17 @@ Hypothèses de consommation :
 |---|---|---|---|---|
 | **Juillet – décembre 1940** | Convois depuis Oran, Gibraltar et Toulon ; 3 navires-centrales ; patrouilles | ~18 000 t | — | **~87 000 t** |
 | **1941** | 3 navires-centrales, eau douce, patrouilles, reconnaissances vers Malte et la Sicile | ~24 000 t | ~3 000 t (Gibraltar) | **~66 000 t** |
-| **1942** | 2 navires-centrales, **campagne des dépôts** (voyages des pétroliers, escortes) | ~20 000 t | ~29 000 t (Malte, Augusta, Gibraltar) | **~75 000 t** |
-| **1943** | 2 navires-centrales, campagne des dépôts | ~18 000 t | ~13 000 t (Malte, Gibraltar) | **~70 000 t** |
-| **1944** | 2 navires-centrales, **patrouilles de la quarantaine** ([14](14-epidemie.md) §5.5) | ~18 000 t | — (île fermée) | **~52 000 t** |
+| **1942** | 2 navires-centrales, **campagne des dépôts** (voyages des pétroliers, escortes), **expédition de la Manche** (~2 200 t, [36](36-expedition-de-la-manche.md)) | ~22 000 t | ~29 000 t (Malte, Augusta, Gibraltar) | **~73 000 t** |
+| **1943** | 2 navires-centrales, campagne des dépôts ; **économies de rattrapage** (voir plus bas) | ~17 000 t | ~13 000 t (Malte, Gibraltar) | **~69 000 t** |
+| **1944** | 2 navires-centrales, **patrouilles de la quarantaine** ([14](14-epidemie.md) §5.5) ; économies de rattrapage | ~17 000 t | — (île fermée) | **~52 000 t** |
 | **1945** | Patrouilles de quarantaine, cordon de Carloforte | ~16 000 t | — | **~36 000 t** |
 | **1946** | 1 navire-centrale, patrouilles réduites (avisos charbonniers) | ~12 000 t | — | **~24 000 t** |
 | **1947** | 1 navire-centrale (les barrages et le charbon suffisent presque) | ~8 000 t | — | **~16 000 t** |
 | **1948** | Dernière chauffe du *Strasbourg* | ~6 000 t | — | **~10 000 t : réserve gelée** |
 
-**[canon provisoire] La réserve de l'Amirauté** : en 1948, le Conseil décide de **geler les 10 000 dernières tonnes de mazout**. On n'y touche que sur un vote unanime. Elles sont gardées pour **la première grande expédition**, celle de l'Albanie (§3 ter), puis pour le ***Strasbourg***, devenu navire de réserve : chauffes d'essai, carénage à Malte et voyage de Crète en 1952, évacuation en dernier recours ([27](27-strasbourg.md)).
+**[canon provisoire] Le rattrapage de la Manche** : l'expédition de l'été 1942 ([36](36-expedition-de-la-manche.md)) brûle environ **2 200 t**, soit 3 % du stock. Pour ne pas avancer d'autant l'épuisement, le Conseil décide de **rattraper ce mazout en deux ans** : chauffes réduites des croiseurs de la force mobile, désarmés plus tôt dans l'année, et premiers chalutiers à charbon dans les patrouilles. On économise ainsi ~1 000 t en 1943 et ~1 000 t en 1944. **La courbe rejoint celle d'avant l'expédition à la fin de 1944**, et la réserve de 1948 reste de 10 000 t.
+
+**[canon provisoire] La réserve de l'Amirauté** : en 1948, le Conseil décide de **geler les 10 000 dernières tonnes de mazout**. On n'y touche que sur un vote unanime. Elles sont gardées pour **la première grande expédition après l'épidémie**, celle de l'Albanie (§3 ter), puis pour le ***Strasbourg***, devenu navire de réserve : chauffes d'essai, carénage à Malte et voyage de Crète en 1952, évacuation en dernier recours ([27](27-strasbourg.md)).
 
 **Le dilemme de 1944** : la quarantaine exige des patrouilles, et les patrouilles brûlent le mazout. Le Conseil remplace donc peu à peu les contre-torpilleurs par des **chalutiers à charbon armés**, des **avisos charbonniers**, des **voiliers** et des **postes de guet** sur les tours côtières, avec des batteries à terre.
 
@@ -75,7 +77,9 @@ Avant la fermeture de l'île en 1944, le Conseil envoie ses pétroliers vider le
 
 **Mais les dépôts ne se remplissent pas.** Une fois vidés, ils sont perdus. C'est ce qui fait de l'Albanie, la seule **source** proche, l'objectif suivant.
 
-## 3 ter. L'expédition d'Albanie : la première grande expédition [canon : principe ; provisoire : détail]
+## 3 ter. L'expédition d'Albanie : la première grande expédition après l'épidémie [canon : principe ; provisoire : détail]
+
+*Avant l'épidémie, l'îlot a fait une seule grande sortie hors de la Méditerranée : l'**expédition de la Manche** de l'été 1942 ([36](36-expedition-de-la-manche.md)). L'Albanie est la première sortie de la réouverture vers une source d'énergie.*
 
 **Décision de l'auteur** : le pétrole et l'énergie sont la priorité. **La première grande expédition, après la réouverture de l'île, part vers l'Albanie.**
 

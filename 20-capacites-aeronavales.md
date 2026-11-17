@@ -81,7 +81,7 @@
 |---|---|
 | **1949** | À la réouverture, le Conseil des Amiraux décide de recréer la Flottille. Recensement des anciens pilotes et des mécaniciens d'aviation encore en vie, à partir du **rôle des navigants** tenu depuis 1943 ([22](22-organisation-militaire.md) §6 bis) |
 | **1950** | Inventaire des appareils conservés à Elmas. Choix des deux meilleurs. Remise en état : moteurs démontés, toiles refaites (lin ou coton enduit), câbles, instruments |
-| **1951** | **Premier vol depuis dix ans**, avec le premier benzol mis de côté et le brut d'Albanie. Essais au sol, puis vols courts au-dessus du golfe de Cagliari |
+| **1951** | **Premier vol depuis neuf ans** (le dernier était celui du cratère, en juillet 1942), avec le premier benzol mis de côté et le brut d'Albanie. Essais au sol, puis vols courts au-dessus du golfe de Cagliari |
 | **1952** | Les deux appareils sont en ligne. **Formation des premiers jeunes pilotes** par les anciens : d'abord au sol (navigation, météorologie, mécanique), puis en vol |
 | **Années 1950** | Quelques missions par an |
 
@@ -108,9 +108,10 @@
 
 **Le second : Yves Kerlann** [personnage inventé] :
 - Né en 1910 à Brest, École navale en 1928, puis aéronautique navale. **En juillet 1940**, lieutenant de vaisseau, chef de la section d'hydravions **Loire 130 du *Strasbourg*** à Mers el-Kébir.
-- **1940-41** : il vole jusqu'au bout. Il fait les dernières reconnaissances vers la Corse et la Tunisie, puis **le dernier vol de l'îlot**, pendant l'hiver 1940-41 [date à fixer].
+- **1940-41** : il vole jusqu'au bout. Il fait les dernières reconnaissances vers la Corse et la Tunisie, jusqu'à l'hiver 1940-41.
+- **Juillet 1942** : *(prov.)* embarqué avec un Loire 130 sur le *Georges Leygues* pour l'**expédition de la Manche**, sur la réserve d'essence du Conseil, il survole Lorient, **sa ville natale de Brest**, puis, le 17 juillet, **Paris enseveli et le cratère de Rambouillet** : c'est **le dernier vol de l'îlot** avant 1951 ([36](36-expedition-de-la-manche.md) §6.4).
 - **1941-1949** : il devient **météorologue** de l'îlot et organise un service de prévision du temps pour les cultures et la navigation.
-- **1951** : il fait lui-même **le premier vol depuis dix ans**, sur le Loire 130. Il commande la section d'hydravions et le service météorologique de la Flottille.
+- **1951** : il fait lui-même **le premier vol depuis neuf ans**, depuis le vol du cratère, sur le Loire 130. Il commande la section d'hydravions et le service météorologique de la Flottille.
 
 **Les trois flottes** : un commandant britannique, un second français, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
 

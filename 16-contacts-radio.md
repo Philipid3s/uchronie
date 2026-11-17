@@ -120,6 +120,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 
 | Station | Distance de Cagliari | Distance de l'impact A | Qui émet | 1940-41 | 1942-45 | 1946-50 |
 |---|---|---|---|---|---|---|
+| **Plymouth** (Devonport) | ~1 700 km | — | Survivants de l'arsenal de la Royal Navy | ❌ | 🟡 **Avril 1942** : trois nuits, puis le silence ([36](36-expedition-de-la-manche.md)) | ❌ |
 | **Écosse** (Clyde, Scapa Flow) | 2 100 – 2 350 km | 72-75° | Home Fleet, administration britannique repliée, mines de charbon | 🟡 Intermittent ([07](07-le-monde-apres.md)) | 🟡 Très affaibli par le froid | 🟡 |
 | **Canaries** | 2 573 km | 101,8° | Garnison espagnole, port de Las Palmas | 🟡 | 🟡 | ✅ |
 | **Açores** | 3 244 km | 90,3° | Garnison portugaise, **stations des câbles transatlantiques** de Horta | 🟡 | 🟡 | ✅ |
@@ -180,6 +181,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 | **Novembre 1940** | **Dernier message de la Crète** [canon] |
 | **Décembre 1940** | **Derniers appels au secours de Bizerte** [canon] |
 | **1941 – 1942** | Une poignée de stations fidèles : Gibraltar, Dakar, Casablanca, Minorque, l'Écosse par intermittence. On s'échange des nouvelles du froid, des stocks, des épidémies |
+| **Avril 1942** | *(prov.)* **L'appel de Devonport** : avec l'ionosphère qui redevient normale, l'écoute du *Dunkerque* capte trois nuits de suite la station de la Royal Navy de Devonport (Plymouth) ; Cagliari répond ; silence à partir de mai. C'est l'un des deux déclencheurs de l'**expédition de la Manche** ([36](36-expedition-de-la-manche.md) §1) |
 | **1943** | **Des appels du Levant et d'Égypte parlent d'une « peste noire »** ([14](14-epidemie.md) §5.1). Ils se taisent dans l'année |
 | **1944 – 1946** | L'Île fermée **écoute en silence**. Le minimum solaire réduit la portée. Le monde semble se réduire à la Méditerranée occidentale et à l'Afrique de l'Ouest |
 | **1947 – 1949 : l'été radio** | **Le monde réapparaît.** On entend la Martinique, la Floride, Ceylan, Maurice, Perth, et même la Nouvelle-Zélande par l'antipode. Des voix en anglais, en français, en espagnol, en portugais. L'îlot découvre qu'il n'est pas seul, mais aussi **combien le monde est vide** |
