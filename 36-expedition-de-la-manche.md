@@ -43,9 +43,35 @@ Depuis juillet 1940, les équipages français vivent sans nouvelles. **L'appel d
 
 | Navire | Rôle | Pourquoi lui |
 |---|---|---|
-| ***Georges Leygues***, croiseur léger | **Navire amiral** ; porte l'hydravion, le grain, l'équipe d'observation et le poste de soins ; peut loger 200 à 300 passagers en surcharge | Le croiseur le plus sûr de la force mobile ([12](12-flottes-survivantes.md) §3.3). Les croiseurs de sa classe étaient équipés pour **porter, catapulter et reprendre à la grue des hydravions** [histoire 🔎] |
+| ***Georges Leygues***, croiseur léger | **Navire-base** (le chef de l'expédition garde sa marque sur le *Faulknor*, §3.3) ; porte l'hydravion, le grain, l'équipe d'observation et le poste de soins ; peut loger 200 à 300 passagers en surcharge | Le croiseur le plus sûr de la force mobile ([12](12-flottes-survivantes.md) §3.3). Les croiseurs de sa classe étaient équipés pour **porter, catapulter et reprendre à la grue des hydravions** [histoire 🔎] |
 | HMS ***Faulknor***, conducteur de flottille | Éclaireur ; **britannique**, pour les bases anglaises | Le pavillon que Devonport reconnaîtra ([12](12-flottes-survivantes.md) §2) |
 | ***Volta***, contre-torpilleur | Éclaireur rapide ; **français**, pour Brest et Lorient | Le navire le plus rapide de l'îlot (près de 40 nœuds), qui peut se dégager de tout ([12](12-flottes-survivantes.md) §3.1) |
+
+![Plan de coupe du contre-torpilleur Volta en 1942 : vue de profil, coque ouverte, de l'hélice à l'étrave](illustrations/volta-1942-coupe.png)
+
+*Plan de coupe du* Volta *(classe* Mogador*) à l'été 1942, dans le style des plans d'ensemble des arsenaux. L'arrière est à gauche, l'avant à droite.*
+
+**Légende** (d'après l'image) :
+
+| N° | Arrière et coque | N° | Machines et avant | N° | Superstructures et armes |
+|---|---|---|---|---|---|
+| 1 | Gouvernail | 8 – 9 | **Chaufferies** : chaudières à tubes d'eau chauffées au mazout | 18 – 19 | Tourelles doubles de 138,6 mm avant, superposées |
+| 2 | Hélices et arbres d'hélice | 10 – 11 | **Salles des machines** : turbines à engrenages, réducteurs, condenseurs | 20 | Passerelle et télémètre |
+| 3 | Appareil à gouverner | 12 | Turbo-dynamos et auxiliaires | 21 | Mât de misaine |
+| 4 – 5 | Postes de l'équipage et logements arrière | 13 | Poste central et transmissions | 22 – 23 | Cheminées avant et arrière |
+| 6 | Soutes à munitions arrière | 14 – 15 | Soutes à munitions avant, sous les tourelles | 24 | Vedette à moteur, pour les débarquements |
+| 7 | Ateliers et magasins | 17 | Postes de l'équipage avant, puits aux chaînes | 25 | Mât arrière |
+| | | | | 26 – 27 | Tourelles doubles de 138,6 mm arrière |
+| | | | | 28 | Embarcation sur bossoirs |
+| | | | | 29 | Grenadeurs et mitrailleuses de la plage arrière |
+| | | | | 30 | Pavillon national |
+
+**Écarts de l'image au canon et à l'histoire** :
+- **Une antenne radar** en haut du mât de misaine (21) : la Marine française n'en a pas en 1940, et l'îlot n'en fabrique pas. À ignorer.
+- **Les tubes lance-torpilles** (deux affûts triples et deux doubles sur l'axe) **manquent** [histoire].
+- **Les chaufferies et les cheminées ne sont pas alignées** : dans le navire réel, les conduits de fumée montent des chaudières aux cheminées ; l'image place les turbines sous les cheminées 🔎.
+- **Le n° 16 manque** dans la numérotation.
+- **Les embarcations supplémentaires** et la peinture rouillée sont voulues : ce sont les traces de deux ans sans carénage et les préparatifs de l'expédition.
 
 ### 3.1 L'essence de l'hydravion
 
