@@ -162,7 +162,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 
 | Partie | Avant (cargo) | Après (prototype) |
 |---|---|---|
-| **Cales avant** | Marchandises | **Soutes de charbon supplémentaires** : 700 t en tout. À 9 nœuds, la machine brûle de l'ordre de **20 t par jour** ; l'aller-retour Cagliari – Manche (environ 5 000 milles, 23 jours de route) en demande 450 à 500 t, et le reste couvre deux mois sur place, feux couverts |
+| **Cales avant** | Marchandises | **Soutes de charbon supplémentaires** : 700 t en tout. À 9 nœuds, la machine brûle **environ 23 t par jour** de charbon du Sulcis ; le voyage Cagliari – Manche – Cagliari (environ 4 500 milles) en demande ~420 t, et deux mois sur place ~135 t (§6.3 ter) |
 | **Cale arrière et mât arrière** | Mât de charge de 3 à 5 t | **Grue de 5 t** : mât arrière renforcé, bigue lourde, treuil à vapeur. **Ber de l'hydravion** sur le panneau renforcé de la cale arrière ; le Loire 130 y repose **ailes repliées** [🔎 repliage des ailes du Loire 130], sous une bâche. En dessous, la **soute d'essence isolée** (3 à 5 t en fûts, §6.3) et l'atelier d'aviation |
 | **Faux-pont** | Entrepont de marchandises | **L'infirmerie** : salle de soins et de petite chirurgie, **six lits**, **une chambre d'isolement de deux lits**, une **étuve à désinfection** pour l'épouillage (la leçon du typhus craint en 1942, [36](36-expedition-de-la-manche.md) §7) ; le **laboratoire** ; les **cabines des passagers de mission** ; le **poste des fusiliers marins** et une **soute à armes** fermée à clé ; un poste pour **20 à 30 survivants** recueillis |
 | **Passerelle** | Poste radio de cargo, de faible portée | **Station radio à longue portée** : un émetteur à ondes courtes pris sur un croiseur désarmé ([29](29-flotte-des-annees-1950.md) §7, les donneurs de pièces), des récepteurs de trafic, une antenne tendue entre les deux mâts, **un jeu de lampes d'émission de rechange** réservé au navire ([16](16-contacts-radio.md) §7, l'atelier des lampes). Portée visée : la vacation avec Cagliari depuis la Manche et l'Écosse, de jour ou de nuit selon la bande |
@@ -207,12 +207,79 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 - **1949 – 1952** : **second** pendant les essais, sous un commandant plus ancien [à décider ; proposition : l'ancien commandant du *Volta*, le capitaine de frégate de 1942 ([36](36-expedition-de-la-manche.md) §3.3)].
 - **1952** : **commandant** du navire, vers 33 ou 34 ans. Il le conduit au premier voyage vers la Bretagne, **dix ans après l'expédition de la Manche.**
 
+### 6.3 ter L'autonomie du prototype [estimation 🔧 ; calcul : `calculs/autonomie_prototype.py`]
+
+**La question de l'auteur** : combien de charbon embarquer, quelle réserve d'électricité, et combien de temps le navire tient-il loin de tout ? Le calcul ci-dessous donne des ordres de grandeur ; toutes les hypothèses sont dans le script.
+
+**Les hypothèses** :
+- **La coque** : déplacement en charge d'environ 3 800 t ; puissance donnée par le **coefficient de l'Amirauté** (≈ 200 pour un cargo de 1940), qui fait varier la puissance comme le **cube de la vitesse**.
+- **Le charbon** : celui du **Sulcis** (~5 000 kcal/kg, [15](15-energie.md) §5), dont il faut **1,5 fois plus** que de bon charbon gallois : environ **1,05 kg par cheval et par heure** pour une machine à triple expansion, au lieu de 0,7. **Gibraltar n'a pas de charbon à lui** : son dépôt est fait de charbon sarde apporté par l'*Anadyr* ([07](07-le-monde-apres.md) §2 bis). On compte 1 t par jour pour les auxiliaires en route.
+- **La voile d'appoint** : une économie **prudente de 10 %** sur les traversées océaniques, aucune dans la Manche.
+- **Au mouillage** : 3 t par jour avec une chaudière sous pression (dynamo, cuisine, évaporateur, grue), 1,5 t en veille ; moitié-moitié sur un séjour.
+- **La réserve** : on ne compte jamais sur les **15 derniers %** de la soute.
+
+**1. La machine** :
+
+| Vitesse | Puissance | Charbon par jour | Charbon par mille (avec la voile) | Rayon d'action avec 700 t (réserve gardée) |
+|---|---|---|---|---|
+| 7 nœuds | ~420 ch | ~11,5 t | ~62 kg | ~9 600 milles |
+| 8 nœuds | ~620 ch | ~16,7 t | ~78 kg | ~7 600 milles |
+| **9 nœuds** (route) | ~890 ch | **~23 t** | ~97 kg | **~6 100 milles** |
+| 10 nœuds | ~1 220 ch | ~32 t | ~119 kg | ~5 000 milles |
+
+Chaque nœud au-dessus de 8 coûte cher : à 7 nœuds, le navire va **deux fois plus loin** qu'à 10 avec le même charbon. Le prototype fait route à **9 nœuds** sur l'océan et à **8** dans la Manche (mines, épaves, passes).
+
+**2. Le voyage type** : Cagliari – Gibraltar – Lorient – Brest – Plymouth – Portsmouth – baie de Seine – Ouessant – Gibraltar – Cagliari, environ **4 500 milles** avec les allées et venues, et **60 jours sur place**.
+
+| Cas | Soute au départ | Escales de charbon | Durée | Point bas de la soute | Verdict |
+|---|---|---|---|---|---|
+| A | 700 t | Gibraltar, à l'aller et au retour | ~85 jours | ~300 t (43 %) | Large marge |
+| A bis | 700 t | Aucune | ~81 jours | ~145 t (21 %) | Possible, juste au-dessus de la réserve |
+| B | 1 000 t (cale 2 en soute de réserve) | Gibraltar | ~85 jours | ~600 t (60 %) | Très large |
+| E | 700 t | Gibraltar ; **extension vers Milford Haven et la Clyde** (+1 150 milles, B77) | ~90 jours | ~190 t (27 %) | Possible |
+| D | 1 000 t | Gibraltar ; extension vers la Clyde | ~90 jours | ~490 t (49 %) | Large marge |
+
+**Ce que le calcul apprend** :
+- **Le voyage brûle environ 420 t de route et 135 t de séjour.** Avec 700 t et un plein à Gibraltar, le prototype peut rester **près de cinq mois** sur place (~145 jours) avant d'entamer sa réserve.
+- **Le charbon n'est donc pas la limite : ce sont les vivres, l'eau et les hommes.** Les vivres sont prévus pour 120 jours ; l'équipage, lui, se fatigue.
+- **Gibraltar est une sécurité, pas une nécessité** : sans lui (cas A bis), le voyage passe encore, mais sans marge pour une tempête, une panne ou un détour.
+- **La cale 2 peut rester libre** pour le grain des échanges, les recueillis, les plans et les livres, ou recevoir 300 t de charbon de réserve si l'on va jusqu'à la Clyde.
+
+**3. L'électricité et les batteries** :
+- **Le réseau** : 110 V continu, comme sur les navires de 1940, fourni par **deux dynamos à vapeur de 25 kW** (dont une de secours). La station radio principale (~1 kW à l'antenne, ~3 kW absorbés) ne tourne que sur dynamo.
+- **Le pire cas** : **chaudières éteintes** (avarie, manque d'eau, ou navire à la voile seule). Alors tout repose sur la **batterie d'accumulateurs** :
+
+| Charge de secours | Énergie par jour |
+|---|---|
+| Émetteur de secours (~150 W à l'antenne, une heure de vacation) | 0,4 kWh |
+| Récepteur de trafic (12 h d'écoute) | 0,5 kWh |
+| Éclairage de secours (300 W, 6 h) | 1,8 kWh |
+| Infirmerie (100 W, 8 h) | 0,8 kWh |
+| Sondeur et divers | 0,3 kWh |
+| **Total** | **~3,8 kWh par jour** |
+
+- **La batterie** : pour **dix jours sans vapeur**, sans jamais descendre sous la moitié de la charge, il faut **~76 kWh** : **55 éléments au plomb de 2 V et d'environ 700 Ah**, soit **~3 t** (≈ 55 kg par élément), logés dans un local ventilé au faux-pont, bas dans la coque, où ils servent aussi de lest. Les feux de route sont doublés de **fanaux à pétrole**.
+- **D'où vient la batterie** : de l'**atelier des accumulateurs** monté pour le sous-marin *Alagi* (plomb de l'Iglesiente, acide des chambres de plomb, séparateurs en bois, [29](29-flotte-des-annees-1950.md) §4.1). Le prototype est son **deuxième client**, avec une batterie vingt fois plus petite que celle d'un sous-marin.
+- **La recharge** : sur la dynamo, à environ 70 A (~8 kW) pendant une douzaine d'heures. **Après 1951**, un **groupe de secours semi-Diesel de 5 kW** au brut d'Albanie (§2.4) recharge la batterie sans vapeur, pour une quarantaine de kilos de brut.
+
+**4. L'eau, les vivres, l'essence** :
+
+| Poste | Besoin | Réserve | Autonomie |
+|---|---|---|---|
+| **Eau de boisson** | 10 L par personne et par jour : 0,6 t/j pour 60, 0,9 t/j avec 30 recueillis | 50 t (caisses du double fond) | **~80 jours** sans évaporateur (~55 avec les recueillis) |
+| **Eau des chaudières** | ~1,4 t/j en route (1 % de la vapeur perdue) | ~100 t d'eau d'alimentation | Refaite par l'**évaporateur** (dans les 1 t/j des auxiliaires) |
+| **Vivres** | ~1,3 kg par personne et par jour | **~12 t** (120 jours pour 60, plus 60 jours pour 30 recueillis) | 120 jours, plus la pêche |
+| **Essence d'aviation** | ~130 kg par heure de vol du Loire 130 ([36](36-expedition-de-la-manche.md) §3.2) | 4 t en fûts | **~26 h de vol**, soit 8 ou 9 vols de trois heures, pertes comprises |
+
+**5. Les masses** : avec 700 t de charbon, l'eau, les vivres, l'hydravion, la vedette et le matériel, le navire n'embarque que **~900 t** sur ses 2 500 t de port en lourd. Il lui reste **~1 600 t** : le grain pour Brest, les recueillis, les plans et les livres au retour, et **du lest** (eau de mer, pierres), car un cargo trop léger roule fort et découvre son hélice. Le poids n'est jamais la limite ; **la place et les hommes** le sont.
+
 ### 6.4 Ce qu'il reste à décider
 
 - ✅ **La coque** : un **cargo désarmé de 1940** (B76, option A). 🔎 Reste à choisir **le navire réel** parmi les cargos retenus à l'îlot en 1940.
 - ✅ **Le calendrier** : transformation pendant l'épidémie, armement en 1949, premier voyage en 1952-1954 (B75, option A). ❓ Reste l'**année exacte** du premier voyage (1953 ? 1954, pendant le creux radio ?).
 - **L'itinéraire** : la Bretagne et la Manche seulement, ou jusqu'à la Clyde et Scapa Flow ? (B77)
 - **Le nom** du navire, et celui du chef de l'expédition s'il n'est pas le commandant (B78). ❓ Le commandant des essais (1949-1952).
+- **L'autonomie** (§6.3 ter) : la soute (700 t, ou 700 t et la cale 2 convertible en soute de 300 t), la durée du séjour sur place, et l'autonomie de la batterie (dix jours sans vapeur proposés). (B91)
 
 ### 6.5 Ce qu'on ira chercher : les savants de l'Angleterre [canon : option B89 C ; provisoire : détail]
 
@@ -252,3 +319,4 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 6. 🔎 **Les techniques** : diffusion de la turbine Bauer-Wach sur les chalutiers des années 1930 ; moteurs à boule chaude dans la pêche italienne et dans les fermes sardes en 1940 ; bateaux de pêche au gazogène en Scandinavie pendant la guerre ; caractéristiques du Loire 130 (masse en charge, autonomie, reprise à la grue).
 7. 🔎 **Les mines de la Manche** : champs posés en 1939-1940 ; durée de vie des orins et des mines à orin.
 8. 🔧 **Les gains** : économie réelle de la voile auxiliaire en Méditerranée occidentale ; consommation d'un cargo mixte de 3 000 tpl ; productivité d'un mineur du Sulcis sans machines.
+9. ❓ **L'autonomie du prototype** (§6.3 ter) : la soute (700 t, ou la cale 2 convertible en soute de 300 t), la durée du séjour, l'autonomie de la batterie (B91). 🔧 Hypothèses du calcul à vérifier (B92).
