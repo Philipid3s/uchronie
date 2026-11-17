@@ -67,9 +67,8 @@ Depuis juillet 1940, les équipages français vivent sans nouvelles. **L'appel d
 | | | | | 30 | Pavillon national |
 
 **Écarts de l'image au canon et à l'histoire** :
-- **Une antenne radar** en haut du mât de misaine (21) : la Marine française n'en a pas en 1940, et l'îlot n'en fabrique pas. À ignorer.
-- **Les tubes lance-torpilles** (deux affûts triples et deux doubles sur l'axe) **manquent** [histoire].
-- **Les chaufferies et les cheminées ne sont pas alignées** : dans le navire réel, les conduits de fumée montent des chaudières aux cheminées ; l'image place les turbines sous les cheminées 🔎.
+- **Les tubes lance-torpilles** : l'image montre une rangée de tubes entre les cheminées, mais sous le pont. Dans le navire réel, deux affûts triples et deux doubles sont **sur le pont**, dans l'axe [histoire].
+- **Les chaufferies et les cheminées ne sont pas alignées** : dans le navire réel, les conduits de fumée montent des chaudières aux cheminées. Ici, les conduits coudés plongent vers les salles des machines (10-11), et les chaudières (8-9) restent sous l'arrière 🔎.
 - **Le n° 16 manque** dans la numérotation.
 - **Les embarcations supplémentaires** et la peinture rouillée sont voulues : ce sont les traces de deux ans sans carénage et les préparatifs de l'expédition.
 
