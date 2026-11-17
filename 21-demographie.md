@@ -318,11 +318,12 @@ On part des **besoins de l'île en 1950** (nourriture, énergie, vêtements, san
 
 | Origine | 1946 | Part | En 1960 |
 |---|---|---|---|
-| Sardes (civils) | ~24 750 | 51 % | Toujours la majorité, mais les enfants de couples mixtes sont **la moitié des naissances** |
+| Sardes (civils) | ~24 600 | 50 % | Toujours la majorité, mais les enfants de couples mixtes sont **la moitié des naissances** |
 | Marins et civils des flottes (Français, Britanniques) | ~16 300 | 33 % | Une génération d'hommes de 40 à 60 ans, au sommet de la hiérarchie |
 | Militaires italiens | ~3 300 | 7 % | Fondus dans la population |
 | Corses | ~3 000 | 6 % | Pêcheurs, marins, médecins |
 | Second départ de Toulon (1944) | ~1 000 | 2 % | Ouvriers d'arsenal, marins et familles ([33](33-toulon.md) §5) |
+| Familles de Brest (1942) | ~140 | 0,3 % | Femmes et enfants des marins de la Force de Raid, ramenés par l'expédition de la Manche ([36](36-expedition-de-la-manche.md) §6.2) |
 | Rescapés de Bizerte et Maltais | ~650 | 1 % | — |
 | Entrées de 1949-1959 : dotées, recueillis, villages de la Barbagia (§4.7) | — | — | ~7 850 (10 %) |
 

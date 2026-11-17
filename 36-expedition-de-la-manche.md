@@ -65,7 +65,9 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 - **Pourquoi lui** [canon provisoire] : Devonport a appelé la Force H ; c'est à un officier britannique d'entrer à Plymouth et à Portsmouth. Somerville le propose, Gensoul l'accepte à condition que **Brest et Lorient soient l'affaire des Français**.
 - **Sa marque** : il la garde sur **son propre navire**, le *Faulknor*, en tête de la force. Le *Georges Leygues* garde son commandant ; c'est le navire-base de l'expédition (hydravion, grain, soins, passagers).
 
-**Le commandant du *Volta*** (décision de l'auteur) : un **personnage inventé**, qui remplace le commandant réel de 1940. **Il sera l'un des protagonistes du futur roman.** [nom, âge et origine à décider, B88]
+**Le commandant du *Volta*** (décision de l'auteur) : un **personnage inventé**, qui remplace le commandant réel de 1940. **Il sera l'un des protagonistes du futur roman.** [nom à décider, B88]
+- **Son profil** (option C) : **Brestois**, capitaine de frégate, une quarantaine d'années. Sa femme et ses enfants vivaient à Brest en 1940. **Ils ont quitté la ville en juin 1940**, à l'arrivée des Allemands, pour la campagne, chez des parents [lieu à décider : la presqu'île de Crozon, le Léon ou les monts d'Arrée].
+- **Ce que cela change** : pour les retrouver, il doit aller **à l'intérieur des terres**, à 30 ou 60 km de la rade, contre le calendrier de trois semaines et contre la prudence de de Salis. Le partage voulu par Gensoul (« Brest et Lorient sont l'affaire des Français ») lui donne la main à terre, mais pas la force.
 
 ## 4. La route et le calendrier [canon provisoire]
 
@@ -75,7 +77,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 | **23 – 25 juin** | **Gibraltar** | On complète les soutes au dépôt du Rocher ([07](07-le-monde-apres.md) §2 bis) ; la garnison donne ses cartes des champs de mines de 1939-1940 |
 | **29 – 30 juin** | **Lorient** | Reconnaissance par la mer et par l'hydravion (§6) |
 | **1er – 7 juillet** | **Brest** | Entrée dans le goulet le **2 juillet 1942**, deuxième anniversaire de la catastrophe. Débarquement, recherche des familles (§6) |
-| **9 – 12 juillet** | **Plymouth** (Devonport) | Le *Faulknor* entre le premier (§6) |
+| **9 – 12 juillet** | **Plymouth** (Devonport) | Le *Faulknor* entre le premier (§6). **Le *Volta* reste à Brest** (§6.2) |
 | **13 – 14 juillet** | **Portsmouth** et le Solent | Reconnaissance par la mer |
 | **15 – 18 juillet** | **Baie de Seine** | Mouillage devant Le Havre ; **vol vers le cratère** (§6.4) |
 | **19 – 21 juillet** | Retour par Brest | On reprend ceux qui partent (§6.2) |
@@ -95,25 +97,31 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 | **Les mines** | Champs de mines britanniques et allemands de 1939-1940 devant les ports et dans la Manche 🔎. On suit les routes des cartes de Gibraltar, avec un contre-torpilleur en tête |
 | **Les terres** | Forêts mortes ou brûlées, champs gelés, villes incendiées ; **aucune fumée de cheminée** sur des dizaines de kilomètres, sauf autour de quelques points habités |
 
-## 6. Ce qu'on trouve [canon provisoire : cadre ; à décider : les survivants]
+## 6. Ce qu'on trouve [canon : options B84, B85, B83 ; provisoire : détail]
 
 ### 6.1 Lorient (29-30 juin)
-
 - **En 1940** [histoire] : la Kriegsmarine occupe le port depuis le 21 juin 1940 et y prépare une base de sous-marins.
-- **En 1942** [proposition] : la ville est brûlée. Autour de l'arsenal flotte un pavillon. Le Loire 130 voit des hommes en armes et des fumées. Une embarcation du *Volta* est accueillie **à coups de fusil**. On n'insiste pas : c'est sans doute une **garnison allemande devenue seigneurie armée** autour des dépôts de la Kriegsmarine ([07](07-le-monde-apres.md) §1). [à décider, B84]
+- **Ce qu'on trouve** (option B) : **une communauté mixte**. La ville est brûlée, mais autour de l'arsenal et de Kéroman vivent quelques centaines de personnes : des **marins de la Kriegsmarine** restés après l'automne 1940 et des **Lorientais**, ouvriers de l'arsenal, pêcheurs et familles. Ils sont menés par un **officier de marine allemand** [personnage inventé, à nommer]. Deux ans de faim commune ont effacé l'occupation ; on parle un mélange de français, de breton et d'allemand.
+- **La rencontre** : un coup de fusil de semonce accueille l'embarcation du *Volta*. Puis on parlemente, par les interprètes, à la cale de l'arsenal. **Brest et Lorient sont l'affaire des Français** : c'est le commandant du *Volta* qui mène la parlementation.
+- **Le troc, sans débarquer** : du grain et des médicaments contre **les cartes allemandes des champs de mines** de la Manche et de l'Iroise, et contre des nouvelles : en septembre 1940, une colonne de la garnison a tenté de rejoindre l'Allemagne par la route ; quelques hommes sont revenus, et ils racontent un pays brûlé et gelé jusqu'à la Loire.
+- **La suite** [canon provisoire] : Lorient demande qu'on revienne. On le promet, sans date.
 
-### 6.2 Brest (1er-7 juillet)
+### 6.2 Brest (1er-21 juillet)
 
 - **En 1940** [histoire] : les Allemands entrent dans Brest le 19 juin 1940. La flotte et l'École navale sont parties.
 - **La ville** : à la limite de la zone des toitures arrachées ([02](02-impact-rambouillet.md)). Elle a brûlé en partie pendant la nuit de feu, mais **l'arsenal de la Penfeld et le château tiennent debout**. C'est le port le mieux conservé de la côte.
-- **Les survivants** [proposition, à décider : B85] : quelques **centaines à un ou deux milliers** de personnes, autour de l'arsenal, des abris et des fermes du Léon. Ce sont des ouvriers de l'arsenal, des marins restés à terre, des familles, des paysans. **La garnison allemande** est partie vers l'est à l'automne 1940, ou s'est dissoute dans le pays.
-- **Les familles** : on affiche à l'arsenal les listes des équipages de Gensoul. **Les retrouvailles** sont le cœur de l'expédition, et la raison de son retour par Brest (§4). Combien de familles retrouvées, et combien de personnes repartent : [à décider, B85].
+- **Ce qu'on trouve** (option B) : **un vrai îlot breton**, de **1 500 à 2 000 personnes**, autour de l'arsenal, du château et des fermes du Léon : ouvriers de l'arsenal, marins et réservistes restés à terre, familles, paysans. Ils sont menés par un **ingénieur du Génie maritime** de l'arsenal [personnage inventé, à nommer]. **La garnison allemande** est partie vers l'est à l'automne 1940 ; quelques soldats sont restés et se sont fondus dans le pays. L'îlot a les cinq conditions de [07](07-le-monde-apres.md) §1 bis : une institution (l'arsenal), du bois et de la tourbe, la mer, des livres et une défense.
+- **Ils refusent de partir.** Brest est leur pays, et ils tiennent. Ils demandent du grain, des médicaments, des semences, et **un rendez-vous radio** : on leur laisse des heures de vacation et des lampes d'émission.
+- **Les familles** : on affiche à l'arsenal les listes des équipages de Gensoul. Les familles des marins de la Force de Raid qu'on retrouve à Brest et dans les environs peuvent partir. **Environ 150 personnes** embarquent au retour, le 19 juillet, presque toutes des **femmes et des enfants** [canon provisoire].
+- **Le commandant du *Volta*** (§3.3) obtient de de Salis que **le *Volta* reste à Brest** pendant que le *Faulknor* et le *Georges Leygues* vont à Plymouth et en baie de Seine (9-18 juillet). Il part à terre, avec quelques marins et un guide de l'îlot breton, chercher sa famille à l'intérieur. **Ce qu'il trouve est laissé au roman.**
+- **Après 1942** [canon provisoire] : les vacations avec Brest tiennent jusqu'à la fermeture de l'île, puis se perdent dans le silence de 1944-1946 ([16](16-contacts-radio.md) §5). **Brest est la destination naturelle du navire de longue expédition** des années 1950 ([35](35-navires-de-l-ilot.md) §6).
 
 ### 6.3 Plymouth (9-12 juillet)
 
 - **L'arsenal de Devonport** : endommagé, mais debout (il est à 470 km du cratère, comme Brest).
-- **Ceux qui ont appelé** [à décider : B83] : le silence depuis mai pèse sur l'arrivée. Qui trouve-t-on dans la station radio, et que deviennent-ils ?
-- **Les nouvelles du nord** : Devonport sait peut-être, ou croit savoir, que le gouvernement s'est replié vers la Clyde et Scapa Flow ([07](07-le-monde-apres.md) §1).
+- **Ce qu'on trouve** (option B) : **personne**. La station radio est vide, l'émetteur démonté et emporté. Un message est cloué au mur, en anglais et en signaux : les survivants (quelques centaines) ont attendu la réponse de Cagliari ; elle disait « nous viendrons cet été ». Ils n'avaient plus de quoi attendre. **Début mai 1942, ils sont partis vers le nord, par la mer, pour le pays de Galles** (Milford Haven, les mines de charbon) [canon provisoire : destination], en laissant la date, leur nombre et l'indicatif qu'ils utiliseront.
+- **De Salis ne les suit pas** : le mazout, le calendrier, et le *Volta* resté à Brest. Il laisse à son tour un message et du grain dans la station.
+- **La piste** : le pays de Galles et, au-delà, la Clyde et Scapa Flow ([07](07-le-monde-apres.md) §1) deviennent l'objectif d'un voyage futur ([35](35-navires-de-l-ilot.md) §6, B77). L'indicatif laissé à Devonport est écouté chaque nuit à Cagliari [à décider : l'entend-on ?].
 
 ### 6.4 Portsmouth, la baie de Seine et le vol vers le cratère (13-18 juillet)
 
@@ -123,7 +131,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 
 ## 7. Le retour et la quarantaine (fin juillet 1942) [canon provisoire]
 
-- **Pas encore de peste en Europe de l'Ouest** : la Morìa naît au Kurdistan à la fin de l'été 1942 ([14](14-epidemie.md)). Mais on craint le **typhus** des abris et les poux. Les passagers font **trois semaines de quarantaine** et sont épouillés au lazaret de l'île de San Macario, devant Cagliari [lieu à vérifier 🔎].
+- **Pas encore de peste en Europe de l'Ouest** : la Morìa naît au Kurdistan à la fin de l'été 1942 ([14](14-epidemie.md)). Mais on craint le **typhus** des abris et les poux. Les **environ 150 passagers de Brest** font **trois semaines de quarantaine** et sont épouillés au lazaret de l'île de San Macario, devant Cagliari [lieu à vérifier 🔎]. Ils sont inscrits au rôle à la fin d'août 1942 ; environ 140 sont encore en vie en 1946 ([21](21-demographie.md) §6).
 - **Le Rapport de la Manche** : l'équipe d'observation et le chef de l'expédition le remettent au Conseil en septembre 1942. Il décrit l'état des ports, des terres et des survivants, et il contient les photographies du cratère. C'est le **premier document de l'îlot sur l'Europe après la catastrophe** ; il sera recopié pour la bibliothèque ([19](19-savoir-et-medecine.md)).
 
 ## 8. Les leçons de 1942 : pourquoi un navire de longue expédition [canon provisoire]
@@ -143,8 +151,9 @@ D'où la commande du Conseil au **Bureau des plans** en 1946-1947 : un **navire 
 4. ✅ **L'Albanie (1950)** devient la première sortie après l'épidémie (décision de l'auteur).
 5. ✅ **Le chef de l'expédition** : un Britannique, officier réel de 1940 (décision de l'auteur) : le captain **Antony Fane de Salis**, du *Faulknor* (§3.3).
 5 bis. ✅ **Le commandant du *Volta*** : un personnage inventé, protagoniste du futur roman (décision de l'auteur). ❓ Nom, âge, origine (B88).
-6. ❓ **Devonport** : pourquoi le silence depuis mai, et que trouve-t-on dans la station radio ?
-7. ❓ **Lorient** : garnison allemande devenue seigneurie armée, comme proposé ?
-8. ❓ **Brest** : combien de survivants, quelle société, combien de familles retrouvées, combien de personnes ramenées dans l'île ? Effet à reporter dans le modèle de démographie ([21](21-demographie.md)).
+5 ter. ✅ **Son profil** : Brestois, sa famille a quitté Brest en juin 1940 pour la campagne ; il la cherche à l'intérieur pendant que le *Volta* reste à Brest (option C). Ce qu'il trouve est laissé au roman.
+6. ✅ **Devonport** : les survivants sont partis vers le pays de Galles début mai 1942, en laissant un message (option B). ❓ Leur nombre, leur chef, et l'îlot entend-il leur indicatif plus tard ?
+7. ✅ **Lorient** : une communauté mixte de marins allemands et de Lorientais, menée par un officier allemand ; parlementation et troc sans débarquer (option B). ❓ Le nom de cet officier.
+8. ✅ **Brest** : un vrai îlot breton de 1 500 à 2 000 personnes, mené par un ingénieur du Génie maritime ; il refuse de partir ; environ 150 personnes des familles des marins rejoignent l'île (option B ; modèle de démographie mis à jour). ❓ Le nom de l'ingénieur ; le lieu de refuge de la famille du commandant du *Volta*.
 9. 🔎 **À documenter** : les familles de la Force de Raid à Brest en 1940 ; les hydravions des croiseurs de la classe *La Galissonnière* (catapulte, grue, nombre d'appareils) ; l'autonomie du Loire 130 ; les champs de mines de la Manche en 1939-1940 ; le lazaret de Cagliari en 1942.
 10. 🔧 **À vérifier** : la consommation de mazout des trois navires ; la dérive des glaces dans la Manche à l'été 1942.

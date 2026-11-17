@@ -165,7 +165,7 @@
     - pour le savoir et la médecine ([19](19-savoir-et-medecine.md)) : Brotzu dans le camp du Roi en juillet 1940, la **règle des diplômes** (hors quota, examen des diplômes, officier assimilé à l'essai), le **grand recensement des savoirs** de 1943, les **maîtres de savoir** et les ***Cahiers des métiers***, le **Conservatoire de l'Îlot** (1950), la **consigne des livres** et la **règle des trois copies**, les cours d'infirmières de bord (1940-43), l'École d'infirmières (1944), les premiers médecins formés dans l'îlot (1950), la céphalosporine de Su Siccu restée dans l'île ;
     - pour l'éclairage et la radio ([15](15-energie.md) §6 bis, [16](16-contacts-radio.md) §7) : la **veillée commune**, la lampe à pétrole comme signe de prospérité vers 1958, l'**atelier des lampes** du *Commandant Teste* (vers 1950) et les premières lampes faites dans l'îlot (vers 1955) ;
     - pour les lignes des avant-postes ([29](29-flotte-des-annees-1950.md) §4.5) : le calendrier type, les escortes, le *Canopo* au-devant du cargo de Gibraltar ;
-    - pour l'expédition de la Manche ([36](36-expedition-de-la-manche.md)) : le **commandant du *Volta*** [personnage inventé, voulu par l'auteur : protagoniste du futur roman ; ne pas remplacer], l'**appel de Devonport** (avril 1942), le vote du 9 mai, la **réserve d'essence du Conseil** (6 t), le calendrier (Brest le 2 juillet, vol du cratère le 17 juillet), l'accueil de Lorient, le **Rapport de la Manche**, le rattrapage du mazout en 1943-1944 ;
+    - pour l'expédition de la Manche ([36](36-expedition-de-la-manche.md)) : le **commandant du *Volta*** [personnage inventé, voulu par l'auteur : protagoniste du futur roman ; ne pas remplacer], l'**appel de Devonport** (avril 1942), le vote du 9 mai, la **réserve d'essence du Conseil** (6 t), le calendrier (Brest le 2 juillet, vol du cratère le 17 juillet), l'accueil de Lorient, le **Rapport de la Manche**, le rattrapage du mazout en 1943-1944, la **communauté mixte de Lorient** et son officier allemand, l'**îlot breton de Brest** et son ingénieur du Génie maritime, les ~150 passagers de Brest, le **départ de Devonport vers le pays de Galles** ;
     - pour les navires de l'Îlot ([35](35-navires-de-l-ilot.md)) : le **Bureau des plans** (1946, à bord du *Commandant Teste*), la quinzaine de paires de *paranze* vers 1950, la turbine d'échappement de l'*Anadyr*, la **série des chalutiers mixtes** (1956-1960), le programme du navire de longue expédition ;
 
 **Règle des noms** (décision de l'auteur, 11 novembre 2026) : les commandants et officiers de 1940 portent **leur nom réel quand on le retrouve**, un **nom inventé sinon**, à remplacer si le nom réel apparaît plus tard.
@@ -273,12 +273,16 @@
 
 82. ✅ **Le chef de l'expédition** (intégré dans [36](36-expedition-de-la-manche.md) §3.3) : un Britannique, officier réel de 1940 : le captain **Antony Fane de Salis**, commandant du *Faulknor* et *Captain (D)* de la 8ᵉ flottille.
 [JR] Chef de l Expedition a un anglais (officier reel de 1940) - J aimerais juste que le Capitaine du navire Francais Volta soit un personnage fictif - il sera en fait l un des protagoniste du futur roman.
-83. ❓ **Devonport** : pourquoi le silence depuis mai 1942, et que trouve-t-on dans la station radio ?
-84. ❓ **Lorient** : une garnison allemande devenue seigneurie armée, comme proposé ?
-85. ❓ **Brest** : combien de survivants, quelle société, combien de familles retrouvées, combien de personnes ramenées dans l'île (effet sur le modèle de démographie, [21](21-demographie.md)) ?
+83. ✅ **Devonport** (intégré dans [36](36-expedition-de-la-manche.md) §6.3, option B) : les survivants sont partis vers le pays de Galles début mai 1942, en laissant un message ; de Salis ne les suit pas. ❓ Restent leur nombre, leur chef, et si l'îlot entend leur indicatif plus tard.
+[JR] B83 : B
+84. ✅ **Lorient** (intégré dans [36](36-expedition-de-la-manche.md) §6.1, option B) : une communauté mixte de marins allemands et de Lorientais, menée par un officier allemand ; parlementation et troc (grain contre cartes des champs de mines), sans débarquer. ❓ Reste le nom de l'officier.
+[JR] B84 : B
+85. ✅ **Brest** (intégré dans [36](36-expedition-de-la-manche.md) §6.2, option B) : un îlot breton de 1 500 à 2 000 personnes, mené par un ingénieur du Génie maritime ; il refuse de partir, reçoit grain, semences et heures de vacation ; ~150 personnes des familles des marins rejoignent l'île (modèle de démographie, [21](21-demographie.md) et atlas mis à jour). ❓ Reste le nom de l'ingénieur.
+[JR] B85 : B
 86. 🔎 **À documenter** : les familles de la Force de Raid à Brest en 1940 ; les hydravions des croiseurs de la classe *La Galissonnière* (catapulte, grue, nombre) ; l'autonomie du Loire 130 ; les champs de mines de la Manche (1939-1940) ; le lazaret de Cagliari en 1942.
 87. 🔧 **À vérifier** : la consommation de mazout des trois navires ; la dérive des glaces dans la Manche à l'été 1942.
-88. ❓ **Le commandant du *Volta*** (personnage inventé, protagoniste du futur roman) : nom, âge, origine, lien avec Brest.
+88. ✅ **Le commandant du *Volta*** (intégré dans [36](36-expedition-de-la-manche.md) §3.3 et §6.2, option C) : Brestois, capitaine de frégate ; sa famille a quitté Brest en juin 1940 pour la campagne ; il la cherche à l'intérieur pendant que le *Volta* reste à Brest ; ce qu'il trouve est laissé au roman. ❓ Restent son **nom** et le lieu de refuge de sa famille (Crozon, le Léon, les monts d'Arrée).
+[JR] B88 : C
 
 ## C. Points scientifiques à affiner
 
