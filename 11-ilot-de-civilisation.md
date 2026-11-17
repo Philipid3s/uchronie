@@ -181,7 +181,7 @@ C'est un **triumvirat d'équilibre**, sur le modèle des coalitions de nécessit
 
 - **Gensoul et Somerville** s'opposent sur les rations : faut-il nourrir d'abord les combattants et les travailleurs, ou d'abord les familles ?
 - **Sportiello** défend les Sardes face à deux flottes étrangères. Napolitain et non sarde, il est pourtant le seul à pouvoir légitimer les réquisitions auprès de la population.
-- La **succession** se pose à mesure que les amiraux vieillissent : Somerville est né en 1882, Gensoul en 1880. Elle sera la première grande crise institutionnelle de l'îlot dans les années 1940-50. *[canon provisoire] Elle éclate en **1951, l'année des deux deuils** : Sportiello meurt pendant l'hiver 1950-1951, Somerville en 1951, et Gensoul reste le seul fondateur ([38](38-personnages-historiques.md) §6 ; succession à décider, B104).*
+- La **succession** se pose à mesure que les amiraux vieillissent : Somerville est né en 1882, Gensoul en 1880. Elle sera la première grande crise institutionnelle de l'îlot dans les années 1940-50. [canon provisoire] Elle éclate en **1951, l'année des deux deuils** : Sportiello meurt pendant l'hiver 1950-1951, Somerville en 1951, et Gensoul reste le seul fondateur ([38](38-personnages-historiques.md) §6 ; succession à décider, B104).
 
 ### Évolution du régime [canon]
 

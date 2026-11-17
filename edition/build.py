@@ -78,6 +78,11 @@ def table_chapitres():
     return renvois
 
 
+def titre_html(t):
+    """Titre de chapitre ou d'annexe en HTML : échappé, avec *italique* (noms de navires) en <em>."""
+    return re.sub(r"\*([^*]+)\*", r"<em>\1</em>", html.escape(t))
+
+
 def convertir_liens(texte, renvois):
     def lien(m):
         cible = m.group(2).split("#")[0]
@@ -395,10 +400,10 @@ def construire(parties_voulues, avec_annexes):
             if questions:
                 toutes_questions.append((n, titre, questions))
             cid = f"chap-{n}"
-            toc.append(f'<li class="toc-chap"><a href="#{cid}"><span class="n">{n}</span><span class="titre">{html.escape(titre)}</span></a></li>')
+            toc.append(f'<li class="toc-chap"><a href="#{cid}"><span class="n">{n}</span><span class="titre">{titre_html(titre)}</span></a></li>')
             corps.append(f'<section class="chapitre" id="{cid}" data-partie="{html.escape(nom)}">'
                          f'<header class="chap-tete"><p class="chap-num">Chapitre {n}</p>'
-                         f'<h1 class="chap-titre">{html.escape(titre)}</h1></header>'
+                         f'<h1 class="chap-titre">{titre_html(titre)}</h1></header>'
                          f'{indexer(md_html(md), cid, entrees)}</section>')
     if avec_annexes:
         toc.append('<li class="toc-partie"><a href="#annexes">Annexes</a></li>')
@@ -413,10 +418,10 @@ def construire(parties_voulues, avec_annexes):
                 contenu = page_index(entrees)
             else:
                 contenu = md_html(etat_de_la_bible(toutes_questions, renvois))
-            toc.append(f'<li class="toc-chap"><a href="#{aid}"><span class="n">{lettre}</span><span class="titre">{html.escape(titre)}</span></a></li>')
+            toc.append(f'<li class="toc-chap"><a href="#{aid}"><span class="n">{lettre}</span><span class="titre">{titre_html(titre)}</span></a></li>')
             corps.append(f'<section class="chapitre annexe" id="{aid}" data-partie="Annexes">'
                          f'<header class="chap-tete"><p class="chap-num">Annexe {lettre}</p>'
-                         f'<h1 class="chap-titre">{html.escape(titre)}</h1></header>{contenu}</section>')
+                         f'<h1 class="chap-titre">{titre_html(titre)}</h1></header>{contenu}</section>')
     return toc, corps, toutes_questions
 
 
