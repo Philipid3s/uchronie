@@ -163,6 +163,8 @@ C'est la réponse provisoire de l'îlot à la question du **rachat des captifs**
 - **La mémoire** : Carloforte a désormais **deux razzias** dans son histoire, 1798 et 1947, et une plaie de plus (le cordon de 1945). Le monument des captifs, sur le port, porte les deux dates [canon provisoire].
 - **La culture de l'Île fermée** : la course donne raison à ceux qui veulent garder l'île close ([14](14-epidemie.md) §5.6). Le débat des années 1950 entre fermeture et ouverture se nourrit des deux.
 
+*Carte : atlas de l'Îlot, planche « La course » (cartes/index.html#course) : chefferies voisines, ports corsaires, portée des courses, razzia de 1947 et expédition de 1951.*
+
 ## 9. Chronologie [canon provisoire, sauf mention]
 
 | Date | Événement |

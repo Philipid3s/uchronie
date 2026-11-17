@@ -117,6 +117,8 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 
 **Six semaines**, dont environ trois sur les côtes de la Manche.
 
+*Carte : atlas de l'Îlot, planche « Manche 1942 » (cartes/index.html#manche).*
+
 ## 5. Les conditions de l'été 1942 [estimation]
 
 *D'après le chapitre [04](04-climat.md).*

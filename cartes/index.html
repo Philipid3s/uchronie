@@ -189,7 +189,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   <header class="masthead">
     <span class="eyebrow">Uchronie · La Comète de juillet 1940 · Annexe de la bible (v3)</span>
     <h1>Atlas de l'<em>Îlot</em></h1>
-    <p class="lede">Quatorze planches pour suivre l'îlot de Sardaigne, de la nuit du 1er juillet 1940 à 1960 : les deux impacts, le choix du refuge, les routes de la flotte et la population, compte par compte.</p>
+    <p class="lede">Quinze planches pour suivre l'îlot de Sardaigne, de la nuit du 1er juillet 1940 à 1960 : les deux impacts, le choix du refuge, les routes de la flotte et la population, compte par compte.</p>
   </header>
 
   <nav class="atlas-nav" role="tablist" aria-label="Planches de l'atlas">
@@ -212,6 +212,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
       <span class="navpart" role="presentation"><b>III</b><span>Les routes</span></span>
       <div class="tabbar" role="presentation">
         <button class="tab" role="tab" id="tab-routes" aria-controls="view-routes" aria-selected="false">Mer de l'Îlot</button>
+        <button class="tab" role="tab" id="tab-manche" aria-controls="view-manche" aria-selected="false">Manche 1942</button>
         <button class="tab" role="tab" id="tab-course" aria-controls="view-course" aria-selected="false">La course</button>
         <button class="tab" role="tab" id="tab-malte" aria-controls="view-malte" aria-selected="false">Malte</button>
         <button class="tab" role="tab" id="tab-albanie" aria-controls="view-albanie" aria-selected="false">Albanie 1950</button>
@@ -325,6 +326,20 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
       <div class="notes">
         <p>Les lieux qui ne jouent pas de rôle pendant la période choisie sont estompés. Carré : avant-poste ; croix : base effondrée ; losange : rencontre.</p>
         <p>Survolez ou touchez une route ou un lieu pour le détail. Chapitres 06, 07, 11, 14, 15, 16, 18, 21 et 27 de la bible.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-manche" role="tabpanel" aria-labelledby="tab-manche" class="plate" hidden>
+    <div class="mapbox" id="map-manche"><div class="loading">Chargement de la carte…</div></div>
+    <div class="legend">
+      <h2>L'expédition de la Manche, été 1942</h2>
+      <p class="meta">Georges Leygues (avec un Loire 130), Faulknor et Volta, sous le captain Antony Fane de Salis — 20 juin – 31 juillet 1942</p>
+      <div class="key"><span><i class="swl" style="border-color:var(--c1)"></i>Aller</span><span><i class="swl" style="border-color:var(--c2);border-top-style:dashed"></i>Retour</span><span><i class="swl" style="border-color:var(--c4);border-top-style:dotted"></i>Vol du Loire 130 (17 juillet)</span><span><i class="swl" style="border-color:var(--ink-soft);border-top-style:dashed"></i>Départ des survivants de Devonport (mai)</span></div>
+      <table id="mn-table"></table>
+      <div class="notes">
+        <p>Cercles : distance au cratère de Rambouillet. À 155 km, Le Havre est détruit ; vers 460 – 470 km, Brest et Devonport sont les ports les mieux conservés de la côte. Pendant que le Faulknor et le Georges Leygues vont à Plymouth et en baie de Seine, le Volta reste à Brest (9 – 18 juillet).</p>
+        <p>Survolez ou touchez un lieu ou une route pour le détail. Chapitre 36 de la bible ; routes approximatives.</p>
       </div>
     </div>
   </section>
@@ -1765,6 +1780,100 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   }
   buildRouteChips();
 
+  // ---------- L'expédition de la Manche (1942) ----------
+  const MN_CRATER = [1.745, 48.585];
+  const MN_LEGS = [
+    { k: "aller", n: "Cagliari → Gibraltar", pts: [[9.11, 39.21], [8.0, 38.85], [3.5, 37.6], [-1.5, 36.7], [-5.2, 36.12]], date: "20 – 23 juin" },
+    { k: "aller", n: "Gibraltar → Lorient", pts: [[-5.4, 36.1], [-7.0, 36.0], [-9.7, 36.95], [-10.3, 39.5], [-10.1, 42.9], [-6.8, 46.0], [-3.55, 47.55], [-3.37, 47.7]], date: "25 – 29 juin" },
+    { k: "aller", n: "Lorient → Brest", pts: [[-3.37, 47.7], [-4.4, 47.72], [-4.95, 48.1], [-4.75, 48.33], [-4.49, 48.38]], date: "1er – 2 juillet" },
+    { k: "aller", n: "Brest → Plymouth", pts: [[-4.6, 48.36], [-5.0, 48.6], [-4.8, 49.6], [-4.2, 50.3]], date: "8 – 9 juillet" },
+    { k: "aller", n: "Plymouth → Portsmouth", pts: [[-4.1, 50.3], [-2.5, 50.35], [-1.1, 50.72]], date: "13 juillet" },
+    { k: "aller", n: "Portsmouth → baie de Seine", pts: [[-1.05, 50.7], [-0.5, 50.0], [0.0, 49.55]], date: "14 – 15 juillet" },
+    { k: "retour", n: "Baie de Seine → Brest", pts: [[0.0, 49.55], [-1.0, 49.95], [-3.5, 49.45], [-5.0, 48.62], [-4.6, 48.36]], date: "18 – 19 juillet" },
+    { k: "retour", n: "Brest → Gibraltar", pts: [[-4.75, 48.33], [-6.3, 47.2], [-10.5, 43.0], [-10.6, 39.5], [-9.9, 36.85], [-6.0, 35.95], [-5.4, 36.1]], date: "21 – 27 juillet" },
+    { k: "retour", n: "Gibraltar → Cagliari", pts: [[-5.2, 36.12], [-1.5, 36.55], [3.5, 37.45], [8.1, 38.7], [9.11, 39.21]], date: "27 – 31 juillet" },
+    { k: "vol", n: "Vol vers le cratère", pts: [[0.107, 49.49], [1.1, 49.44], [2.35, 48.86], [1.745, 48.585], [0.9, 49.1], [0.107, 49.49]], date: "17 juillet", note: "Kerlann remonte la Seine, passe sur Rouen, trouve Paris enseveli sous environ 5 m de débris, voit le rempart du cratère et revient : environ trois heures de vol" },
+    { k: "galles", n: "Les survivants de Devonport", pts: [[-4.14, 50.37], [-5.3, 50.2], [-5.9, 50.9], [-5.1, 51.65]], date: "Début mai 1942", note: "Quelques centaines de survivants partent par la mer vers le pays de Galles, en laissant un message" }
+  ];
+  const MN_STYLE = {
+    aller: { c: "--c1", dash: null, w: 2.4 }, retour: { c: "--c2", dash: "7 4", w: 2.2 },
+    vol: { c: "--c4", dash: "1.5 4", w: 2.4 }, galles: { c: "--ink-soft", dash: "6 4", w: 1.8 }
+  };
+  const MN_PLACES = [
+    ["Cagliari", 9.11, 39.21, "ilot", "20 juin – 31 juillet 1942", "Départ le 20 juin, retour le 31 juillet : quarantaine de précaution au lazaret ; ~150 passagers de Brest inscrits fin août", [8, 14, "start"]],
+    ["Gibraltar", -5.353, 36.14, "poste", "23 – 25 juin ; 27 juillet", "Soutes complétées au dépôt du Rocher ; la garnison donne ses cartes des champs de mines de 1939-1940", [8, 14, "start"]],
+    ["Lorient", -3.37, 47.75, "port", "29 – 30 juin", "Communauté mixte de marins allemands et de Lorientais, menée par Arnauld de la Perière : parlementation et troc, sans débarquer", [8, 12, "start"]],
+    ["Brest", -4.49, 48.39, "port", "1er – 21 juillet", "Entrée dans le goulet le 2 juillet, deuxième anniversaire de la catastrophe. Îlot breton de 1 500 à 2 000 personnes, qui refuse de partir ; ~150 personnes embarquent le 19. Le Volta y reste du 9 au 18 : son jeune officier part chercher sa famille à l'intérieur", [-8, -6, "end"]],
+    ["Roscoff", -3.98, 48.73, "savoir", "1942", "Station biologique : Georges Teissier part pour la Sardaigne ; Charles Pérez reste et garde sa bibliothèque", [6, -6, "start"]],
+    ["Concarneau", -3.92, 47.87, "savoir", "1942", "Le biologiste de Concarneau (à nommer) rejoint l'expédition", [-8, 10, "end"]],
+    ["Plymouth (Devonport)", -4.14, 50.37, "port", "9 – 12 juillet", "Personne : la station radio est vide. Les survivants sont partis en mai vers le pays de Galles. On emporte la bibliothèque du laboratoire", [-8, -6, "end"]],
+    ["Pays de Galles", -4.2, 51.95, "lieu", "Mai 1942", "Où sont partis les survivants de Devonport, avec Stanley Kemp : l'objectif d'un voyage futur", [6, -6, "start"]],
+    ["Portsmouth", -1.09, 50.8, "port", "13 – 14 juillet", "Arsenal ravagé, observé de la mer sans débarquer", [6, -6, "start"]],
+    ["Le Havre", 0.107, 49.49, "port", "15 – 18 juillet", "Ville détruite, à ~155 km du cratère ; des dizaines de centimètres d'éjectas sur les quais. Mouillage en baie de Seine", [-8, 12, "end"]],
+    ["Paris", 2.35, 48.86, "ruine", "17 juillet (vol)", "Ensevelie sous environ 5 m de débris : seuls émergent les plus hauts monuments", [6, -6, "start"]],
+    ["Cratère de Rambouillet", 1.745, 48.585, "cratere", "2 juillet 1940", "Impact du fragment B : un rempart de 25 km de diamètre, vu dans la brume par Kerlann le 17 juillet 1942", [6, 14, "start"]]
+  ];
+  function drawManche() {
+    const box = document.getElementById("map-manche");
+    const W = 760, H = 640;
+    const proj = d3.geoConicConformal().parallels([38, 50]).rotate([1, 0])
+      .fitExtent([[10, 10], [W - 10, H - 10]], { type: "MultiPoint", coordinates: [[-11.0, 35.2], [10.2, 35.2], [-11.0, 52.6], [10.2, 52.6]] });
+    const { svg, defs, g, path, tip } = mapFrame(box, W, H, proj, "Carte de l'expédition de la Manche, été 1942", 2);
+    Object.entries(MN_STYLE).forEach(([k, v]) => addArrow(defs, "mn-" + k, css(v.c)));
+    seaLabels(g, proj, [["Golfe de Gascogne", -5.6, 45.4], ["Océan Atlantique", -13.0, 41.0, -80], ["Manche", -2.6, 49.95], ["Méditerranée", 4.0, 38.2]]);
+
+    [[155, "155 km"], [465, "~465 km : Brest, Devonport"]].forEach(([km, lab]) => {
+      g.append("path").datum(circle(MN_CRATER, km)).attr("d", path).attr("fill", "none")
+        .attr("stroke", css("--accent")).attr("stroke-width", 1.2).attr("stroke-dasharray", "3 4").attr("stroke-opacity", .8);
+      const lb = proj(dest(MN_CRATER, 150, km + 18));
+      g.append("text").attr("class", "ringlabel").attr("x", lb[0]).attr("y", lb[1]).attr("text-anchor", "middle").text(lab);
+    });
+
+    const line = d3.line().curve(d3.curveCatmullRom.alpha(.5));
+    MN_LEGS.forEach(r => {
+      const st = MN_STYLE[r.k], d = line(r.pts.map(p => proj(p)));
+      const node = g.append("g").attr("tabindex", 0).style("cursor", "pointer").attr("aria-label", `${r.n}, ${r.date}`);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", "transparent").attr("stroke-width", 14);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", css("--land")).attr("stroke-width", st.w + 3).attr("stroke-opacity", .55);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", css(st.c)).attr("stroke-width", st.w)
+        .attr("stroke-dasharray", st.dash).attr("stroke-linecap", "round").attr("marker-end", `url(#mn-${r.k})`);
+      const km = lenKm(r.pts);
+      hoverable(node, tip, `<b>${r.n}</b><span class="k">${r.date}</span>${r.note ? "<br>" + r.note : ""}<br><span class="v">${fmt(Math.round(km / 5) * 5)} km · ${fmt(Math.round(km / NM / 5) * 5)} milles</span>`);
+    });
+
+    const SYM = { ilot: d3.symbolStar, poste: d3.symbolSquare, port: d3.symbolCircle, savoir: d3.symbolDiamond, lieu: d3.symbolTriangle, ruine: d3.symbolCross, cratere: d3.symbolCircle };
+    MN_PLACES.forEach(([n, lon, lat, kind, date, note, lab]) => {
+      const [x, y] = proj([lon, lat]);
+      const node = g.append("g").attr("tabindex", 0).style("cursor", "pointer").attr("aria-label", `${n}, ${date} : ${note}`);
+      node.append("circle").attr("cx", x).attr("cy", y).attr("r", 10).attr("fill", "transparent");
+      if (kind === "cratere") {
+        node.append("circle").attr("cx", x).attr("cy", y).attr("r", 6).attr("fill", "none").attr("stroke", css("--accent")).attr("stroke-width", 2.2);
+      } else {
+        const fill = { ilot: "--accent", poste: "--dot", port: "--c1", savoir: "--c3", lieu: "--ink-soft", ruine: "--ink-soft" }[kind];
+        node.append("path").attr("d", d3.symbol(SYM[kind], kind === "ilot" ? 130 : 70)())
+          .attr("transform", `translate(${x},${y})` + (kind === "ruine" ? " rotate(45)" : ""))
+          .attr("fill", css(fill)).attr("stroke", css("--land")).attr("stroke-width", 1.1);
+      }
+      node.append("text").attr("class", "maplabel").attr("x", x + lab[0]).attr("y", y + lab[1]).attr("text-anchor", lab[2])
+        .attr("font-weight", kind === "ilot" || kind === "port" ? 600 : 400).text(n);
+      hoverable(node, tip, `<b>${n}</b><span class="k">${date}</span><br>${note}`);
+    });
+    scaleBar(svg, proj, [-10.4, 35.9], 300, "300 km");
+
+    table("mn-table", ["Date", "Étape", "Ce qu'on fait"], [
+      ["20 juin", "Cagliari", "Départ"],
+      ["23 – 25 juin", "Gibraltar", "Soutes, cartes des champs de mines"],
+      ["29 – 30 juin", "Lorient", "Reconnaissance par la mer et l'hydravion ; parlementation"],
+      ["1er – 7 juillet", "Brest", "Goulet le 2 juillet ; débarquement, recherche des familles"],
+      ["9 – 12 juillet", "Plymouth", "Devonport vide ; le Volta reste à Brest"],
+      ["13 – 14 juillet", "Portsmouth", "Reconnaissance par la mer"],
+      ["15 – 18 juillet", "Baie de Seine", "Mouillage devant Le Havre ; vol du cratère le 17"],
+      ["19 – 21 juillet", "Brest", "On reprend ceux qui partent : ~150 personnes"],
+      ["27 juillet", "Gibraltar", "Soutes"],
+      ["31 juillet", "Cagliari", "Retour, quarantaine"]
+    ]);
+  }
+
   // ---------- La course et les voisins ----------
   const CR_KINDS = {
     ilot: { c: "--accent", label: "Îlot et avant-postes" },
@@ -2478,7 +2587,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   // ---------- planches et navigation ----------
   const VIEWS = {
     france: drawFrance, pacifique: drawPacific, mediterranee: drawMed, sardaigne: drawSard, cagliari: drawCagliari, malte: drawMalte,
-    routes: drawRoutes, course: drawCourse, albanie: drawAlbanie, kucova: drawKucova, mazout: drawMazout,
+    routes: drawRoutes, manche: drawManche, course: drawCourse, albanie: drawAlbanie, kucova: drawKucova, mazout: drawMazout,
     population: drawPopulation, pyramide: drawPyramid, metiers: drawJobs
   };
   const CHARTS = new Set(["mazout", "population", "pyramide", "metiers"]);
