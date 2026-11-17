@@ -192,7 +192,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 - **L'arsenal de Brest** prête, pour copie, les **plans des navires** construits ou refondus à Brest (dont ceux du *Dunkerque* et du *Richelieu*) et les **règlements techniques** de la Marine. Le Bureau des plans de 1946 en fera ses modèles.
 - **Les livres de l'École navale**, restés à Brest après le départ de l'École en juin 1940 🔎 : cours de navigation, de machines, d'architecture navale. Ils fondent la bibliothèque de l'École navale de l'Îlot (1946, [13](13-societe-de-bord.md) §4 quater).
 - **La bibliothèque du laboratoire de Plymouth** : l'un des grands laboratoires de biologie marine d'Europe, celui de la Marine Biological Association, sur Citadel Hill [histoire]. Le bâtiment est abandonné (§6.3). De Salis fait embarquer **les collections de revues et les ouvrages de pêche et d'océanographie**, environ 3 000 volumes, et laisse un reçu au nom du Conseil. C'est la première grande moisson du futur Conservatoire ([19](19-savoir-et-medecine.md) §5).
-- **Le directeur du laboratoire de Plymouth**, **Stanley Kemp** [histoire : directeur de 1936 à sa mort], est parti avec le groupe de mai vers le pays de Galles [canon provisoire] : c'est une raison de plus d'aller les chercher.
+- **Le directeur du laboratoire de Plymouth**, **Stanley Kemp** [histoire : directeur de 1936 à sa mort], est parti avec le groupe de mai vers le pays de Galles [canon provisoire] : c'est une raison de plus d'aller les chercher. Il y meurt vers 1947 ([38](38-personnages-historiques.md) §6).
 
 ## 7. Le retour et la quarantaine (fin juillet 1942) [canon provisoire]
 

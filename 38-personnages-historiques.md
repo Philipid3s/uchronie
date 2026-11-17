@@ -6,7 +6,7 @@
 >
 > **Niveaux de certitude** : ●●● bien sourcé (plusieurs sources concordantes) ; ●●○ une source principale ; ●○○ source unique ou de vulgarisation ; ○○○ rien trouvé sur le caractère.
 >
-> **Les morts naturelles** : plusieurs de ces hommes sont morts de maladie entre 1945 et 1950 dans notre histoire (Somerville, Holland, Collinet, Duplat, Kemp). La bible doit décider si ces morts s'appliquent dans l'uchronie (B99, §6).
+> **Les morts naturelles** (décision de l'auteur, B99 C) : les morts de maladie de notre histoire s'appliquent, à quelques années près ; les rôles déjà écrits sont gardés (§6). Les morts de guerre ou d'accident ne s'appliquent pas.
 
 ## 1. Les fondateurs de l'îlot de l'Ouest
 
@@ -32,7 +32,7 @@
 - **Parcours** : né à Torre del Greco le 26 octobre 1882 ; Académie navale de Livourne ; secours du séisme de Messine (1908) ; commandant du *Cadorna*, du *Duilio*, de la base de Tobrouk ; commandant naval du Dodécanèse (1936) ; participe à l'occupation de l'Albanie (1939) ; commandant militaire maritime de Sardaigne en 1940. Dans notre histoire, il part en octobre 1940 commander la Marine en Albanie, où Mussolini salue son **talent d'organisateur des ports**. **Après le 8 septembre 1943, il refuse de servir la République de Salò** et est emprisonné deux fois. Premier président du Conseil supérieur de la Marine (1945). Mort à Rome le 25 juin 1948.
 - **Caractère** ●○○ : une **« ironie mordante »** et un **humour fin** ; il a contribué à rassembler les histoires drôles des carrés de la marine italienne (*A poppavia del jack*, 1951).
 
-**Dans l'uchronie** : le refus de Salò en 1943 est la clef. **Fidèle au Roi plutôt qu'au Parti**, il est naturellement à la tête du **camp du Roi** lors de la scission de juillet 1940 ([10](10-choix-du-refuge.md) §9 ter). Il **connaît les ports albanais** ([18](18-expedition-albanie.md)) : son savoir pèse en 1950 dans l'expédition d'Albanie. Avec Somerville, il forme le pôle **ironique** du Conseil, face à la raideur de Gensoul. *Dans notre histoire, il meurt en 1948 : voir §6.*
+**Dans l'uchronie** : le refus de Salò en 1943 est la clef. **Fidèle au Roi plutôt qu'au Parti**, il est naturellement à la tête du **camp du Roi** lors de la scission de juillet 1940 ([10](10-choix-du-refuge.md) §9 ter). Il **connaît les ports albanais** ([18](18-expedition-albanie.md)) : son savoir pèse en 1950 dans l'expédition d'Albanie. Avec Somerville, il forme le pôle **ironique** du Conseil, face à la raideur de Gensoul. *Dans notre histoire, il meurt en 1948 ; dans l'uchronie, pendant l'hiver 1950-1951 (§6).*
 
 ### Cedric Holland (1889-1950) — le trait d'union
 
@@ -40,7 +40,7 @@
 - **Parcours** : né à Alverstoke (Gosport) le 13 octobre 1889 ; officier de transmissions ; commandant du *Kent* et du *Kempenfelt* ; **attaché naval à Paris** (1938-1940) et chef de la mission navale auprès de l'Amirauté française ; commandant de l'*Ark Royal* au printemps 1940. Mort le 11 mai 1950, à 60 ans.
 - **Caractère** ●○○ : **parle couramment le français**, **francophile** convaincu ; c'est pour cela que Somerville lui confie l'ultimatum du 3 juillet. Selon Wikipédia, il est **hostile à l'emploi de la force** et espère qu'une démonstration suffira ; selon une source de vulgarisation, il meurt **avec le sentiment d'avoir échoué**. **Surnom : « Hookey »**.
 
-**Dans l'uchronie** : l'homme qui, dans notre histoire, a porté l'ultimatum et échoué, est celui qui, dans l'uchronie, **réussit** : le 3 juillet, il vient proposer une rencontre et non un ultimatum ([06](06-mers-el-kebir.md)). Toute sa vie d'après 1940 est une **réparation**. Il écrit le **Code de l'Îlot** dans les deux langues ([13](13-societe-de-bord.md) §5), et il est l'**envoyé** naturel de l'Ouest à Souda en 1952 ([37](37-ilot-de-l-est.md) §8.4). *Dans notre histoire, il meurt en mai 1950 : voir §6.*
+**Dans l'uchronie** : l'homme qui, dans notre histoire, a porté l'ultimatum et échoué, est celui qui, dans l'uchronie, **réussit** : le 3 juillet, il vient proposer une rencontre et non un ultimatum ([06](06-mers-el-kebir.md)). Toute sa vie d'après 1940 est une **réparation**. Il écrit le **Code de l'Îlot** dans les deux langues ([13](13-societe-de-bord.md) §5), et il est l'**envoyé** naturel de l'Ouest à Souda en 1952 ([37](37-ilot-de-l-est.md) §8.4). *Dans notre histoire, il meurt en mai 1950 ; dans l'uchronie, en 1953, après son rapport sur Souda (§6).*
 
 ## 2. L'îlot de l'Est
 
@@ -76,7 +76,7 @@
 - **Parcours** : né à Cherbourg le 19 février 1892, fils d'un officier d'infanterie de marine ; officier de liaison sur un croiseur auxiliaire britannique (1914) ; commandant d'un chalutier armé en Algérie (1918) ; **ingénieur breveté de l'École supérieure d'électricité** (1920), TSF à Beyrouth ; commandant du *Foch*, puis du *Strasbourg*. Le 3 juillet 1940, il appareille sans être touché et gagne Toulon. Vice-amiral en 1942. Mort à Neuilly le 10 mars 1949.
 - **Caractère** ●○○ : jeune officier, noté *« désigné dès maintenant pour devenir un officier de tout premier ordre »* ; il aurait **refusé le poste de chef d'état-major** de la Marine. Un témoignage familial dit qu'il avait **gardé ses chaudières en pression toute la journée** du 3 juillet. Aucune source sérieuse sur son sang-froid.
 
-**Dans l'uchronie** : un **ingénieur** et un **homme qui anticipe**, qui garde ses chaudières en pression. C'est exactement le chef d'expédition qui pèse le charbon avant de pousser vers Souda, et qui refuse le détour ([18](18-expedition-albanie.md) §7.5). Un homme qui refuse les honneurs de l'état-major choisit de commander à la mer. *Dans notre histoire, il meurt en mars 1949, avant l'expédition d'Albanie : voir §6.*
+**Dans l'uchronie** : un **ingénieur** et un **homme qui anticipe**, qui garde ses chaudières en pression. C'est exactement le chef d'expédition qui pèse le charbon avant de pousser vers Souda, et qui refuse le détour ([18](18-expedition-albanie.md) §7.5). Un homme qui refuse les honneurs de l'état-major choisit de commander à la mer. *Dans notre histoire, il meurt en mars 1949 ; dans l'uchronie, en 1954, après le voyage de Souda (§6).*
 
 ### Irvine Glennie (1892-1980) — le *Hood*
 
@@ -108,7 +108,7 @@
 - **Parcours** : né au Havre le 6 septembre 1880 ; **sous-marinier** ; directeur du personnel (1936) ; vice-amiral (1937), 3ᵉ escadre à Toulon (1939) ; il dirige le **bombardement de Gênes et de Vado** dans la nuit du 13 au 14 juin 1940. Président de la délégation française à la commission d'armistice de Turin (août 1940). Mort à Paris le 30 juillet 1945.
 - **Caractère** ○○○ : rien trouvé.
 
-**Dans l'uchronie** : l'homme qui a **bombardé Gênes trois semaines plus tôt** est celui qui câble *« Ne venez pas »* ([33](33-toulon.md)). À Cagliari, à partir de 1944, il côtoie au Grand Carré les marins italiens qu'il combattait en juin 1940. *Dans notre histoire, il meurt en juillet 1945 ; la bible le fait encore naviguer en 1953 ([33](33-toulon.md)) : voir §6.*
+**Dans l'uchronie** : l'homme qui a **bombardé Gênes trois semaines plus tôt** est celui qui câble *« Ne venez pas »* ([33](33-toulon.md)). À Cagliari, à partir de 1944, il côtoie au Grand Carré les marins italiens qu'il combattait en juin 1940. *Dans notre histoire, il meurt en juillet 1945 ; dans l'uchronie, en 1954, après la reconnaissance de Toulon (§6).*
 
 ### Léon-Henri Devin (1879-1970 ou 1973) — le préfet maritime
 
@@ -169,7 +169,7 @@
 
 **Ce qu'en disent les sources** ●●○ : né à Savigliano le 9 mars 1883, noble piémontais, artilleur ; décoré en Libye, à Asiago et en Éthiopie ; commandant de la division Sabauda (1939). **Dans notre histoire, il meurt le 21 juillet 1940 dans un accident de voiture près d'Oristano**, en revenant d'une inspection de la défense antiaérienne du barrage du Tirso : c'est le premier général italien mort de la guerre. Caractère : rien trouvé.
 
-**Dans l'uchronie** : sa mort de juillet 1940 tombe en pleine scission sarde [à décider, B100 : accident maintenu, ou mort dans la scission, ou survie].
+**Dans l'uchronie** (décision de l'auteur, B100) : **l'accident n'a pas lieu.** Le 21 juillet 1940, la Sardaigne vit la scission et l'arrivée des flottes : il n'y a plus d'inspection de la défense antiaérienne du Tirso, ni de route vers Oristano. Scanagatta vit, et sa division Sabauda est dans le **camp du Roi** ([10](10-choix-du-refuge.md) §9 ter) [rôle à écrire].
 
 ### Carlo Petra di Caccuri (1883-1967) — la division Calabria
 
@@ -201,7 +201,7 @@
 
 **Ce qu'en disent les sources** ●●● : né à Londres le 14 juillet 1882 ; zoologiste (Trinity College, Dublin) ; Zoological Survey of India ; directeur des recherches des campagnes ***Discovery*** en Antarctique (1925-1931) ; directeur du laboratoire de Plymouth (1936). Lors du bombardement du 20 mars 1941, **il laisse brûler sa propre maison pour sauver le laboratoire**. Mort à Plymouth le 16 mai 1945, d'une anémie. Caractère : **« exceptionnellement modeste »**, fuyant la publicité, **travaillant sept jours sur sept**, d'une **attention méticuleuse** ; menuisier, collectionneur de meubles anciens et d'horloges ; **il chante du Gilbert et Sullivan à bord**. Un contrepoint : avant les raids, il ne croyait pas que Plymouth serait bombardée, et il fallut le convaincre d'accepter les pompes et les masques à gaz.
 
-**Dans l'uchronie** : un homme qui sauve **le laboratoire avant sa maison** est celui qui part pour le pays de Galles avec ses livres ([36](36-expedition-de-la-manche.md) §6.3). Lui et Godfroy ont un point commun rare : **l'Antarctique**. *Dans notre histoire, il meurt d'une anémie en 1945 : voir §6.*
+**Dans l'uchronie** : un homme qui sauve **le laboratoire avant sa maison** est celui qui part pour le pays de Galles avec ses livres ([36](36-expedition-de-la-manche.md) §6.3). Lui et Godfroy ont un point commun rare : **l'Antarctique**. *Dans notre histoire, il meurt d'une anémie en 1945 ; dans l'uchronie, vers 1947, au pays de Galles (§6).*
 
 ### Lothar von Arnauld de la Perière (1886-1941) — l'amiral de Lorient
 
@@ -211,21 +211,23 @@
 
 **Dans l'uchronie** : l'homme qui faisait travailler des Français dans sa base, qui prévenait avant de couler et qui descend d'un officier français, est **le chef vraisemblable d'une communauté mixte** ([36](36-expedition-de-la-manche.md) §6.1). Il s'est replié de Brest sur Lorient (dans l'uchronie, la base de Kéroman est plus abritée). Sa **courtoisie** rend possible la parlementation de 1942. *L'accident du Bourget n'a pas lieu : Paris n'existe plus.*
 
-## 6. Les morts naturelles : que faire de l'histoire ? [à décider, B99]
+## 6. Les morts naturelles : la règle des quelques années [canon : option B99 C ; provisoire : dates]
 
-| Personnage | Mort dans notre histoire | Cause | Ce que la bible lui fait faire après cette date |
+**Décision de l'auteur** (option C) : **les morts de maladie de notre histoire s'appliquent dans l'uchronie, à quelques années près.** Les corps sont les mêmes ; la vie, elle, a changé (rations, efforts, médecine de l'îlot), et la maladie vient un peu plus tôt ou un peu plus tard. **Les rôles déjà écrits sont gardés** : chacun meurt peu après.
+
+| Personnage | Mort dans notre histoire | Mort dans l'uchronie [canon provisoire] | Dernier rôle tenu |
 |---|---|---|---|
-| **Stanley Kemp** | Mai 1945 | Anémie | « Peut-être » retrouvé au pays de Galles dans les années 1950 ([35](35-navires-de-l-ilot.md) §6.5) |
-| **Émile Duplat** | Juillet 1945 | — | Grand Carré ; reconnaissance de Toulon en 1953 ([33](33-toulon.md)) |
-| **Ettore Sportiello** | Juin 1948 | — | Conseil des Amiraux dans les années 1950 |
-| **Louis Collinet** | Mars 1949 | — | Expédition d'Albanie (1950), voyage de Souda (1952) |
-| **Sir James Somerville** | Mars 1949 | Thrombose coronaire | Conseil des Amiraux en 1950 ([37](37-ilot-de-l-est.md) §8.2) |
-| **Cedric Holland** | Mai 1950 | — | Envoyé à Souda en 1952 (proposition) |
+| **Stanley Kemp** | Mai 1945, anémie | **Vers 1947**, au pays de Galles | Il a sauvé les livres du laboratoire de Plymouth ; le navire de longue expédition apprend sa mort des survivants de Devonport et ramène ses carnets ([35](35-navires-de-l-ilot.md) §6.5) |
+| **Ettore Sportiello** | Juin 1948 | **Hiver 1950 – 1951** | L'expédition d'Albanie, dont il connaissait les ports (1950) |
+| **Sir James Somerville** | Mars 1949, thrombose coronaire | **1951** | La réouverture de l'île et le premier échange avec la Crète (1950) |
+| **Cedric Holland** | Mai 1950 | **1953** | L'envoyé à Souda (1952) et son rapport au Grand Carré (début 1953) ([37](37-ilot-de-l-est.md) §9.5) |
+| **Louis Collinet** | Mars 1949 | **1954** | L'expédition d'Albanie (1950) et le voyage de Souda (1952) |
+| **Émile Duplat** | Juillet 1945 | **1954**, à 74 ans | La reconnaissance de Toulon (1953) ([33](33-toulon.md)) |
 
-**Trois façons de faire** :
-- **A.** Les morts de maladie **s'appliquent** : les corps sont les mêmes. Il faut alors réécrire l'expédition d'Albanie, le voyage de Souda et le Conseil des années 1950.
-- **B.** Elles **ne s'appliquent pas** : la vie de 1940-1950 est autre (régime, efforts, stress, médecine), et chaque mort se décide pour le récit.
-- **C.** Elles **s'appliquent à quelques années près** : la maladie vient, mais pas forcément au même jour. On garde les rôles déjà écrits, et l'on fait mourir chacun peu après (Somerville vers 1951, ce qui ouvre la **crise de succession** prévue en [11](11-ilot-de-civilisation.md) §8).
+**Ce que cela donne** :
+- **1951, l'année des deux deuils** : Sportiello, puis Somerville. **Deux des trois fondateurs du Conseil des Amiraux meurent en quelques mois**, et **Gensoul** (1880-1973) reste seul. C'est la **crise de succession** annoncée en [11](11-ilot-de-civilisation.md) §8 [à décider, B104 : qui remplace les deux amiraux au Conseil, et comment].
+- **1953-1954, la fin de la génération de 1940** : Holland, Collinet et Duplat meurent après leur dernier voyage. Les hommes qui ont fait juillet 1940 laissent la place à ceux qui avaient vingt ans ce mois-là, comme l'ancien enseigne du *Volta* ([35](35-navires-de-l-ilot.md) §6.3 bis).
+- **Les morts de guerre ou d'accident de notre histoire** ne s'appliquent pas : il n'y a plus de guerre. **Scanagatta** ne meurt pas sur la route d'Oristano (B100), et **Arnauld de la Perière** ne meurt pas au Bourget.
 
 ## 7. Sources principales
 
@@ -249,8 +251,8 @@
 
 ## 8. Questions ouvertes
 
-1. ❓ **Les morts naturelles** (§6, B99) : A, B ou C ?
-2. ❓ **Scanagatta** (B100) : l'accident du 21 juillet 1940 est-il maintenu ?
+1. ✅ **Les morts naturelles** (B99, option C) : elles s'appliquent à quelques années près ; dates au §6. ❓ La succession de Sportiello et de Somerville au Conseil (B104).
+2. ✅ **Scanagatta** (B100) : l'accident n'a pas lieu ; il vit. ❓ Son rôle.
 3. ❓ **L'ombre de Brotzu** (B101) : faut-il utiliser son rôle de 1938 dans le récit ?
 4. ❓ **Les rôles à écrire** : Vespignani à la Flottille d'Elmas ? Devin à l'École navale de l'Îlot ? La famille de Le Pivain à Brest en 1942 ? L'ambiguïté de Leone Leone ?
 5. 🔎 **À lire** : les mémoires de Godfroy (*L'Aventure de la Force X*, 1953) ; *Flagship Hood* de Briggs ; *A poppavia del jack* (Sportiello) ; la nécrologie de Pérez par Teissier ; la biographie de Teissier par Toulmond ; l'avis de Brotzu sur Teodoro Levi (1938) ; les personnages sur lesquels on ne trouve rien en ligne (Barois, Duplat, Fane de Salis, Nurra, di Gropello, Vespignani, de Pignier).

@@ -298,7 +298,7 @@ Chaque nœud au-dessus de 8 coûte cher : à 7 nœuds, le navire va **deux fois 
 ### 6.5 Ce qu'on ira chercher : les savants de l'Angleterre [canon : option B89 C ; provisoire : détail]
 
 **Décision de l'auteur** : dans les années 1950, le navire de longue expédition va chercher en Angleterre, au pays de Galles et en Écosse **des ingénieurs et des savants** à ramener à Cagliari.
-- **Les survivants de Devonport**, partis pour le pays de Galles en mai 1942 ([36](36-expedition-de-la-manche.md) §6.3), et avec eux, peut-être, **Stanley Kemp**, le directeur du laboratoire de Plymouth.
+- **Les survivants de Devonport**, partis pour le pays de Galles en mai 1942 ([36](36-expedition-de-la-manche.md) §6.3), et avec eux **Stanley Kemp**, le directeur du laboratoire de Plymouth, mort vers 1947 au pays de Galles : on ne rapporte que ses carnets ([38](38-personnages-historiques.md) §6).
 - **La Clyde** : les chantiers de construction navale (John Brown à Clydebank, Fairfield à Govan) et la chaire d'architecture navale de l'université de Glasgow [histoire] étaient en 1940 le cœur de la construction navale britannique. **Des architectes navals et des ingénieurs de la Clyde** arrivent juste à temps pour le **chantier naval de l'Îlot** (1956-1960, [29](29-flotte-des-annees-1950.md) §6).
 - **Ce qu'on offre** : le grain, le passage, la règle des diplômes ([19](19-savoir-et-medecine.md) §3.7), et la perspective de bâtir des navires.
 - **Les noms** : à chercher parmi les hommes réels de 1940 (règle des noms), une fois l'itinéraire fixé (B77) 🔎.

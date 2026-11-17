@@ -81,7 +81,7 @@ Pourquoi Gensoul ne rentre-t-il pas à Toulon ? C'est son port, la convention d'
 
 **Ce qu'ils apportent** : des ouvriers d'arsenal (chaudronniers, électriciens, ajusteurs), des médecins de Saint-Mandrier, les plans et les archives techniques de l'arsenal (une manne pour les ***Cahiers techniques***, [30](30-formation-technique.md) §7), des machines-outils démontées.
 
-**Duplat** [histoire : né en 1880] : il arrive avec le second convoi. Il n'entre pas au Conseil des Amiraux, qui est fermé, mais **au Grand Carré**, créé l'année précédente ([13](13-societe-de-bord.md) §8), où il devient la voix de ceux qui sont restés.
+**Duplat** [histoire : né en 1880] : il arrive avec le second convoi. Il n'entre pas au Conseil des Amiraux, qui est fermé, mais **au Grand Carré**, créé l'année précédente ([13](13-societe-de-bord.md) §8), où il devient la voix de ceux qui sont restés. Il meurt en 1954, à 74 ans, peu après la reconnaissance de Toulon ([38](38-personnages-historiques.md) §6).
 
 **La fin de Toulon (1945)** : la Morìa atteint la Provence en 1945 ([14](14-epidemie.md)). Les dernières vacations de Saint-Mandrier s'arrêtent au printemps 1945. On ne sait pas, à Cagliari, ce qu'il est advenu de ceux qui sont restés.
 

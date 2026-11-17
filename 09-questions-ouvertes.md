@@ -302,11 +302,14 @@
 
 ### Les personnages historiques ([38](38-personnages-historiques.md) §8)
 
-99. ❓ **Les morts naturelles** ([38](38-personnages-historiques.md) §6) : Kemp (1945), Duplat (1945), Sportiello (1948), Collinet (1949), Somerville (1949) et Holland (1950) meurent de maladie dans notre histoire, alors que la bible les fait agir après ces dates. A : ces morts s'appliquent (réécrire Albanie, Souda, le Conseil) ; B : elles ne s'appliquent pas ; C : elles s'appliquent à quelques années près (Somerville vers 1951, ce qui ouvre la crise de succession de [11](11-ilot-de-civilisation.md) §8). *Proposition : C.*
-100. ❓ **Scanagatta** : dans notre histoire, il meurt le 21 juillet 1940 dans un accident de voiture près d'Oristano, en pleine période de la scission sarde. Accident maintenu, mort dans la scission, ou survie ?
+99. ✅ **Les morts naturelles** (intégré dans [38](38-personnages-historiques.md) §6, option C) : les morts de maladie de notre histoire s'appliquent à quelques années près, les rôles déjà écrits sont gardés : Kemp vers 1947 (pays de Galles), Sportiello hiver 1950-1951, Somerville 1951, Holland 1953, Collinet 1954, Duplat 1954. Les morts de guerre ou d'accident ne s'appliquent pas.
+[JR] B99 : C
+100. ✅ **Scanagatta** (intégré dans [38](38-personnages-historiques.md) §4 et [10](10-choix-du-refuge.md) §9 bis) : l'accident du 21 juillet 1940 n'a pas lieu ; il vit, et sa division est dans le camp du Roi. ❓ Son rôle.
+[JR] B100 : l'accident n'est pas maintenu
 101. ❓ **L'ombre de Brotzu** : recteur, il transmet en 1938 au ministère un avis sur des enseignants juifs visés par les lois raciales (dont Teodoro Levi). Faut-il s'en servir dans le récit ?
 102. ❓ **Les rôles à écrire** : Vespignani (ancien chef d'écoles de pilotes) à la Flottille d'Elmas ? Devin (ancien commandant de l'École navale) à l'École navale de l'Îlot ? La famille de Le Pivain, Brestois, à Brest en 1942 ? L'ambiguïté de Leone Leone (fasciste, mais qui aurait caché une famille juive) ?
 103. 🔎 **À lire** : *L'Aventure de la Force X* (Godfroy, 1953) ; *Flagship Hood* (Briggs, 1985) ; *A poppavia del jack* (1951) ; la nécrologie de Pérez par Teissier ; la biographie de Teissier par Toulmond ; rien n'a été trouvé en ligne sur le caractère de Barois, Duplat, Fane de Salis, Nurra, di Gropello, Vespignani et de Pignier.
+104. ❓ **La succession de 1951** ([38](38-personnages-historiques.md) §6, [11](11-ilot-de-civilisation.md) §8) : Sportiello (hiver 1950-1951) et Somerville (1951) meurent ; Gensoul reste seul fondateur. Qui entre au Conseil des Amiraux (un Italien et un Britannique pour garder l'équilibre des trois nations ? un élu du Grand Carré ?), et comment ?
 
 ## C. Points scientifiques à affiner
 
