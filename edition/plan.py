@@ -58,6 +58,7 @@ PARTIES = [
         "32-avant-poste-de-malte.md",
         "20-capacites-aeronavales.md",
         "29-flotte-des-annees-1950.md",
+        "35-navires-de-l-ilot.md",
     ]),
 ]
 

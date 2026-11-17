@@ -1,6 +1,6 @@
 # 09 — Questions ouvertes et points à éclaircir
 
-> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 34 chapitres, une annexe de calculs, des scripts de calcul et un atlas de douze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
+> **Point d'étape au 10 novembre 2026.** **Ce fichier rassemble toutes les questions ouvertes des chapitres** : chaque question posée dans un chapitre y figure aussi, et l'auteur les tranche ici. La bible compte 35 chapitres, une annexe de calculs, des scripts de calcul et un atlas de douze planches ([version en ligne](https://philipid3s.github.io/uchronie/)). Ce fichier liste **tout ce qui reste à trancher ou à vérifier** pour la prochaine séance.
 >
 > Légende : ✅ décidé par l'auteur · ❓ décision attendue · 🔎 à documenter · 🔧 à vérifier ou à corriger
 
@@ -12,6 +12,7 @@
 | Flotte | Les flottes de Mers el-Kébir et de Gibraltar survivent et fusionnent ; les Italiens de Sardaigne s'y joignent | [06](06-mers-el-kebir.md) |
 | Scission italienne | Les fascistes refusent l'accord : coup de feu de la batterie du capo Sant'Elia (B), dissidence du Sulcis (A), repli vers l'intérieur, départs pour le continent | [10](10-choix-du-refuge.md) §9 ter |
 | Menace italienne | Alerte de Naples, 23 septembre 1940, sans combat (B) ; sous-marins perdus, 1940-1943 (D) ; aucune menace navale italienne après 1943 | [06](06-mers-el-kebir.md) §6 bis |
+| Navires de l'Îlot | Un outil par usage (1C) : cargos mixtes, *paranze*, chalutiers sobres, semi-Diesel ; en deux temps, bricolages dès 1945 puis conception par le chantier (2C) ; chapitre à part (3A) ; **navire de longue expédition** étudié dès les années 1940, avec hydravion à la grue, pour aller voir la Bretagne, la Manche et les bases anglaises | [35](35-navires-de-l-ilot.md) |
 | Albanie | Survivants amicaux, vivres et soins offerts, accord de Narta ; Sazan + terminal + camp de Kuçova (1A) ; fûts puis oléoduc (2C) ; distillerie de Vlorë (3C) ; techniciens de l'îlot, albanais, italiens (4C) | [34](34-avant-poste-d-albanie.md) |
 | Raisons de Somerville | L'ordre de Cunningham (tenir l'ouest, s'entendre avec les Français), le dernier signal de l'Amirauté (la fusion accomplit Catapult sans tirer), le blé et les familles de Gensoul (A + B + C) | [06](06-mers-el-kebir.md) §4 bis |
 | Refuge | La Sardaigne du Sud ; choisie au terme d'un **débat** entre Gensoul (Oranie) et Somerville (Malte), tranché par la grille et parce qu'elle n'appartient à aucun des deux (1B) ; l'Oranie dans l'étude (2A) ; départ **sans réponse de Cagliari, de gré ou de force** (3A) ; l'idée portée par un officier de l'état-major de Gensoul (4A) | [10](10-choix-du-refuge.md) |
@@ -163,6 +164,7 @@
     - pour le savoir et la médecine ([19](19-savoir-et-medecine.md)) : Brotzu dans le camp du Roi en juillet 1940, la **règle des diplômes** (hors quota, examen des diplômes, officier assimilé à l'essai), le **grand recensement des savoirs** de 1943, les **maîtres de savoir** et les ***Cahiers des métiers***, le **Conservatoire de l'Îlot** (1950), la **consigne des livres** et la **règle des trois copies**, les cours d'infirmières de bord (1940-43), l'École d'infirmières (1944), les premiers médecins formés dans l'îlot (1950), la céphalosporine de Su Siccu restée dans l'île ;
     - pour l'éclairage et la radio ([15](15-energie.md) §6 bis, [16](16-contacts-radio.md) §7) : la **veillée commune**, la lampe à pétrole comme signe de prospérité vers 1958, l'**atelier des lampes** du *Commandant Teste* (vers 1950) et les premières lampes faites dans l'îlot (vers 1955) ;
     - pour les lignes des avant-postes ([29](29-flotte-des-annees-1950.md) §4.5) : le calendrier type, les escortes, le *Canopo* au-devant du cargo de Gibraltar ;
+    - pour les navires de l'Îlot ([35](35-navires-de-l-ilot.md)) : le **Bureau des plans** (1946, à bord du *Commandant Teste*), la quinzaine de paires de *paranze* vers 1950, la turbine d'échappement de l'*Anadyr*, la **série des chalutiers mixtes** (1956-1960), le programme du navire de longue expédition ;
 
 **Règle des noms** (décision de l'auteur, 11 novembre 2026) : les commandants et officiers de 1940 portent **leur nom réel quand on le retrouve**, un **nom inventé sinon**, à remplacer si le nom réel apparaît plus tard.
 
@@ -254,6 +256,16 @@
 63. ❓ **Ceux qui restent** : que trouve-t-on à Saint-Mandrier en 1953 (nombre de survivants, société) ?
 64. ❓ **La garnison de Toulon** (1956) : nom, chef, emplacement (arsenal, Saint-Mandrier, fort de Balaguier ?).
 65. ✅ **La démographie** (appliqué : modèle, [21](21-demographie.md), [11](11-ilot-de-civilisation.md) et atlas mis à jour) : faut-il compter le second départ de Toulon (~1 200 en 1944, ~1 000 présents en 1946) dans le modèle ? *Proposition : oui, à total constant (49 000 en 1946), en réduisant d'autant l'estimation des civils sardes ; effet : 176 hommes pour 100 femmes en 1946 au lieu de 172, ~76 700 habitants en 1960 au lieu de ~77 100.*
+
+### Les navires de l'Îlot ([35](35-navires-de-l-ilot.md) §8)
+
+75. ❓ **Le navire de longue expédition : la date** du premier voyage. Avant l'Albanie (1950), qui est au canon la première grande expédition, ou après, quand le Loire 130 revole (1951) ? ([35](35-navires-de-l-ilot.md) §6.4)
+76. ❓ **Le navire de longue expédition : la coque**. Un cargo de 1940 transformé, ou un chalutier ?
+77. ❓ **Le navire de longue expédition : l'itinéraire**. La Bretagne et la Manche seulement, ou jusqu'à la Clyde et Scapa Flow ?
+78. ❓ **Le navire de longue expédition : les noms** du navire et du chef de l'expédition.
+79. ❓ **Les chalutiers mixtes** (1956-1960) : combien, et quels noms ?
+80. 🔎 **Les techniques et les dangers** : turbine Bauer-Wach sur les chalutiers ; moteurs à boule chaude dans la pêche italienne et les fermes sardes ; bateaux de pêche au gazogène ; caractéristiques du Loire 130 ; champs de mines de la Manche (1939-1940) et durée de vie des orins.
+81. 🔧 **Les gains** : économie réelle de la voile auxiliaire en Méditerranée occidentale ; consommation d'un cargo mixte ; productivité d'un mineur du Sulcis sans machines.
 
 ## C. Points scientifiques à affiner
 

@@ -96,7 +96,7 @@ L'îlot réinvente une pratique sarde ancienne, la rotation collective (*vidazzo
 | **Les étangs côtiers** (*stagni*) | **Cabras** (près d'Oristano), **Santa Gilla** (Cagliari), Sant'Antioco | Milieux fermés, faciles à gérer avec des barrages à poissons traditionnels. **Mulets** (dont on tire la poutargue), anguilles, daurades, palourdes. **Le mulet se nourrit de débris** : il prospère même quand le plancton est rare. **C'est la ressource la plus fiable des années sombres** |
 | **Les madragues** (*tonnare*) | **Carloforte, Portoscuso, Calasetta**, Stintino [histoire] | Pièges fixes pour le thon rouge qui migre au printemps. **Le thon revient vers 1948-1950** avec le retour des chaînes alimentaires : des centaines de tonnes en une saison |
 | **La pêche côtière** | Toutes les côtes | Petits bateaux, palangres, nasses, filets |
-| **Le chalutage** | Golfe de Cagliari, golfe de Palmas | **Chalutiers à charbon** ([15](15-energie.md) §5) |
+| **Le chalutage** | Golfe de Cagliari, golfe de Palmas | **Chalutiers à charbon** ([15](15-energie.md) §5) ; à partir de 1945-1946, la **pêche en bœuf** des *paranze*, deux voiliers traînant un même filet, sans charbon ([35](35-navires-de-l-ilot.md) §2.3) |
 | **La conchyliculture** | Golfe d'Olbia, étangs | Moules et huîtres sur cordes, sans aucun besoin d'aliment |
 
 ### 3.3 Le sel : la condition de tout
