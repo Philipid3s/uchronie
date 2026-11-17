@@ -77,6 +77,7 @@
 
 - *Irvine Glennie*, Wikipedia (en) : commandant du *Hood* de mai 1939 à février 1941, présent à Mers el-Kébir. https://en.wikipedia.org/wiki/Irvine_Glennie
 - *Cedric Holland*, Wikiwand / uboat.net : commandant de l'*Ark Royal* à partir du 1er mai 1940. https://www.wikiwand.com/en/Cedric_Holland
+- uboat.net, HMS *Faulknor* : captain Antony Fane de Salis, commandant du 19 février 1940 au 26 janvier 1942, *Captain (D)* de la 8ᵉ flottille de destroyers ; le *Faulknor* est à Mers el-Kébir en juillet 1940 (chapitre 36). https://en.wikipedia.org/wiki/HMS_Faulknor_(H62) ; https://naval-history.net/xGM-Chrono-10DD-22F-Faulknor.htm
 - uboat.net, *Bretagne* : capitaine de vaisseau Louis René Edmond Le Pivain, mort le 3 juillet 1940. https://uboat.net/allies/warships/ship/5968.html
 - uboat.net, mouvements du *Provence* au printemps 1940 : capitaine de vaisseau G.T.E. Barois (à recouper avec une source française).
 - Non retrouvés en ligne : les commandants du *Dunkerque*, du *Commandant Teste* et du *Georges Leygues* en juillet 1940, le second de l'*Ark Royal*. À chercher au Service historique de la Défense (annuaires de la Marine 1940) et dans la *Navy List* britannique de 1940.

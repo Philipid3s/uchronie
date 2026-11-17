@@ -61,7 +61,11 @@ Le canon dit que **l'essence est épuisée fin 1941** et que les avions sont clo
 
 Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; une **équipe d'observation** (un médecin, un géologue des mines, un météorologue, un photographe, deux interprètes allemands) ; une section de **fusiliers marins** pour les débarquements ; un **poste de soins**.
 
-**Le chef de l'expédition** : [à décider, B82]. Il arbore sa marque sur le *Georges Leygues*, selon l'usage repris en 1950 ([18](18-expedition-albanie.md) §2).
+**Le chef de l'expédition** (décision de l'auteur : un Britannique, officier réel de 1940) : le **captain Antony Fane de Salis**, Royal Navy, commandant du HMS *Faulknor* et *Captain (D)* de la 8ᵉ flottille de destroyers de la Force H depuis février 1940 [histoire]. Dans notre histoire, il commande le *Faulknor* à Mers el-Kébir en juillet 1940.
+- **Pourquoi lui** [canon provisoire] : Devonport a appelé la Force H ; c'est à un officier britannique d'entrer à Plymouth et à Portsmouth. Somerville le propose, Gensoul l'accepte à condition que **Brest et Lorient soient l'affaire des Français**.
+- **Sa marque** : il la garde sur **son propre navire**, le *Faulknor*, en tête de la force. Le *Georges Leygues* garde son commandant ; c'est le navire-base de l'expédition (hydravion, grain, soins, passagers).
+
+**Le commandant du *Volta*** (décision de l'auteur) : un **personnage inventé**, qui remplace le commandant réel de 1940. **Il sera l'un des protagonistes du futur roman.** [nom, âge et origine à décider, B88]
 
 ## 4. La route et le calendrier [canon provisoire]
 
@@ -137,7 +141,8 @@ D'où la commande du Conseil au **Bureau des plans** en 1946-1947 : un **navire 
 2. ✅ **Le déclencheur** : l'appel de Devonport et les familles de Brest (option C).
 3. ✅ **Les navires** : *Faulknor*, *Volta* et *Georges Leygues* avec un Loire 130 (option C).
 4. ✅ **L'Albanie (1950)** devient la première sortie après l'épidémie (décision de l'auteur).
-5. ❓ **Le chef de l'expédition** : qui ? (un officier réel de 1940, ou un personnage inventé)
+5. ✅ **Le chef de l'expédition** : un Britannique, officier réel de 1940 (décision de l'auteur) : le captain **Antony Fane de Salis**, du *Faulknor* (§3.3).
+5 bis. ✅ **Le commandant du *Volta*** : un personnage inventé, protagoniste du futur roman (décision de l'auteur). ❓ Nom, âge, origine (B88).
 6. ❓ **Devonport** : pourquoi le silence depuis mai, et que trouve-t-on dans la station radio ?
 7. ❓ **Lorient** : garnison allemande devenue seigneurie armée, comme proposé ?
 8. ❓ **Brest** : combien de survivants, quelle société, combien de familles retrouvées, combien de personnes ramenées dans l'île ? Effet à reporter dans le modèle de démographie ([21](21-demographie.md)).
