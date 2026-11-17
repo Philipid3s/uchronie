@@ -94,10 +94,11 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 
 **Le commandant du *Volta*** : un capitaine de frégate, chef prudent, qui répond de son navire devant le Conseil [personnage inventé ; à remplacer si le nom réel de 1940 est retrouvé 🔎]. Il ne quitte pas son bord.
 
-**Le protagoniste : un jeune officier du *Volta*** (décision de l'auteur) : un **personnage inventé**, **l'un des protagonistes du futur roman** [nom et grade à décider, B88 : enseigne de vaisseau ou lieutenant de vaisseau, de 24 à 30 ans].
+**Le protagoniste : un jeune officier du *Volta*** (décision de l'auteur) : un **personnage inventé**, **l'un des protagonistes du futur roman** : **enseigne de vaisseau** en 1942 (décision de l'auteur), de 22 à 25 ans [nom à décider, B88].
 - **Pourquoi un jeune officier** (décision de l'auteur) : un commandant ne quitte jamais son navire ; il en a la responsabilité. Un officier subalterne, lui, peut mener une petite troupe à terre, loin de la rade.
 - **Son profil** (option C) : **Brestois**. Sa famille vivait à Brest en 1940. **Elle a quitté la ville en juin 1940**, à l'arrivée des Allemands, pour la campagne, chez des parents [lieu à décider : la presqu'île de Crozon, le Léon ou les monts d'Arrée ; qui : parents, frères et sœurs, peut-être une fiancée, à décider].
 - **Ce que cela change** : pour les retrouver, il doit aller **à l'intérieur des terres**, à 30 ou 60 km de la rade, contre le calendrier de trois semaines et contre la prudence de de Salis. Il lui faut l'accord de son commandant, puis celui du chef de l'expédition.
+- **Après 1942** (décision de l'auteur) : il devient **le commandant du prototype de longue expédition**. Détaché au Bureau des plans dès 1946 comme témoin de la Manche, officier d'armement pendant la transformation (1947-1949), second pendant les essais, il prend le commandement en 1952 et retourne en Bretagne dix ans après ([35](35-navires-de-l-ilot.md) §6.3 bis).
 
 ## 4. La route et le calendrier [canon provisoire]
 
@@ -205,7 +206,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 3. **L'hydravion** : c'est lui qui a vu Lorient, l'intérieur de la Bretagne et le cratère. Mais son essence était la dernière.
 4. **La mer** : des navires de guerre rapides sont des navires étroits, mouillés, qui portent peu. Il faut **un navire de charge**, sûr à la mer, qui tienne quatre mois.
 
-D'où la commande du Conseil au **Bureau des plans** en 1946-1947 : un **navire de longue expédition**, au charbon et à la voile, qui porte son hydravion et sa grue ([35](35-navires-de-l-ilot.md) §6). **L'expédition de la Manche est le modèle, et l'échec partiel, dont il sort.**
+D'où la commande du Conseil au **Bureau des plans** en 1946 : un **navire de longue expédition**, au charbon avec une voile d'appoint, qui porte son hydravion et sa grue, son infirmerie et sa radio à longue portée, avec un équipage réduit au minimum. **Le prototype est transformé à Cagliari pendant l'épidémie, sur un cargo désarmé de 1940, et armé en 1949** ([35](35-navires-de-l-ilot.md) §6.3 bis). **L'expédition de la Manche est le modèle, et l'échec partiel, dont il sort** ; et l'enseigne du *Volta* qui avait couru la Bretagne en 1942 en devient le commandant.
 
 ## 9. Questions ouvertes
 
@@ -214,7 +215,7 @@ D'où la commande du Conseil au **Bureau des plans** en 1946-1947 : un **navire 
 3. ✅ **Les navires** : *Faulknor*, *Volta* et *Georges Leygues* avec un Loire 130 (option C).
 4. ✅ **L'Albanie (1950)** devient la première sortie après l'épidémie (décision de l'auteur).
 5. ✅ **Le chef de l'expédition** : un Britannique, officier réel de 1940 (décision de l'auteur) : le captain **Antony Fane de Salis**, du *Faulknor* (§3.3).
-5 bis. ✅ **Le protagoniste** : non pas le commandant, mais **un jeune officier du *Volta*** (enseigne ou lieutenant de vaisseau), personnage inventé, protagoniste du futur roman (décision de l'auteur : un commandant ne quitte pas son navire). ❓ Nom et grade (B88). Le commandant du *Volta* est un personnage inventé, à remplacer si le nom réel est retrouvé.
+5 bis. ✅ **Le protagoniste** : non pas le commandant, mais **un jeune officier du *Volta***, **enseigne de vaisseau**, personnage inventé, protagoniste du futur roman (décision de l'auteur : un commandant ne quitte pas son navire). Il devient en 1952 le **commandant du prototype de longue expédition** ([35](35-navires-de-l-ilot.md) §6.3 bis, décision de l'auteur). ❓ Son nom (B88). Le commandant du *Volta* est un personnage inventé, à remplacer si le nom réel est retrouvé.
 5 ter. ✅ **Son profil** : Brestois, sa famille a quitté Brest en juin 1940 pour la campagne ; il la cherche à l'intérieur pendant que le *Volta* reste à Brest (option C). Ce qu'il trouve est laissé au roman.
 6. ✅ **Devonport** : les survivants sont partis vers le pays de Galles début mai 1942, en laissant un message (option B). ❓ Leur nombre, leur chef, et l'îlot entend-il leur indicatif plus tard ?
 7. ✅ **Lorient** : une communauté mixte de marins allemands et de Lorientais, menée par le vice-amiral **Lothar von Arnauld de la Perière** (B90, option A) ; parlementation et troc sans débarquer (option B).

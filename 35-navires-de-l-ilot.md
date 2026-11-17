@@ -2,7 +2,7 @@
 
 > Comment l'îlot transforme ses chalutiers, ses cargos et ses barques pour dépendre moins du combustible, puis conçoit ses propres navires, dont un **navire de longue expédition** capable d'aller voir l'Europe de l'Atlantique et de la Manche.
 >
-> **[canon]** (décisions de l'auteur) : **un outil par usage** (option 1C) : cargos mixtes voile-vapeur, *paranze* à voile pour la pêche côtière, chalutiers à vapeur sobres pour le large, moteurs rustiques pour les barques ; **en deux temps** (option 2C) : des bricolages dès 1945, puis une conception raisonnée par le chantier naval vers 1956-1960 ; **dès les années 1940, l'îlot étudie un navire de longue expédition** (sur une base de chalutier ou de cargo), **portant un hydravion** mis à l'eau et repris à la grue, pour **aller au plus près de la catastrophe** et rendre compte de l'état de l'Europe (Lorient, Brest, la Manche, les bases anglaises). Il naît des **leçons de l'expédition de la Manche** de l'été 1942 ([36](36-expedition-de-la-manche.md) §8). **[canon provisoire]** : les chiffres et le détail de ce chapitre.
+> **[canon]** (décisions de l'auteur) : **un outil par usage** (option 1C) : cargos mixtes voile-vapeur, *paranze* à voile pour la pêche côtière, chalutiers à vapeur sobres pour le large, moteurs rustiques pour les barques ; **en deux temps** (option 2C) : des bricolages dès 1945, puis une conception raisonnée par le chantier naval vers 1956-1960 ; **dès les années 1940, l'îlot étudie un navire de longue expédition** (sur une base de chalutier ou de cargo), **portant un hydravion** mis à l'eau et repris à la grue, pour **aller au plus près de la catastrophe** et rendre compte de l'état de l'Europe (Lorient, Brest, la Manche, les bases anglaises). Il naît des **leçons de l'expédition de la Manche** de l'été 1942 ([36](36-expedition-de-la-manche.md) §8). **Pendant l'épidémie, un prototype est transformé à l'arsenal de Cagliari** à partir d'un **cargo désarmé de 1940** (B76, option A) : grue pour un hydravion de type Loire 130, infirmerie de bord, voile d'appoint si la machine tombe en panne, équipage réduit au minimum, radio à longue portée ; **armé en 1949, essayé dans les eaux sardes, premier voyage vers la Manche en 1952-1954** (B75, option A) ; **son commandant est l'ancien enseigne du *Volta*** de 1942, entré au projet dès 1946 (option A). **[canon provisoire]** : les chiffres et le détail de ce chapitre.
 >
 > Ce chapitre complète [15](15-energie.md) §5 (la conversion au charbon) et [29](29-flotte-des-annees-1950.md) (la flotte active, le chantier naval).
 
@@ -100,7 +100,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 - **un chantier de bois à Carloforte**, pour les *paranze* et les barques, qui existe dès 1945 (§4.1) ;
 - **la série des chalutiers mixtes** (vers 1956-1960) : coque rivetée d'environ 35 m, machine à triple expansion de 300 à 400 ch, gréement de ketch, une dizaine de nœuds à la vapeur [estimation, à décider : nombre et noms]. C'est le **premier navire d'acier construit dans l'île**, avant les avisos neufs : le chantier apprend sur un navire simple.
 
-## 6. Le navire de longue expédition [canon : principe ; à décider : date, coque, itinéraire]
+## 6. Le navire de longue expédition [canon : principe, coque (B76 A), calendrier (B75 A), commandant ; à décider : itinéraire, noms]
 
 ### 6.1 Pourquoi aller voir
 
@@ -138,19 +138,76 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 |---|---|
 | **Le rayon d'action** : Cagliari – Gibraltar – Brest – la Manche – retour, **environ 5 000 milles**, avec escale de charbon à Gibraltar | ~25 jours de vapeur à 9 nœuds ; **600 à 800 t de charbon** en soute, moins avec la voile |
 | **La tenue à la mer** de l'Atlantique et de la Manche | Une coque haute, faite pour le mauvais temps |
-| **L'économie** | **Vapeur mixte**, gréement complet de goélette ou de trois-mâts : la voile en route, la machine pour les ports et la Manche |
+| **L'économie et la sécurité** | **Vapeur**, avec une **voile d'appoint** (décision de l'auteur) : de quoi tenir la cape, gouverner et rallier une côte **si la machine tombe en panne**, et soulager la chaudière par vent portant. Pas de gréement complet : il demanderait trop de gabiers (§6.3 bis) |
 | **L'hydravion** | Un **Loire 130** ([20](20-capacites-aeronavales.md)) : environ 3,5 t en charge, 16 m d'envergure, **conçu pour être catapulté et repris à la grue** par les croiseurs [histoire 🔎]. Le navire porte une **bigue ou une grue de 5 t** et un ber sur le pont ; le Loire 130 est mis à l'eau à la grue et décolle de la mer calme, puis il est repris de la même façon |
 | **Pourquoi un hydravion** | Voir **à l'intérieur des terres** sans débarquer : depuis l'estuaire de la Seine, le cratère de Rambouillet est à **~160 km**, soit un aller-retour d'environ trois heures de vol. Repérer les passes, les épaves, les fumées des survivants |
 | **Le carburant d'aviation** | Le **benzol de Carbonia** et les fractions légères du brut d'Albanie ([20](20-capacites-aeronavales.md) §3) : **3 à 5 t** pour une expédition, en fûts dans une soute isolée |
-| **L'équipage** | 60 à 80 marins, l'équipe de l'hydravion (deux pilotes, mécaniciens), une **équipe scientifique** (une dizaine : géologue, médecin, météorologue, photographe), des fusiliers marins |
-| **Le reste** | Une **station radio** à longue portée ; un **laboratoire** ; une **vedette à semi-Diesel** pour les reconnaissances de port ; des **scaphandriers** ; une soute à vivres pour quatre mois |
+| **L'équipage** | **Réduit au minimum** (décision de l'auteur), pour donner la place au charbon, à l'hydravion et aux passagers : **une quarantaine de marins** et **une douzaine de passagers de mission** (équipe de l'hydravion, médecin, savants, photographe) ; pas de section de fusiliers, les marins sont armés quand il faut descendre à terre (§6.3 bis) |
+| **L'infirmerie** | **Une infirmerie de bord** (décision de l'auteur) : salle de soins, quelques lits et **une chambre d'isolement**, la leçon de la Morìa ; elle reçoit aussi les survivants recueillis (§6.3 bis) |
+| **La radio** | **Une station à longue portée** (décision de l'auteur) : de quoi tenir la vacation avec Cagliari depuis la Manche et l'Écosse, et parler avec Brest (§6.3 bis) |
+| **Le reste** | Un **laboratoire** ; une **vedette à semi-Diesel** pour les reconnaissances de port ; des **scaphandriers** ; une soute à vivres pour quatre mois |
+
+### 6.3 bis Le prototype de Cagliari (1946 – 1952) [canon : principe, coque, calendrier, commandant ; provisoire : détail]
+
+**Décision de l'auteur** : le navire de longue expédition n'attend pas le chantier naval des années 1950. **Pendant l'épidémie**, l'arsenal de Cagliari transforme un navire existant en **prototype**. Le cahier des charges est celui de l'auteur : **une grue pour hisser un hydravion de type Loire 130, une infirmerie de bord, une voile d'appoint si la machine tombe en panne, un équipage minimal pour gagner de la place, une radio à longue portée.**
+
+**Pourquoi pendant l'épidémie** [canon provisoire] :
+- **L'île est fermée** (1944-1949, [14](14-epidemie.md) §5.5) : les cargos ne sortent presque plus, plusieurs sont désarmés, et les ouvriers de l'arsenal ont du temps. On ne peut pas aller voir l'Europe, mais on peut **préparer le navire qui ira**.
+- **Le Bureau des plans** (§4.2) a déjà les leçons de 1942 ([36](36-expedition-de-la-manche.md) §8) et les carnets de consommation des bords. Le prototype est son premier grand travail.
+- **Le Conseil veut être prêt à la réouverture** : la règle de Marseille fixe la date, à deux ans près ([14](14-epidemie.md) §5.6).
+
+**La coque : un cargo désarmé de 1940** (option B76 A) [navire réel à choisir parmi les cargos retenus en 1940 🔎] : un vapeur d'environ **2 500 tpl**, long d'environ **80 m**, avec une machine à triple expansion de 1 000 à 1 500 ch, des chaudières cylindriques **au charbon** et deux mâts de charge. Un chalutier aurait été plus marin et plus sobre en hommes, mais trop petit pour porter à la fois 700 t de charbon et un hydravion de 16 m d'envergure.
+
+**Les transformations** [canon provisoire ; chiffres : estimation 🔧] :
+
+| Partie | Avant (cargo) | Après (prototype) |
+|---|---|---|
+| **Cales avant** | Marchandises | **Soutes de charbon supplémentaires** : 700 t en tout. À 9 nœuds, la machine brûle de l'ordre de **20 t par jour** ; l'aller-retour Cagliari – Manche (environ 5 000 milles, 23 jours de route) en demande 450 à 500 t, et le reste couvre deux mois sur place, feux couverts |
+| **Cale arrière et mât arrière** | Mât de charge de 3 à 5 t | **Grue de 5 t** : mât arrière renforcé, bigue lourde, treuil à vapeur. **Ber de l'hydravion** sur le panneau renforcé de la cale arrière ; le Loire 130 y repose **ailes repliées** [🔎 repliage des ailes du Loire 130], sous une bâche. En dessous, la **soute d'essence isolée** (3 à 5 t en fûts, §6.3) et l'atelier d'aviation |
+| **Faux-pont** | Entrepont de marchandises | **L'infirmerie** : salle de soins et de petite chirurgie, **six lits**, **une chambre d'isolement de deux lits**, une **étuve à désinfection** pour l'épouillage (la leçon du typhus craint en 1942, [36](36-expedition-de-la-manche.md) §7) ; le **laboratoire** ; les **cabines des passagers de mission** ; un poste pour **20 à 30 survivants** recueillis |
+| **Passerelle** | Poste radio de cargo, de faible portée | **Station radio à longue portée** : un émetteur à ondes courtes pris sur un croiseur désarmé ([29](29-flotte-des-annees-1950.md) §7, les donneurs de pièces), des récepteurs de trafic, une antenne tendue entre les deux mâts, **un jeu de lampes d'émission de rechange** réservé au navire ([16](16-contacts-radio.md) §7, l'atelier des lampes). Portée visée : la vacation avec Cagliari depuis la Manche et l'Écosse, de jour ou de nuit selon la bande |
+| **Gréement** | — | **Voile d'appoint** : une misaine et une grand-voile auriques sur les deux mâts, une trinquette et un foc ; environ 400 m². Par vent frais portant, **2 à 4 nœuds sans machine** : assez pour gouverner, tenir la cape et rallier une côte si la machine tombe en panne ; en route, elle soulage la chaudière |
+| **Machine** | Chauffe à la main, équipe de cargo | Mêmes chaudières, **remises à neuf** ; grilles et tirage revus pour les briquettes de Carbonia (§4.1) ; une **turbine d'échappement** est envisagée plus tard (§4.3) |
+
+**L'équipage minimal** [canon : principe ; provisoire : chiffres] :
+
+| Service | Effectif | Détail |
+|---|---|---|
+| **Commandement et pont** | ~15 | Le commandant, le second, deux officiers de quart, un maître d'équipage, neuf matelots (trois par quart, qui manœuvrent aussi la grue et la voile), un charpentier-voilier |
+| **Machine** | ~13 | Un chef mécanicien, trois mécaniciens, neuf chauffeurs et soutiers (trois par quart) |
+| **Radio** | 3 | Un par quart : la vacation ne s'arrête jamais |
+| **Service et santé** | ~5 | Cuisinier, boulanger, aide, maître d'hôtel ; un **infirmier** |
+| **Équipage** | **~36 à 40** | Un cargo de cette taille en avait 25 à 35 en 1940 : on n'ajoute que le quart de radio, les matelots de la grue et l'infirmier |
+| **Passagers de mission** | **~12** | Un pilote, un observateur et deux mécaniciens d'aviation ; le **médecin** de l'expédition ; quatre ou cinq savants (géologue, météorologue, biologiste, ingénieur) ; un photographe ; un interprète |
+
+Pas de section de fusiliers marins : quand il faut descendre à terre, une **corvée de six à huit marins armés** part avec la vedette.
+
+**Le calendrier** (option B75 A) [canon : armement en 1949, premier voyage en 1952-1954 ; provisoire : détail] :
+
+| Date | Étape |
+|---|---|
+| **1946** | Le Bureau des plans reçoit la commande du Conseil. **L'ancien enseigne du *Volta*** y est détaché comme témoin de 1942 |
+| **1947** | Choix de la coque parmi les cargos désarmés ; plans de transformation, essais de maquettes dans le bassin du port |
+| **1947 – 1949** | **Transformation à l'arsenal de Cagliari**, en même temps que la conversion du *Georges Leygues* au charbon ([15](15-energie.md) §5) : soutes, grue, infirmerie, radio, gréement |
+| **1949** | **Armement du prototype.** Premiers essais à la mer dans le golfe de Cagliari, à l'intérieur des eaux gardées de l'île fermée |
+| **1949 – 1951** | **Essais** : tour de la Sardaigne, essais à la voile seule machine stoppée, essais de grue avec une **charge lestée de 3,5 t** (la masse d'un Loire 130 en charge), vacations radio à grande distance avec Gibraltar et Malte ; un voyage de doublure sur la ligne de Gibraltar ([29](29-flotte-des-annees-1950.md) §4.5) |
+| **1951** | **Premier hissage d'un vrai Loire 130** dans le golfe de Cagliari, avec **Yves Kerlann**, quelques semaines après le premier vol de la Flottille ([20](20-capacites-aeronavales.md) §4.3) |
+| **1952** | Navigation sous patente de santé ([14](14-epidemie.md) §5.6) : **le prototype est déclaré bon pour la longue expédition.** L'ancien enseigne en prend le commandement |
+| **1952 – 1954** | **Premier voyage vers la Bretagne et la Manche** [année exacte et itinéraire à décider, B75 et B77] |
+
+**Le commandant : l'ancien enseigne du *Volta*** (option A) [personnage inventé, protagoniste du futur roman ; nom à décider, B88] :
+- **1942** : **enseigne de vaisseau** sur le *Volta* ; il part à terre chercher sa famille à l'intérieur de la Bretagne ([36](36-expedition-de-la-manche.md) §6.2).
+- **1946** : lieutenant de vaisseau. Il est **détaché au Bureau des plans** comme officier du programme : il est l'un des rares officiers de l'îlot à avoir vu la Bretagne et la Manche après la catastrophe, et il sait ce qui a manqué en 1942 (le temps sur place, l'hydravion, la place à bord).
+- **1947 – 1949** : **officier d'armement**. Il suit la transformation à l'arsenal, choisit l'équipage et défend devant le Bureau l'infirmerie et la radio.
+- **1949 – 1952** : **second** pendant les essais, sous un commandant plus ancien [à décider ; proposition : l'ancien commandant du *Volta*, le capitaine de frégate de 1942 ([36](36-expedition-de-la-manche.md) §3.3)].
+- **1952** : **commandant** du navire, vers 33 ou 34 ans. Il le conduit au premier voyage vers la Bretagne, **dix ans après l'expédition de la Manche.**
 
 ### 6.4 Ce qu'il reste à décider
 
-- **La coque** : un **cargo** de 1940 transformé, ou un **chalutier** ? (B76)
-- **La date** du premier voyage du navire : l'expédition d'Albanie (1950) est la première sortie après l'épidémie, et le Loire 130 ne revole qu'en 1951 ([20](20-capacites-aeronavales.md) §4) ; le retour dans la Manche se place donc dans les années 1950 (B75).
+- ✅ **La coque** : un **cargo désarmé de 1940** (B76, option A). 🔎 Reste à choisir **le navire réel** parmi les cargos retenus à l'îlot en 1940.
+- ✅ **Le calendrier** : transformation pendant l'épidémie, armement en 1949, premier voyage en 1952-1954 (B75, option A). ❓ Reste l'**année exacte** du premier voyage (1953 ? 1954, pendant le creux radio ?).
 - **L'itinéraire** : la Bretagne et la Manche seulement, ou jusqu'à la Clyde et Scapa Flow ? (B77)
-- **Le nom** du navire, et celui du chef de l'expédition. (B78)
+- **Le nom** du navire, et celui du chef de l'expédition s'il n'est pas le commandant (B78). ❓ Le commandant des essais (1949-1952).
 
 ### 6.5 Ce qu'on ira chercher : les savants de l'Angleterre [canon : option B89 C ; provisoire : détail]
 
@@ -172,7 +229,11 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 | **1947** | Premières briquettes de Carbonia |
 | **1951 – 1953** | Premiers semi-Diesel au brut d'Albanie sur les bacs et les barques |
 | **1952 – 1955** | Turbine d'échappement sur l'*Anadyr* 🔧 |
-| **[à décider]** | Transformation et premier voyage du navire de longue expédition (§6.4) |
+| **1947 – 1949** | **Transformation du prototype de longue expédition** à l'arsenal de Cagliari, sur un cargo désarmé de 1940 (§6.3 bis) [canon : pendant l'épidémie] |
+| **1949** | **Armement du prototype** ; essais dans les eaux sardes jusqu'en 1951 [canon] |
+| **1951** | Premier hissage d'un Loire 130 à la grue du prototype |
+| **1952** | L'ancien enseigne du *Volta* prend le commandement du prototype [canon : le commandant ; provisoire : l'année] |
+| **1952 – 1954** | **Premier voyage vers la Bretagne et la Manche** [canon ; année exacte à décider] |
 | **1956 – 1960** | Chantier naval de l'Îlot ; série des **chalutiers mixtes**, premier navire d'acier construit dans l'île |
 | **Vers 1960** | La flotte brûle 20 à 25 % de charbon en moins qu'en 1950 |
 
@@ -181,7 +242,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 1. ✅ **La philosophie** : un outil par usage (option 1C).
 2. ✅ **Le calendrier** : en deux temps, bricolages dès 1945 puis conception raisonnée vers 1956-1960 (option 2C).
 3. ✅ **Le chapitre** : un chapitre à part, celui-ci (option 3A).
-4. ✅ **Le navire de longue expédition** : principe décidé (décision de l'auteur) : étude dès les années 1940, base de chalutier ou de cargo, hydravion à la grue, objectif la Bretagne, la Manche et les bases anglaises. ❓ Restent la coque, la date, l'itinéraire et le nom (§6.4).
+4. ✅ **Le navire de longue expédition** : principe décidé (décision de l'auteur) : étude dès les années 1940, hydravion à la grue, objectif la Bretagne, la Manche et les bases anglaises. **Prototype transformé à Cagliari pendant l'épidémie** (décision de l'auteur : grue pour un Loire 130, infirmerie, voile d'appoint, équipage minimal, radio à longue portée), sur un **cargo désarmé de 1940** (B76 A), armé en 1949, premier voyage en 1952-1954 (B75 A), commandé par **l'ancien enseigne du *Volta***, entré au projet dès 1946 (option A) (§6.3 bis). ❓ Restent le cargo réel, l'année exacte du premier voyage, l'itinéraire, le nom du navire et le commandant des essais (§6.4).
 5. ❓ **La série des chalutiers mixtes** : combien, et quels noms ?
 6. 🔎 **Les techniques** : diffusion de la turbine Bauer-Wach sur les chalutiers des années 1930 ; moteurs à boule chaude dans la pêche italienne et dans les fermes sardes en 1940 ; bateaux de pêche au gazogène en Scandinavie pendant la guerre ; caractéristiques du Loire 130 (masse en charge, autonomie, reprise à la grue).
 7. 🔎 **Les mines de la Manche** : champs posés en 1939-1940 ; durée de vie des orins et des mines à orin.

@@ -82,6 +82,7 @@
 | **1949** | À la réouverture, le Conseil des Amiraux décide de recréer la Flottille. Recensement des anciens pilotes et des mécaniciens d'aviation encore en vie, à partir du **rôle des navigants** tenu depuis 1943 ([22](22-organisation-militaire.md) §6 bis) |
 | **1950** | Inventaire des appareils conservés à Elmas. Choix des deux meilleurs. Remise en état : moteurs démontés, toiles refaites (lin ou coton enduit), câbles, instruments |
 | **1951** | **Premier vol depuis neuf ans** (le dernier était celui du cratère, en juillet 1942), avec le premier benzol mis de côté et le brut d'Albanie. Essais au sol, puis vols courts au-dessus du golfe de Cagliari |
+| **1951** | *(suite)* Kerlann pose le Loire 130 dans le golfe de Cagliari et le fait **hisser à la grue du prototype de longue expédition** : c'est le premier essai réel de reprise à bord depuis 1942 ([35](35-navires-de-l-ilot.md) §6.3 bis) |
 | **1952** | Les deux appareils sont en ligne. **Formation des premiers jeunes pilotes** par les anciens : d'abord au sol (navigation, météorologie, mécanique), puis en vol |
 | **Années 1950** | Quelques missions par an |
 
