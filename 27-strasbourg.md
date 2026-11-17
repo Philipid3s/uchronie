@@ -118,7 +118,7 @@
 
 **Le commandement** : Collinet, commandant du *Strasbourg*, qui a déjà été le chef de l'expédition d'Albanie et rapporté le pli de Souda en 1950 ([18](18-expedition-albanie.md) §7.5). Un membre du Conseil, ou Holland lui-même, embarque pour parler au nom de l'îlot [à décider].
 
-**À Souda** [canon provisoire, détail au chapitre [37](37-ilot-de-l-est.md) §8.4] : la rencontre a lieu sur l'îlot fortifié de Souda, au milieu de la baie. **Godfroy**, seul maître de l'Est depuis la mort de Cunningham (1944), reçoit l'envoyé du Conseil à bord du *Duquesne*. L'Ouest découvre une flotte immobile, une société plus dure que la sienne, mais la Bibliothèque de Souda et les canaux de la Messara. L'**accord de Souda** (octobre 1952) fonde une ligne annuelle : le brut d'Albanie contre le savoir, les lampes et les pièces de l'Est.
+**À Souda** [canon provisoire] (détail au chapitre [37](37-ilot-de-l-est.md) §8.4) : la rencontre a lieu sur l'îlot fortifié de Souda, au milieu de la baie. **Godfroy**, seul maître de l'Est depuis la mort de Cunningham (1944), reçoit l'envoyé du Conseil à bord du *Duquesne*. L'Ouest découvre une flotte immobile, une société plus dure que la sienne, mais la Bibliothèque de Souda et les canaux de la Messara. L'**accord de Souda** (octobre 1952) fonde une ligne annuelle : le brut d'Albanie contre le savoir, les lampes et les pièces de l'Est.
 
 ## 7. Vers 1960 : les machines passent à terre [canon : principe ; provisoire : détail]
 

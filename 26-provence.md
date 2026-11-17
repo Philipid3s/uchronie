@@ -15,7 +15,7 @@
 | **Artillerie** | 10 canons de 340 mm en cinq tourelles doubles ; **14 canons de 138 mm en casemates**, alignés le long du pont de la **batterie** ; canons antiaériens de 75 mm 🔎 |
 | **Machines** | Construit pour le charbon, passé au **mazout** lors des refontes de l'entre-deux-guerres ([15](15-energie.md) §5) ; ~20 nœuds |
 | **Équipage** | ~1 130 hommes ([12](12-flottes-survivantes.md)) |
-| **Commandant** | Capitaine de vaisseau **Gabriel Théodore Eugène Barois** (1889-1972) [histoire : en commandement à Mers el-Kébir ; portrait en [38](38-personnages-historiques.md) §3] |
+| **Commandant** | Capitaine de vaisseau **Gabriel Théodore Eugène Barois** (1889-1972) [histoire : en commandement à Mers el-Kébir] ; portrait en [38](38-personnages-historiques.md) §3 |
 | **Rôle en juillet 1940** | Force de Raid, à Mers el-Kébir |
 
 **Dans notre histoire**, le *Provence* est touché par les obus de la Force H le 3 juillet 1940 et doit s'échouer dans la rade de Mers el-Kébir ; renfloué, il gagne Toulon, où il se saborde en novembre 1942 [histoire]. Son voisin le *Bretagne* explose le 3 juillet, avec 977 morts. **Dans l'uchronie, les deux cuirassés sont intacts.**

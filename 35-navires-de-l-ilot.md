@@ -119,7 +119,9 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 - **Le charbon gallois** : s'il reste des poches autour des mines du pays de Galles ([07](07-le-monde-apres.md) §1), c'est le meilleur charbon de chauffe du monde.
 - **Les arsenaux** : outillage, plans, pièces, livres, peut-être des navires.
 
-### 6.2 Ce qu'on trouvera [estimation, d'après [02](02-impact-rambouillet.md)]
+### 6.2 Ce qu'on trouvera [estimation]
+
+*D'après le chapitre [02](02-impact-rambouillet.md).*
 
 | Lieu | Distance du cratère [calcul] | En 1940 [histoire] | État probable |
 |---|---|---|---|
@@ -204,7 +206,7 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 - **1942** : **enseigne de vaisseau** sur le *Volta* ; il part à terre chercher sa famille à l'intérieur de la Bretagne ([36](36-expedition-de-la-manche.md) §6.2).
 - **1946** : lieutenant de vaisseau. Il est **détaché au Bureau des plans** comme officier du programme : il est l'un des rares officiers de l'îlot à avoir vu la Bretagne et la Manche après la catastrophe, et il sait ce qui a manqué en 1942 (le temps sur place, l'hydravion, la place à bord).
 - **1947 – 1949** : **officier d'armement**. Il suit la transformation à l'arsenal, choisit l'équipage et défend devant le Bureau l'infirmerie et la radio.
-- **1949 – 1952** : **second** pendant les essais, sous un commandant plus ancien [à décider ; proposition : l'ancien commandant du *Volta*, le capitaine de frégate de 1942 ([36](36-expedition-de-la-manche.md) §3.3)].
+- **1949 – 1952** : **second** pendant les essais, sous un commandant plus ancien : l'ancien commandant du *Volta*, le capitaine de frégate de 1942 ([36](36-expedition-de-la-manche.md) §3.3), est proposé [à décider].
 - **1952** : **commandant** du navire, vers 33 ou 34 ans. Il le conduit au premier voyage vers la Bretagne, **dix ans après l'expédition de la Manche.**
 
 ![Le prototype de longue expédition passe la pointe Saint-Mathieu, au soir, sous voiles et fumée de charbon, son hydravion Loire 130 sur son ber à l'arrière, devant les ruines de l'abbaye et le phare](illustrations/prototype-saint-mathieu-1953.png)
