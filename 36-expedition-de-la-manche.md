@@ -136,8 +136,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 *Le 29 juin 1942, le* Volta *entre dans la rade de Lorient sous la citadelle de Port-Louis. Au large, le* Georges Leygues *et le* Faulknor *attendent dans la brume ; au-dessus, l'hydravion de Kerlann. Sur les quais, la fumée blanche du coup de semonce qui accueille l'embarcation du* Volta.
 
 **Écarts de l'image au canon et à l'histoire** :
-- **Un drapeau tricolore** flotte sur la citadelle de Port-Louis : personne ne l'y a hissé en 1942. Seul compte le pavillon délavé de l'arsenal.
-- **L'hydravion** est un biplan à deux flotteurs ; le Loire 130 est un **hydravion à coque, monoplan** [histoire].
+- **Le pavillon délavé de l'arsenal** (§6.1) n'apparaît pas.
 - **Trop de fenêtres éclairées** dans la ville : sans électricité, la communauté de Lorient n'a que quelques feux.
 - **Des collines trop hautes** : les rives de la rade de Lorient sont basses.
 - **La citadelle de Port-Louis** est sur la rive est de la passe [histoire] ; la vue est donc prise depuis Larmor ou Gâvres, en regardant vers l'est (le prompt la plaçait simplement « à gauche »).
