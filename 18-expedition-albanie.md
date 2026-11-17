@@ -364,7 +364,7 @@ Au départ, on ignore ce qui reste de Vlorë. Le plan de l'expédition prévoit 
 
 Il rend compte à Cagliari par radio, en message chiffré, et reprend la route de Malte. **C'est le moment où son sang-froid se voit le mieux** : il a sous la main le premier signe de l'Est depuis dix ans, et il passe son chemin.
 
-**La suite** : à partir de juillet 1950, Cagliari écoute aux heures données par le pli. La première rencontre a lieu en 1952, par le voyage du *Strasbourg* en baie de Souda ([27](27-strasbourg.md) §6). [à décider : la date et le contenu du premier échange radio direct, voir 09 B.3]
+**La suite** : à partir de juillet 1950, Cagliari écoute aux heures données par le pli. **Le premier échange direct a lieu dans la nuit du 19 au 20 juillet 1950** [canon provisoire] ([37](37-ilot-de-l-est.md) §8.2). La première rencontre a lieu en 1952, par le voyage du *Strasbourg* en baie de Souda ([27](27-strasbourg.md) §6, [37](37-ilot-de-l-est.md) §8.4).
 
 ## 8. Le bilan attendu [estimation]
 

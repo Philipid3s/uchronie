@@ -211,6 +211,8 @@ Quand les deux îlots se retrouveront, ils découvriront **deux sociétés de bo
 - **plus dure**, marquée par une épreuve plus terrible, et plus méfiante encore envers l'extérieur ;
 - **plus militarisée**, parce que la discipline y a été plus brutale et plus longue.
 
+La suite (Cunningham mort de la peste en février 1944, Godfroy seul, l'île partagée, les retrouvailles de 1950-1952) est au chapitre [37](37-ilot-de-l-est.md).
+
 ## 7. Les conséquences durables
 
 - **La Méditerranée orientale et le Moyen-Orient** sont les plus touchés. Le centre de gravité des survivants de l'Ancien Monde se déplace vers l'ouest et vers les îles.

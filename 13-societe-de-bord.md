@@ -372,4 +372,4 @@ La hiérarchie qui a sauvé l'îlot porte en elle ses propres dangers. Ce sont d
 3. **Le plafond des femmes** : les postes d'officier s'ouvrent petit à petit à la fin des années 1950 (§4 ter), mais les fusiliers marins leur restent fermés, et aucune n'a encore siégé au Conseil des Amiraux. Combien de temps une société fondée sur le mérite peut-elle maintenir ces limites ?
 4. **La fracture d'origine** entre un Carré issu des flottes et une base sarde (§6).
 5. **La mémoire** : le récit officiel fera de la flotte le sauveur de l'île. Les Sardes de l'intérieur garderont une autre mémoire.
-6. **La comparaison avec l'Est** : si l'îlot de Crète réapparaît, quel régime aura-t-il choisi ? Une société plus libre, ou plus dure encore ?
+6. **La comparaison avec l'Est** : si l'îlot de Crète réapparaît, quel régime aura-t-il choisi ? Une société plus libre, ou plus dure encore ? *Réponse ([37](37-ilot-de-l-est.md) §4.3) : plus dure. Un amiral seul et sans terme, Godfroy, une loi de bord jamais levée depuis la Morìa.*

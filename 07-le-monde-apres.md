@@ -201,7 +201,7 @@ Le détail est au chapitre [33](33-toulon.md).
 
 ## 3. L'îlot de l'Est : existant, mais silencieux [canon]
 
-**Ce que sait le narrateur omniscient** : l'îlot de l'Est **existe et survit**. Il est né à Alexandrie de la même logique que celui de Sardaigne : l'alliance de la Mediterranean Fleet de Cunningham et de la Force X de Godfroy, qui s'installent en **Crète**, dans la baie de Souda et la plaine de la Messara. Sa trajectoire détaillée est volontairement laissée dans l'ombre, pour une exploitation ultérieure.
+**Ce que sait le narrateur omniscient** : l'îlot de l'Est **existe et survit**. Il est né à Alexandrie de la même logique que celui de Sardaigne : l'alliance de la Mediterranean Fleet de Cunningham et de la Force X de Godfroy, qui s'installent en **Crète**, dans la baie de Souda et la plaine de la Messara. Sa trajectoire est décrite au chapitre [37](37-ilot-de-l-est.md) : une **île partagée** avec les Crétois des montagnes (trêve d'Arkadi, 1942), **Cunningham mort de la peste en 1944**, **Godfroy seul maître de l'Est**, le **savoir d'Alexandrie** (Bibliothèque de Souda), puis le partenariat avec Cagliari.
 
 **Ce que sait l'îlot de Sardaigne** :
 - **Juillet – octobre 1940** : contacts radio intermittents entre le *Dunkerque* et le *Warspite*, navire amiral de Cunningham. L'îlot de l'Est annonce son départ vers la Crète.
@@ -218,7 +218,8 @@ Le détail est au chapitre [33](33-toulon.md).
 - **L'incertitude** devient un thème politique : sont-ils morts, en guerre, ou indifférents ?
 - Une **expédition** serait possible, à environ 720 milles (1 330 km) de Cagliari à Souda. Mais elle coûte du mazout, et le mazout est vital. [canon provisoire] **Aucune expédition avant le retour de la navigation à voile ou au charbon** (années 1950).
 - **[canon] Juin 1950 : le premier signe.** Au retour de l'expédition d'Albanie, le convoi croise au large de Corfou un caïque ionien qui commerce avec la Crète. L'îlot de l'Est survit ; il n'émet qu'à heures fixes, faute d'énergie, et cherche « les navires de l'Ouest ». Un pli donne sa fréquence radio. Collinet refuse le détour : la mission avant tout ([18](18-expedition-albanie.md) §7.5).
-- **Les retrouvailles**, quand elles auront lieu, sont un ressort majeur pour la suite de l'uchronie : deux sociétés nées le même été, séparées pendant une génération.
+- **[canon provisoire] Juillet 1950 : le premier échange radio direct** ; **automne 1952 : le *Strasbourg* en baie de Souda** et l'**accord de Souda** ; à partir de 1953, la **ligne de Souda** : brut d'Albanie contre savoir, lampes et pièces ; des volontaires de l'Ouest en Crète ([37](37-ilot-de-l-est.md) §8-9).
+- **Les retrouvailles** sont un ressort majeur pour la suite de l'uchronie : deux sociétés nées le même été, séparées pendant une génération ; un partenariat, mais une méfiance qui demeure.
 
 **[canon] L'îlot de l'Est et la Morìa** (ce que sait le narrateur omniscient) : comme celui de Sardaigne, il survit grâce à une **discipline de fer**. Mais il est **bien plus touché** : la peste arrive en Crète dès l'hiver 1943-1944, et l'îlot perd environ la moitié de sa population. Ses malades sont parqués sur l'île de **Spinalonga**. Voir [14](14-epidemie.md) §6.
 
