@@ -43,7 +43,7 @@
 | Formation technique | École technique de l'Îlot, avec l'école d'apprentis de l'arsenal en première année (1B) ; reprise de l'école des mines d'Iglesias (2A) ; ingénieurs : École navale et année d'application, puis faculté d'ingénieurs (3, C puis B) ; manuels copiés et traduits par la bibliothèque de l'Îlot (4A) | [30](30-formation-technique.md) |
 | *Commandant Teste* | Atelier de précision ; le gros œuvre à l'arsenal (1B) ; à quai dans le port de Cagliari, tirant d'eau vérifié (2A) ; atelier jusqu'au milieu des années 1960, puis démolition (3A) | [31](31-commandant-teste.md) |
 | Malte | Garnison dans l'enclave des Trois Cités, QG au fort Saint-Ange (1A) ; dépôt de charbon dans l'enclave (2A) ; radio au fort, antennes de Rinella (3A) ; planche Malte de l'atlas (4A) | [32](32-avant-poste-de-malte.md) |
-| Voisins | Il y a de tout : coopératifs, méfiants, agressifs ; piraterie renaissante, surtout en Afrique du Nord | [07](07-le-monde-apres.md) §1 bis |
+| Voisins | Il y a de tout : coopératifs, méfiants, agressifs ; piraterie renaissante, surtout en Afrique du Nord ; **la course** : ports corsaires sous des *raïs* (1B), Tunisiens, Siciliens de Tunisie et renégats (2B), razzia de Carloforte en 1947 (3A), défense puis expédition punitive de 1951 (4, A puis B), Sicile occidentale et côte tyrrhénienne (5B), alliances changeantes (6C) ([39](39-la-course.md)) | [07](07-le-monde-apres.md) §1 bis |
 | Politique extérieure | Autosuffisance d'abord ; avant-postes de Malte, d'Albanie et de Gibraltar ; entraide avec les colonies amies | [07](07-le-monde-apres.md) §1 bis |
 | Toulon | À développer : exode des dernières forces françaises si la situation se dégrade, garnison de l'îlot après la réouverture (calendrier soumis, B7) | [07](07-le-monde-apres.md) §1 ter |
 | Femmes | Soutien d'abord (ingénieurs, logistique, santé), puis officières petit à petit ; fusiliers marins réservés aux hommes | [13](13-societe-de-bord.md) §4 ter |
@@ -111,7 +111,7 @@
 
 ### La population
 
-25. ❓ **Le rachat des captifs** ([21](21-demographie.md) §8) : quand une chefferie retient des gens qui veulent partir, l'îlot paie-t-il leur liberté (grain, sel, charbon), comme les ordres de la Rédemption des captifs à Alger et à Tunis, ou s'y refuse-t-il pour ne pas faire des captifs une marchandise ?
+25. ❓ **Le rachat des captifs** ([21](21-demographie.md) §8) : *en partie décidé par la course ([39](39-la-course.md) §5.1) : le Conseil refuse la rançon en 1947 ; retours par l'expédition de 1951 et par des échanges de prisonniers. Reste à confirmer la règle générale.* quand une chefferie retient des gens qui veulent partir, l'îlot paie-t-il leur liberté (grain, sel, charbon), comme les ordres de la Rédemption des captifs à Alger et à Tunis, ou s'y refuse-t-il pour ne pas faire des captifs une marchandise ?
 
 ### La radio ([16](16-contacts-radio.md) §8)
 
@@ -166,6 +166,7 @@
     - pour l'éclairage et la radio ([15](15-energie.md) §6 bis, [16](16-contacts-radio.md) §7) : la **veillée commune**, la lampe à pétrole comme signe de prospérité vers 1958, l'**atelier des lampes** du *Commandant Teste* (vers 1950) et les premières lampes faites dans l'îlot (vers 1955) ;
     - pour les lignes des avant-postes ([29](29-flotte-des-annees-1950.md) §4.5) : le calendrier type, les escortes, le *Canopo* au-devant du cargo de Gibraltar ;
     - pour l'expédition de la Manche ([36](36-expedition-de-la-manche.md)) : le **commandant du *Volta*** et son **jeune officier**, protagoniste du futur roman [personnage inventé, voulu par l'auteur ; ne pas remplacer] ; le commandant du *Volta* [inventé, à remplacer si le nom réel est retrouvé], l'**appel de Devonport** (avril 1942), le vote du 9 mai, la **réserve d'essence du Conseil** (6 t), le calendrier (Brest le 2 juillet, vol du cratère le 17 juillet), l'accueil de Lorient, le **Rapport de la Manche**, le rattrapage du mazout en 1943-1944, la **communauté mixte de Lorient** et son officier allemand, l'**îlot breton de Brest** et son ingénieur du Génie maritime, les ~150 passagers de Brest, le **départ de Devonport vers le pays de Galles**, les **deux ingénieurs du Génie maritime** prêtés par Brest, le biologiste de Concarneau, la présence de Georges Teissier à Roscoff en juillet 1940, les 3 000 volumes de Plymouth, Stanley Kemp parti pour le pays de Galles ;
+    - pour la course ([39](39-la-course.md)) : les ports corsaires et leurs rôles, **Mourad Raïs** (Jean-Baptiste Aubert), les *patrune* siciliens, la date et le bilan de la **razzia de Carloforte** (27-28 août 1947 : ~350 assaillants, ~180 captifs, ~40 morts), le refus de la rançon, les tours réarmées et les milices, la saison des corsaires, les coups de 1948-1950, l'**expédition de La Galite et de Tabarka** (septembre 1951) et son bilan, les échanges de prisonniers, le monument des captifs de Carloforte ;
     - pour l'îlot de l'Est ([37](37-ilot-de-l-est.md)) : l'**accord d'Alexandrie** (5 juillet 1940), les ~8 000 civils d'Alexandrie, l'hiver des réquisitions, la **trêve d'Arkadi** (1942) et la carte de l'île partagée, la date de la mort de Cunningham (février 1944), l'**Amirauté de Souda**, la **Bibliothèque et l'École de Souda** (arsenaux vénitiens de La Canée), les canaux de la Messara, les chiffres de population, le premier échange radio (19-20 juillet 1950) et son mot de reconnaissance, l'**accord de Souda** (octobre 1952), la **ligne de Souda**, les lampes de Souda, le destroyer chauffé au brut, les volontaires de l'Ouest, la phrase du rapport de Holland ;
     - pour les navires de l'Îlot ([35](35-navires-de-l-ilot.md)) : le **Bureau des plans** (1946, à bord du *Commandant Teste*), la quinzaine de paires de *paranze* vers 1950, la turbine d'échappement de l'*Anadyr*, la **série des chalutiers mixtes** (1956-1960), le programme du navire de longue expédition ; le **détail du prototype** (cargo d'environ 2 500 tpl, 700 t de charbon, grue de 5 t, infirmerie de six lits, ~400 m² de voilure, ~36 à 40 marins, un groupe de ~10 fusiliers marins, calendrier 1946-1952, carrière de l'enseigne du *Volta* de 1946 à 1952) ;
 
@@ -310,6 +311,14 @@
 102. ❓ **Les rôles à écrire** : Vespignani (ancien chef d'écoles de pilotes) à la Flottille d'Elmas ? Devin (ancien commandant de l'École navale) à l'École navale de l'Îlot ? La famille de Le Pivain, Brestois, à Brest en 1942 ? L'ambiguïté de Leone Leone (fasciste, mais qui aurait caché une famille juive) ?
 103. 🔎 **À lire** : *L'Aventure de la Force X* (Godfroy, 1953) ; *Flagship Hood* (Briggs, 1985) ; *A poppavia del jack* (1951) ; la nécrologie de Pérez par Teissier ; la biographie de Teissier par Toulmond ; rien n'a été trouvé en ligne sur le caractère de Barois, Duplat, Fane de Salis, Nurra, di Gropello, Vespignani et de Pignier.
 104. ❓ **La succession de 1951** ([38](38-personnages-historiques.md) §6, [11](11-ilot-de-civilisation.md) §8) : Sportiello (hiver 1950-1951) et Somerville (1951) meurent ; Gensoul reste seul fondateur. Qui entre au Conseil des Amiraux (un Italien et un Britannique pour garder l'équilibre des trois nations ? un élu du Grand Carré ?), et comment ?
+
+### La course ([39](39-la-course.md) §10)
+
+105. ❓ **La Sicile** : l'îlot frappe-t-il un jour les maisons corsaires de la Sicile occidentale, ou se contente-t-il des convois et des échanges de prisonniers ?
+106. ❓ **Mourad Raïs** (Jean-Baptiste Aubert, renégat de Bizerte, personnage inventé) : que devient-il après 1951 ? Et les noms des *patrune* siciliens.
+107. 🔎 **À documenter** : les tours côtières sardes (nombre, état en 1940) ; les pêcheurs ponzesi de La Galite en 1940 ; les Italiens de Tunisie en 1936-1940 ; la flotte de Mazara del Vallo en 1940 ; la population de Carloforte en 1940 ; le bombardement d'Alger de 1816 ; la razzia de Sant'Antioco en 1815.
+108. ❓ **La démographie de la course** : faut-il intégrer au modèle les ~180 captifs de 1947, les ~130 retours de 1951-1957 et la quarantaine de morts ?
+109. 🔧 **À vérifier** : les distances de course ; la consommation des patrouilles d'été (1 500 à 2 000 t) ; la poudre noire de recharge ; le stock d'obus de 152 mm du *Georges Leygues*.
 
 ## C. Points scientifiques à affiner
 

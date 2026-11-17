@@ -189,7 +189,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   <header class="masthead">
     <span class="eyebrow">Uchronie · La Comète de juillet 1940 · Annexe de la bible (v3)</span>
     <h1>Atlas de l'<em>Îlot</em></h1>
-    <p class="lede">Treize planches pour suivre l'îlot de Sardaigne, de la nuit du 1er juillet 1940 à 1960 : les deux impacts, le choix du refuge, les routes de la flotte et la population, compte par compte.</p>
+    <p class="lede">Quatorze planches pour suivre l'îlot de Sardaigne, de la nuit du 1er juillet 1940 à 1960 : les deux impacts, le choix du refuge, les routes de la flotte et la population, compte par compte.</p>
   </header>
 
   <nav class="atlas-nav" role="tablist" aria-label="Planches de l'atlas">
@@ -212,6 +212,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
       <span class="navpart" role="presentation"><b>III</b><span>Les routes</span></span>
       <div class="tabbar" role="presentation">
         <button class="tab" role="tab" id="tab-routes" aria-controls="view-routes" aria-selected="false">Mer de l'Îlot</button>
+        <button class="tab" role="tab" id="tab-course" aria-controls="view-course" aria-selected="false">La course</button>
         <button class="tab" role="tab" id="tab-malte" aria-controls="view-malte" aria-selected="false">Malte</button>
         <button class="tab" role="tab" id="tab-albanie" aria-controls="view-albanie" aria-selected="false">Albanie 1950</button>
         <button class="tab" role="tab" id="tab-kucova" aria-controls="view-kucova" aria-selected="false">Vlorë – Kuçova</button>
@@ -324,6 +325,20 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
       <div class="notes">
         <p>Les lieux qui ne jouent pas de rôle pendant la période choisie sont estompés. Carré : avant-poste ; croix : base effondrée ; losange : rencontre.</p>
         <p>Survolez ou touchez une route ou un lieu pour le détail. Chapitres 06, 07, 11, 14, 15, 16, 18, 21 et 27 de la bible.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-course" role="tabpanel" aria-labelledby="tab-course" class="plate" hidden>
+    <div class="mapbox" id="map-course"><div class="loading">Chargement de la carte…</div></div>
+    <div class="legend">
+      <h2>La course et les voisins</h2>
+      <p class="meta">Chefferies, ports corsaires et razzias autour de l'îlot, 1941-1960 — cercles : portée d'une course d'été, environ deux nuits de mer à la voile</p>
+      <div class="key" id="cr-key"></div>
+      <table id="cr-table"></table>
+      <div class="notes">
+        <p>Grande razzia de Carloforte : nuit du 27 au 28 août 1947, environ 350 assaillants venus de Tabarka, de La Galite et de Sicile, environ 180 captifs. Expédition de La Galite et de Tabarka : septembre 1951, environ 110 captifs rentrés.</p>
+        <p>Survolez ou touchez un lieu ou une route pour le détail. Chapitres 07, 18, 21, 34 et 39 de la bible ; positions et rôles en canon provisoire.</p>
       </div>
     </div>
   </section>
@@ -1750,6 +1765,110 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   }
   buildRouteChips();
 
+  // ---------- La course et les voisins ----------
+  const CR_KINDS = {
+    ilot: { c: "--accent", label: "Îlot et avant-postes" },
+    coop: { c: "--c3", label: "Voisins coopératifs" },
+    mefi: { c: "--c5", label: "Voisins méfiants" },
+    barb: { c: "--c2", label: "Course barbaresque" },
+    sic: { c: "--c4", label: "Course sicilienne" },
+    tyr: { c: "--c1", label: "Course tyrrhénienne" },
+    epi: { c: "--ink-soft", label: "Pirates de l'Épire" },
+    evt: { c: "--ink", label: "Razzia, combat" }
+  };
+  const CR_PLACES = [
+    ["Cagliari", 9.11, 39.21, "ilot", "Siège de l'îlot. Départ de l'expédition de La Galite et de Tabarka (septembre 1951)", [8, 14, "start"]],
+    ["La Maddalena", 9.405, 41.214, "ilot", "Avant-poste nord, face à la Corse", [8, -6, "start"]],
+    ["Malte", 14.51, 35.9, "ilot", "Avant-poste depuis 1949. La route de Malte traverse le canal de Sicile : convois escortés à partir de 1949", [8, 14, "start"]],
+    ["Sazan", 19.28, 40.5, "ilot", "Avant-poste d'Albanie (1950)", [-8, -6, "end"]],
+    ["Gozo", 14.25, 36.05, "coop", "Les Gozitains : pierre de troc, puis rattachés au bord de Malte en 1955", [-8, -6, "end"]],
+    ["Corse orientale", 9.52, 42.1, "coop", "Communautés de pêcheurs visitées par les expéditions de recueil (1955)", [8, 4, "start"]],
+    ["Archipel toscan", 10.3, 42.77, "coop", "Île d'Elbe et îles voisines : recueil de 1957", [8, 4, "start"]],
+    ["Toulon", 5.93, 43.12, "coop", "Survivants de l'enclave de l'arsenal ; garnison de l'îlot à partir de 1956", [8, 4, "start"]],
+    ["Narta", 19.42, 40.53, "coop", "Chefferie amie : accord de Narta (juin 1950), sel et pêche de la lagune", [8, 4, "start"]],
+    ["Corse des montagnes", 9.15, 42.31, "mefi", "Villages de montagne : troc à distance, on ne force pas la porte", [-8, 4, "end"]],
+    ["Barbagia", 9.3, 40.1, "mefi", "Bergers méfiants, jusqu'aux pactes de village", [-8, -2, "end"]],
+    ["Tabarka", 8.76, 36.955, "barb", "Port corsaire de Mourad Raïs : fort génois, bois de Kroumirie, marché de captifs. Bombardé par le Georges Leygues en septembre 1951", [-8, 12, "end"]],
+    ["La Galite", 8.93, 37.53, "barb", "Base avancée, à une nuit de Carloforte. Bateaux brûlés et une quarantaine de captifs délivrés en 1951", [8, -4, "start"]],
+    ["Bizerte – Ferryville", 9.87, 37.27, "barb", "Ruines de la base et de l'arsenal : fer, outils, armes, renégats déserteurs de 1940-41", [8, 4, "start"]],
+    ["Kélibia", 11.09, 36.85, "barb", "Port du cap Bon, sur le canal de Sicile : Pantelleria, la route de Malte", [8, 12, "start"]],
+    ["Trapani", 12.51, 38.02, "sic", "Maisons corsaires siciliennes ; salines ; marché de captifs", [8, -4, "start"]],
+    ["Marsala", 12.44, 37.8, "sic", "Maisons corsaires siciliennes", [-8, 4, "end"]],
+    ["Mazara del Vallo", 12.59, 37.65, "sic", "La grande flotte de pêche sicilienne, devenue corsaire ; trois bateaux à Carloforte en 1947", [8, 10, "start"]],
+    ["Égades", 12.2, 37.97, "sic", "Favignana et Marettimo : les madragues des Florio ; base avancée vers la Sardaigne", [-8, -6, "end"]],
+    ["Ponza", 12.96, 40.9, "tyr", "Chefferies au mythe fasciste : la « trahison de Cagliari ». Coup de main sur Arbatax en 1949", [8, -4, "start"]],
+    ["Gaète", 13.57, 41.21, "tyr", "Côte du Latium et de Campanie : course politique, peu de bateaux", [8, 4, "start"]],
+    ["Côte d'Épire", 20.0, 39.87, "epi", "Pirates de l'Épire, peut-être armés des fusils de l'armée italienne d'Albanie (question ouverte)", [-8, 12, "end"]],
+    ["Carloforte", 8.31, 39.14, "evt", "Grande razzia de la nuit du 27 au 28 août 1947 : environ 180 captifs, une quarantaine de morts. Déjà razziée en 1798", [-8, 4, "end"]],
+    ["Portoscuso", 8.38, 39.21, "evt", "Madrague attaquée par les Siciliens pendant la mattanza (1949) : la tour et la milice tiennent", [4, -10, "start"]],
+    ["Arbatax", 9.7, 39.94, "evt", "Barques brûlées par un coup de main tyrrhénien (1949)", [8, 12, "start"]],
+    ["Pantelleria", 11.95, 36.83, "evt", "Disputée entre Siciliens et Tunisiens ; un caboteur de la route de Malte pris au large (1950)", [-8, 12, "end"]],
+    ["Lampedusa", 12.6, 35.5, "evt", "Disputée entre les deux courses", [8, 4, "start"]]
+  ];
+  const CR_RINGS = [
+    ["barb", [8.93, 37.53], 300, "Course barbaresque"],
+    ["sic", [12.07, 37.97], 300, "Course sicilienne"],
+    ["tyr", [12.96, 40.9], 330, "Course tyrrhénienne"]
+  ];
+  const CR_ROUTES = [
+    { k: "barb", n: "Razzia de 1947, Tabarka et La Galite", pts: [[8.76, 36.955], [8.93, 37.53], [8.5, 38.55], [8.33, 39.1]], date: "27 – 28 août 1947", note: "Cinq bateaux sous Mourad Raïs" },
+    { k: "sic", n: "Razzia de 1947, les Siciliens", pts: [[12.59, 37.65], [12.07, 37.97], [10.0, 38.45], [8.7, 38.7], [8.22, 38.98], [8.29, 39.11]], date: "27 – 28 août 1947", note: "Trois bateaux de Mazara et de Marettimo : alliance de circonstance" },
+    { k: "tyr", n: "Coup de main d'Arbatax", pts: [[12.96, 40.9], [11.2, 40.45], [9.74, 39.95]], date: "1949", note: "Barques brûlées" },
+    { k: "ilot", n: "Expédition de La Galite et de Tabarka", pts: [[9.11, 39.21], [8.95, 38.4], [8.95, 37.6], [8.8, 37.02], [8.2, 38.1], [7.95, 39.6], [8.05, 40.6], [8.28, 41.04]], date: "Septembre 1951", note: "Georges Leygues, Tornade, Typhon, ~200 fusiliers, Loire 130 ; retour par l'Asinara", dash: "7 4" }
+  ];
+  function drawCourse() {
+    const box = document.getElementById("map-course");
+    const W = 900, H = 560;
+    const proj = d3.geoConicConformal().parallels([35, 43]).rotate([-12, 0])
+      .fitExtent([[10, 10], [W - 10, H - 10]], { type: "MultiPoint", coordinates: [[3.6, 35.0], [21.0, 35.0], [3.6, 43.6], [21.0, 43.6]] });
+    const { svg, defs, g, path, tip } = mapFrame(box, W, H, proj, "Carte de la course et des voisins de l'îlot, 1941-1960", 2);
+    Object.entries(CR_KINDS).forEach(([k, v]) => addArrow(defs, "cr-" + k, css(v.c)));
+    seaLabels(g, proj, [["Mer Tyrrhénienne", 11.9, 39.6], ["Bassin algérien", 5.6, 38.6], ["Canal de Sicile", 11.6, 36.3, -28], ["Mer Ionienne", 18.2, 37.0]]);
+
+    CR_RINGS.forEach(([k, c, km, n]) => {
+      g.append("path").datum(circle(c, km)).attr("d", path).attr("fill", css(CR_KINDS[k].c)).attr("fill-opacity", .07)
+        .attr("stroke", css(CR_KINDS[k].c)).attr("stroke-width", 1.6).attr("stroke-dasharray", "4 4");
+      const lb = proj(dest(c, k === "tyr" ? 20 : k === "sic" ? 150 : 250, km - 25));
+      g.append("text").attr("class", "ringlabel").attr("x", lb[0]).attr("y", lb[1]).attr("text-anchor", "middle").text(n);
+    });
+
+    const line = d3.line().curve(d3.curveCatmullRom.alpha(.5));
+    CR_ROUTES.forEach(r => {
+      const d = line(r.pts.map(p => proj(p))), c = css(CR_KINDS[r.k].c);
+      const node = g.append("g").attr("tabindex", 0).style("cursor", "pointer").attr("aria-label", `${r.n}, ${r.date} : ${r.note}`);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", "transparent").attr("stroke-width", 14);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", css("--land")).attr("stroke-width", 5).attr("stroke-opacity", .55);
+      node.append("path").attr("d", d).attr("fill", "none").attr("stroke", c).attr("stroke-width", 2.4)
+        .attr("stroke-dasharray", r.dash || null).attr("stroke-linecap", "round").attr("marker-end", `url(#cr-${r.k})`);
+      const km = lenKm(r.pts);
+      hoverable(node, tip, `<b>${r.n}</b><span class="k">${r.date}</span><br>${r.note}<br><span class="v">${fmt(Math.round(km / NM / 5) * 5)} milles</span>`);
+    });
+
+    const SYM = { ilot: d3.symbolStar, coop: d3.symbolCircle, mefi: d3.symbolCircle, barb: d3.symbolTriangle, sic: d3.symbolTriangle, tyr: d3.symbolTriangle, epi: d3.symbolTriangle, evt: d3.symbolDiamond };
+    CR_PLACES.forEach(([n, lon, lat, kind, note, lab]) => {
+      const [x, y] = proj([lon, lat]);
+      const node = g.append("g").attr("tabindex", 0).style("cursor", "pointer").attr("aria-label", `${n} : ${note}`);
+      node.append("circle").attr("cx", x).attr("cy", y).attr("r", 10).attr("fill", "transparent");
+      node.append("path").attr("d", d3.symbol(SYM[kind], kind === "ilot" ? 130 : kind === "evt" ? 60 : 80)())
+        .attr("transform", `translate(${x},${y})`)
+        .attr("fill", kind === "mefi" ? css("--land") : css(CR_KINDS[kind].c))
+        .attr("stroke", kind === "mefi" ? css(CR_KINDS[kind].c) : css("--land")).attr("stroke-width", kind === "mefi" ? 2 : 1.1);
+      node.append("text").attr("class", "maplabel").attr("x", x + lab[0]).attr("y", y + lab[1]).attr("text-anchor", lab[2])
+        .attr("font-weight", kind === "ilot" ? 600 : 400).text(n);
+      hoverable(node, tip, `<b>${n}</b><span class="k">${CR_KINDS[kind].label}</span><br>${note}`);
+    });
+    scaleBar(svg, proj, [4.2, 35.6], 200, "200 km");
+
+    document.getElementById("cr-key").innerHTML = Object.values(CR_KINDS)
+      .map(v => `<span>${sw(v.c)}${v.label}</span>`).join("");
+    const order = ["barb", "sic", "tyr", "epi"];
+    const rows = CR_PLACES.filter(p => order.includes(p[3]))
+      .sort((a, b) => order.indexOf(a[3]) - order.indexOf(b[3]))
+      .map(([n, , , k, note]) => [`${sw(CR_KINDS[k].c)}${n}`, CR_KINDS[k].label.replace("Course ", "").replace("Pirates de l'", "")
+        , note]);
+    table("cr-table", ["Foyer", "Course", "Rôle"], rows);
+  }
+
   // ---------- III. L'expédition d'Albanie ----------
   const AL_LEGS = [
     { n: "Cagliari → La Valette", leg: "aller", pts: [[9.11, 39.21], [10.1, 38.45], [11.7, 37.25], [13.2, 36.35], [14.51, 35.9]], nm: 325, h: 36, lab: [11.55, 37.62] },
@@ -2359,7 +2478,7 @@ td .k { display: block; color: var(--ink-soft); font-size: 12.5px; margin-top: 2
   // ---------- planches et navigation ----------
   const VIEWS = {
     france: drawFrance, pacifique: drawPacific, mediterranee: drawMed, sardaigne: drawSard, cagliari: drawCagliari, malte: drawMalte,
-    routes: drawRoutes, albanie: drawAlbanie, kucova: drawKucova, mazout: drawMazout,
+    routes: drawRoutes, course: drawCourse, albanie: drawAlbanie, kucova: drawKucova, mazout: drawMazout,
     population: drawPopulation, pyramide: drawPyramid, metiers: drawJobs
   };
   const CHARTS = new Set(["mazout", "population", "pyramide", "metiers"]);

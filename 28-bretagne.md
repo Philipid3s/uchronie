@@ -78,7 +78,7 @@ La coque reste au mouillage dans le golfe de Palmas, avec un petit équipage de 
 
 **Décision de l'auteur** : les canons du *Bretagne* servent **rapidement** à armer une **batterie du golfe de Palmas**.
 
-**Pourquoi** : le golfe abrite le grenier de l'îlot, la centrale du *Strasbourg* et, à terre, les mines du Sulcis et les ports charbonniers de Portovesme et de Sant'Antioco. C'est la côte la plus exposée aux razzias venues de Tunisie ([07](07-le-monde-apres.md) §1 bis). Un grenier ne doit pas avoir à se défendre lui-même : ses soutes sont pleines de grain, pas de poudre.
+**Pourquoi** : le golfe abrite le grenier de l'îlot, la centrale du *Strasbourg* et, à terre, les mines du Sulcis et les ports charbonniers de Portovesme et de Sant'Antioco. C'est la côte la plus exposée aux razzias venues de Tunisie ([07](07-le-monde-apres.md) §1 bis) ; voir la grande razzia de Carloforte (1947) au chapitre [39](39-la-course.md). Un grenier ne doit pas avoir à se défendre lui-même : ses soutes sont pleines de grain, pas de poudre.
 
 | Étape | Ce qu'on débarque | Où [à vérifier : lieux provisoires] |
 |---|---|---|

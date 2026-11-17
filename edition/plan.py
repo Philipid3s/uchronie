@@ -30,6 +30,7 @@ PARTIES = [
         "07-le-monde-apres.md",
         "16-contacts-radio.md",
         "37-ilot-de-l-est.md",
+        "39-la-course.md",
         "33-toulon.md",
     ]),
     ("IV", "Les années fermées", "1940 – 1948", [

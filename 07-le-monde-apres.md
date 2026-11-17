@@ -132,6 +132,8 @@ La plupart des 2,3 millions de survivants de 1946 ([05](05-population.md) §3) *
 - **leurs moyens** : des voiliers rapides et des barques à rames, une centaine d'hommes au plus par coup de main ; des fusils tant qu'il reste des cartouches ;
 - **la réponse de l'îlot** : les avisos et les petits vapeurs gardent le sud de l'île ; les **tours côtières** sardes reprennent du service comme postes de guet ; les cargos de Malte et de Sazan naviguent en convoi ; les batteries du golfe de Palmas couvrent le mouillage du *Bretagne* ([28](28-bretagne.md) §3 bis).
 
+**Le détail** est au chapitre [39](39-la-course.md) : des ports corsaires sous des *raïs* (Tabarka, La Galite, Bizerte, Kélibia), menés par des Tunisiens, des Siciliens de Tunisie et des renégats de Bizerte ; la course sicilienne de Trapani, Mazara et des Égades ; la course tyrrhénienne, fasciste et politique ; la **grande razzia de Carloforte** (août 1947) ; la défense seule, puis l'**expédition de La Galite et de Tabarka** (1951).
+
 C'est aussi la toile de fond de la question du **rachat des captifs** ([21](21-demographie.md) §8, [09](09-questions-ouvertes.md) B25).
 
 ### La politique de l'îlot : l'autosuffisance d'abord, puis l'entraide [canon : principe ; provisoire : détail]
