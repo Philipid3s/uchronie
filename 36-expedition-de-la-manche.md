@@ -131,6 +131,18 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 ## 6. Ce qu'on trouve [canon : options B84, B85, B83 ; provisoire : détail]
 
 ### 6.1 Lorient (29-30 juin)
+
+![Le Volta entre dans la rade de Lorient le 29 juin 1942, sous un ciel brun, devant la ville brûlée ; son embarcation file vers les quais d'où part un coup de semonce](illustrations/lorient-1942.png)
+
+*Le 29 juin 1942, le* Volta *entre dans la rade de Lorient sous la citadelle de Port-Louis. Au large, le* Georges Leygues *et le* Faulknor *attendent dans la brume ; au-dessus, l'hydravion de Kerlann. Sur les quais, la fumée blanche du coup de semonce qui accueille l'embarcation du* Volta.
+
+**Écarts de l'image au canon et à l'histoire** :
+- **Un drapeau tricolore** flotte sur la citadelle de Port-Louis : personne ne l'y a hissé en 1942. Seul compte le pavillon délavé de l'arsenal.
+- **L'hydravion** est un biplan à deux flotteurs ; le Loire 130 est un **hydravion à coque, monoplan** [histoire].
+- **Trop de fenêtres éclairées** dans la ville : sans électricité, la communauté de Lorient n'a que quelques feux.
+- **Des collines trop hautes** : les rives de la rade de Lorient sont basses.
+- **La citadelle de Port-Louis** est sur la rive est de la passe [histoire] ; la vue est donc prise depuis Larmor ou Gâvres, en regardant vers l'est (le prompt la plaçait simplement « à gauche »).
+- Le ciel brun, le froid, les forêts mortes, l'épave près de l'arsenal, les grues et l'absence de base de sous-marins sont conformes au canon ([04](04-climat.md), §5).
 - **En 1940** [histoire] : la Kriegsmarine occupe le port depuis le 21 juin 1940 et y prépare une base de sous-marins.
 - **Ce qu'on trouve** (option B) : **une communauté mixte**. La ville est brûlée, mais autour de l'arsenal et de Kéroman vivent quelques centaines de personnes : des **marins de la Kriegsmarine** restés après l'automne 1940 et des **Lorientais**, ouvriers de l'arsenal, pêcheurs et familles. Ils sont menés par le vice-amiral **Lothar von Arnauld de la Perière** [histoire : né en 1886, l'as des sous-marins de 1914-1918, descendant de huguenots français ; commandant de la Marine allemande en Bretagne à l'été 1940, basé à Brest 🔎]. [canon provisoire] À l'automne 1940, quand la garnison de Brest part vers l'est, il refuse de la suivre, se replie sur Lorient avec les marins qui veulent rester, et tient la base avec les Lorientais. Il parle français. *Dans notre histoire, il meurt en février 1941 dans un accident d'avion au Bourget 🔎 ; dans l'uchronie, il ne quitte plus la Bretagne.* Deux ans de faim commune ont effacé l'occupation ; on parle un mélange de français, de breton et d'allemand.
 - **La rencontre** : un coup de fusil de semonce accueille l'embarcation du *Volta*. Puis on parlemente, par les interprètes, à la cale de l'arsenal. **Brest et Lorient sont l'affaire des Français** : c'est le commandant du *Volta* qui mène la parlementation, avec le jeune officier (§3.3) comme interprète de breton.
