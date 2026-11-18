@@ -74,31 +74,28 @@ Depuis juillet 1940, les équipages français vivent sans nouvelles. **L'appel d
 
 ![Plan de coupe du croiseur Georges Leygues en 1942 : vue de profil, coque ouverte, de la grue arrière à l'étrave, l'hydravion Loire 130 sur l'arrière](illustrations/georges-leygues-1942-coupe.png)
 
-*Plan de coupe du* Georges Leygues *(classe* La Galissonnière*) à l'été 1942, navire-base de l'expédition de la Manche, dans le même style que celui du* Volta. *L'arrière est à gauche, l'avant à droite. Sur l'arrière, le Loire 130 de Tom Penhallow et sa grue ; sur le pont, au milieu, les sacs de grain.*
+*Plan de coupe du* Georges Leygues *(classe* La Galissonnière*) à l'été 1942, navire-base de l'expédition de la Manche, dans le même style que celui du* Volta. *L'arrière est à gauche, l'avant à droite. Sur l'arrière, le Loire 130 de Tom Penhallow et sa grue.*
 
 **Légende** (d'après l'image) :
 
 | N° | Arrière et aviation | N° | Superstructures et armes | N° | Coque, machines et soutes |
 |---|---|---|---|---|---|
-| 1 | **Grue de l'hydravion**, sur la plage arrière | 7 – 8 | Cheminées arrière et avant | 16 – 17 | Puits aux chaînes, postes de l'équipage avant |
-| 2 | **Le Loire 130**, sur le toit du hangar | 9 – 10 | Affûts doubles de 90 mm contre avions, entre les cheminées | 18 – 19 | Soutes à munitions et magasins avant, sous les tourelles (numéros en double sur l'image) |
-| 3 | Plateforme de l'hydravion et **hangar** (ateliers d'aviation) | 11 | Mât de misaine et direction de tir | 21, 23 | Poste central et transmissions, sous la passerelle |
-| 4 | Pont arrière, embarcations | 12 | Passerelle | 24 – 27 | **Chaufferies** : chaudières à tubes d'eau au mazout, auxiliaires |
-| 5 | Tourelle arrière | 13 – 14 | Tourelles avant, superposées | 28 | **Salles des machines** : turbines à engrenages, réducteurs |
-| 6 | Grand mât | 15 | Étrave et ancre | 29 – 30 | Soutes à mazout du double fond, arbres d'hélice |
-| | | | | 31 | Soute à munitions arrière |
-| | | | | 32 | Logements des officiers, infirmerie |
-| | | | | 33 – 35 | Presse-étoupe, hélices, gouvernail |
+| 1 | **Grue de l'hydravion**, sur la plage arrière | 5 et « 90 » | Affûts doubles de 90 mm contre avions | 15, 17 | Écubier et ancre ; postes de l'équipage avant |
+| 2 | **Le Loire 130** | 7 – 8 | Cheminées arrière et avant | 18 – 20 | Soutes à munitions et magasins avant, sous les tourelles |
+| 3 | Plateforme de l'hydravion, au-dessus du **hangar** et des ateliers d'aviation | 9 | Embarcations et affûts entre les cheminées | 22 – 24 | Poste central, transmissions, magasins et auxiliaires |
+| 4 | Tourelle arrière | 10 | Mât de misaine | 25, 27 | **Chaufferies** : chaudières à tubes d'eau au mazout |
+| | | 11 | Tour de passerelle et direction de tir | 28 – 29 | **Salles des machines** : turbines à engrenages, réducteurs, condenseurs |
+| | | 12 – 13 | Tourelles avant, superposées | 31 – 32 | Soute à munitions arrière ; logements des officiers et infirmerie |
+| | | 14 | Mât de pavillon de beaupré | 33 – 35 | Arbres et presse-étoupe, hélices, gouvernail |
 
 **Écarts de l'image au canon et à l'histoire** :
-- **Les tourelles sont doubles** : l'image montre trois tourelles de **deux** canons. Le navire réel porte **neuf canons de 152 mm en trois tourelles triples** [histoire].
-- **L'hydravion** est posé sur le toit du hangar, sans catapulte visible. Dans le navire réel, la **catapulte est sur le toit de la tourelle arrière** et la grue reprend l'appareil à la mer [histoire 🔎 : place exacte du hangar]. Les ailes sont déployées, et non repliées. L'appareil est bien un **hydravion à coque**, moteur au-dessus de l'aile.
-- **Le mât de misaine** est une tour en treillis ; le navire réel a une **tour de passerelle et un mât tripode** [histoire 🔎].
-- **Les cheminées** sont droites et massives, et non inclinées.
-- **L'échelle est fausse** : la règle de 100 m donne un navire d'environ 300 m, alors qu'il mesure **179 m** [histoire].
-- **Les chaufferies** : on ne voit que deux chaudières, au lieu de quatre ; les **tubes lance-torpilles** (deux affûts triples) manquent ; les affûts de 90 mm sont fermés, alors qu'ils étaient ouverts.
-- **La numérotation** : 18, 19 et 27 sont en double, 20 et 22 manquent.
-- **Conformes au canon** : les **sacs de grain** sur le pont, les embarcations supplémentaires, la peinture rouillée, la grue arrière, le pavillon national, la ceinture cuirassée à la flottaison.
+- **L'hydravion** est posé sur une plateforme au-dessus du hangar et de la tourelle arrière, sans catapulte visible. Dans le navire réel, la **catapulte est sur le toit de la tourelle arrière** et la grue reprend l'appareil à la mer [histoire 🔎 : place exacte du hangar]. Les ailes sont déployées, et non repliées. L'appareil est bien un **hydravion à coque**.
+- **Les tourelles** montrent deux canons de profil ; le navire réel porte **trois tourelles triples de 152 mm** [histoire]. Sur une vue de profil stricte, les tubes se cachent l'un l'autre : l'écart est tolérable.
+- **L'échelle reste fausse** : la règle marque 179 m bien avant l'étrave, et le navire dessiné mesure environ 280 m à cette échelle.
+- **Le mât de misaine** est un mât simple, et non un **tripode** [histoire 🔎] ; les cheminées sont plus massives que dans le navire réel.
+- **Les chaufferies** : on ne voit que deux chaudières, au lieu de quatre ; les **tubes lance-torpilles** (deux affûts triples) manquent.
+- **La numérotation** : 17, 18, 28, 29 et 32 sont en double, 23 l'est cinq fois ; 6, 16, 21, 26 et 30 manquent ; un repère porte « 90 » (le calibre des affûts, pris pour un numéro).
+- **Conformes au canon** : la tour de passerelle pleine, les cheminées inclinées, les embarcations supplémentaires, la peinture rouillée, la grue arrière, le pavillon national, la ceinture cuirassée à la flottaison.
 
 ### 3.1 L'essence de l'hydravion
 
