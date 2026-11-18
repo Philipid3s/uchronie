@@ -1,6 +1,6 @@
 # Tome 1 — Plan détaillé (script)
 
-> Titre provisoire : ***Le Ciel de cendre*** [à décider, voir §8].
+> Titre : ***Le Ciel de cendre*** [canon roman].
 > Du 30 juin 1940, veille de l'impact, à l'installation de l'îlot à Cagliari, à la fin de l'automne 1940.
 
 **Statut** : premier jet du script, à valider chapitre par chapitre avant toute prose. Les choix de l'auteur sont marqués **[canon roman]**, mes propositions **[proposition]**. Le roman suit la bible ; quand il invente (personnages secondaires, scènes), il ne contredit pas le canon, et toute invention qui touche la bible est reportée dans [09](../../09-questions-ouvertes.md).
@@ -19,6 +19,7 @@
 | **Les pièces d'époque** | Entre les chapitres, des documents (signaux, journaux de bord, écoutes radio, ordonnances) qui rendent compte de **la situation mondiale** |
 | **Le ton** | **Éthéré** dans l'évocation des environnements d'après la catastrophe (§2) |
 | **La fin** | Une situation qui **réunit les trois protagonistes** à la fin du tome |
+| **Les choix du 18 novembre 2026** | Le titre ; les familles du §3.1 ; la mort de Rita et de Bonaria Deiana dans la nuit de feu ; Gigi blessé et prisonnier ; la réunion finale de la nuit du caboteur ; **l'hydravion perdu en mer** |
 | **L'amour** | Un **léger triangle amoureux** : Tom, plus volage, se désintéresse vite d'Efisia et laisse le champ libre à Jean |
 
 ---
@@ -55,19 +56,19 @@
 
 **Jean de Kerangal** [canon roman : nom, bord, origine ; proposition : le reste]
 - Né en 1918 à **Brest**. École navale ; **enseigne de vaisseau de 2ᵉ classe** sur le contre-torpilleur *Volta* en 1940, officier de quart et adjoint au canonnier. Il parle bien l'anglais (une gouvernante, des étés à Plymouth ?), ce qui le fait employer comme **officier de liaison** dès juillet.
-- **Sa famille** [à décider, B88] : proposition : son père, ancien officier des équipages ; sa mère ; une sœur cadette, **Soizic** (17 ans). Il n'a plus de nouvelles depuis l'entrée des Allemands à Brest (19 juin 1940) [histoire 🔎]. **Il ne sait pas qu'ils ont fui vers la campagne** : il ne l'apprendra qu'en 1942.
+- **Sa famille** [canon roman] : son père, ancien officier des équipages ; sa mère ; une sœur cadette, **Soizic** (17 ans). Il n'a plus de nouvelles depuis l'entrée des Allemands à Brest (19 juin 1940) [histoire 🔎]. **Il ne sait pas qu'ils ont fui vers la campagne** : il ne l'apprendra qu'en 1942.
 - **Tempérament** : réservé, scrupuleux, catholique breton, lent à aimer et fidèle. Il croit à l'ordre, et le voit tenir à bord quand tout s'effondre à terre.
 - **Son arc dans le tome 1** : de l'officier qui obéit à l'homme qui choisit. Il apprend l'italien avec Efisia.
 
 **Tom Penhallow** [canon roman : nom, bord, hydravion, naissance ; proposition : le reste]
 - Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Escadrille de catapulte (Walrus, Swordfish à flotteurs), Norvège, puis l'*Ark Royal* en juin 1940 ([20](../../20-capacites-aeronavales.md) §4.5).
-- **Sa famille** [proposition, B110] : sa mère, veuve ; un frère cadet, **Billy** (15 ans) ; l'oncle **Jack**, charpentier chez Saunders-Roe à Cowes.
+- **Sa famille** [canon roman] : sa mère, veuve ; un frère cadet, **Billy** (15 ans) ; l'oncle **Jack**, charpentier chez Saunders-Roe à Cowes.
 - **Tempérament** : drôle, charmeur, insolent, **volage** ; courageux par goût du jeu. Ce qui le tient, c'est voler, et voir. Il est curieux de tout, et c'est ce qui en fera l'homme du renseignement de 1942.
 - **Son arc dans le tome 1** : du jeune homme qui vit pour l'instant à celui qui accepte une mission. Le dernier vol de l'automne 1940 en est l'épreuve.
 
 **Efisia Deiana** [canon roman : nom, métier, ville ; proposition : le reste]
 - Née en 1919 à **Cagliari**, quartier de la **Marina**. Infirmière à l'hôpital **San Giovanni di Dio**, sous les religieuses. Elle parle sarde et italien, et apprend vite le français et l'anglais.
-- **Sa famille** [proposition] : son père **Antonio**, docker au port ; sa mère **Rita** et sa petite sœur **Bonaria** (10 ans) ; son frère aîné **Gigi** (Luigi), milicien de la **MILMART** à la batterie du capo Sant'Elia, plus par besoin d'une solde que par conviction.
+- **Sa famille** [canon roman] : son père **Antonio**, docker au port ; sa mère **Rita** et sa petite sœur **Bonaria** (10 ans) ; son frère aîné **Gigi** (Luigi), milicien de la **MILMART** à la batterie du capo Sant'Elia, plus par besoin d'une solde que par conviction.
 - **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652). Elle ne pardonne pas facilement.
 - **Son arc dans le tome 1** : du deuil et de la colère contre ceux qui sont entrés dans son golfe sous les canons à l'acceptation d'un « bord ». Son point de vue porte la mémoire sarde : **sauvetage ou conquête ?** ([10](../../10-choix-du-refuge.md) §9).
 
@@ -137,7 +138,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari**
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes. La Marina en feu.
-- **Sa mère et Bonaria meurent dans la nuit** [proposition] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
+- **Sa mère et Bonaria meurent dans la nuit** [canon roman] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
 - Le matin ne vient pas.
 
 ### Partie II — Le chemin de l'île
@@ -212,16 +213,16 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 **24. Efisia — novembre, les réfugiés corses**
 - Les traversées des bouches de Bonifacio. Un soir, la nouvelle : **un caboteur de réfugiés corses torpillé** par un sous-marin perdu ([06](../../06-mers-el-kebir.md) §6 bis). On demande des infirmières volontaires pour le *Volta*. Efisia lève la main.
 
-**25 – 27. La réunion : la nuit du caboteur** [proposition, à valider]
+**25 – 27. La réunion : la nuit du caboteur** [canon roman]
 
 **25. Tom — la nuit du dernier vol**
 - Le Conseil autorise **un vol, le dernier** : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord. Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
 
 **26. Jean — la même nuit, le *Volta***
-- Le *Volta* fonce vers le nord, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. On prend l'hydravion en remorque.
+- Le *Volta* fonce vers le nord, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
 **27. Efisia — le retour, fin novembre**
-- Le *Volta* rentre dans le golfe à l'aube grise, l'hydravion à la traîne. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
+- Le *Volta* rentre dans le golfe à l'aube grise. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
 - **Dernière image** : la fête manquée de saint Éphise, le vœu de la peste, ou l'enterrement des Corses dans l'enclos du 12 juillet [à choisir]. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Brest et Plymouth sont au nord, dans le noir. *« Un jour, on ira voir. »*
 
 **Pourquoi cette fin** [proposition] :
@@ -265,11 +266,11 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 
 ## 8. Questions ouvertes du tome 1
 
-1. ❓ **Le titre** : *Le Ciel de cendre* ? Autres pistes : *La Nuit de feu*, *Les Bords*, *Le Golfe*.
-2. ❓ **Les familles** de Jean et de Tom (B88, B110) : les propositions du §3.1 vous conviennent-elles ?
-3. ❓ **La mère et la sœur d'Efisia** meurent-elles dans la nuit de feu (chapitre 6) ? C'est dur, mais cela fonde sa colère.
-4. ❓ **Gigi à la batterie** : il est blessé et prisonnier (proposition), ou mort ?
-5. ❓ **La réunion finale** (chapitres 25-27) : la nuit du caboteur corse vous convient-elle ? Alternatives : l'alerte du 23 septembre (Efisia y est moins à sa place) ; un accident du Loire 130 en mer.
-6. ❓ **L'hydravion** à la fin : ramené en remorque (proposition), ou perdu en mer ?
+1. ✅ **Le titre** : *Le Ciel de cendre*.
+2. ✅ **Les familles** de Jean et de Tom : celles du §3.1.
+3. ✅ **La mère et la sœur d'Efisia** meurent dans la nuit de feu (chapitre 6).
+4. ✅ **Gigi** est blessé et prisonnier.
+5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
+6. ✅ **L'hydravion** est perdu en mer.
 7. ❓ **La dernière image** (chapitre 27) : saint Éphise, l'enclos du 12 juillet, ou autre ?
 8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; les destroyers de la Force H en juillet 1940 ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; les CANT Z.501 et Z.506 d'Elmas.
