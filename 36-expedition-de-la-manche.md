@@ -72,6 +72,34 @@ Depuis juillet 1940, les équipages français vivent sans nouvelles. **L'appel d
 - **Le n° 16 manque** dans la numérotation.
 - **Les embarcations supplémentaires** et la peinture rouillée sont voulues : ce sont les traces de deux ans sans carénage et les préparatifs de l'expédition.
 
+![Plan de coupe du croiseur Georges Leygues en 1942 : vue de profil, coque ouverte, de la grue arrière à l'étrave, l'hydravion Loire 130 sur l'arrière](illustrations/georges-leygues-1942-coupe.png)
+
+*Plan de coupe du* Georges Leygues *(classe* La Galissonnière*) à l'été 1942, navire-base de l'expédition de la Manche, dans le même style que celui du* Volta. *L'arrière est à gauche, l'avant à droite. Sur l'arrière, le Loire 130 de Tom Penhallow et sa grue ; sur le pont, au milieu, les sacs de grain.*
+
+**Légende** (d'après l'image) :
+
+| N° | Arrière et aviation | N° | Superstructures et armes | N° | Coque, machines et soutes |
+|---|---|---|---|---|---|
+| 1 | **Grue de l'hydravion**, sur la plage arrière | 7 – 8 | Cheminées arrière et avant | 16 – 17 | Puits aux chaînes, postes de l'équipage avant |
+| 2 | **Le Loire 130**, sur le toit du hangar | 9 – 10 | Affûts doubles de 90 mm contre avions, entre les cheminées | 18 – 19 | Soutes à munitions et magasins avant, sous les tourelles (numéros en double sur l'image) |
+| 3 | Plateforme de l'hydravion et **hangar** (ateliers d'aviation) | 11 | Mât de misaine et direction de tir | 21, 23 | Poste central et transmissions, sous la passerelle |
+| 4 | Pont arrière, embarcations | 12 | Passerelle | 24 – 27 | **Chaufferies** : chaudières à tubes d'eau au mazout, auxiliaires |
+| 5 | Tourelle arrière | 13 – 14 | Tourelles avant, superposées | 28 | **Salles des machines** : turbines à engrenages, réducteurs |
+| 6 | Grand mât | 15 | Étrave et ancre | 29 – 30 | Soutes à mazout du double fond, arbres d'hélice |
+| | | | | 31 | Soute à munitions arrière |
+| | | | | 32 | Logements des officiers, infirmerie |
+| | | | | 33 – 35 | Presse-étoupe, hélices, gouvernail |
+
+**Écarts de l'image au canon et à l'histoire** :
+- **Les tourelles sont doubles** : l'image montre trois tourelles de **deux** canons. Le navire réel porte **neuf canons de 152 mm en trois tourelles triples** [histoire].
+- **L'hydravion** est posé sur le toit du hangar, sans catapulte visible. Dans le navire réel, la **catapulte est sur le toit de la tourelle arrière** et la grue reprend l'appareil à la mer [histoire 🔎 : place exacte du hangar]. Les ailes sont déployées, et non repliées. L'appareil est bien un **hydravion à coque**, moteur au-dessus de l'aile.
+- **Le mât de misaine** est une tour en treillis ; le navire réel a une **tour de passerelle et un mât tripode** [histoire 🔎].
+- **Les cheminées** sont droites et massives, et non inclinées.
+- **L'échelle est fausse** : la règle de 100 m donne un navire d'environ 300 m, alors qu'il mesure **179 m** [histoire].
+- **Les chaufferies** : on ne voit que deux chaudières, au lieu de quatre ; les **tubes lance-torpilles** (deux affûts triples) manquent ; les affûts de 90 mm sont fermés, alors qu'ils étaient ouverts.
+- **La numérotation** : 18, 19 et 27 sont en double, 20 et 22 manquent.
+- **Conformes au canon** : les **sacs de grain** sur le pont, les embarcations supplémentaires, la peinture rouillée, la grue arrière, le pavillon national, la ceinture cuirassée à la flottaison.
+
 ### 3.1 L'essence de l'hydravion
 
 Le canon dit que **l'essence est épuisée fin 1941** et que les avions sont cloués au sol dès l'hiver 1940-1941 ([15](15-energie.md) §2). **[canon provisoire] La réserve d'essence du Conseil** : pendant l'hiver 1940-1941, sur la demande des aviateurs, le Conseil fait mettre sous scellés **6 t d'essence aviation** en fûts, dans une galerie de mine, « pour une reconnaissance que la flotte ne pourra pas faire ». Elle n'est ouverte qu'une fois, pour l'expédition de la Manche.
