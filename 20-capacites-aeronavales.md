@@ -71,7 +71,7 @@
 | **Base** | **Elmas**, à la porte de Cagliari : l'aérodrome pour les avions, l'étang de Cagliari pour les hydravions [histoire : Elmas était à la fois aérodrome et base d'hydravions] |
 | **Appareils** | **Deux appareils en ligne** : un **Swordfish** (terrestre) et un **Loire 130** (hydravion). Les autres appareils conservés servent de réserve de pièces |
 | **Effectif** | **~40 personnes** : 6 pilotes, 4 observateurs-navigateurs, ~25 mécaniciens, des radios, un météorologue, des gardiens |
-| **Commandant** | **Capitaine de corvette Edward Halloran** [personnage inventé], ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann** [personnage inventé] (§4.5) |
+| **Commandant** | **Capitaine de corvette Edward Halloran** [personnage inventé], ancien pilote de Swordfish de l'*Ark Royal* ; second : **Tom Penhallow** [personnage inventé] (§4.5) |
 | **Modèle** | **La Fleet Air Arm** : organisation, instruction, entretien et procédures d'héritage britannique, mis en place par les cadres de l'aéronavale de l'*Ark Royal* (§4.7) |
 | **Carburant** | **~10 à 15 t par an** [estimation] : un Swordfish consomme de l'ordre de 0,1 t de carburant par heure de vol. Cela fait 100 à 150 heures de vol par an pour les deux appareils. Le carburant est un mélange de **benzol de Carbonia** et des **fractions légères du brut d'Albanie** |
 
@@ -82,7 +82,7 @@
 | **1949** | À la réouverture, le Conseil des Amiraux décide de recréer la Flottille. Recensement des anciens pilotes et des mécaniciens d'aviation encore en vie, à partir du **rôle des navigants** tenu depuis 1943 ([22](22-organisation-militaire.md) §6 bis) |
 | **1950** | Inventaire des appareils conservés à Elmas. Choix des deux meilleurs. Remise en état : moteurs démontés, toiles refaites (lin ou coton enduit), câbles, instruments |
 | **1951** | **Premier vol depuis neuf ans** (le dernier était celui du cratère, en juillet 1942), avec le premier benzol mis de côté et le brut d'Albanie. Essais au sol, puis vols courts au-dessus du golfe de Cagliari |
-| **1951** | *(suite)* Kerlann pose le Loire 130 dans le golfe de Cagliari et le fait **hisser à la grue du prototype de longue expédition** : c'est le premier essai réel de reprise à bord depuis 1942 ([35](35-navires-de-l-ilot.md) §6.3 bis) |
+| **1951** | *(suite)* Penhallow pose le Loire 130 dans le golfe de Cagliari et le fait **hisser à la grue du prototype de longue expédition** : c'est le premier essai réel de reprise à bord depuis 1942 ([35](35-navires-de-l-ilot.md) §6.3 bis) |
 | **1952** | Les deux appareils sont en ligne. **Formation des premiers jeunes pilotes** par les anciens : d'abord au sol (navigation, météorologie, mécanique), puis en vol |
 | **Années 1950** | Quelques missions par an |
 
@@ -104,17 +104,20 @@
 - **En juillet 1940**, il est lieutenant et pilote de Swordfish dans l'une des escadrilles de l'*Ark Royal* [à vérifier : 810, 818 ou 820 Squadron].
 - **1940-1943** : quand l'essence s'épuise, il est l'un des officiers du service de l'air de l'*Ark Royal* qui organisent la **mise en réserve** : conservation des appareils à Elmas, carnets, puis **rôle des navigants** repris par l'accord de Bonaria ([22](22-organisation-militaire.md) §6 bis).
 - **1943-1949** : sans avion, il enseigne la navigation à l'École navale et tient chaque année la **journée des navigants** d'Elmas.
-- **1949** : il a 41 ans. Avec Kerlann, il pousse le Conseil des Amiraux à recréer la Flottille, et en prend le commandement comme **capitaine de corvette**.
-- **1951** : il fait le premier vol du Swordfish, quelques jours après celui du Loire 130 par Kerlann.
+- **1949** : il a 41 ans. Avec Penhallow, il pousse le Conseil des Amiraux à recréer la Flottille, et en prend le commandement comme **capitaine de corvette**.
+- **1951** : il fait le premier vol du Swordfish, quelques jours après celui du Loire 130 par Penhallow.
 
-**Le second : Yves Kerlann** [personnage inventé] :
-- Né en 1910 à Brest, École navale en 1928, puis aéronautique navale. **En juillet 1940**, lieutenant de vaisseau, chef de la section d'hydravions **Loire 130 du *Strasbourg*** à Mers el-Kébir.
-- **1940-41** : il vole jusqu'au bout. Il fait les dernières reconnaissances vers la Corse et la Tunisie, jusqu'à l'hiver 1940-41.
-- **Juillet 1942** : *(prov.)* embarqué avec un Loire 130 sur le *Georges Leygues* pour l'**expédition de la Manche**, sur la réserve d'essence du Conseil, il survole Lorient, **sa ville natale de Brest**, puis, le 17 juillet, **Paris enseveli et le cratère de Rambouillet** : c'est **le dernier vol de l'îlot** avant 1951 ([36](36-expedition-de-la-manche.md) §6.4).
-- **1941-1949** : il devient **météorologue** de l'îlot et organise un service de prévision du temps pour les cultures et la navigation.
+**Le second : Tom Penhallow** [personnage inventé, **l'un des protagonistes du futur roman** (décision de l'auteur)] :
+- Né en 1918 à **Plymouth**. Un oncle charpentier aux chantiers **Saunders-Roe** de Cowes, qui construisent des hydravions à coque : il y apprend jeune le bois, la toile et les flotteurs. Il entre dans la Fleet Air Arm comme officier de réserve (RNVR) [canon provisoire 🔎].
+- **1939 – printemps 1940** (décision de l'auteur : une expérience d'hydravion avant l'*Ark Royal*) : sous-lieutenant pilote dans une **escadrille de catapulte**, à bord d'un croiseur : Walrus amphibies et Swordfish à flotteurs. Campagne de Norvège [canon provisoire 🔎 : les escadrilles de catapulte, regroupées dans le 700 Squadron au début de 1940].
+- **Juin 1940** : muté sur l'*Ark Royal*, pilote de Swordfish, pour remplacer les pertes de Norvège. Il y retrouve Halloran, Plymouthien comme lui et son aîné de dix ans [canon provisoire].
+- **Automne 1940** : seul pilote d'hydravion du bord, il apprend le **Loire 130** à Elmas avec la section du *Strasbourg*, avant que l'essence s'épuise.
+- **1941 – 1949** : sans avion, il devient **météorologue** de l'îlot et organise un service de prévision du temps pour les cultures et la navigation.
+- **Juillet 1942** (décision de l'auteur) : il pilote le Loire 130 de l'**expédition de la Manche**, embarqué sur le *Georges Leygues*, sur la réserve d'essence du Conseil : les Britanniques de Cagliari ont voulu des marins et des aviateurs anglais dans l'expédition. Sa mission est **le renseignement** : l'état des villes (Lorient, Brest, l'intérieur de la Bretagne, **Plymouth, sa ville natale**, où il regarde aussi les quartiers de sa famille, Portsmouth, Le Havre) puis, le 17 juillet, **l'origine de la catastrophe** : Paris enseveli et le cratère de Rambouillet. Ce vol est **le dernier de l'îlot** avant 1951 ([36](36-expedition-de-la-manche.md) §3.2, §6.3 et §6.4).
+- **1949** : avec Halloran, il pousse le Conseil des Amiraux à recréer la Flottille, dont il devient le second.
 - **1951** : il fait lui-même **le premier vol depuis neuf ans**, depuis le vol du cratère, sur le Loire 130. Il commande la section d'hydravions et le service météorologique de la Flottille.
 
-**Les trois flottes** : un commandant britannique, un second français, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
+**Les trois flottes** : un commandant et un second britanniques, les Loire 130 français et leurs mécaniciens, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
 
 ### 4.6 L'école de vol à voile [canon : principe ; provisoire : détail]
 
@@ -160,11 +163,11 @@
 - **L'entretien et les procédures** : visites, check-lists, signaux de piste et radio, à la britannique.
 - **Les insignes** : les ailes brodées au-dessus des galons, comme dans la Fleet Air Arm ([22](22-organisation-militaire.md) §6 bis).
 
-**Une maison britannique** : la Flottille est commandée par un Britannique, Edward Halloran, et organisée à l'anglaise (§4.5). Le second, Yves Kerlann, est français ; les Italiens d'Elmas apportent les mécaniciens et le terrain. Les trois marines s'y retrouvent, comme au Conseil des Amiraux.
+**Une maison britannique** : la Flottille est commandée par un Britannique, Edward Halloran, et organisée à l'anglaise (§4.5). Le second, Tom Penhallow, est britannique lui aussi ; les Français apportent les Loire 130 et leurs mécaniciens, les Italiens d'Elmas les mécaniciens et le terrain [à décider : un officier français dans l'état-major de la Flottille, B110]. Les trois marines s'y retrouvent, comme au Conseil des Amiraux.
 
 ## 5. Questions ouvertes
 
-1. ❓ **La Flottille** : commandant britannique (décision de l'auteur) : **Edward Halloran** [inventé], avec Kerlann pour second (§4.5) ; restent le nom du chef mécanicien italien et la colline de vol de pente (§4.6). 🔎 L'escadrille de Halloran en 1940, et un nom réel éventuel.
+1. ❓ **La Flottille** : commandant britannique (décision de l'auteur) : **Edward Halloran** [inventé], avec Tom Penhallow pour second (§4.5) ; restent le nom du chef mécanicien italien et la colline de vol de pente (§4.6). 🔎 L'escadrille de Halloran en 1940, et un nom réel éventuel.
 1 bis. 🔎 Avions-écoles italiens biplaces éventuellement présents à Elmas en 1940.
 2. ❓ **La date du dernier vol** et sa mission (§2).
 3. 🔎 **Ordre de bataille** : appareils de l'*Ark Royal* en juillet 1940 ; hydravions des croiseurs français et du *Commandant Teste* ; Regia Aeronautica en Sardaigne (Elmas, Decimomannu, Alghero).

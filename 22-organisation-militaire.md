@@ -212,7 +212,7 @@ L'accord les fait entrer dans la Marine de l'Îlot comme les autres (article 9).
 | Élément | Place dans l'organisation de Bonaria |
 |---|---|
 | **La Flottille aéronavale de l'Îlot** | Un **bord de terre**, le **bord d'Elmas** ([20](20-capacites-aeronavales.md) §4.2), rattaché au **commandement de la Flotte** (§7) |
-| **Le commandant** | Le capitaine de corvette **Edward Halloran**, d'origine britannique, ancien pilote de Swordfish de l'*Ark Royal* ; second : **Yves Kerlann**, d'origine française ; tous deux officiers du corps du Pont, spécialité aéronavale ([20](20-capacites-aeronavales.md) §4.5) |
+| **Le commandant** | Le capitaine de corvette **Edward Halloran**, d'origine britannique, ancien pilote de Swordfish de l'*Ark Royal* ; second : **Tom Penhallow**, d'origine britannique lui aussi ; tous deux officiers du corps du Pont, spécialité aéronavale ([20](20-capacites-aeronavales.md) §4.5) |
 | **Les pilotes et les observateurs** | Officiers et maîtres du **corps du Pont**, avec la **spécialité aéronavale** |
 | **Les mécaniciens d'aviation** | **Corps de Machines et Génie**. Le chef mécanicien est un **warrant** (§3.1) : c'est la place naturelle du chef mécanicien italien d'Elmas [à nommer] ([20](20-capacites-aeronavales.md) §5) |
 | **Les radios et le météorologue** | Spécialité transmissions du corps du **Pont** |

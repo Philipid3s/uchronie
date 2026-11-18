@@ -128,7 +128,7 @@ C'est la réponse provisoire de l'îlot à la question du **rachat des captifs**
 - les avisos ***Tornade*** et ***Typhon*** ;
 - deux petits vapeurs armés pour le transport ;
 - **environ 200 fusiliers marins** ;
-- le **Loire 130** de la Flottille, qui revole depuis quelques mois, piloté par **Yves Kerlann** ([20](20-capacites-aeronavales.md) §4.3) ;
+- le **Loire 130** de la Flottille, qui revole depuis quelques mois, piloté par **Tom Penhallow** ([20](20-capacites-aeronavales.md) §4.3) ;
 - comme guides, trois des prisonniers de 1947, qui ont accepté de servir contre leur liberté.
 
 **Le déroulement** :

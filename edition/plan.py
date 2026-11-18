@@ -99,7 +99,7 @@ INDEX_NAVIRES = [
 ]
 INDEX_PERSONNES = [
     "Brotzu", "Collinet", "Cunningham", "Duplat", "Devin", "Ferrandi", "Ferretti", "Gensoul",
-    "Godfroy", "Halloran", "Holland", "Kerlann", "Le Pivain", "Mercadier", "Pigliaru", "Sartori",
+    "Godfroy", "Halloran", "Holland", "Kerangal", "Le Pivain", "Mercadier", "Penhallow", "Pigliaru", "Sartori",
     "Scanagatta", "Somerville", "Spanedda", "Sportiello", "Vespignani",
 ]
 INDEX_LIEUX = [

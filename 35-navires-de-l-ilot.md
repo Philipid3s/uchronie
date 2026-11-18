@@ -198,11 +198,11 @@ Le chantier est décrit au chapitre [29](29-flotte-des-annees-1950.md) §6 : cal
 | **1947 – 1949** | **Transformation à l'arsenal de Cagliari**, en même temps que la conversion du *Georges Leygues* au charbon ([15](15-energie.md) §5) : soutes, grue, infirmerie, radio, gréement |
 | **1949** | **Armement du prototype.** Premiers essais à la mer dans le golfe de Cagliari, à l'intérieur des eaux gardées de l'île fermée |
 | **1949 – 1951** | **Essais** : tour de la Sardaigne, essais à la voile seule machine stoppée, essais de grue avec une **charge lestée de 3,5 t** (la masse d'un Loire 130 en charge), vacations radio à grande distance avec Gibraltar et Malte ; un voyage de doublure sur la ligne de Gibraltar ([29](29-flotte-des-annees-1950.md) §4.5) |
-| **1951** | **Premier hissage d'un vrai Loire 130** dans le golfe de Cagliari, avec **Yves Kerlann**, quelques semaines après le premier vol de la Flottille ([20](20-capacites-aeronavales.md) §4.3) |
+| **1951** | **Premier hissage d'un vrai Loire 130** dans le golfe de Cagliari, avec **Tom Penhallow**, quelques semaines après le premier vol de la Flottille ([20](20-capacites-aeronavales.md) §4.3) |
 | **1952** | Navigation sous patente de santé ([14](14-epidemie.md) §5.6) : **le prototype est déclaré bon pour la longue expédition.** L'ancien enseigne en prend le commandement |
 | **1952 – 1954** | **Premier voyage vers la Bretagne et la Manche** [année exacte et itinéraire à décider, B75 et B77] |
 
-**Le commandant : l'ancien enseigne du *Volta*** (option A) [personnage inventé, protagoniste du futur roman ; nom à décider, B88] :
+**Le commandant : l'ancien enseigne du *Volta*** (option A) : **Jean de Kerangal** [personnage inventé, protagoniste du futur roman, B88] :
 - **1942** : **enseigne de vaisseau** sur le *Volta* ; il part à terre chercher sa famille à l'intérieur de la Bretagne ([36](36-expedition-de-la-manche.md) §6.2).
 - **1946** : lieutenant de vaisseau. Il est **détaché au Bureau des plans** comme officier du programme : il est l'un des rares officiers de l'îlot à avoir vu la Bretagne et la Manche après la catastrophe, et il sait ce qui a manqué en 1942 (le temps sur place, l'hydravion, la place à bord).
 - **1947 – 1949** : **officier d'armement**. Il suit la transformation à l'arsenal, choisit l'équipage et défend devant le Bureau l'infirmerie et la radio.
