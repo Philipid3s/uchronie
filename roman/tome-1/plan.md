@@ -17,6 +17,7 @@
 | **La méthode** | **Le script d'abord** (option 4A) : ce plan, puis la prose |
 | **La narration** | Troisième personne au plus près de chaque personnage, au passé, en français. Dialogues anglais et italiens rendus en français, avec quelques mots d'origine |
 | **Les pièces d'époque** | Entre les chapitres, des documents (signaux, journaux de bord, écoutes radio, ordonnances) qui rendent compte de **la situation mondiale** |
+| **La corvée d'Oran** | Avant de quitter Mers el-Kébir, une mission pour ramener en soute le maximum de vivres et d'eau : Jean à terre (chapitre 10, option A), Tom en reconnaissance au-dessus de l'Oranie (chapitre 8, option C) |
 | **Le ton** | **Éthéré** dans l'évocation des environnements d'après la catastrophe (§2) |
 | **La fin** | Une situation qui **réunit les trois protagonistes** à la fin du tome |
 | **Les choix du 18 novembre 2026** | Le titre ; les familles du §3.1 ; la mort de Rita et de Bonaria Deiana dans la nuit de feu ; Gigi blessé et prisonnier ; la réunion finale de la nuit du caboteur ; **l'hydravion perdu en mer** |
@@ -147,21 +148,23 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - **Le noir à midi.** Holland arrive ; Jean, parce qu'il parle anglais, l'accueille à la coupée et l'accompagne au *Dunkerque*. Le 4, la conférence (vue de l'extérieur : les canots, les visages des amiraux qui sortent).
 - Les morts immergés à l'aube grise. Le 7, la nouvelle circule : **la Sardaigne**.
 
-**8. Tom — 4 – 10 juillet, Gibraltar et en mer**
-- **Les derniers vols** dans un ciel brun et noir : liaison avec Mers el-Kébir, reconnaissance des côtes. La Méditerranée vue d'en haut, l'Andalousie et le Maroc qui brûlent en lignes de braises. L'appontage aux feux.
-- Le chargement des stocks du Rocher. L'appareillage. On compte déjà l'essence.
+**8. Tom — 4 – 10 juillet, au-dessus de l'Oranie** [canon roman : option C]
+- **La première mission de renseignement** : dans un ciel brun et noir, Tom vole de Gibraltar vers l'Oranie pour repérer **les silos de la plaine**, les routes et les ponts, les foules et les incendies, le port d'Oran. Il voit la plaine à la lueur des braises, les colonnes de gens sur les routes, un train arrêté. Il note tout, et ses notes guideront les colonnes de Jean.
+- La Méditerranée vue d'en haut, l'Andalousie et le Maroc qui brûlent en lignes de braises. L'appontage aux feux. On compte déjà l'essence.
+- Le chargement des stocks du Rocher. L'appareillage.
 
 **9. Efisia — 2 – 11 juillet, Cagliari**
 - Les enterrements. Rome se tait. À l'hôpital, sur la radio du médecin-chef, **les appels en italien** de la flotte qui approche : du blé, des médecins, une place égale.
 - Gigi dit que la Milice se battra. Antonio dit que le pain, c'est ce qui compte. Efisia ne dit rien.
 
-**10. Jean — 5 – 12 juillet, Oran puis en mer**
-- **L'embarquement des civils d'Oran** : Jean commande une corvée sur le quai, sous une neige de suie, et doit refuser du monde. La pire journée de sa vie.
-- La traversée : des familles sur le pont du *Volta*, un enfant qui ne parle pas.
-- Le 12, l'entrée dans le golfe de Cagliari. **La batterie du capo Sant'Elia tire** ; le destroyer britannique de l'écran est touché ; le *Hood* répond. Le *Volta* repêche les survivants.
+**10. Jean — 5 – 10 juillet, la corvée d'Oran** [canon roman : option A]
+- **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie, avec les relevés des Swordfish. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ; le silo qu'on laisse ouvert au départ ([06](../../06-mers-el-kebir.md) §4 bis).
+- **L'eau** : remplir les caisses des cargos aux citernes de la ville ; le médecin qui la goûte, la fait bouillir, la chlore.
+- **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles. Jean doit refuser du monde sur le quai. La pire journée de sa vie.
+- **L'appareillage de nuit**, en escorte des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas. La côte qui brûle derrière eux.
 
 **11. Tom — 12 juillet, au-dessus du golfe**
-- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas. **Il voit les départs de la batterie** et les signale. Le *Hood* tire sous lui.
+- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. **Il voit les départs de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran est touché ; **le *Hood* tire sous lui**. Il voit le *Volta* stopper et mettre ses canots à l'eau pour repêcher les survivants.
 - Il se pose à Elmas, l'un des premiers. Les aviateurs italiens, les **hydravions CANT** sur l'étang de Santa Gilla : il en tombe amoureux avant de tomber amoureux de qui que ce soit.
 
 **12. Efisia — 12 juillet, Cagliari**

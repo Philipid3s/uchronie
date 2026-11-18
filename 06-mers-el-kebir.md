@@ -99,6 +99,29 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 - **5 – 7 juillet** : **le débat du refuge** : Gensoul plaide pour l'Oranie, Somerville pour Malte ; la grille de Mercadier et l'argument du terrain neutre font choisir la Sardaigne, le 7 au matin ([10](10-choix-du-refuge.md) §7). Le Conseil devient tripartite avec l'accord de Cagliari (§5). Sa composition et ses règles sont détaillées dans [11](11-ilot-de-civilisation.md) §8.
 - **5 – 12 juillet** : chargement des silos d'Oran et des stocks de Gibraltar sur les cargos réquisitionnés dans les deux ports, sélection et embarquement des civils, puis départ des convois dans l'obscurité naissante.
 
+### La corvée d'Oran (5 – 12 juillet 1940) [canon : principe (décision de l'auteur) ; provisoire : détail]
+
+**Décision de l'auteur** : avant de quitter Mers el-Kébir, les flottes montent une **mission pour ramener en soute le maximum de choses depuis la terre**, d'abord des vivres et de l'eau. Le Conseil l'ordonne dès le 5 juillet, **avant même le choix du refuge** : quel que soit le refuge, il faudra manger.
+
+**La reconnaissance** : les derniers Swordfish de l'*Ark Royal* volent au-dessus de l'Oranie dans le noir de juillet (5 – 7 juillet). Ils repèrent les **silos de la plaine**, l'état des routes et des ponts, les foules et les incendies, et le port d'Oran. C'est la **première mission de renseignement aérien de l'îlot** ([20](20-capacites-aeronavales.md) §2).
+
+**Ce qu'on embarque** :
+
+| Quoi | Où | Comment |
+|---|---|---|
+| **Le grain** | Silos du port d'Oran, puis silos de la plaine par camions et par le chemin de fer quand il roule | ~45 000 t sur ~8 cargos réquisitionnés ([11](11-ilot-de-civilisation.md) §2), plus 4 000 à 5 000 t dans les cales du *Bretagne* ([28](28-bretagne.md)) |
+| **L'eau des cargos** | Réservoirs et citernes d'Oran 🔎 | Les navires de guerre font leur eau avec leurs **bouilleurs** ; les cargos de civils n'en ont presque pas. On remplit leurs caisses à Oran, et les médecins de marine la font bouillir ou la chlorent, car personne ne sait si elle est saine après les incendies |
+| **Les médicaments et les instruments** | Hôpitaux et pharmacies d'Oran, hôpital militaire 🔎 | Avec les médecins et les infirmières qui embarquent ([26](26-provence.md) §2) |
+| **Les semences** | Stocks de semence de la plaine (blé dur, orge, fèves, légumes) | Mises à part du grain de consommation, sous scellés : la réserve des années de reprise ([17](17-autosuffisance-alimentaire.md)) |
+| **Le mazout** | Dépôt de Mers el-Kébir | Soutes pleines ([15](15-energie.md)) |
+| **Gibraltar** | Stocks de siège du Rocher | ~8 000 t équivalent céréales, chargés par la Force H ([11](11-ilot-de-civilisation.md) §2) |
+
+**Les règles à terre** : des colonnes mixtes de marins et de fusiliers marins, sous un officier, gardent les silos, le quai et la route. **Ne tirer que si l'on tire sur soi**, comme pour l'approche de Cagliari ([10](10-choix-du-refuge.md) §9). La ville affamée se presse aux portes des silos. Le Conseil fait **laisser un silo ouvert aux Oranais** au départ [canon provisoire] : on ne peut pas nourrir la ville, mais on ne la vide pas tout à fait.
+
+**Le choix des civils** (environ 4 000) : **les familles des marins** d'abord ; puis les **médecins, les infirmières et les pharmaciens** ; puis les **métiers utiles** (ouvriers du port et de l'arsenal, mécaniciens, agriculteurs, boulangers). Il faut refuser du monde sur les quais, et c'est **le premier souvenir honteux de l'îlot** [canon provisoire].
+
+**Le départ** : les cargos partent les premiers, de nuit, entre le 8 et le 10 juillet, sous l'escorte des contre-torpilleurs ; les grands navires suivent et entrent dans le golfe de Cagliari le 12 ([10](10-choix-du-refuge.md) §9 ter).
+
 ## 5. Les Italiens [canon]
 
 - **En mer** : des sous-marins italiens en patrouille dans le bassin occidental survivent en plongée, à l'abri de la pluie d'éjectas. Coupés de Rome, ils captent les émissions en clair du Conseil des Amiraux. [canon] **Trois à cinq sous-marins rejoignent** la flotte conjointe dans les deux semaines.
