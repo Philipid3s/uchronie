@@ -36,7 +36,7 @@ Et le 7 juin, à Tromsø, il avait vu un roi monter à bord.
 
 Il ne l'avait raconté à personne, sur l'*Ark Royal*, parce qu'on ne l'aurait pas cru, ou parce qu'on l'aurait cru et qu'on en aurait fait une histoire de carré. C'était pourtant ce qu'il avait vu de plus étrange de sa vie. Le *Devonshire* était venu prendre, de nuit, le roi Haakon, le prince héritier, le gouvernement norvégien et tout ce qu'on avait pu entasser de ministres, de diplomates et de caisses dans les coursives. Il faisait jour à minuit, de ce jour pâle et sans ombre des nuits d'été du Nord. Tom était sur la plage arrière, près de sa catapulte. Il avait vu arriver la vedette, et dans la vedette un homme immense, très droit, en manteau d'officier, qui fixait la côte. Le roi était monté à l'échelle sans aide. Sur le pont, il s'était retourné vers la terre, vers les montagnes encore blanches au-dessus du fjord, et il était resté ainsi un long moment, sans rien dire, pendant que les officiers attendaient derrière lui. Puis il avait salué la terre. Pas les officiers. La terre.
 
-Tom avait pensé, ce soir-là : voilà ce que c'est, perdre son pays. On se retourne, on salue, et on descend dans une cabine qui n'est pas à vous.
+Tom avait pensé, cette nuit-là : voilà ce que c'est, perdre son pays. On se retourne, on salue, et on descend dans une cabine qui n'est pas à vous.
 
 Le *Devonshire* avait débarqué le roi à Greenock trois jours plus tard, et Tom avec lui, ou presque : on l'attendait à l'*Ark Royal*, qui avait perdu des pilotes en Norvège et devait en remplacer. Il avait pris le train de nuit pour le nord, avec son sac et sa caisse à outils, et il était arrivé à Scapa Flow le 15, par un matin de bruine, juste à temps pour voir le porte-avions, énorme, gris, plat comme une île, qui chauffait ses chaudières pour partir vers le sud. Halloran l'attendait à la coupée. Il l'avait reconnu à l'accent avant même qu'il ait ouvert la bouche.
 
@@ -186,7 +186,7 @@ Une deuxième suivit, plus haut, plus longue. Puis une troisième, au-dessus de 
 
 — Hé, dit l'un des mécaniciens. Regardez.
 
-Tom regardait. Elles venaient maintenant de partout à la fois, de l'ouest, du sud, du zénith : une, puis trois, puis dix, des rayures blanches et dorées qui griffaient en tous sens le ciel encore clair, sans un bruit, comme si quelqu'un, très haut, très loin, avait lancé sur la terre une poignée d'aiguilles de lumière. Les unes s'éteignaient aussitôt nées, brèves comme des étincelles. D'autres traversaient la moitié du ciel et laissaient derrière elles une traîne qui flottait un instant, puis se défaisait comme une fumée. Elles se multipliaient. Elles se croisaient. Au-dessus de l'Espagne, le couchant en était strié comme une vitre sous l'averse.
+Tom regardait. Elles venaient maintenant de partout à la fois, de l'ouest, du sud, du zénith : une, puis trois, puis dix, des rayures blanches et dorées qui griffaient en tous sens le ciel encore clair, sans un bruit, comme si quelqu'un, très haut, très loin, avait lancé sur la terre une poignée d'aiguilles de lumière. Les unes s'éteignaient aussitôt nées, brèves étincelles. D'autres traversaient la moitié du ciel et laissaient derrière elles une traîne qui flottait un instant, puis s'en allait en fumée. Elles se multipliaient. Elles se croisaient. Au-dessus de l'Espagne, le couchant en était strié comme une vitre sous l'averse.
 
 Et tout cela se faisait en silence. Les cloches de la ville s'étaient tues ; au bout d'un moment, elles reprirent.
 
