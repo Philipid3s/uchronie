@@ -37,7 +37,7 @@
 |---|---|---|
 | **1er juillet, le soir** | Étoiles filantes à la nuit tombante, puis un ciel strié, puis **rouge et chaud** ; la peinture des tôles qui cloque ; les toiles qui roussissent ; le chuintement des lances à incendie | [06](../../06-mers-el-kebir.md) §2 |
 | **La nuit de feu** | Une **grêle de perles de verre** (les sphérules) qui tinte sur les ponts ; les pinèdes qui brûlent sur les collines | [03](../../03-impact-pacifique.md) §4 |
-| **2 juillet, 07:00 UTC** | Les vitres qui vibrent : le souffle de Rambouillet, venu de très loin, presque doux | [06](../../06-mers-el-kebir.md) §2 |
+| **2 juillet, le matin** | Un jour qui se lève mal, cuivré, sans soleil ; vers 8 h 15 UTC (73 minutes après l'impact de 7 h 00), les vitres qui vibrent à Mers el-Kébir : le souffle de Rambouillet, venu de très loin, presque doux | [06](../../06-mers-el-kebir.md) §2, [02](../../02-impact-rambouillet.md) |
 | **3 juillet, midi** | **Il fait aussi noir que par une nuit de pleine lune** ; puis moins encore : moins d'un millième de la lumière | [08](../../08-chronologie.md), [04](../../04-climat.md) §2 |
 | **Juillet – août** | Le noir à midi ; la suie qui tombe comme une neige grise ; **un froid qui vient vite** : de 24 °C début juillet à ~5 °C mi-août, en six semaines ; la mer encore tiède qui fume dans l'air froid ; les manteaux sortis en plein août ; le silence des cigales et des oiseaux | [04](../../04-climat.md) §3 |
 | **Fin juillet** | **Premières neiges sur le Gennargentu**, vues de loin comme une pâleur dans le noir | [08](../../08-chronologie.md) |
@@ -114,33 +114,38 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 ### Partie I — La nuit de feu
 
-**1. Jean — 30 juin 1940, Mers el-Kébir**
+**1. Jean — 30 juin 1940, Mers el-Kébir** [validé, 20 novembre 2026]
 - *Le dernier jour du monde d'avant.* La rade écrasée de chaleur, la Force de Raid au mouillage, les hydravions du *Strasbourg* qui rentrent au crépuscule. Jean écrit à Brest une lettre qui ne partira pas : il n'a pas de nouvelles depuis le 19 juin.
 - Louis Garrec a obtenu une permission pour Oran le lendemain soir. Rumeurs sur les Anglais : on dit que la Force H se rassemble à Gibraltar.
-- *Enjeu* : le monde ordonné du bord, la famille absente, l'amitié.
+- **L'armistice**, signé depuis cinq jours : la flotte doit rentrer se faire désarmer dans ses ports d'attache [histoire]. Celui de la Force de Raid est Brest, occupée : on parle de Toulon. Même en paix, Jean ne rentrera pas chez lui.
+- *Enjeu* : le monde ordonné du bord, déjà en sursis ; la famille absente ; l'amitié.
 
-**2. Tom — 30 juin – 1er juillet, Gibraltar**
+**2. Tom — 30 juin – 1er juillet, Gibraltar** [validé]
 - Tom est à bord de l'*Ark Royal* depuis la mi-juin : débarqué du *Devonshire* à Greenock le 10, il l'a rejoint à Scapa juste avant l'appareillage pour Gibraltar (17-18 juin). Halloran l'a accueilli : deux Plymouthiens. On devine la cible de la Force H : **la flotte française**. Tom se souvient des Français de Norvège, et cela lui déplaît.
-- Le 1er juillet au soir, sur le pont d'envol, les premières étoiles filantes. Il les trouve belles.
+- Le 30 au soir, le croiseur *Arethusa* amène Somerville [histoire] : Tom voit l'amiral débarquer.
+- **Le 1er juillet**, l'ordre de l'Amirauté tombe : *« Intention ferme du gouvernement de Sa Majesté »* [histoire 🔎 : texte]. Briefing des équipages pour le 3 : l'810 aura pour cible le ***Strasbourg***, le navire dont Tom apprendra plus tard l'hydravion.
+- Tom sort écœuré du briefing et monte sur le pont d'envol. Le soleil se couche (l'impact tombe à 19 h 35 UTC, au coucher du soleil à Gibraltar) : les premières étoiles filantes dans un ciel encore clair. Il les trouve belles. **La catastrophe interrompt Catapult.**
 - *Enjeu* : la guerre absurde d'avant la catastrophe ; la légèreté de Tom.
 
-**3. Efisia — 1er juillet, Cagliari**
-- La ville en guerre depuis le 10 juin, le black-out, la chaleur. Efisia finit sa garde à San Giovanni di Dio, passe voir Gigi qui descend de la batterie, rentre à la Marina à la nuit tombante.
+**3. Efisia — 1er juillet, Cagliari** [validé]
+- La ville en guerre depuis le 10 juin, le black-out, la chaleur. **Les bombardements français** des 16 et 24 juin [histoire] : l'hydrobase d'Elmas, les dépôts de carburant de Monte Urpinu. La ville a déjà eu peur, et ce sont des Français qui l'ont bombardée : la racine de sa haine pour « l'officier français » (chapitre 12).
+- Efisia finit sa garde à San Giovanni di Dio, à Stampace ; en descendant, elle passe devant l'église de Sant'Efisio. Elle voit Gigi qui descend de la batterie, rentre à la Marina à la nuit tombante (l'impact tombe à 21 h 35, heure d'été italienne, une heure après le coucher du soleil).
 - Le ciel se strie, puis rougit. Elle court. Le chapitre s'arrête sur le seuil.
 - *Enjeu* : une famille, une ville, un monde ordinaire.
 
-**4. Jean — nuit du 1er au 2 juillet, Mers el-Kébir**
+**4. Jean — nuit du 1er au 2 juillet, Mers el-Kébir** [validé]
 - **Aux postes de combat** en quelques minutes ; les portes étanches ; la chaleur qui monte dans les tôles ; les lances à incendie ; la grêle de verre sur le pont. Par un hublot, Oran qui brûle.
-- À l'aube du 2, le souffle de Rambouillet fait vibrer les vitres de la passerelle. Garrec ne revient pas. On compte les morts du bord.
+- Le 2, le jour se lève mal, cuivré. Vers 8 h 15 UTC, le souffle de Rambouillet fait vibrer les vitres de la passerelle. Garrec ne revient pas. On compte les morts du bord.
 
-**5. Tom — nuit du 1er au 2 juillet, Gibraltar**
-- L'*Ark Royal* fermé ; les avions du pont d'envol qui brûlent ; la garnison dans les galeries du Rocher. Au matin, la radio de l'Amirauté, puis plus rien de cohérent.
-- Le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
+**5. Tom — nuit du 1er au 2 juillet, Gibraltar** [validé]
+- L'*Ark Royal* fermé ; les avions du pont d'envol qui brûlent ; la garnison dans les galeries du Rocher. Au matin, la radio de l'Amirauté ; en milieu de matinée, le souffle de Rambouillet ; puis plus rien de cohérent.
+- Le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Il arrive à des équipages qui, la veille, se préparaient à couler celle d'en face. Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
 
-**6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari**
+**6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes. La Marina en feu.
 - **Sa mère et Bonaria meurent dans la nuit** [canon roman] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
-- Le matin ne vient pas.
+- Vers 9 h, les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
+- *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
 
 ### Partie II — Le chemin de l'île
 
