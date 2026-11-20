@@ -39,7 +39,7 @@
 | Siège | Titulaire |
 |---|---|
 | **Président** | **Giuseppe Brotzu**, recteur de l'université de Cagliari [histoire] ; il dirige aussi le laboratoire (§4.2) |
-| **Médecine** | Le médecin-chef de l'hôpital de Cagliari [à nommer], et un médecin de marine : le médecin en chef **Antoine Ferrandi** [personnage inventé], du *Provence* ([26](26-provence.md) §2) |
+| **Médecine** | Le médecin-chef de l'hôpital de Cagliari, le professeur **Antioco Pinna** [personnage inventé (roman, tome 1) ; à remplacer si le nom réel est retrouvé], et un médecin de marine : le médecin en chef **Antoine Ferrandi** [personnage inventé], du *Provence* ([26](26-provence.md) §2) |
 | **Mines et énergie** | L'ingénieur en chef des mines de Carbonia |
 | **Machines** | Un ingénieur mécanicien de la flotte |
 | **Agronomie** | Un agronome |
@@ -91,7 +91,7 @@ Les demandes du Conseil scientifique passent après. Ses avis sont souvent écar
 |---|---|---|---|
 | **L'université de Cagliari** | Sur place en 1940 | Les facultés de médecine, de pharmacie, de sciences, de droit et de lettres ; l'ingénierie des mines et la faculté d'éducation, créées sous le rectorat de Brotzu ; la Bibliothèque universitaire | **Giuseppe Brotzu** (hygiène, recteur) ; **Antonio Spanedda**, son élève et collaborateur [histoire] ; les autres professeurs [à nommer 🔎] |
 | **Les mines du Sulcis et l'école d'Iglesias** | Sur place | Les ingénieurs de Carbonia et de l'Iglesiente, géologues, chimistes ; les maîtres de l'école des mines ([30](30-formation-technique.md) §5) | L'ingénieur en chef de Carbonia [à nommer] |
-| **Les hôpitaux et les médecins sardes** | Sur place | San Giovanni di Dio, les médecins de ville et de campagne, les pharmaciens ; les médecins des dispensaires antipaludiques | Le médecin-chef de l'hôpital [à nommer] |
+| **Les hôpitaux et les médecins sardes** | Sur place | San Giovanni di Dio, les médecins de ville et de campagne, les pharmaciens ; les médecins des dispensaires antipaludiques | Le médecin-chef de l'hôpital, le professeur Antioco Pinna [inventé] |
 | **La Regia Marina** | Sur place | Médecins de marine, ingénieurs du *Genio Navale* de Cagliari et de La Maddalena, hydrographes, radios | — |
 | **La Force de Raid (Oran)** | Juillet 1940 | Médecins de marine, ingénieurs mécaniciens, hydrographes, officiers radio ; **les médecins et les infirmières d'Oran** embarqués avec les familles ([26](26-provence.md) §2) | **Antoine Ferrandi** [inventé] |
 | **La Force H et Gibraltar** | Juillet 1940 | Médecins de la Royal Navy et du Royal Army Medical Corps, **Royal Engineers**, électriciens et artificiers, officiers techniques de la Fleet Air Arm | **Tom Penhallow**, météorologue de 1941 à 1949 [inventé] ([20](20-capacites-aeronavales.md) §4.5) |

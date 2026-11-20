@@ -84,7 +84,7 @@
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
 | Le lieutenant de vaisseau **Paul Arnaud** | Chef de la section d'hydravions du *Strasbourg*, Toulonnais ; il apprend le Loire 130 à Tom (chapitre 16) | [inventé dans la bible] |
 | **Suor Giuseppina** | Religieuse de San Giovanni di Dio, mentor d'Efisia | [inventé, proposition] |
-| Le **médecin-chef** de San Giovanni di Dio | Il tient l'hôpital pendant la nuit de feu | [à nommer, bible 19 ; le nom réel de 1940 n'est pas retrouvé (l'hôpital relève alors des *Ospedali riuniti*) ; voisins réels : le professeur **Mario Aresu**, directeur de la Clinique médicale de l'université (1930-1962), et le recteur **Giuseppe Brotzu**] |
+| Le professeur **Antioco Pinna**, médecin-chef de San Giovanni di Dio | La cinquantaine, né à Iglesias, chirurgien formé à Pavie ; sardiste, discrètement antifasciste, proche du cercle de Lussu. Il tient l'hôpital pendant la nuit de feu ; sur sa radio, on entend les appels en italien ; il est le seul à dire tout haut que la flotte est peut-être une chance. La voix sarde adulte du livre | [inventé, canon roman (20 novembre 2026) ; à remplacer si le nom réel de 1940 est retrouvé ; voisins réels : le professeur **Mario Aresu**, Clinique médicale (1930-1962), et le recteur **Giuseppe Brotzu**] |
 | **Gigi**, **Antonio**, **Rita** et **Bonaria Deiana** | La famille d'Efisia | [inventés, proposition] |
 
 ### 3.3 Le triangle [canon roman : principe ; proposition : déroulé]
@@ -142,7 +142,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 - **L'ironie des signaux** : à 4 h 26, au milieu des incendies, arrivent encore les instructions détaillées de Catapult, chiffrées dans la nuit à Londres (*« … vous devrez vous efforcer de détruire, en particulier le Dunkerque et le Strasbourg, par tous les moyens à votre disposition »*) [histoire : message de l'Amirauté 0103 du 2 juillet, reçu à 4 h 26]. Puis le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Il arrive à des équipages qui, la veille, se préparaient à couler celle d'en face. Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
-- La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes. La Marina en feu.
+- La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes, le professeur **Pinna** qui tient la maison. La Marina en feu.
 - **Sa mère et Bonaria meurent dans la nuit** [canon roman] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
 - Vers 10 h (heure italienne), les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
 - *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
@@ -161,8 +161,8 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 - Le chargement des stocks du Rocher. Les avions rembarquent. L'appareillage de la Force H, le 10 à l'aube.
 
 **9. Efisia — 2 – 11 juillet, Cagliari** [validé]
-- Les enterrements. Rome se tait. À partir du 7, à l'hôpital, sur la radio du médecin-chef, **les appels en italien** de la flotte : du blé, des médecins, une place égale. **Cagliari ne répond pas** : quatre jours d'attente, et chacun se fait son idée. Le 11 au soir, la rumeur court que Sportiello a répondu.
-- Gigi dit que la Milice se battra. Antonio dit que le pain, c'est ce qui compte. Efisia ne dit rien.
+- Les enterrements. Rome se tait. À partir du 7, à l'hôpital, sur la radio du professeur Pinna, **les appels en italien** de la flotte : du blé, des médecins, une place égale. **Cagliari ne répond pas** : quatre jours d'attente, et chacun se fait son idée. Le 11 au soir, la rumeur court que Sportiello a répondu.
+- Gigi dit que la Milice se battra. Antonio dit que le pain, c'est ce qui compte. Pinna, devant sa radio, dit tout haut ce que personne n'ose dire : c'est peut-être une chance. Efisia ne dit rien.
 
 **10. Jean — 5 – 9 juillet, la corvée d'Oran** [canon roman : option A ; validé]
 - Le 5, en partant pour Oran, Jean voit entrer en rade les six croiseurs d'Alger, dont le ***Georges Leygues***, le navire de 1942.
@@ -293,5 +293,5 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
 7. ✅ **La dernière image** (chapitre 27) : le retour du *Volta*, puis l'enterrement des Corses dans l'enclos du 12 juillet ; le vœu de saint Éphise ferme le chapitre (option A + B).
-8. 🔎 **Reste, hors d'atteinte en ligne** (archives de Cagliari, *L'Unione Sarda* sur microfilm) : le nom du médecin-chef de San Giovanni di Dio en 1940 (à inventer si besoin) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre et le vœu n'a jamais été interrompu) ; le texte exact du signal « firm intention » (seule la version du résumé de 1949 est connue).
+8. 🔎 **Reste, hors d'atteinte en ligne** (archives de Cagliari, *L'Unione Sarda* sur microfilm) : le nom réel du médecin-chef de San Giovanni di Dio en 1940 (dans le roman : Antioco Pinna, inventé) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre et le vœu n'a jamais été interrompu) ; le texte exact du signal « firm intention » (seule la version du résumé de 1949 est connue).
 9. ✅ **Documentés** : les signaux de Catapult (ADM 199/391) ; le *Bollettino* n° 21 ; les raids français des 16, 19 et 24 juin ; les Filles de la Charité à San Giovanni di Dio ; Brest (19 juin) ; l'heure d'été (Italie UTC+2 depuis le 15 juin, Gibraltar UTC+1) ; San Giovanni di Dio, à Stampace ; les unités d'Elmas ; la batterie C.135 ; le dock-silo d'Oran ; Jacquinet ; Duplat.
