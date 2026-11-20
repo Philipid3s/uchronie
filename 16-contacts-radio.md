@@ -110,7 +110,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 | **Minorque** (Mahón) | 422 km | 91,5° | Poche de la Marine espagnole ([06](06-mers-el-kebir.md) §6) | ✅ | 🟡 Intermittent | 🟡 |
 | **Malte** | 602 km | 94,8° | Garnison britannique dans les galeries | ✅ jusqu'à l'hiver | ❌ L'île meurt de faim ([10](10-choix-du-refuge.md)) | ❌ |
 | **Gibraltar** | 1 316 km | 95,0° | La garnison restée dans le Rocher | ✅ Liaison quotidienne | ✅ | ✅ Avant-poste et partenaire [canon] ([07](07-le-monde-apres.md) §2 bis) |
-| **Crète** (îlot de l'Est) | 1 385 km | 93,6° | Cunningham et Godfroy | ✅ jusqu'en octobre 1940 | ❌ **Silence [canon]** | ❌ |
+| **Crète** (îlot de l'Est) | 1 385 km | 93,6° | Cunningham et Godfroy | ✅ jusqu'en novembre 1940 | ❌ **Silence [canon]** | ❌ |
 | **Casablanca** | 1 620 km | 97,4° | Le cuirassé inachevé ***Jean Bart***, réfugié là depuis juin 1940 [histoire], et la base navale | ✅ | 🟡 | 🟡 La Morìa atteint le Maroc en 1945 |
 | **Alexandrie** et delta du Nil | 2 084 km | 96,3° | Restes de la base, survivants du delta | ✅ Appels de détresse | 🟡 Appels sur la peste en 1943, puis ❌ | ❌ |
 | **Sébastopol** | 2 098 km | 82,7° | Flotte soviétique de la mer Noire. La mer Noire est un réservoir thermique, comme la Méditerranée | 🟡 En russe | 🟡 | ❌ après la Morìa (1944) |

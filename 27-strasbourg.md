@@ -15,7 +15,7 @@
 | **Artillerie** | 8 canons de 330 mm en deux tourelles quadruples à l'avant ; 16 canons de 130 mm à double usage |
 | **Machines** | 6 chaudières, 4 groupes de turbines, ~110 000 ch, ~29,5 nœuds |
 | **Électricité** | Turbo-dynamos et diesels-dynamos, de l'ordre de 4 à 5 MW, en courant continu, comme le *Dunkerque* ([23](23-dunkerque-siege-du-conseil.md) §1) 🔎 |
-| **Aviation** | Hydravions Loire 130 ; à l'automne 1940, la section forme au Loire 130 le pilote britannique **Tom Penhallow**, qui pilote l'hydravion de l'expédition de la Manche en 1942 ([20](20-capacites-aeronavales.md) §4.5) [à nommer : le chef de la section] |
+| **Aviation** | Hydravions Loire 130 ; à l'automne 1940, la section forme au Loire 130 le pilote britannique **Tom Penhallow**, qui pilote l'hydravion de l'expédition de la Manche en 1942 ([20](20-capacites-aeronavales.md) §4.5) [chef de la section : le lieutenant de vaisseau Paul Arnaud, Toulonnais, ancien de la HS 1] |
 | **Commandant** | **Capitaine de vaisseau Louis Collinet** ([18](18-expedition-albanie.md) §3 bis) |
 
 **Dans notre histoire**, le *Strasbourg* est le seul grand navire qui s'échappe de Mers el-Kébir le 3 juillet 1940 : Collinet appareille sous les obus et rallie Toulon, où le navire se saborde en novembre 1942 [histoire]. **Dans l'uchronie**, il n'y a pas de bataille ; le sang-froid de Collinet se montre pendant la nuit de feu ([18](18-expedition-albanie.md) §3 bis).

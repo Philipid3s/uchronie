@@ -158,7 +158,7 @@ Le détail est au chapitre [33](33-toulon.md).
 
 | Îlot | Noyau | Atouts | Faiblesses | Relation possible avec la Sardaigne |
 |---|---|---|---|---|
-| **Îlot de l'Est** (Crète, baie de Souda) | Flotte britannique d'Alexandrie (Cunningham) et Force X française (Godfroy) | Flotte puissante, mer tiède, terres de la Messara | Pas de charbon, foules du delta du Nil | **[canon] Il existe et survit, mais le contact est perdu après octobre 1940** (§3) |
+| **Îlot de l'Est** (Crète, baie de Souda) | Flotte britannique d'Alexandrie (Cunningham) et Force X française (Godfroy) | Flotte puissante, mer tiède, terres de la Messara | Pas de charbon, foules du delta du Nil | **[canon] Il existe et survit, mais le contact est perdu après novembre 1940** (§3) |
 | **Gibraltar** | Reste de la garnison dans les galeries du Rocher (~7 000 hommes) | Forteresse, arsenal, cales sèches, dépôt de mazout, garde du détroit | Pas de terres, pas de femmes | **[canon] Avant-poste et partenaire** (§2 bis) |
 | **Écosse (Scapa Flow, Clyde)** | Home Fleet, administration britannique repliée | Charbon, flotte | Froid extrême : à 56-59° N, la mer du Nord se couvre de glace | Contact radio intermittent |
 | **Océan Indien** (Ceylan, Maurice, Madagascar) | Garnisons, flottes coloniales | Mer chaude, latitude tropicale | Isolement | Lointain |
@@ -206,7 +206,7 @@ Le détail est au chapitre [33](33-toulon.md).
 **Ce que sait le narrateur omniscient** : l'îlot de l'Est **existe et survit**. Il est né à Alexandrie de la même logique que celui de Sardaigne : l'alliance de la Mediterranean Fleet de Cunningham et de la Force X de Godfroy, qui s'installent en **Crète**, dans la baie de Souda et la plaine de la Messara. Sa trajectoire est décrite au chapitre [37](37-ilot-de-l-est.md) : une **île partagée** avec les Crétois des montagnes (trêve d'Arkadi, 1942), **Cunningham mort de la peste en 1944**, **Godfroy seul maître de l'Est**, le **savoir d'Alexandrie** (Bibliothèque de Souda), puis le partenariat avec Cagliari.
 
 **Ce que sait l'îlot de Sardaigne** :
-- **Juillet – octobre 1940** : contacts radio intermittents entre le *Dunkerque* et le *Warspite*, navire amiral de Cunningham. L'îlot de l'Est annonce son départ vers la Crète.
+- **Juillet – novembre 1940** : contacts radio intermittents entre le *Dunkerque* et le *Warspite*, navire amiral de Cunningham. L'îlot de l'Est annonce son départ vers la Crète. Dernier message reçu en novembre 1940 ([16](16-contacts-radio.md) §5).
 - **À partir de novembre 1940 : plus rien.** Les appels quotidiens restent sans réponse.
 
 **Pourquoi le silence ? Causes physiques plausibles**, que les Sardes ne peuvent pas départager :

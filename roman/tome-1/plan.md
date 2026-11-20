@@ -40,7 +40,7 @@
 | **2 juillet, le matin** | Un jour qui se lève mal, cuivré, sans soleil ; vers 8 h 15 UTC (73 minutes après l'impact de 7 h 00), les vitres qui vibrent à Mers el-Kébir : le souffle de Rambouillet, venu de très loin, presque doux | [06](../../06-mers-el-kebir.md) §2, [02](../../02-impact-rambouillet.md) |
 | **3 juillet, midi** | **Il fait aussi noir que par une nuit de pleine lune** ; puis moins encore : moins d'un millième de la lumière | [08](../../08-chronologie.md), [04](../../04-climat.md) §2 |
 | **Juillet – août** | Le noir à midi ; la suie qui tombe comme une neige grise ; **un froid qui vient vite** : de 24 °C début juillet à ~5 °C mi-août, en six semaines ; la mer encore tiède qui fume dans l'air froid ; les manteaux sortis en plein août ; le silence des cigales et des oiseaux | [04](../../04-climat.md) §3 |
-| **Fin juillet** | **Premières neiges sur le Gennargentu**, vues de loin comme une pâleur dans le noir | [08](../../08-chronologie.md) |
+| **Fin juillet** | **Premières neiges sur le Gennargentu**, qu'on ne voit pas dans le noir : on l'apprend par le téléphone des carabiniers de Nuoro ; sur les hauteurs du Sulcis, un grésil mêlé de suie | [08](../../08-chronologie.md) |
 | **Septembre – novembre** | Autour de 5 °C, des gelées ; **la neige sur la côte en octobre** ; la mer qui fume, le brouillard d'évaporation | [04](../../04-climat.md) §3-4 |
 | **La radio** | Un vacarme de détresse en juillet, puis des voix qui s'éteignent une à une | [16](../../16-contacts-radio.md) §5 |
 
@@ -57,12 +57,12 @@
 
 **Jean de Kerangal** [canon roman : nom, bord, origine ; proposition : le reste]
 - Né en 1918 à **Brest**. École navale ; **enseigne de vaisseau de 2ᵉ classe** sur le contre-torpilleur *Volta* en 1940, officier de quart et adjoint au canonnier. Il parle bien l'anglais (une gouvernante, des étés à Plymouth ?), ce qui le fait employer comme **officier de liaison** dès juillet.
-- **Sa famille** [canon roman] : son père, ancien officier des équipages ; sa mère ; une sœur cadette, **Soizic** (17 ans). Il n'a plus de nouvelles depuis l'entrée des Allemands à Brest (19 juin 1940) [histoire 🔎]. **Il ne sait pas qu'ils ont fui vers la campagne** : il ne l'apprendra qu'en 1942.
+- **Sa famille** [canon roman] : son père, ancien officier des équipages ; sa mère ; une sœur cadette, **Soizic** (17 ans). Il n'a plus de nouvelles depuis l'entrée des Allemands à Brest (19 juin 1940) [histoire]. **Il ne sait pas qu'ils ont fui vers la campagne** : il ne l'apprendra qu'en 1942.
 - **Tempérament** : réservé, scrupuleux, catholique breton, lent à aimer et fidèle. Il croit à l'ordre, et le voit tenir à bord quand tout s'effondre à terre.
 - **Son arc dans le tome 1** : de l'officier qui obéit à l'homme qui choisit. Il apprend l'italien avec Efisia.
 
 **Tom Penhallow** [canon roman : nom, bord, hydravion, naissance ; proposition : le reste]
-- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Formé sur Walrus et Swordfish à flotteurs au 700 Squadron (Hatston), puis pilote du Walrus du croiseur ***Devonshire***, Norvège : le 7 juin 1940, il voit le roi Haakon monter à bord à Tromsø pour l'exil, puis le débarque à Greenock le 10. Puis l'*Ark Royal*, rejoint à Scapa vers le 15 juin, **810 Squadron**, celle de Halloran ([20](../../20-capacites-aeronavales.md) §4.5) [canon roman].
+- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Formé sur Walrus et Swordfish à flotteurs dans les sections de catapulte (regroupées en janvier 1940 dans le 700 Squadron, à Hatston), puis pilote du Walrus du croiseur ***Devonshire***, Norvège : le 7 juin 1940, il voit le roi Haakon monter à bord à Tromsø pour l'exil, puis le débarque à Greenock le 10. Puis l'*Ark Royal*, rejoint à Scapa vers le 15 juin, **810 Squadron**, celle de Halloran ([20](../../20-capacites-aeronavales.md) §4.5) [canon roman].
 - **Sa famille** [canon roman] : sa mère, veuve ; un frère cadet, **Billy** (15 ans) ; l'oncle **Jack**, charpentier chez Saunders-Roe à Cowes.
 - **Tempérament** : drôle, charmeur, insolent, **volage** ; courageux par goût du jeu. Ce qui le tient, c'est voler, et voir. Il est curieux de tout, et c'est ce qui en fera l'homme du renseignement de 1942.
 - **Son arc dans le tome 1** : du jeune homme qui vit pour l'instant à celui qui accepte une mission. Le dernier vol de l'automne 1940 en est l'épreuve.
@@ -91,7 +91,7 @@
 
 - **Juillet** : Efisia rencontre **Jean d'abord, dans la colère** (il amène les blessés britanniques à l'hôpital le jour où la batterie de son frère a tiré), puis **Tom, dans le rire** (il arrive à l'hôpital avec une coupure infectée et un italien impossible).
 - **Août** : Tom la courtise et la fait rire ; Jean la croise dans la pire des tâches, les réquisitions du quartier de la Marina. Elle penche vers Tom.
-- **Septembre** : la gloire du 23 septembre grise Tom ; il s'éloigne, attiré par d'autres (une infirmière d'Oran du *Provence*). Efisia le voit sans illusions.
+- **Septembre – octobre** : la gloire du 23 septembre grise Tom ; il s'éloigne, attiré par d'autres (une infirmière d'Oran du *Provence*, chapitre 21). Efisia le voit sans illusions.
 - **Octobre – novembre** : Jean et Efisia, lentement. Rien n'est dit avant le dernier chapitre, et peu de chose alors.
 - **L'amitié entre Jean et Tom** tient malgré tout : Tom cède sans rancune, avec une pirouette. C'est elle qui portera l'expédition de 1942.
 
@@ -99,13 +99,13 @@
 
 ## 4. La structure
 
-Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efisia**. Entre les chapitres, des **pièces d'époque** (§6). Longueur visée [proposition] : 12 à 18 pages par chapitre, soit 350 à 450 pages.
+Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de vue** (Jean, Tom, Efisia), sans ordre fixe. Entre les chapitres, des **pièces d'époque** (§6). Longueur visée [proposition] : 12 à 18 pages par chapitre, soit 350 à 450 pages.
 
 | Partie | Titre provisoire | Dates | Chapitres |
 |---|---|---|---|
 | I | **La nuit de feu** | 30 juin – 2 juillet 1940 | 1 – 6 |
-| II | **Le chemin de l'île** | 3 – 12 juillet | 7 – 12 |
-| III | **Sous les canons** | 13 juillet – août | 13 – 18 |
+| II | **Le chemin de l'île** | 2 – 12 juillet | 7 – 12 |
+| III | **Sous les canons** | 13 juillet – septembre | 13 – 18 |
 | IV | **Le premier froid** | septembre – fin novembre | 19 – 27 |
 
 ---
@@ -117,19 +117,19 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 **1. Jean — 30 juin 1940, Mers el-Kébir** [validé, 20 novembre 2026]
 - *Le dernier jour du monde d'avant.* La rade écrasée de chaleur, la Force de Raid au mouillage, les hydravions du *Strasbourg* qui rentrent au crépuscule. Jean écrit à Brest une lettre qui ne partira pas : il n'a pas de nouvelles depuis le 19 juin.
 - Louis Garrec a obtenu une permission pour Oran le lendemain soir. Rumeurs sur les Anglais : on dit que la Force H se rassemble à Gibraltar.
-- **L'armistice**, signé depuis cinq jours : la flotte doit rentrer se faire désarmer dans ses ports d'attache [histoire]. Celui de la Force de Raid est Brest, occupée : on parle de Toulon. Même en paix, Jean ne rentrera pas chez lui.
+- **L'armistice**, en vigueur depuis cinq jours (signé le 22 juin, appliqué le 25) : la flotte doit rentrer se faire désarmer dans ses ports d'attache [histoire]. Celui de la Force de Raid est Brest, occupée : on parle de Toulon. Même en paix, Jean ne rentrera pas chez lui.
 - *Enjeu* : le monde ordonné du bord, déjà en sursis ; la famille absente ; l'amitié.
 
 **2. Tom — 30 juin – 1er juillet, Gibraltar** [validé]
 - Tom est à bord de l'*Ark Royal* depuis la mi-juin : débarqué du *Devonshire* à Greenock le 10, il l'a rejoint à Scapa juste avant l'appareillage pour Gibraltar (17-18 juin). Halloran l'a accueilli : deux Plymouthiens. On devine la cible de la Force H : **la flotte française**. Tom se souvient des Français de Norvège, et cela lui déplaît.
 - Le 30 au soir, le croiseur *Arethusa* amène Somerville [histoire] : Tom voit l'amiral débarquer.
 - **Le 1er juillet**, l'ordre de l'Amirauté tombe : *« Intention ferme du gouvernement de Sa Majesté »* [histoire 🔎 : texte]. Briefing des équipages pour le 3 : l'810 aura pour cible le ***Strasbourg***, le navire dont Tom apprendra plus tard l'hydravion.
-- Tom sort écœuré du briefing et monte sur le pont d'envol. Le soleil se couche (l'impact tombe à 19 h 35 UTC, au coucher du soleil à Gibraltar) : les premières étoiles filantes dans un ciel encore clair. Il les trouve belles. **La catastrophe interrompt Catapult.**
+- Tom sort écœuré du briefing et monte sur le pont d'envol. Le soleil se couche (le ciel de feu commence à 19 h 35 UTC, au coucher du soleil à Gibraltar ; l'impact, de l'autre côté du globe, a eu lieu trente-cinq minutes plus tôt) : les premières étoiles filantes dans un ciel encore clair. Il les trouve belles. **La catastrophe interrompt Catapult.**
 - *Enjeu* : la guerre absurde d'avant la catastrophe ; la légèreté de Tom.
 
 **3. Efisia — 1er juillet, Cagliari** [validé]
-- La ville en guerre depuis le 10 juin, le black-out, la chaleur. **Les bombardements français** des 16 et 24 juin [histoire] : l'hydrobase d'Elmas, les dépôts de carburant de Monte Urpinu. La ville a déjà eu peur, et ce sont des Français qui l'ont bombardée : la racine de sa haine pour « l'officier français » (chapitre 12).
-- Efisia finit sa garde à San Giovanni di Dio, à Stampace ; en descendant, elle passe devant l'église de Sant'Efisio. Elle voit Gigi qui descend de la batterie, rentre à la Marina à la nuit tombante (l'impact tombe à 21 h 35, heure d'été italienne, une heure après le coucher du soleil).
+- La ville en guerre depuis le 10 juin, le black-out, la chaleur. **Les bombardements français** de juin [histoire 🔎 : le 16 (l'hydrobase d'Elmas), peut-être le 18, et le 24 (les dépôts de carburant de Monte Urpinu) ; la bible, [10](../../10-choix-du-refuge.md) §8 et §9 bis, les donne à vérifier]. La ville a déjà eu peur, et ce sont des Français qui l'ont bombardée : la racine de sa haine pour « l'officier français » (chapitre 12).
+- Efisia finit sa garde à San Giovanni di Dio, à Stampace ; en descendant, elle passe devant l'église de Sant'Efisio. Elle croise Gigi qui monte à la batterie pour la garde de nuit, rentre à la Marina à la nuit tombante (le ciel de feu commence à 21 h 35, heure d'été italienne, trois quarts d'heure après le coucher du soleil).
 - Le ciel se strie, puis rougit. Elle court. Le chapitre s'arrête sur le seuil.
 - *Enjeu* : une famille, une ville, un monde ordinaire.
 
@@ -138,26 +138,25 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Le 2, le jour se lève mal, cuivré. Vers 8 h 15 UTC, le souffle de Rambouillet fait vibrer les vitres de la passerelle. Garrec ne revient pas. On compte les morts du bord.
 
 **5. Tom — nuit du 1er au 2 juillet, Gibraltar** [validé]
-- L'*Ark Royal* fermé ; les avions du pont d'envol qui brûlent ; la garnison dans les galeries du Rocher. Au matin, la radio de l'Amirauté ; en milieu de matinée, le souffle de Rambouillet ; puis plus rien de cohérent.
+- L'*Ark Royal* fermé ; les avions du pont d'envol qui brûlent ; la garnison dans les galeries du Rocher. Au matin, la radio de l'Amirauté, hachée ; en milieu de matinée, le souffle de Rambouillet ; vers midi, un dernier signal cohérent, puis plus rien.
 - Le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Il arrive à des équipages qui, la veille, se préparaient à couler celle d'en face. Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes. La Marina en feu.
 - **Sa mère et Bonaria meurent dans la nuit** [canon roman] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
-- Vers 9 h, les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
+- Vers 10 h (heure italienne), les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
 - *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
 
 ### Partie II — Le chemin de l'île
 
-**7. Jean — 3 – 7 juillet, Mers el-Kébir** [validé]
+**7. Jean — 2 – 4 juillet, Mers el-Kébir** [validé]
 - **Interprète** : dès le 2, pour le contact radio en clair avec Somerville, l'état-major de Gensoul réclame des officiers qui parlent anglais ; Jean est détaché du *Volta*.
-- **Le noir à midi.** Le 3, c'est lui qui reçoit le canot du *Foxhound* à l'échelle du *Dunkerque* et accompagne Holland. Le 4, la conférence (vue de l'extérieur : les canots, les visages des amiraux qui sortent).
-- Le 5, les six croiseurs d'Alger entrent en rade, dont le ***Georges Leygues***, le navire de 1942.
-- Les morts immergés à l'heure de l'aube, dans le noir. Le 7, la nouvelle circule : **la Sardaigne**.
+- **Le noir à midi.** Le 3, c'est lui qui reçoit le canot du *Foxhound* à l'échelle du *Dunkerque* et accompagne Holland. Le 4, la conférence (vue de l'extérieur : les canots, les visages des amiraux qui sortent). Le soir, Jean est rendu au *Volta*.
+- Les morts immergés à l'heure de l'aube, dans le noir.
 
-**8. Tom — 4 – 10 juillet, au-dessus de l'Oranie** [canon roman : option C ; validé]
+**8. Tom — 5 – 10 juillet, au-dessus de l'Oranie** [canon roman : option C ; validé]
 - **La première mission de renseignement** : dans un ciel brun et noir, Tom décolle de **North Front**, la piste de l'ancien champ de courses au pied du Rocher (l'*Ark Royal*, à quai, ne peut pas lancer ses avions) [histoire], et vole vers l'Oranie pour repérer **les silos de la plaine**, les routes et les ponts, les foules et les incendies, le port d'Oran. Il voit la plaine à la lueur des braises, les colonnes de gens sur les routes, un train arrêté. Il note tout, et ses notes guideront les colonnes de Jean.
-- **La Sénia** : Gibraltar – Oran – Gibraltar dépasse l'autonomie d'un Swordfish. Tom se pose sur le terrain français de La Sénia pour refaire le plein et y passe la nuit avec les aviateurs français, ceux qu'il devait combattre trois jours plus tôt.
+- **La Sénia** : Gibraltar – Oran – Gibraltar dépasse l'autonomie d'un Swordfish. Tom se pose sur le terrain français de La Sénia pour refaire le plein et y passe la nuit avec les aviateurs français, ceux qu'il devait combattre quelques jours plus tôt.
 - La Méditerranée vue d'en haut, l'Andalousie et le Maroc qui brûlent en lignes de braises. Le retour à North Front, à la lueur des projecteurs, sous le Rocher. On compte déjà l'essence.
 - Le chargement des stocks du Rocher. Les avions rembarquent. L'appareillage de la Force H, le 10 à l'aube.
 
@@ -166,15 +165,17 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Gigi dit que la Milice se battra. Antonio dit que le pain, c'est ce qui compte. Efisia ne dit rien.
 
 **10. Jean — 5 – 9 juillet, la corvée d'Oran** [canon roman : option A ; validé]
-- **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie, avec les relevés des Swordfish. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ([06](../../06-mers-el-kebir.md) §4 bis).
+- Le 5, en partant pour Oran, Jean voit entrer en rade les six croiseurs d'Alger, dont le ***Georges Leygues***, le navire de 1942.
+- **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie ; les premières colonnes partent le 5 à l'aveugle, les relevés des Swordfish arrivent le 6. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ([06](../../06-mers-el-kebir.md) §4 bis).
 - **L'eau** : remplir les caisses des cargos aux citernes de la ville ; le médecin qui la goûte, la fait bouillir, la chlore.
-- **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles ; puis **le tirage au sort sur le quai** des dernières places, entre les mères avec enfants. Jean doit refuser du monde. La pire journée de sa vie. Les marins anglais regardent : eux n'ont personne à Oran.
+- **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles ; puis **le tirage au sort sur le quai** des dernières places, entre les mères avec enfants. Jean doit refuser du monde. La pire journée de sa vie. Les marins du *Foxhound*, le destroyer de liaison, regardent : eux n'ont personne à Oran.
+- Le 7, la nouvelle circule sur les quais : **la Sardaigne**.
 - **Le dock-silo** du quai Henri-Beaupuy [histoire : 30 000 t, deux navires à quai, ensachage et chargement à 2 × 120 t/h] tourne jour et nuit ; le reste se charge en sacs, aux grues et aux mâts de charge des cargos, par des équipes réquisitionnées.
 - **Le silo ouvert** : l'ordre vient de Gensoul, Somerville s'est incliné. C'est Jean qui fait ouvrir les portes au départ et voit la foule s'y engouffrer.
 - **L'appareillage du 9 au soir**, en escorte du convoi des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas, peut-être l'un des tirés au sort. La côte qui brûle derrière eux. Le 11, la flotte réunie dépasse le convoi ; dans la nuit du 11 au 12, le *Volta* le quitte pour rallier l'écran. Le convoi, lui, attendra au large du cap Teulada.
 
 **11. Tom — 12 juillet, au-dessus du golfe** [validé]
-- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. Dans le noir (moins d'un millième de la lumière), **il voit les éclairs de départ de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran, l'***Escort***, est touché ; **le *Hood* tire sous lui**. À la lueur des projecteurs et des fusées éclairantes, il voit le *Volta* stopper et mettre ses canots à l'eau pour repêcher les survivants.
+- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. Dans le noir (moins d'un millième de la lumière), **il voit les éclairs de départ de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran, l'***Escort***, est touché ; **le *Hood* tire sous lui**. À la lueur des projecteurs et des fusées éclairantes, il voit le *Volta* stopper et mettre ses canots à l'eau pour recueillir les blessés et les hommes tombés à la mer.
 - Il se pose à Elmas, l'un des premiers. Les aviateurs italiens, les **hydravions CANT** sur l'étang de Santa Gilla : il en tombe amoureux avant de tomber amoureux de qui que ce soit.
 
 **12. Efisia — 12 juillet, Cagliari** [validé]
@@ -188,7 +189,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 **14. Jean — fin juillet, le Sulcis** [validé]
 - La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois.
-- **La première neige** : une nuit, sur la colline, une neige mêlée de suie, grise, qui fond en touchant les mains. Le lendemain, le téléphone des carabiniers de Nuoro apporte la nouvelle : le Gennargentu est blanc (à cent kilomètres, dans le noir, on ne le voit pas).
+- **La première neige, ailleurs** [canon roman : option A] : une nuit, sur les hauteurs, un grésil mêlé de suie, gris, qui fond en touchant les mains ; ce n'est pas encore de la neige. Le lendemain, le téléphone des carabiniers de Nuoro apporte la nouvelle : le Gennargentu est blanc (à cent kilomètres, dans le noir, on ne le voit pas).
 
 **15. Efisia — août, Cagliari** [validé]
 - **Un août glacial** (~5 °C à la mi-août) : on sort les manteaux d'hiver. Les émeutes de la faim, les réquisitions. Gigi est interné. Efisia lui porte du pain.
@@ -205,8 +206,6 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 **18. Efisia — fin août – septembre** [validé]
 - Face aux émeutes, le Conseil choisit de rester à bord du *Dunkerque* plutôt que de s'installer au Palazzo Regio.
 - **L'hôpital passe sur les navires** : seuls les navires ont l'électricité, la chaleur et la vapeur pour stériliser ; San Giovanni di Dio se vide dans le froid (il ne redeviendra l'hôpital de l'îlot qu'en 1944, [19](../../19-savoir-et-medecine.md)). Efisia suit ses malades et rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Quitter son hôpital et sa ville pour un navire français : un déchirement. Elle apprend le français d'hôpital.
-- Elle voit Tom s'attarder près d'une infirmière d'Oran. Elle n'est pas surprise.
-
 ### Partie IV — Le premier froid
 
 **19. Tom — 21 – 23 septembre, l'alerte de Naples** [validé]
@@ -218,29 +217,30 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Octobre : **la première neige sur Cagliari**. Jean et Efisia se croisent sur le bastion de Saint-Remy, dans la neige qui tombe sur une mer encore tiède et fumante. Ils parlent pour la première fois sans se battre.
 
 **21. Efisia — octobre, le *Provence*** [validé]
-- Les premiers rescapés de **Bizerte** : ils débarquent à Sant'Antioco et à Carloforte ([16](../../16-contacts-radio.md) §4) ; Efisia voit arriver sur le *Provence* les malades et les blessés transférés, et le récit passe de bouche en bouche : une base intacte, perdue. Gigi est libéré et inscrit à un bord. Efisia comprend qu'elle aussi appartient à un bord, et qu'elle ne le déteste plus tout à fait.
+- Les premiers rescapés de **Bizerte** : ils débarquent à Sant'Antioco et à Carloforte ([16](../../16-contacts-radio.md) §4) ; Efisia voit arriver sur le *Provence* les malades et les blessés transférés, et le récit passe de bouche en bouche : une base intacte, en train de se perdre. Gigi est libéré et inscrit à un bord. Efisia comprend qu'elle aussi appartient à un bord, et qu'elle ne le déteste plus tout à fait.
+- Tom, grisé par sa gloire du 23 septembre, s'attarde près d'une infirmière d'Oran. Efisia le voit. Elle n'est pas surprise.
 
 **22. Jean — octobre – novembre** [validé]
 - Holland rédige le **Code de l'Îlot**. Le commandant **Jacquinet** le lit à l'équipage du *Volta*, sur la plage arrière, dans le froid : la première vraie scène de la figure paternelle de Jean. Jean comprend qu'**on ne rentrera pas**. Il range la lettre de juin.
 
 **23. Tom — novembre, Elmas** [validé]
-- Les derniers fûts d'essence. L'ordre tombe : l'aviation sera clouée au sol pendant l'hiver. Tom vole ses dernières heures sur le Loire 130. Il s'en veut d'avoir été léger avec Efisia, à sa manière.
+- Les derniers fûts d'essence. L'ordre tombe : l'aviation sera clouée au sol pendant l'hiver, et le Conseil met **sous scellés 6 t d'essence aviation**, la réserve qu'on n'ouvrira qu'une fois ([15](../../15-energie.md) §2). Tom vole ses dernières heures sur le Loire 130. Il s'en veut d'avoir été léger avec Efisia, à sa manière.
 
 **24. Efisia — novembre, les réfugiés corses** [validé]
-- Les traversées des bouches de Bonifacio. **La crise des quotas** [canon roman : option A] : Efisia soigne des Corses que l'on va refouler vers la Gallura ; elle entend, de loin, que le Conseil s'est déchiré : Gensoul pour les Français, Sportiello pour les Sardes, Somerville qui arbitre ([11](../../11-ilot-de-civilisation.md) §1 bis). Elle-même ne sait pas de quel côté elle est.
+- Les traversées des bouches de Bonifacio. **La crise des quotas** [canon roman : option A] : Efisia soigne des Corses admis lors d'un quota précédent, qui lui racontent ceux qu'on a refoulés vers la Gallura ; elle entend, de loin, que le Conseil s'est déchiré : Gensoul pour les Français, Sportiello pour les Sardes, Somerville qui arbitre ([11](../../11-ilot-de-civilisation.md) §1 bis). Elle-même ne sait pas de quel côté elle est.
 - Un soir, la nouvelle : **un caboteur torpillé** par un sous-marin perdu, sur la côte est, au large d'Arbatax. Il amenait de La Maddalena à Cagliari les réfugiés admis du quota du mois ([06](../../06-mers-el-kebir.md) §6 bis). Le *Volta* est de garde contre les sous-marins, sous pression : il appareille dans l'heure. On demande des infirmières volontaires. Efisia lève la main.
 
 **25 – 27. La réunion : la nuit du caboteur** [canon roman]
 
 **25. Tom — la nuit du dernier vol** [validé]
-- Le Conseil autorise **un vol, le dernier** : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord-est, au large d'Arbatax (~75 milles). Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
-- *Ordres de grandeur* : ~50 minutes de vol pour Tom, ~2 h 30 de mer pour le *Volta* ; une mer à ~13 °C ([04](../../04-climat.md) §4), où l'on tient deux ou trois heures : il y a de vrais morts (la soixantaine de la bible).
+- Le Conseil autorise **un vol, le dernier**, avec les derniers fûts non scellés : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord-est, au large d'Arbatax (~55 milles à vol d'oiseau). Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
+- *Ordres de grandeur* : ~40 minutes de vol pour Tom ; ~75 milles et ~2 h 30 de mer pour le *Volta*, qui doit contourner le capo Carbonara ; une mer à ~13 °C ([04](../../04-climat.md) §4), où l'on tient deux ou trois heures : il y a de vrais morts (la soixantaine de la bible).
 
 **26. Jean — la même nuit, le *Volta*** [validé]
-- Le *Volta* fonce vers le nord-est, le long de la côte, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
+- Le *Volta* contourne le capo Carbonara, remonte la côte est à toute vitesse, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
 **27. Efisia — le retour, fin novembre** [validé]
-- Le *Volta* rentre dans le golfe à l'heure de l'aube. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
+- Le *Volta* rentre dans le golfe à l'heure de l'aube. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence, hors des fûts scellés du Conseil. Quelques lumières du port, sur des câbles tirés des navires ; la ville, elle, vit aux lampes et aux braseros. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
 - **L'enclos** [canon roman]. Le lendemain, les noyés corses sont enterrés dans l'enclos du 12 juillet, près des Britanniques du destroyer et des artilleurs italiens de la batterie (chapitre 12). Jean, Tom et Efisia sont là tous les trois ; la neige tombe sur les tombes. Une page sobre : trois nations dans une même terre, sans un mot de discours.
 - **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1652, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque année (vœu renouvelé en 1656, première procession en mai 1657) ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Toulon, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
 
@@ -258,8 +258,8 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 
 | Après le chapitre | Pièce | Source dans la bible |
 |---|---|---|
-| (avant le 1) | Ordre de l'Amirauté à la Force H pour l'opération **Catapult**, 1er juillet 1940 (extrait) | [06](../../06-mers-el-kebir.md) §3 [histoire 🔎 : texte réel] |
-| 3 | *Bollettino di guerra* italien du 1er juillet 1940 (le dernier) | [histoire 🔎] |
+| 1 | Ordre de l'Amirauté à la Force H pour l'opération **Catapult**, 1er juillet 1940 (extrait) | [06](../../06-mers-el-kebir.md) §3 [histoire 🔎 : texte réel ; l'ordre ferme part le 1er juillet à 18 h 20] |
+| 3 | *Bollettino di guerra* italien du 1er juillet 1940 (le dernier, n° 20 ou 21, diffusé à 13 h par l'EIAR) | [histoire 🔎 : texte] |
 | 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | [06](../../06-mers-el-kebir.md) §2 |
 | 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | [06](../../06-mers-el-kebir.md) §4 bis |
 | 6 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
@@ -277,7 +277,7 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 
 ---
 
-## 7. Ce que le tome 1 ajoute à la bible [proposition, à reporter dans 09 une fois validé]
+## 7. Ce que le tome 1 ajoute à la bible [reporté dans 09 B115]
 
 - **Le dernier vol de 1940** : un sauvetage, fin novembre 1940 (B23, reporté dans [20](../../20-capacites-aeronavales.md) §2).
 - **Le destroyer touché le 12 juillet** : l'*Escort* (décision de l'auteur, reportée dans [10](../../10-choix-du-refuge.md) §9 ter et [12](../../12-flottes-survivantes.md)).
@@ -293,4 +293,5 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
 7. ✅ **La dernière image** (chapitre 27) : le retour du *Volta*, puis l'enterrement des Corses dans l'enclos du 12 juillet ; le vœu de saint Éphise ferme le chapitre (option A + B).
-8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre, et le vœu n'a jamais été interrompu ; aucune source directe) ; les CANT Z.501 et Z.506 d'Elmas.
+8. 🔎 **À documenter** : le texte réel de l'ordre de Catapult ; le texte du dernier *Bollettino di guerra* ; le médecin-chef de San Giovanni di Dio en 1940 (les religieuses sont très probablement les Filles de la Charité) ; les bombardements français de juin (dates exactes) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre, et le vœu n'a jamais été interrompu ; aucune source directe).
+9. ✅ **Documentés** : Brest (19 juin) ; l'heure d'été (Italie UTC+2 depuis le 15 juin, Gibraltar UTC+1) ; San Giovanni di Dio, à Stampace ; les unités d'Elmas ; la batterie C.135 ; le dock-silo d'Oran ; Jacquinet ; Duplat.
