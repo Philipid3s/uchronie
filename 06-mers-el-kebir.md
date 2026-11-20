@@ -166,7 +166,7 @@ En juillet 1940, la Regia Marina est l'une des plus grosses flottes de Méditerr
 
 - **Qui** : un ou deux sous-marins italiens, en patrouille le 1er juillet, qui refusent de rallier l'îlot et restent fidèles au Parti [noms à trouver]. Ils s'appuient sur les derniers réduits fascistes de la côte tyrrhénienne (Civitavecchia, l'île d'Elbe), où ils trouvent un peu de gazole.
 - **Ce qu'ils font** :
-  - **novembre 1940** : un caboteur chargé de réfugiés corses est torpillé au large des bouches de Bonifacio : une soixantaine de morts ([11](11-ilot-de-civilisation.md) §1 bis) ;
+  - **novembre 1940** : un caboteur qui amène de La Maddalena à Cagliari les réfugiés corses admis du quota du mois est torpillé **sur la côte est, au large d'Arbatax** : une soixantaine de morts ([11](11-ilot-de-civilisation.md) §1 bis). Les survivants sont secourus de nuit par le dernier vol de 1940 (un Loire 130 d'Elmas, perdu en mer) et par le *Volta* ([20](20-capacites-aeronavales.md) §2) [canon : lieu (décision de l'auteur)] ;
   - **1941** : un chalutier armé de la garde des côtes est coulé au large du capo Carbonara ;
   - **1942** : l'un des deux, surpris en surface près de Tavolara par deux destroyers de l'îlot, se saborde. Ses survivants sont jugés selon le Code de l'Îlot ([25](25-ark-royal.md)) ; la plupart sont inscrits après leur peine [canon provisoire] ;
   - **1943** : dernier signalement de l'autre, au large de la Corse. Ses batteries ne peuvent plus tenir ; on ne le reverra pas.

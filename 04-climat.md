@@ -32,7 +32,7 @@ Références de cadrage : Toon *et al.* (1997) pour la physique des poussières 
 | Période | Moyenne mondiale | Continents de l'hémisphère Nord | Côtes méditerranéennes (Sardaigne du Sud) |
 |---|---|---|---|
 | Normale de 1930 | ~14 °C | — | ~17 °C |
-| Juillet – décembre 1940 | **−15 °C** d'anomalie | **−25 à −35 °C** : gel permanent dès fin juillet | Chute de 24 °C à ~5 °C en 6 semaines. Premières neiges en octobre |
+| Juillet – décembre 1940 | **−15 °C** d'anomalie | **−25 à −35 °C** : gel permanent dès fin juillet | Chute de 24 °C à ~5 °C en 6 semaines, **de début juillet à la mi-août** : il fait froid dès août. Premières neiges sur la côte en octobre |
 | **1941** | **−18 °C** | −30 °C : moyennes de −20 °C à Paris, de −35 °C à Moscou | **~2 à 4 °C de moyenne**, gelées fréquentes, rares coups de froid à −10 °C |
 | 1942 | −12 °C | −18 °C | ~7 °C |
 | 1943 | −8 °C | −12 °C | ~10 °C |

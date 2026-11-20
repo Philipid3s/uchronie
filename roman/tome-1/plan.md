@@ -39,9 +39,9 @@
 | **La nuit de feu** | Une **grêle de perles de verre** (les sphérules) qui tinte sur les ponts ; les pinèdes qui brûlent sur les collines | [03](../../03-impact-pacifique.md) §4 |
 | **2 juillet, 07:00 UTC** | Les vitres qui vibrent : le souffle de Rambouillet, venu de très loin, presque doux | [06](../../06-mers-el-kebir.md) §2 |
 | **3 juillet, midi** | **Il fait aussi noir que par une nuit de pleine lune** ; puis moins encore : moins d'un millième de la lumière | [08](../../08-chronologie.md), [04](../../04-climat.md) §2 |
-| **Juillet – août** | Le noir à midi ; la suie qui tombe comme une neige grise ; la mer encore tiède sous un air qui fraîchit ; le silence des cigales et des oiseaux | [04](../../04-climat.md) §2-3 |
+| **Juillet – août** | Le noir à midi ; la suie qui tombe comme une neige grise ; **un froid qui vient vite** : de 24 °C début juillet à ~5 °C mi-août, en six semaines ; la mer encore tiède qui fume dans l'air froid ; les manteaux sortis en plein août ; le silence des cigales et des oiseaux | [04](../../04-climat.md) §3 |
 | **Fin juillet** | **Premières neiges sur le Gennargentu**, vues de loin comme une pâleur dans le noir | [08](../../08-chronologie.md) |
-| **Septembre – novembre** | De 24 °C à ~5 °C en six semaines ; **la neige sur la côte en octobre** ; la mer qui fume dans l'air froid | [04](../../04-climat.md) §3 |
+| **Septembre – novembre** | Autour de 5 °C, des gelées ; **la neige sur la côte en octobre** ; la mer qui fume, le brouillard d'évaporation | [04](../../04-climat.md) §3-4 |
 | **La radio** | Un vacarme de détresse en juillet, puis des voix qui s'éteignent une à une | [16](../../16-contacts-radio.md) §5 |
 
 **Les règles** [proposition] :
@@ -78,7 +78,7 @@
 | Personnage | Rôle dans le tome 1 | Statut |
 |---|---|---|
 | L'enseigne **Louis Garrec** | Ami de Jean sur le *Volta*. Il est en permission à Oran le soir du 1er juillet et ne revient pas | [inventé, proposition] |
-| Le **commandant du *Volta*** | Capitaine de frégate prudent ; il ne quitte pas son bord. Figure paternelle pour Jean | [inventé dans la bible, sans nom ; à remplacer si le nom réel est retrouvé] |
+| Le capitaine de corvette **Jacquinet**, commandant du *Volta* | Chef prudent ; il ne quitte pas son bord. Figure paternelle pour Jean | [histoire 🔎 : commandant du *Volta* depuis août 1939, présence en juillet 1940 à confirmer ; prénom à trouver] |
 | Le capitaine de vaisseau **Cedric Holland** | Commandant de l'*Ark Royal*, francophone ; Jean l'accompagne le 3 juillet | [histoire] |
 | **Somerville**, **Gensoul**, **Sportiello** | Les amiraux, vus de loin, par les yeux des jeunes gens | [histoire] |
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
@@ -187,6 +187,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 **16. Tom — août, Elmas**
 - L'essence fond. Fin août, Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, fils d'un ouvrier de l'arsenal, ancien de la HS 1, accepte ; les leçons dureront tout l'automne. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
+- **L'arrivée de Toulon** : en août, l'*Algérie*, le *Dupleix* et des contre-torpilleurs entrent dans le golfe avec environ 1 500 personnes ([33](../../33-toulon.md)). Arnaud attend sur le quai des nouvelles de son père, ouvrier de l'arsenal. Tom le regarde attendre : c'est ce que c'est, attendre une famille. La scène prépare le « Un jour, on ira voir » [canon roman : option A].
 
 **17. Jean — fin août, la Marina**
 - **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner. Il entre chez les Deiana. Efisia lui fait face. Il cède sur ce qu'il peut, sans le dire.
@@ -216,15 +217,16 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Les derniers fûts d'essence. L'ordre tombe : l'aviation sera clouée au sol pendant l'hiver. Tom vole ses dernières heures sur le Loire 130. Il s'en veut d'avoir été léger avec Efisia, à sa manière.
 
 **24. Efisia — novembre, les réfugiés corses**
-- Les traversées des bouches de Bonifacio. Un soir, la nouvelle : **un caboteur de réfugiés corses torpillé** par un sous-marin perdu ([06](../../06-mers-el-kebir.md) §6 bis). On demande des infirmières volontaires pour le *Volta*. Efisia lève la main.
+- Les traversées des bouches de Bonifacio. **La crise des quotas** [canon roman : option A] : Efisia soigne des Corses que l'on va refouler vers la Gallura ; elle entend, de loin, que le Conseil s'est déchiré : Gensoul pour les Français, Sportiello pour les Sardes, Somerville qui arbitre ([11](../../11-ilot-de-civilisation.md) §1 bis). Elle-même ne sait pas de quel côté elle est.
+- Un soir, la nouvelle : **un caboteur torpillé** par un sous-marin perdu, sur la côte est, au large d'Arbatax. Il amenait de La Maddalena à Cagliari les réfugiés admis du quota du mois ([06](../../06-mers-el-kebir.md) §6 bis). On demande des infirmières volontaires pour le *Volta*. Efisia lève la main.
 
 **25 – 27. La réunion : la nuit du caboteur** [canon roman]
 
 **25. Tom — la nuit du dernier vol**
-- Le Conseil autorise **un vol, le dernier** : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord. Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
+- Le Conseil autorise **un vol, le dernier** : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord-est, au large d'Arbatax (~75 milles). Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
 
 **26. Jean — la même nuit, le *Volta***
-- Le *Volta* fonce vers le nord, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
+- Le *Volta* fonce vers le nord-est, le long de la côte, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
 **27. Efisia — le retour, fin novembre**
 - Le *Volta* rentre dans le golfe à l'aube grise. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
