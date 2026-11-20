@@ -22,9 +22,9 @@ Jean avait vingt-deux ans. Il était sorti de l'École navale deux ans plus tôt
 
 Le timonier piqua huit coups. Jean porta au journal de quart l'heure, la température, trente-quatre degrés à l'ombre de la passerelle, la mer plate, le vent nul. Il avait gardé une écriture d'élève, appliquée, que le commandant trouvait trop lente. Puis il se retourna vers la rade.
 
-Un canot à moteur du *Dunkerque* traversait le plan d'eau en traînant derrière lui une moustache d'écume qui ne se refermait pas. Il portait un officier en blanc, assis bien droit à l'arrière, une serviette de cuir sur les genoux. Le courrier de l'amiral, sans doute. Il n'y avait plus que cela, du courrier d'amiral : des ordres, des contrordres, des télégrammes de l'Amirauté repliée on ne savait plus où, Bordeaux, puis Nérac, une sous-préfecture du Lot-et-Garonne dont Jean n'aurait pas su dire, un mois plus tôt, qu'elle existait. Le courrier des familles, lui, ne passait plus.
+Un canot à moteur du *Dunkerque* traversait le plan d'eau en traînant derrière lui une moustache d'écume qui ne se refermait pas. Il portait un officier en blanc, assis bien droit à l'arrière, une serviette de cuir sur les genoux. Le courrier de l'amiral, sans doute. Il n'y avait plus que cela, du courrier d'amiral : des ordres, des contrordres, des télégrammes de l'Amirauté repliée de ville en ville, Bordeaux, puis Nérac, une sous-préfecture du Lot-et-Garonne dont Jean n'aurait pas su dire, un mois plus tôt, qu'elle existait. Le courrier des familles, lui, ne passait plus.
 
-Il l'avait compris le 19 juin. Ce jour-là, à bord, on avait appris que les Allemands étaient entrés dans Brest. Il revoyait encore le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se représenter la chose. Il n'y arrivait toujours pas. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
+Il l'avait compris le 19 juin. Ce jour-là, la nouvelle était arrivée à bord : les Allemands étaient entrés dans Brest. Il revoyait le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se représenter la chose. Il n'y arrivait toujours pas. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
 
 Depuis, rien. Rien de son père, ancien officier des équipages, qui avait voulu reprendre du service en septembre, qu'on avait gentiment renvoyé à ses rosiers, et qui soupirait chaque fois que Soizic parlait de faire médecine ; rien de sa mère ; rien de Soizic elle-même, dix-sept ans depuis avril. Ni s'ils étaient restés. Ni s'ils étaient partis. Il n'y avait pas de lettre, pas de télégramme, pas de poste, et la radio du gouvernement, qui changeait de ville tous les trois jours, ne parlait pas de Brest.
 
@@ -34,7 +34,7 @@ Il se força à revenir à la rade. Droite, gauche, point de départ.
 
 À midi et demi, Rousseau, l'autre enseigne, vint le relever pour qu'il aille déjeuner. Le carré des officiers du *Volta* était une pièce basse, blanche, aux hublots ouverts sur la jetée, où un ventilateur brassait un air plus chaud que celui du dehors. On y mangeait en manches de chemise depuis l'armistice : le commandant avait dit qu'il ne voyait plus de raison de faire cuire ses officiers dans leurs vareuses, et personne n'avait discuté.
 
-Ils étaient sept autour de la table. Il y avait le canonnier, un lieutenant de vaisseau de Lorient au visage carré, qui mangeait vite et parlait peu ; l'ingénieur mécanicien, un Marseillais qui parlait pour deux ; le médecin du bord, qui s'éventait avec le menu ; deux enseignes ; et, à la place qui faisait face à la porte, Louis Garrec, qui riait déjà de quelque chose quand Jean entra.
+Ils étaient sept autour de la table. Il y avait le canonnier, un lieutenant de vaisseau de Concarneau au visage carré, qui mangeait vite et parlait peu ; l'ingénieur mécanicien, un Marseillais qui parlait pour deux ; le médecin du bord, qui s'éventait avec le menu ; deux enseignes ; et, à la place qui faisait face à la porte, Louis Garrec, qui riait déjà de quelque chose quand Jean entra.
 
 — Kerangal ! Assieds-toi, tu tombes bien. On parie sur Toulon.
 
@@ -48,7 +48,7 @@ Le canonnier leva les yeux de son assiette.
 
 — Je plaisante, Commandant. Enfin, Capitaine.
 
-Depuis cinq jours, on ne parlait que de cela. L'armistice avait été signé le 22 juin avec les Allemands, le 24 avec les Italiens, et il était entré en vigueur le 25 à zéro heure trente-cinq. Jean était de quart cette nuit-là. Il avait écrit dans le journal « cessation des hostilités », puis il était resté un long moment devant ces trois mots. Les télégrammes de l'Amirauté et les postes des marins en avaient appris l'essentiel au bord. La flotte ne serait pas livrée. Elle serait désarmée dans ses ports d'attache du temps de paix, sous le contrôle des commissions allemande et italienne. Celui de la Force de Raid était Brest, et Brest était occupée : l'Amirauté obtiendrait sans doute qu'on aille se faire désarmer à Toulon, en zone libre, entre Français. On en parlait comme d'une maladie dont on aurait su le nom, mais pas la durée.
+Depuis cinq jours, c'était le sujet de tous les repas. L'armistice avait été signé le 22 juin avec les Allemands, le 24 avec les Italiens, et il était entré en vigueur le 25 à zéro heure trente-cinq. Jean était de quart cette nuit-là. Il avait écrit dans le journal « cessation des hostilités », puis il était resté un long moment devant ces trois mots. Les télégrammes de l'Amirauté et les postes des marins en avaient appris l'essentiel au bord. La flotte ne serait pas livrée. Elle serait désarmée dans ses ports d'attache du temps de paix, sous le contrôle des commissions allemande et italienne. Celui de la Force de Raid était Brest, et Brest était occupée : l'Amirauté obtiendrait sans doute qu'on aille se faire désarmer à Toulon, en zone libre, entre Français. On en parlait comme d'une maladie dont on aurait su le nom, mais pas la durée.
 
 — Toulon, ce n'est pas si mal, dit l'ingénieur. Il y a des femmes, il y a du soleil, il y a la bouillabaisse.
 
@@ -56,7 +56,7 @@ Depuis cinq jours, on ne parlait que de cela. L'armistice avait été signé le 
 
 — Ici il y a de la chaleur. Ce n'est pas pareil.
 
-On rit. Jean mangea sa soupe froide. Il pensait que, pour les Provençaux du bord, Toulon c'était la maison. Pour les Bretons, et ils étaient nombreux sur les contre-torpilleurs de la Force de Raid, Toulon c'était la fin du chemin : on s'arrêterait là, à mille kilomètres de chez soi, de l'autre côté d'une ligne de démarcation que personne n'avait encore vue mais dont tout le monde parlait. Il y aurait des démobilisations, des permissions, des trains. Les trains n'iraient pas jusqu'à Brest.
+On rit. Jean mangea sa soupe froide. Il pensait que, pour les Provençaux du bord, Toulon, c'était la maison. Pour les Bretons, et ils étaient nombreux sur les contre-torpilleurs de la Force de Raid, Toulon, c'était la fin du chemin : on s'arrêterait là, à mille kilomètres de chez soi, de l'autre côté d'une ligne de démarcation que personne n'avait encore vue mais dont tout le monde parlait. Il y aurait des démobilisations, des permissions, des trains. Les trains n'iraient pas jusqu'à Brest.
 
 — Et les Anglais ? demanda un des enseignes.
 
@@ -134,7 +134,7 @@ Jean écrivit à cinq heures, assis sur sa couchette : la petite table de la cha
 
 Il s'arrêta. Il ignorait s'ils étaient encore rue de la Porte. Il ne savait pas s'il y aurait un janvier comme les autres, avec le charbon qu'on monte de la cave et le froid humide qui entre par les fenêtres du côté de la rade. Il ne savait rien, et il venait d'écrire une plaisanterie sur une maison qui n'était peut-être plus la leur. Il faillit déchirer la feuille. Il ne le fit pas. Il continua.
 
-*Nous ne savons pas encore où nous irons. On parle de Toulon. Si c'est Toulon, je ne pourrai pas rentrer, je crois, avant longtemps, à cause de la ligne. Je n'arrive pas à me représenter cette ligne. Je l'imagine comme une ligne sur une carte marine, un trait de crayon qu'on gomme à la fin du quart. Je sais que ce n'est pas cela.*
+*Nous ne savons pas encore où nous irons. On parle de Toulon. Si c'est Toulon, je ne pourrai pas rentrer, je crois, avant longtemps, à cause de la ligne. Je n'arrive pas à me représenter cette ligne. Je l'imagine comme un trait de crayon sur une carte marine, qu'on gomme à la fin du quart. Je sais que ce n'est pas cela.*
 
 *Papa, je pense à ce que tu disais quand j'étais petit, qu'un marin n'a qu'une maison, son bord, et que l'autre maison, celle de terre, il faut la mériter en revenant. Je n'avais jamais compris ce que tu voulais dire. Je commence.*
 
@@ -166,7 +166,7 @@ Louis Garrec était de Lorient, avait le même âge que Jean, était sorti de l'
 
 — C'est bien ce que je te reproche.
 
-Il s'assit sur la couchette d'en face, celle de Rousseau, sans façon, et vit l'enveloppe.
+Il s'assit sans façon sur la couchette d'en face, celle de Rousseau, et vit l'enveloppe.
 
 — Ah. Brest.
 
@@ -204,9 +204,9 @@ Ils montèrent ensemble sur la plage arrière.
 
 Le soleil était bas sur le djebel Santon, et la lumière avait changé de nature. Elle ne montait plus de partout : elle venait de l'ouest, horizontale, épaisse, d'un or qui se posait sur chaque chose et la séparait des autres. Les superstructures des cuirassés étaient devenues des falaises, roses du côté du couchant, bleues de l'autre. Les tourelles du *Strasbourg* avaient des ombres longues comme des rues. Sur l'eau, chaque canot traînait derrière lui une ligne de feu.
 
-Le premier hydravion arrivait de la mer, bas, lentement, avec un ronflement de moteur qui n'avait rien de guerrier : un bruit de bourdon tranquille, qui roulait sur l'eau plate et revenait en écho de la montagne. C'était un Loire 130, l'un de ceux du *Strasbourg*, rentré de quelque reconnaissance au large. Jean le vit se poser à quelques encablures du cuirassé, dans une gerbe brève qui s'alluma dans le soleil, puis courir sur son ventre, ralentir, s'arrêter. Le moteur toussa et se tut. Dans le silence revenu, on entendit des voix, très loin, celles des hommes de la vedette qui allait à sa rencontre, et le grincement de la grue qu'on orientait sur l'arrière du *Strasbourg*.
+Le premier hydravion arrivait de la mer, bas, lentement, avec un ronflement de moteur qui n'avait rien de guerrier : un bruit de bourdon tranquille, qui roulait sur l'eau plate et revenait en écho de la montagne. C'était un Loire 130, l'un de ceux du *Strasbourg*, rentré de quelque reconnaissance au large. Jean le vit se poser à quelques encablures du cuirassé, dans une gerbe brève qui s'alluma au soleil, puis courir sur son ventre, ralentir, s'arrêter. Le moteur toussa et se tut. Dans le silence revenu, on entendit des voix, très loin, celles des hommes de la vedette qui allait à sa rencontre, et le grincement de la grue qu'on orientait sur l'arrière du *Strasbourg*.
 
-Un deuxième appareil apparut au-dessus de la pointe, plus haut. Il fit un tour au-dessus de la rade, comme pour la regarder une dernière fois avant la nuit, et Jean vit ses ailes prendre la lumière, puis la perdre, puis la reprendre.
+Un deuxième appareil apparut au-dessus de la pointe, plus haut. Il fit le tour de la rade, comme pour la regarder une dernière fois avant la nuit, et Jean vit ses ailes prendre la lumière, puis la perdre, puis la reprendre.
 
 — Je me demande ce qu'ils voient, de là-haut, dit Garrec.
 
@@ -216,9 +216,9 @@ Un deuxième appareil apparut au-dessus de la pointe, plus haut. Il fit un tour 
 
 Le second Loire 130 se posa à son tour. La grue du *Strasbourg* pivota lentement, son crochet au bout d'un câble qui brillait comme un fil d'araignée, et le premier hydravion monta hors de l'eau en ruisselant, se balança un instant, suspendu entre la mer et le ciel, puis vint reposer sur son ber, à l'arrière du cuirassé. Sur le pont, de petites silhouettes blanches s'affairaient autour de lui. L'une d'elles leva le bras vers le pilote, qui sortait de son poste. Le pilote leva le bras aussi.
 
-Le soleil toucha la crête du Santon. Pendant une minute, la rade entière fut d'un rouge très doux, presque rose, et Jean pensa, sans savoir pourquoi, aux couchers de soleil de son enfance sur la rade de Brest, en août, quand le ciel derrière le goulet devenait de cette couleur-là et que sa mère disait que le temps changerait le lendemain. Puis le soleil passa derrière la montagne, et tout devint bleu.
+Le soleil toucha la crête du Santon. Pendant une minute, la rade entière fut d'un rouge très doux, presque rose, et Jean pensa, sans raison, aux couchers de soleil de son enfance sur la rade de Brest, en août, quand le ciel derrière le goulet devenait de cette couleur-là et que sa mère disait que le temps changerait le lendemain. Puis le soleil passa derrière la montagne, et tout devint bleu.
 
-Sur les cuirassés, on rentrait les couleurs. Les clairons sonnèrent, l'un après l'autre, d'un bâtiment à l'autre, comme un écho qui aurait fait le tour de la rade. Jean et Garrec se mirent au garde-à-vous, face au pavillon du *Volta* qui descendait lentement le long de sa drisse. Les notes traînèrent sur l'eau et se perdirent contre le flanc de la montagne. Puis il n'y eut plus que le silence, et le clapot très léger de la mer contre la coque, et, quelque part sur la jetée, un homme qui chantait en arabe.
+Sur les cuirassés, on rentrait les couleurs. Les clairons sonnèrent d'un bâtiment à l'autre, comme un écho qui aurait fait le tour de la rade. Jean et Garrec se mirent au garde-à-vous, face au pavillon du *Volta* qui descendait lentement le long de sa drisse. Les notes traînèrent sur l'eau et se perdirent contre le flanc de la montagne. Puis il n'y eut plus que le silence, et le clapot très léger de la mer contre la coque, et, quelque part sur la jetée, un homme qui chantait en arabe.
 
 — Demain, dit Garrec, je te rapporte des nouvelles du diable.
 
@@ -228,7 +228,7 @@ Il lui tapa sur l'épaule et redescendit.
 
 Jean resta sur la plage arrière jusqu'à la nuit.
 
-Les feux s'allumèrent un à un sur les navires, des feux de mouillage blancs, quelques hublots jaunes, une lampe dans un poste de veille. Au-dessus du Santon, le ciel était passé du bleu au violet, puis du violet à une couleur pour laquelle il n'avait pas de nom, et les premières étoiles apparurent, une par une, d'abord à l'est, au-dessus d'Oran. Il les reconnaissait. Il les avait apprises à l'École, au sextant, sur la terrasse de l'observatoire, avec un professeur qui disait que les étoiles étaient la seule chose au monde qui ne changeait jamais de place et qu'un marin devait les aimer pour cela. Véga. Arcturus, plus bas. Antarès, rouge, au ras des montagnes, au sud. Il aurait pu faire le point avec elles, là, sans instrument, à quelques milles près. Il aurait su exactement où il était.
+Les feux s'allumèrent un à un sur les navires, des feux de mouillage blancs, quelques hublots jaunes, une lampe dans un poste de veille. Au-dessus du Santon, le ciel était passé du bleu au violet, puis du violet à une couleur pour laquelle il n'avait pas de nom, et les premières étoiles vinrent, d'abord à l'est, au-dessus d'Oran. Il les reconnaissait. Il les avait apprises à l'École, au sextant, sur la terrasse de l'observatoire, avec un professeur qui disait que les étoiles étaient la seule chose au monde qui ne changeait jamais de place et qu'un marin devait les aimer pour cela. Véga. Arcturus, plus bas. Antarès, rouge, au ras des montagnes, au sud. Avec un sextant et une montre, il aurait pu faire le point sur elles à un mille près. Il aurait su exactement où il était.
 
 Dans l'eau noire, contre la coque, une phosphorescence légère s'allumait et s'éteignait au rythme du clapot, comme une respiration.
 
