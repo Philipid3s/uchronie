@@ -6,7 +6,7 @@ Le Rocher avait mis son nuage.
 
 Tom Penhallow le regardait depuis le pont d'envol de l'*Ark Royal*, assis sur la roue d'un Swordfish, une tasse de thé refroidie entre les mains. Le vent d'est s'était levé dans la matinée, et l'air humide qui montait de la Méditerranée butait contre la falaise, s'élevait, se refroidissait et se changeait en nuage juste au-dessus de la crête. Le reste du ciel était d'un bleu sans défaut. Seul le Rocher portait cette longue bannière blanche, accrochée à son sommet comme un drapeau trop grand, qui s'effilochait vers l'ouest, au-dessus de la baie, et se reformait sans cesse au même endroit. Les gens d'ici appelaient cela le levant. Tom n'avait jamais rien vu de pareil. Il pensait qu'une montagne qui fabriquait ses propres nuages méritait qu'on la regarde.
 
-Sous le nuage, le Rocher était gris et vert, troué de casemates et d'embrasures, avec ses batteries, ses citernes, ses routes en lacet, et la petite ville tassée à son pied, aux maisons à balcons et volets verts. La ville était presque vide. On avait évacué les civils en mai, puis en juin, les femmes, les enfants, les vieux, vers le Maroc, où les autorités françaises, depuis l'armistice, ne voulaient plus d'eux. Il ne restait que la garnison, les ouvriers de l'arsenal, quelques commerçants obstinés, et des chats. Tom n'avait vu qu'une seule femme depuis son arrivée, une religieuse en cornette qui traversait Main Street avec un parapluie ouvert contre le soleil. Il en avait conçu pour elle une affection sans bornes.
+Sous le nuage, le Rocher était gris et vert, troué de casemates et d'embrasures, avec ses batteries, ses citernes, ses routes en lacet, et la petite ville tassée à son pied, aux maisons à balcons et volets verts. Elle était presque vide. On avait évacué les civils en mai, puis en juin, les femmes, les enfants, les vieux, vers le Maroc, où les autorités françaises, depuis l'armistice, ne voulaient plus d'eux. Il ne restait que la garnison, les ouvriers de l'arsenal, quelques commerçants obstinés, et des chats. Tom n'avait vu qu'une seule femme depuis son arrivée, une religieuse en cornette qui traversait Main Street avec un parapluie ouvert contre le soleil. Il en avait conçu pour elle une affection sans bornes.
 
 — Tu vas user ce nuage, à force de le regarder.
 
@@ -22,19 +22,19 @@ Halloran s'était approché sans bruit, comme toujours, les mains dans les poche
 
 — Elle a toujours raison. C'est épuisant.
 
-Halloran s'assit sur l'autre roue. Ils restèrent un moment côte à côte, sans parler, à l'ombre de l'aile inférieure du Swordfish, dans l'odeur d'huile chaude, de toile dopée et de mer qui était, pensait Tom, la meilleure odeur du monde.
+Halloran s'assit sur l'autre roue. Ils restèrent un moment côte à côte, sans parler, à l'ombre de l'aile inférieure du Swordfish, dans l'odeur d'huile chaude, de toile dopée et de mer qui était, pensait Tom, la meilleure du monde.
 
 ---
 
 Ils étaient de Plymouth tous les deux, et c'était tout ce qui les rapprochait. Halloran était entré dans la Royal Navy à dix-huit ans, en 1926, par la grande porte, et il était passé à l'aviation navale parce qu'il voulait voir la mer d'en haut. Tom, lui, était entré par la petite, celle de la réserve, la RNVR, en 1938, parce qu'il voulait voler et qu'on ne lui demandait ni latin ni relations. Son père était mort quand il avait quatorze ans, d'une chute dans une forme de radoub de l'arsenal de Devonport. Sa mère avait élevé ses deux fils en louant des chambres à des officiers mariniers, dans une haute maison étroite de Stonehouse d'où l'on voyait, entre deux cheminées, un morceau du Sound. Billy, le cadet, avait quinze ans. Il voulait être pilote, lui aussi, ce qui faisait pleurer leur mère et rire Tom.
 
-C'était l'oncle Jack qui l'avait perdu. Le frère de sa mère était charpentier chez Saunders-Roe, à Cowes, sur l'île de Wight, là où l'on construisait des hydravions à coque, de grands oiseaux de bois et d'aluminium qui sortaient des hangars sur des chariots et glissaient dans la Medina. Tom y avait passé ses étés d'adolescent, à tenir des planches, à tendre des toiles, à regarder. Il avait appris le bois, les rivets, les flotteurs, l'odeur de la colle et celle de l'enduit. Il avait surtout appris à regarder un hydravion décoller : cette longue course sur l'eau, la coque qui se soulève, le sillage qui s'amincit et se rompt, et soudain plus rien sous la machine que l'air. Il avait seize ans la première fois. Il avait su ce jour-là ce qu'il ferait.
+C'était l'oncle Jack qui l'avait perdu. Le frère de sa mère était charpentier chez Saunders-Roe, à Cowes, sur l'île de Wight, là où l'on construisait des hydravions à coque, de grands oiseaux de bois et d'aluminium qui sortaient des hangars sur des chariots et glissaient dans la Medina. Tom y avait passé ses étés d'adolescent, à tenir des planches, à tendre des toiles, à observer. Il avait appris le bois, les rivets, les flotteurs, l'odeur de la colle et celle de l'enduit. Il avait surtout appris à guetter un hydravion qui décolle : cette longue course sur l'eau, la coque qui se soulève, le sillage qui s'amincit et se rompt, et soudain plus rien sous la machine que l'air. Il avait seize ans la première fois. Il avait su ce jour-là ce qu'il ferait.
 
-Il l'avait fait. Formé sur Walrus et sur Swordfish à flotteurs, il avait été affecté au printemps à la section de catapulte du croiseur *Devonshire*, avec un seul appareil, un Walrus, une sorte de baignoire volante à moteur propulsif que les mécaniciens appelaient la Pompe et qu'il aimait comme on aime un chien laid. Il avait volé au-dessus de la Norvège en avril et en mai, dans la neige, au-dessus des fjords noirs, à la recherche de sous-marins qu'il ne trouvait pas et de troupes allemandes qu'il trouvait trop. Il avait vu Narvik brûler. Il avait vu, sur les quais de Harstad, des chasseurs alpins français dans leurs grandes capes bleues, qui chantaient en marchant et lui avaient donné, un soir, une gourde de vin rouge à moitié gelé, en échange d'un paquet de Player's. Il avait vu, au large de Namsos, un destroyer français brûler sous les bombes, et des hommes dans l'eau glacée qu'on n'avait pas pu tous repêcher.
+Il l'avait fait. Formé sur Walrus et sur Swordfish à flotteurs, il avait été affecté au printemps à la section de catapulte du croiseur *Devonshire*, avec un seul appareil, un Walrus, une sorte de baignoire volante à moteur propulsif que les mécaniciens appelaient la Pompe et qu'il aimait comme on aime un chien laid. Il avait survolé la Norvège en avril et en mai, dans la neige, les fjords noirs, à la recherche de sous-marins qu'il ne trouvait pas et de troupes allemandes qu'il trouvait trop. Il avait vu Narvik brûler. Il avait vu, sur les quais de Harstad, des chasseurs alpins français dans leurs grandes capes bleues, qui chantaient en marchant et lui avaient donné, un soir, une gourde de vin rouge à moitié gelé, en échange d'un paquet de Player's. Il avait vu, au large de Namsos, un destroyer français brûler sous les bombes, et des hommes dans l'eau glacée qu'on n'avait pas pu tous repêcher.
 
 Et le 7 juin, à Tromsø, il avait vu un roi monter à bord.
 
-Il ne l'avait raconté à personne, sur l'*Ark Royal*, parce qu'on ne l'aurait pas cru, ou parce qu'on l'aurait cru et qu'on en aurait fait une histoire de carré. C'était pourtant ce qu'il avait vu de plus étrange de sa vie. Le *Devonshire* était venu prendre, de nuit, le roi Haakon, le prince héritier, le gouvernement norvégien et tout ce qu'on avait pu entasser de ministres, de diplomates et de caisses dans les coursives. Il faisait jour à minuit, de ce jour pâle et sans ombre des nuits d'été du Nord. Tom était sur la plage arrière, près de sa catapulte. Il avait vu arriver la vedette, et dans la vedette un homme immense, très droit, en manteau d'officier, qui regardait la côte. Le roi était monté à l'échelle sans aide. Sur le pont, il s'était retourné vers la terre, vers les montagnes encore blanches au-dessus du fjord, et il était resté ainsi un long moment, sans rien dire, pendant que les officiers attendaient derrière lui. Puis il avait salué la terre. Pas les officiers. La terre.
+Il ne l'avait raconté à personne, sur l'*Ark Royal*, parce qu'on ne l'aurait pas cru, ou parce qu'on l'aurait cru et qu'on en aurait fait une histoire de carré. C'était pourtant ce qu'il avait vu de plus étrange de sa vie. Le *Devonshire* était venu prendre, de nuit, le roi Haakon, le prince héritier, le gouvernement norvégien et tout ce qu'on avait pu entasser de ministres, de diplomates et de caisses dans les coursives. Il faisait jour à minuit, de ce jour pâle et sans ombre des nuits d'été du Nord. Tom était sur la plage arrière, près de sa catapulte. Il avait vu arriver la vedette, et dans la vedette un homme immense, très droit, en manteau d'officier, qui fixait la côte. Le roi était monté à l'échelle sans aide. Sur le pont, il s'était retourné vers la terre, vers les montagnes encore blanches au-dessus du fjord, et il était resté ainsi un long moment, sans rien dire, pendant que les officiers attendaient derrière lui. Puis il avait salué la terre. Pas les officiers. La terre.
 
 Tom avait pensé, ce soir-là : voilà ce que c'est, perdre son pays. On se retourne, on salue, et on descend dans une cabine qui n'est pas à vous.
 
@@ -76,7 +76,7 @@ Le croiseur s'amarra le long du môle. Tom vit, sur la coupée, un petit homme e
 
 — Pour quoi faire ?
 
-Halloran ne répondit pas tout de suite. Il regardait la voiture qui longeait les quais.
+Halloran ne répondit pas tout de suite. Il suivait des yeux la voiture qui longeait les quais.
 
 — On dit que c'est pour les Français.
 
@@ -90,15 +90,15 @@ Tom le savait. Tout le bord le savait, ou croyait le savoir, depuis qu'on était
 
 — Alors on va leur demander poliment de ne pas la donner. Et s'ils ne répondent pas assez poliment…
 
-Il n'acheva pas. Tom pensa aux chasseurs alpins de Harstad et à leur gourde de vin gelé. Il pensa au destroyer français qui coulait dans le fjord, et aux hommes dans l'eau. Il trouva que cette pensée-là lui déplaisait, profondément, physiquement, comme une odeur.
+Il n'acheva pas. Tom pensa aux chasseurs alpins de Harstad et à leur gourde de vin gelé. Il pensa au destroyer français qui brûlait au large de Namsos, et aux hommes dans l'eau. L'idée lui déplut, profondément, physiquement, comme une odeur.
 
 — C'est absurde, dit-il.
 
 — La guerre est absurde. Ça ne l'a jamais empêchée.
 
-Le soleil se couchait derrière l'Espagne. La nuit vint vite, comme elle vient dans le Sud, et avec elle la chose qui frappait Tom chaque soir depuis une semaine sans qu'il s'y habitue : de l'autre côté de la baie, l'Espagne s'allumait. Algésiras, San Roque, La Línea, au bout de l'isthme, les villages des collines, les phares de la côte, les voitures sur les routes. Des milliers de lumières, jaunes, tremblantes, insouciantes, de l'autre côté d'un bras de mer. L'Espagne n'était pas en guerre. L'Espagne vivait la nuit comme on la vivait partout avant. Et de ce côté-ci, Gibraltar, la flotte, le Rocher entier étaient noirs, éteints, aveugles, sous les étoiles.
+Le soleil se couchait derrière l'Espagne. La nuit vint vite, comme elle vient dans le Sud, et avec elle la chose qui frappait Tom chaque soir depuis une semaine sans qu'il s'y habitue : de l'autre côté de la baie, l'Espagne s'allumait. Algésiras, San Roque, La Línea, au bout de l'isthme, les villages des collines, les phares de la côte, les voitures sur les routes. Des milliers de lumières, jaunes, tremblantes, insouciantes, par-delà un bras de mer. L'Espagne n'était pas en guerre. L'Espagne vivait la nuit comme on la vivait partout avant. Et de ce côté-ci, Gibraltar, la flotte, le Rocher entier étaient noirs, éteints, aveugles, sous les étoiles.
 
-Tom regarda longtemps la côte espagnole. Il pensa qu'il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, et qu'il n'avait pas le droit d'y aller.
+Tom contempla longtemps la côte espagnole. Il pensa qu'il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, et qu'il n'avait pas le droit d'y aller.
 
 ---
 
@@ -142,7 +142,7 @@ Il se tourna vers la carte et posa le doigt sur les rectangles noirs.
 
 — Ici le *Dunkerque*. Ici la *Provence*. Ici le *Strasbourg*. Ici la *Bretagne*. Les deux croiseurs de bataille sont les objectifs prioritaires. Ce sont les plus rapides, les plus modernes, et les plus dangereux s'ils prennent la mer. Des Swordfish mouilleront des mines magnétiques à l'entrée de la passe pour les empêcher de sortir. L'escadrille 810 attaquera à la torpille, en cas de sortie, le *Strasbourg*.
 
-Il dit d'autres choses. Les heures. Les altitudes d'approche. Le relèvement du soleil. La DCA française, qu'on connaissait bien, puisqu'on l'avait vue tirer aux côtés de la sienne en Norvège. Les chasseurs français de La Sénia et de Tafaraoui, qu'on connaissait moins. Le profil de la jetée. La profondeur de l'eau, suffisante pour les torpilles. Tom n'entendait plus. Il regardait le rectangle noir où il était écrit, au crayon rouge, *Strasbourg*, et il voyait des hommes dans l'eau.
+Il dit d'autres choses. Les heures. Les altitudes d'approche. Le relèvement du soleil. La DCA française, qu'on connaissait bien, puisqu'on l'avait vue tirer aux côtés de la sienne en Norvège. Les chasseurs français de La Sénia et de Tafaraoui, qu'on connaissait moins. Le profil de la jetée. La profondeur de l'eau, suffisante pour les torpilles. Tom n'entendait plus. Il fixait le rectangle noir marqué au crayon rouge, *Strasbourg*, et il voyait des hommes dans l'eau.
 
 — Des questions ?
 
@@ -154,7 +154,7 @@ Ils sortirent en silence. Dans la coursive, quelqu'un alluma une cigarette avec 
 
 — Je n'ai rien dit.
 
-— Tu vas le dire. Ne le dis pas. On fera ce qu'on nous dit, comme toujours, et on espérera que Holland est aussi bon diplomate qu'on le dit. Il a été attaché naval à Paris. Il parle français comme un Français. Il les connaît. Il va les convaincre.
+— Tu vas le dire. Ne le dis pas. On fera ce qu'on nous dit, comme toujours, et on espérera que Holland est aussi bon diplomate qu'on le prétend. Il a été attaché naval à Paris. Il parle français comme un Français. Il les connaît. Il va les convaincre.
 
 — Et s'il ne les convainc pas ?
 
@@ -166,37 +166,37 @@ Halloran s'arrêta au pied de l'échelle qui montait au pont d'envol.
 
 Tom monta sur le pont d'envol.
 
-Il y faisait plus frais. Le soleil était bas sur l'Espagne, à la hauteur exacte des montagnes, et sa lumière arrivait en longues nappes horizontales qui posaient sur l'acier du pont une couleur de miel. Les Swordfish de la 810 étaient alignés à l'arrière, ailes repliées, avec leurs hélices immobiles et leurs roues calées, comme des oiseaux endormis. Leurs toiles prenaient la lumière et la gardaient. Plus loin, au bout du pont, deux mécaniciens fumaient une cigarette en regardant la baie.
+L'air y était plus frais. Le soleil touchait presque les montagnes d'Espagne, et sa lumière arrivait en longues nappes horizontales qui donnaient à l'acier du pont une couleur de miel. Les Swordfish de la 810 étaient alignés à l'arrière, ailes repliées, hélices immobiles, roues calées, comme des oiseaux endormis ; leurs toiles prenaient la lumière et la gardaient. Tout au bout du pont, deux mécaniciens fumaient, face à la baie.
 
-Il alla jusqu'à la rambarde de bâbord, du côté de l'Espagne, et s'accouda.
+Il alla s'accouder à la rambarde de bâbord, du côté de l'Espagne.
 
-Le ciel était d'une pureté parfaite. Pas un nuage, pas une brume, pas même le nuage du Rocher, qui n'était pas revenu. À l'ouest, au-dessus du soleil, il était d'un or très pâle, presque blanc ; au-dessus de sa tête, d'un bleu profond, déjà sombre ; à l'est, au-dessus de la Méditerranée, d'un bleu de nuit où l'on ne voyait encore aucune étoile. La baie était plate et lisse comme une soie. Les navires y étaient posés avec leurs reflets, et leurs reflets étaient aussi nets qu'eux. Sur le *Hood*, on voyait des hommes qui se préparaient à rentrer les couleurs. On entendait, venant de la ville, les cloches d'une église, et Tom pensa que la religieuse au parapluie était peut-être en train de prier.
+Le ciel était d'une pureté parfaite. Pas un nuage, pas une brume ; celui du Rocher n'était pas revenu. À l'ouest, au-dessus du soleil, il avait la pâleur de l'or blanc ; au zénith, il virait déjà au bleu profond ; à l'est, au-dessus de la Méditerranée, c'était un bleu de nuit où ne brillait encore aucune étoile. La baie était lisse comme une soie. Les navires s'y posaient sur leurs reflets, aussi nets qu'eux. Sur le *Hood*, des hommes se préparaient à rentrer les couleurs. De la ville montaient les cloches d'une église, et Tom se demanda si la religieuse au parapluie était en train de prier.
 
-Il pensa à la carte punaisée sur le tableau noir. Au rectangle marqué *Strasbourg*. Il pensa que, dans deux jours, il volerait vers ce rectangle à quelques mètres au-dessus de l'eau, sous le feu de canons qu'il avait vus tirer contre les Allemands, pour lâcher une torpille dans le flanc d'un navire où des hommes comme les chasseurs alpins de Harstad dormaient peut-être en ce moment, en rêvant de rentrer chez eux. Il pensa au roi Haakon qui saluait la terre. Il pensa que la guerre avait cessé d'avoir un sens quelque part entre la Norvège et cette baie, et que personne ne s'en était aperçu.
+Il revit la carte punaisée au tableau noir, et le rectangle marqué *Strasbourg*. Dans deux jours, il volerait vers ce rectangle à quelques mètres au-dessus de l'eau, sous le feu de canons qu'il avait vus tirer contre les Allemands, pour lâcher une torpille dans le flanc d'un navire où des hommes comme les chasseurs alpins de Harstad dormaient peut-être en ce moment, en rêvant de rentrer chez eux. Il revit le roi Haakon saluer sa terre. Quelque part entre la Norvège et cette baie, la guerre avait cessé d'avoir un sens, et personne ne s'en était aperçu.
 
-Le soleil toucha les montagnes d'Espagne. Il s'y enfonça lentement, en s'aplatissant, en rougissant, et Tom le regarda disparaître, comme il le faisait chaque soir, en attendant le petit éclat vert que les marins disaient voir parfois, au tout dernier instant, et qu'il n'avait jamais vu.
+Le soleil toucha les montagnes. Il s'y enfonça lentement, s'aplatit, rougit, et Tom le regarda disparaître comme chaque soir, en guettant le petit éclat vert que les marins prétendaient voir parfois, au tout dernier instant, et qu'il n'avait jamais vu.
 
 Il ne le vit pas ce soir-là non plus.
 
 Il vit autre chose.
 
-Juste au-dessus de l'endroit où le soleil venait de disparaître, dans l'or pâle du couchant, un trait de lumière glissa. Un trait blanc, très fin, très rapide, qui naquit de rien et mourut de même, comme une allumette qu'on gratte dans une pièce claire. Tom cligna des yeux. Une étoile filante, en plein crépuscule, quand il n'y avait pas encore d'étoiles. Il n'en avait jamais vu avant la nuit.
+Juste au-dessus de l'endroit où le soleil venait de sombrer, dans l'or pâle du couchant, quelque chose glissa. Un fil de lumière, très fin, très vif, qui naquit de rien et mourut de même, comme une allumette qu'on frotte dans une pièce encore claire. Tom cligna des yeux. Une étoile filante, en plein crépuscule, avant les étoiles. Il n'en avait jamais vu avant la nuit.
 
-Un deuxième trait suivit le premier, un peu plus haut, plus long. Puis un troisième, au-dessus de l'Afrique.
+Une deuxième suivit, plus haut, plus longue. Puis une troisième, au-dessus de l'Afrique.
 
-— Hé, dit l'un des mécaniciens au bout du pont. Regardez.
+— Hé, dit l'un des mécaniciens. Regardez.
 
-Tom regardait. Ils venaient maintenant de partout à la fois, de l'ouest, du sud, du zénith, un, puis trois, puis dix, des traits blancs et dorés qui rayaient le ciel encore clair dans tous les sens, sans bruit, comme si quelqu'un, très haut, très loin, avait jeté sur la terre une poignée d'aiguilles de lumière. Certains étaient brefs comme des étincelles. D'autres traversaient la moitié du ciel et laissaient derrière eux un fil qui restait suspendu un instant avant de s'effacer. Ils se multipliaient. Ils se croisaient. Le ciel au-dessus de l'Espagne en était strié comme une vitre sous la pluie.
+Tom regardait. Elles venaient maintenant de partout à la fois, de l'ouest, du sud, du zénith : une, puis trois, puis dix, des rayures blanches et dorées qui griffaient en tous sens le ciel encore clair, sans un bruit, comme si quelqu'un, très haut, très loin, avait lancé sur la terre une poignée d'aiguilles de lumière. Les unes s'éteignaient aussitôt nées, brèves comme des étincelles. D'autres traversaient la moitié du ciel et laissaient derrière elles une traîne qui flottait un instant, puis se défaisait comme une fumée. Elles se multipliaient. Elles se croisaient. Au-dessus de l'Espagne, le couchant en était strié comme une vitre sous l'averse.
 
-Il n'y avait aucun bruit. Seulement, de très loin, les cloches de la ville, qui s'étaient arrêtées, puis qui reprirent.
+Et tout cela se faisait en silence. Les cloches de la ville s'étaient tues ; au bout d'un moment, elles reprirent.
 
-Sur le *Hood*, les hommes de la cérémonie des couleurs avaient levé la tête. Sur les quais, des silhouettes s'étaient immobilisées. Les deux mécaniciens étaient venus jusqu'à la rambarde, à côté de Tom, et le plus jeune riait doucement, d'un rire d'enfant, sans savoir de quoi.
+Sur le *Hood*, les hommes des couleurs avaient levé la tête. Sur les quais, des silhouettes s'étaient figées. Les deux mécaniciens avaient rejoint Tom à la rambarde, et le plus jeune riait doucement, d'un rire d'enfant, sans savoir de quoi.
 
 — Une pluie d'étoiles filantes, dit l'autre. Ma grand-mère disait qu'il faut faire un vœu pour chacune.
 
 — On n'aura jamais assez de vœux, dit le plus jeune.
 
-Tom ne dit rien. Il regardait le ciel s'emplir de lumière, et il le trouvait beau. Plus beau que tout ce qu'il avait vu, plus beau que les nuits blanches du Nord et que les hydravions de Cowes glissant sur la Medina. Il pensa qu'il se souviendrait de cet instant toute sa vie. Il pensa qu'il le raconterait à Billy.
+Tom ne dit rien. La lumière pleuvait sur la baie, sur le Rocher, sur l'Espagne qui commençait à s'allumer en face, et la mer lisse la renvoyait, si bien que les traits filaient à la fois dans le ciel et sous les coques. Jamais il n'avait rien vu d'aussi beau : ni les nuits blanches du Nord, ni les hydravions de Cowes glissant sur la Medina. Il se dit qu'il s'en souviendrait toute sa vie, et qu'il le raconterait à Billy.
 
 Alors, comme on fait à quinze ans, il fit un vœu.
 
