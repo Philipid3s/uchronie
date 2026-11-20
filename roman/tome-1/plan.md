@@ -70,7 +70,7 @@
 **Efisia Deiana** [canon roman : nom, métier, ville ; proposition : le reste]
 - Née en 1919 à **Cagliari**, quartier de la **Marina**. Infirmière à l'hôpital **San Giovanni di Dio**, sous les religieuses. Elle parle sarde et italien, et apprend vite le français et l'anglais.
 - **Sa famille** [canon roman] : son père **Antonio**, docker au port ; sa mère **Rita** et sa petite sœur **Bonaria** (10 ans) ; son frère aîné **Gigi** (Luigi), milicien de la **MILMART** à la batterie du capo Sant'Elia, plus par besoin d'une solde que par conviction.
-- **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652-1656). Elle ne pardonne pas facilement.
+- **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652). Elle ne pardonne pas facilement.
 - **Son arc dans le tome 1** : du deuil et de la colère contre ceux qui sont entrés dans son golfe sous les canons à l'acceptation d'un « bord ». Son point de vue porte la mémoire sarde : **sauvetage ou conquête ?** ([10](../../10-choix-du-refuge.md) §9).
 
 ### 3.2 Les personnages secondaires
@@ -83,7 +83,6 @@
 | **Somerville**, **Gensoul**, **Sportiello** | Les amiraux, vus de loin, par les yeux des jeunes gens | [histoire] |
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
 | Le lieutenant de vaisseau **Paul Arnaud** | Chef de la section d'hydravions du *Strasbourg*, Toulonnais ; il apprend le Loire 130 à Tom (chapitre 16) | [inventé dans la bible] |
-| La **section d'hydravions du *Strasbourg*** | Ses pilotes apprennent le Loire 130 à Tom à Elmas | [chef à nommer, B110] |
 | **Suor Giuseppina** | Religieuse de San Giovanni di Dio, mentor d'Efisia | [inventé, proposition] |
 | Le **médecin-chef** de San Giovanni di Dio | Il tient l'hôpital pendant la nuit de feu | [à nommer, bible 19] |
 | **Gigi**, **Antonio**, **Rita** et **Bonaria Deiana** | La famille d'Efisia | [inventés, proposition] |
@@ -186,14 +185,14 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Les émeutes, les réquisitions. Gigi est interné. Efisia lui porte du pain. Tom vient la chercher le soir et l'emmène voir les hydravions sur l'étang, dans le noir, à la lanterne.
 
 **16. Tom — août, Elmas**
-- L'essence fond. Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, fils d'un ouvrier de l'arsenal, ancien de la HS 1, accepte. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
+- L'essence fond. Fin août, Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, fils d'un ouvrier de l'arsenal, ancien de la HS 1, accepte ; les leçons dureront tout l'automne. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
 
 **17. Jean — fin août, la Marina**
 - **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner. Il entre chez les Deiana. Efisia lui fait face. Il cède sur ce qu'il peut, sans le dire.
 - Il voit Tom et elle ensemble. Il se tait.
 
 **18. Efisia — fin août – septembre**
-- Le Conseil s'installe sur le *Dunkerque*. Les malades passent à bord : Efisia rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Elle apprend le français d'hôpital.
+- Face aux émeutes, le Conseil choisit de rester à bord du *Dunkerque* plutôt que de s'installer au Palazzo Regio. Les malades passent à bord : Efisia rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Elle apprend le français d'hôpital.
 - Elle voit Tom s'attarder près d'une infirmière d'Oran. Elle n'est pas surprise.
 
 ### Partie IV — Le premier froid
@@ -227,13 +226,13 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Le *Volta* fonce vers le nord, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
 **27. Efisia — le retour, fin novembre**
-- **L'ouverture : l'enclos** [canon roman]. Les noyés corses sont enterrés dans l'enclos du 12 juillet, près des Britanniques du destroyer et des artilleurs italiens de la batterie (chapitre 12). Jean, Tom et Efisia sont là tous les trois ; la neige tombe sur les tombes. Une page sobre : trois nations dans une même terre, sans un mot de discours.
 - Le *Volta* rentre dans le golfe à l'aube grise. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
-- **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1656, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque 1er mai ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
+- **L'enclos** [canon roman]. Le lendemain, les noyés corses sont enterrés dans l'enclos du 12 juillet, près des Britanniques du destroyer et des artilleurs italiens de la batterie (chapitre 12). Jean, Tom et Efisia sont là tous les trois ; la neige tombe sur les tombes. Une page sobre : trois nations dans une même terre, sans un mot de discours.
+- **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1652, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque année (vœu renouvelé en 1656, première procession en mai 1657) ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
 
 **Pourquoi cette fin** [proposition] :
 - Elle **réunit les trois** sur une même nuit, chacun dans son métier : le pilote d'hydravion, l'officier de mer, l'infirmière.
-- Elle donne une mission au **dernier vol de l'hiver 1940-41**, une question encore ouverte dans la bible ([09](../../09-questions-ouvertes.md) B23) : ce serait un sauvetage, fin novembre 1940.
+- Elle donne une mission au **dernier vol de 1940** : un sauvetage, fin novembre 1940 (reporté dans la bible : [20](../../20-capacites-aeronavales.md) §2, [09](../../09-questions-ouvertes.md) B23).
 - Elle pose déjà **1942** : l'hydravion, Brest et Plymouth, l'amitié de Jean et de Tom.
 - Elle ferme la boucle de l'enclos (chapitre 12) sans finir sur une tombe, et laisse au tome 2 une scène possible : **la procession du 1er mai 1941 dans le noir**.
 
@@ -266,7 +265,7 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 
 ## 7. Ce que le tome 1 ajoute à la bible [proposition, à reporter dans 09 une fois validé]
 
-- **Le dernier vol de l'hiver 1940-41** : un sauvetage, fin novembre 1940 (B23).
+- **Le dernier vol de 1940** : un sauvetage, fin novembre 1940 (B23, reporté dans [20](../../20-capacites-aeronavales.md) §2).
 - **Le destroyer touché le 12 juillet** : l'*Escort* (décision de l'auteur, reportée dans [10](../../10-choix-du-refuge.md) §9 ter et [12](../../12-flottes-survivantes.md)).
 - **La famille Deiana** et Gigi, milicien de la batterie du capo Sant'Elia.
 - **L'enseigne Louis Garrec**, Suor Giuseppina.
@@ -279,5 +278,5 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 4. ✅ **Gigi** est blessé et prisonnier.
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
-7. ✅ **La dernière image** (chapitre 27) : l'enterrement des Corses dans l'enclos du 12 juillet ouvre le chapitre ; le vœu de saint Éphise le ferme (option A + B).
-8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; le vœu de la peste (1656) et la première procession à Nora (1er mai 1657), la procession de 1940 ; les CANT Z.501 et Z.506 d'Elmas.
+7. ✅ **La dernière image** (chapitre 27) : le retour du *Volta*, puis l'enterrement des Corses dans l'enclos du 12 juillet ; le vœu de saint Éphise ferme le chapitre (option A + B).
+8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; la procession du 1er mai 1940 (le vœu de 1652, renouvelé en 1656, et la première procession de 1657 sont confirmés) ; les CANT Z.501 et Z.506 d'Elmas.
