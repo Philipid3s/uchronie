@@ -62,7 +62,7 @@
 - **Son arc dans le tome 1** : de l'officier qui obéit à l'homme qui choisit. Il apprend l'italien avec Efisia.
 
 **Tom Penhallow** [canon roman : nom, bord, hydravion, naissance ; proposition : le reste]
-- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Escadrille de catapulte (Walrus, Swordfish à flotteurs), Norvège, puis l'*Ark Royal* en juin 1940 ([20](../../20-capacites-aeronavales.md) §4.5).
+- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Section de catapulte du 700 Squadron sur le croiseur ***Devonshire*** (Walrus, Swordfish à flotteurs), Norvège : le 7 juin 1940, il voit le roi Haakon monter à bord à Tromsø pour l'exil. Puis l'*Ark Royal* en juin 1940, **810 Squadron**, celle de Halloran ([20](../../20-capacites-aeronavales.md) §4.5) [canon roman].
 - **Sa famille** [canon roman] : sa mère, veuve ; un frère cadet, **Billy** (15 ans) ; l'oncle **Jack**, charpentier chez Saunders-Roe à Cowes.
 - **Tempérament** : drôle, charmeur, insolent, **volage** ; courageux par goût du jeu. Ce qui le tient, c'est voler, et voir. Il est curieux de tout, et c'est ce qui en fera l'homme du renseignement de 1942.
 - **Son arc dans le tome 1** : du jeune homme qui vit pour l'instant à celui qui accepte une mission. Le dernier vol de l'automne 1940 en est l'épreuve.
@@ -165,7 +165,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - **L'appareillage du 9 au soir**, en escorte du convoi des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas, peut-être l'un des tirés au sort. La côte qui brûle derrière eux. Le 11, au large du cap Teulada, le *Volta* laisse le convoi pour rallier l'écran de la flotte.
 
 **11. Tom — 12 juillet, au-dessus du golfe**
-- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. **Il voit les départs de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran est touché ; **le *Hood* tire sous lui**. Il voit le *Volta* stopper et mettre ses canots à l'eau pour repêcher les survivants.
+- Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. **Il voit les départs de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran, l'***Escort***, est touché ; **le *Hood* tire sous lui**. Il voit le *Volta* stopper et mettre ses canots à l'eau pour repêcher les survivants.
 - Il se pose à Elmas, l'un des premiers. Les aviateurs italiens, les **hydravions CANT** sur l'étang de Santa Gilla : il en tombe amoureux avant de tomber amoureux de qui que ce soit.
 
 **12. Efisia — 12 juillet, Cagliari**
@@ -185,7 +185,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Les émeutes, les réquisitions. Gigi est interné. Efisia lui porte du pain. Tom vient la chercher le soir et l'emmène voir les hydravions sur l'étang, dans le noir, à la lanterne.
 
 **16. Tom — août, Elmas**
-- L'essence fond. Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130**. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
+- L'essence fond. Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, un lieutenant de vaisseau de l'ancienne HS 1 [à nommer], accepte. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
 
 **17. Jean — fin août, la Marina**
 - **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner. Il entre chez les Deiana. Efisia lui fait face. Il cède sur ce qu'il peut, sans le dire.
@@ -266,7 +266,7 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 ## 7. Ce que le tome 1 ajoute à la bible [proposition, à reporter dans 09 une fois validé]
 
 - **Le dernier vol de l'hiver 1940-41** : un sauvetage, fin novembre 1940 (B23).
-- **Le destroyer touché le 12 juillet** : à choisir parmi les destroyers de la Force H 🔎.
+- **Le destroyer touché le 12 juillet** : l'*Escort* (décision de l'auteur, reportée dans [10](../../10-choix-du-refuge.md) §9 ter et [12](../../12-flottes-survivantes.md)).
 - **La famille Deiana** et Gigi, milicien de la batterie du capo Sant'Elia.
 - **L'enseigne Louis Garrec**, Suor Giuseppina.
 
@@ -279,4 +279,4 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
 7. ✅ **La dernière image** (chapitre 27) : l'enterrement des Corses dans l'enclos du 12 juillet ouvre le chapitre ; le vœu de saint Éphise le ferme (option A + B).
-8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; les destroyers de la Force H en juillet 1940 ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; le vœu de la peste (1656) et la première procession à Nora (1er mai 1657), la procession de 1940 ; les CANT Z.501 et Z.506 d'Elmas.
+8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; le vœu de la peste (1656) et la première procession à Nora (1er mai 1657), la procession de 1940 ; les CANT Z.501 et Z.506 d'Elmas.

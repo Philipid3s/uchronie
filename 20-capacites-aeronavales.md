@@ -101,7 +101,7 @@
 
 **Le commandant** :
 - **Edward Halloran** [personnage inventé, à remplacer si l'on retrouve un nom réel], né en 1908 à Plymouth, entre dans la Royal Navy en 1926, puis passe dans la Fleet Air Arm.
-- **En juillet 1940**, il est lieutenant et pilote de Swordfish dans l'une des escadrilles de l'*Ark Royal* [à vérifier : 810, 818 ou 820 Squadron].
+- **En juillet 1940**, il est lieutenant et pilote de Swordfish de l'**810 Squadron** de l'*Ark Royal* [canon : escadrille (décision de l'auteur)]. **[histoire]** Le 3 juillet 1940, c'est l'810 qui attaque sans succès le *Strasbourg* sortant de Mers el-Kébir ; dans l'uchronie, l'attaque n'a pas lieu.
 - **1940-1943** : quand l'essence s'épuise, il est l'un des officiers du service de l'air de l'*Ark Royal* qui organisent la **mise en réserve** : conservation des appareils à Elmas, carnets, puis **rôle des navigants** repris par l'accord de Bonaria ([22](22-organisation-militaire.md) §6 bis).
 - **1943-1949** : sans avion, il enseigne la navigation à l'École navale et tient chaque année la **journée des navigants** d'Elmas.
 - **1949** : il a 41 ans. Avec Penhallow, il pousse le Conseil des Amiraux à recréer la Flottille, et en prend le commandement comme **capitaine de corvette**.
@@ -109,15 +109,17 @@
 
 **Le second : Tom Penhallow** [personnage inventé, **l'un des protagonistes du futur roman** (décision de l'auteur)] :
 - Né en 1918 à **Plymouth**. Un oncle charpentier aux chantiers **Saunders-Roe** de Cowes, qui construisent des hydravions à coque : il y apprend jeune le bois, la toile et les flotteurs. Il entre dans la Fleet Air Arm comme officier de réserve (RNVR) [canon provisoire 🔎].
-- **1939 – printemps 1940** (décision de l'auteur : une expérience d'hydravion avant l'*Ark Royal*) : sous-lieutenant pilote dans une **escadrille de catapulte**, à bord d'un croiseur : Walrus amphibies et Swordfish à flotteurs. Campagne de Norvège [canon provisoire 🔎 : les escadrilles de catapulte, regroupées dans le 700 Squadron au début de 1940].
-- **Juin 1940** : muté sur l'*Ark Royal*, pilote de Swordfish, pour remplacer les pertes de Norvège. Il y retrouve Halloran, Plymouthien comme lui et son aîné de dix ans [canon provisoire].
-- **Automne 1940** : seul pilote d'hydravion du bord, il apprend le **Loire 130** à Elmas avec la section du *Strasbourg*, avant que l'essence s'épuise.
+- **1939 – printemps 1940** (décision de l'auteur : une expérience d'hydravion avant l'*Ark Royal*) : sous-lieutenant pilote dans une **section de catapulte du 700 Squadron** (formé à Hatston le 21 janvier 1940, qui regroupe toutes les sections de catapulte de la Fleet Air Arm [histoire]), à bord du croiseur **HMS *Devonshire*** [canon : décision de l'auteur] : Walrus amphibies et Swordfish à flotteurs. Campagne de Norvège. **[histoire]** Le 7 juin 1940, le *Devonshire* emmène de Tromsø le roi Haakon VII et son gouvernement en exil : Tom voit un roi quitter son pays, deux semaines avant de perdre le sien. 🔎 La division de port du *Devonshire* (Devonport ?).
+- **Juin 1940** : muté sur l'*Ark Royal*, pilote de Swordfish, pour remplacer les pertes de Norvège. Il entre à l'**810 Squadron**, où il retrouve Halloran, Plymouthien comme lui et son aîné de dix ans [canon : escadrille ; provisoire : le reste].
+- **Automne 1940** : seul pilote d'hydravion du bord, il apprend le **Loire 130** à Elmas avec la section du *Strasbourg*, auprès de son chef, le lieutenant de vaisseau **[à nommer]**, avant que l'essence s'épuise.
 - **1941 – 1949** : sans avion, il devient **météorologue** de l'îlot et organise un service de prévision du temps pour les cultures et la navigation.
 - **Juillet 1942** (décision de l'auteur) : il pilote le Loire 130 de l'**expédition de la Manche**, embarqué sur le *Georges Leygues*, sur la réserve d'essence du Conseil : les Britanniques de Cagliari ont voulu des marins et des aviateurs anglais dans l'expédition. Sa mission est **le renseignement** : l'état des villes (Lorient, Brest, l'intérieur de la Bretagne, **Plymouth, sa ville natale**, où il regarde aussi les quartiers de sa famille, Portsmouth, Le Havre) puis, le 17 juillet, **l'origine de la catastrophe** : Paris enseveli et le cratère de Rambouillet. Ce vol est **le dernier de l'îlot** avant 1951 ([36](36-expedition-de-la-manche.md) §3.2, §6.3 et §6.4).
 - **1949** : avec Halloran, il pousse le Conseil des Amiraux à recréer la Flottille, dont il devient le second.
 - **1951** : il fait lui-même **le premier vol depuis neuf ans**, depuis le vol du cratère, sur le Loire 130. Il commande la section d'hydravions et le service météorologique de la Flottille.
 
-**Les trois flottes** : un commandant et un second britanniques, les Loire 130 français et leurs mécaniciens, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
+**L'officier français** [canon : principe (décision de l'auteur) ; personnage inventé, à nommer] : un **lieutenant de vaisseau**, ancien de l'escadrille **HS 1** [histoire : elle arme les Loire 130 du *Dunkerque* et du *Strasbourg* et est dissoute en juillet 1940 🔎], chef de la section d'hydravions du *Strasbourg* en 1940. Il apprend le Loire 130 à Penhallow à l'automne 1940 (Jean de Kerangal sert d'interprète), puis devient l'officier français de la Flottille, à égalité avec Penhallow sous Halloran. Il ne vole pas en 1942 : les Britanniques de Cagliari voulaient un pilote anglais pour l'expédition de la Manche.
+
+**Les trois flottes** : un commandant et un second britanniques, un officier français, les Loire 130 français et leurs mécaniciens, et un **chef mécanicien italien** d'Elmas [à nommer], warrant du corps de Machines et Génie.
 
 ### 4.6 L'école de vol à voile [canon : principe ; provisoire : détail]
 

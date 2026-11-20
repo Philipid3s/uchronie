@@ -25,7 +25,7 @@ L'attrition matérielle vient ensuite, entre 1940 et 1946 : **manque de mazout**
 | HMS *Fearless* | Destroyer | 1934 | ~145 | ~120 | Patrouille | Désarmé en 1943 |
 | HMS *Forester* | Destroyer | 1934 | ~145 | ~120 | Patrouille | Désarmé en 1943 |
 | HMS *Foresight* | Destroyer | 1934 | ~145 | ~120 | Patrouille | Désarmé en 1943 |
-| HMS *Escort* | Destroyer | 1934 | ~145 | ~120 | Patrouille | Désarmé en 1942, cannibalisé |
+| HMS *Escort* | Destroyer | 1934 | ~145 | ~120 | **Touché le 12 juillet 1940** par la batterie du capo Sant'Elia (une vingtaine de morts, [10](10-choix-du-refuge.md) §9 ter) ; réparé sommairement à Cagliari, patrouille | Désarmé en 1942, cannibalisé : ses avaries de 1940 en font le premier sacrifié |
 | HMS *Keppel* | Conducteur de flottille | 1920 | ~180 | ~150 | Patrouille | Désarmé en 1942 |
 | HMS *Active* | Destroyer | 1929 | ~145 | ~120 | Patrouille | Désarmé en 1942 |
 | HMS *Wrestler* | Destroyer (classe V et W) | 1918 | ~130 | ~105 | Garde de Gibraltar | Laissé à Gibraltar (avant-poste), voir [07](07-le-monde-apres.md) §2 bis |
