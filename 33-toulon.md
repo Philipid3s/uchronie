@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **La ville** | ~150 000 habitants en 1936 🔎 ; le premier port de guerre français ; l'**arsenal** (Darse Vauban, Missiessy, Castigneau), les **formes de radoub**, les ateliers, la pyrotechnie, l'école de mécaniciens ; la presqu'île de **Saint-Mandrier** et son hôpital maritime |
-| **Le commandement** | Le préfet maritime, **vice-amiral d'escadre Léon-Henri Devin** (janvier – juillet 1940) ; la **3ᵉ escadre** du **vice-amiral Émile Duplat**, pavillon sur l'*Algérie* ([sources](annexes/sources.md)) |
+| **Le commandement** | Le préfet maritime, **vice-amiral d'escadre Léon-Henri Devin** (janvier – juillet 1940) ; la **3ᵉ escadre** du **vice-amiral Émile Duplat**, pavillon sur l'*Algérie* ([sources](annexes/sources.md)). **[histoire]** Fin juin 1940, Duplat est nommé président de la délégation française auprès de la commission d'armistice italienne, à Turin, où il siégera jusqu'en 1943. **[uchronie, décision de l'auteur]** Le 1er juillet, il n'est pas encore parti : la catastrophe le retient à Toulon, et Turin ne le reverra pas 🔎 (date réelle de son départ pour Turin) |
 | **L'escadre** | Les croiseurs lourds ***Algérie***, ***Dupleix***, ***Foch*** et ***Colbert***, qui ont bombardé Gênes le 14 juin ; des contre-torpilleurs et des torpilleurs ; des sous-marins 🔎 [à vérifier : composition exacte de juillet 1940] |
 | **La situation** | L'armistice est signé depuis dix jours. Le Midi est plein des **réfugiés de l'exode** de mai-juin 1940. La Provence ne se nourrit pas elle-même : elle importe son blé d'Algérie par Marseille. **La convention d'armistice prévoit le retour des navires dans leurs ports d'attache** pour y être désarmés [histoire] : pour la flotte de Gensoul, c'est Toulon |
 

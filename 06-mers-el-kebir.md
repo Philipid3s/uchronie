@@ -103,7 +103,7 @@ Somerville et Gensoul font chacun le même constat : **leurs flottes sont peut-�
 
 **Décision de l'auteur** : avant de quitter Mers el-Kébir, les flottes montent une **mission pour ramener en soute le maximum de choses depuis la terre**, d'abord des vivres et de l'eau. Le Conseil l'ordonne dès le 5 juillet, **avant même le choix du refuge** : quel que soit le refuge, il faudra manger.
 
-**La reconnaissance** : les derniers Swordfish de l'*Ark Royal* volent au-dessus de l'Oranie dans le noir de juillet (5 – 7 juillet). Ils repèrent les **silos de la plaine**, l'état des routes et des ponts, les foules et les incendies, et le port d'Oran. C'est la **première mission de renseignement aérien de l'îlot** ([20](20-capacites-aeronavales.md) §2).
+**La reconnaissance** : les derniers Swordfish de l'*Ark Royal* volent au-dessus de l'Oranie dans le noir de juillet (5 – 7 juillet). Gibraltar – Oran – Gibraltar (~460 milles) dépasse l'autonomie normale d'un Swordfish : ils se posent et refont le plein au terrain français de **La Sénia**, près d'Oran, où ils passent la nuit [canon : décision de l'auteur ; histoire : La Sénia, base de l'armée de l'Air]. Ils repèrent les **silos de la plaine**, l'état des routes et des ponts, les foules et les incendies, et le port d'Oran. C'est la **première mission de renseignement aérien de l'îlot** ([20](20-capacites-aeronavales.md) §2).
 
 **Ce qu'on embarque** :
 

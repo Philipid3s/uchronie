@@ -62,7 +62,7 @@
 - **Son arc dans le tome 1** : de l'officier qui obéit à l'homme qui choisit. Il apprend l'italien avec Efisia.
 
 **Tom Penhallow** [canon roman : nom, bord, hydravion, naissance ; proposition : le reste]
-- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Section de catapulte du 700 Squadron sur le croiseur ***Devonshire*** (Walrus, Swordfish à flotteurs), Norvège : le 7 juin 1940, il voit le roi Haakon monter à bord à Tromsø pour l'exil. Puis l'*Ark Royal* en juin 1940, **810 Squadron**, celle de Halloran ([20](../../20-capacites-aeronavales.md) §4.5) [canon roman].
+- Né en 1918 à **Plymouth**. Sous-lieutenant pilote (RNVR) de la Fleet Air Arm. Formé sur Walrus et Swordfish à flotteurs au 700 Squadron (Hatston), puis pilote du Walrus du croiseur ***Devonshire***, Norvège : le 7 juin 1940, il voit le roi Haakon monter à bord à Tromsø pour l'exil, puis le débarque à Greenock le 10. Puis l'*Ark Royal*, rejoint à Scapa vers le 15 juin, **810 Squadron**, celle de Halloran ([20](../../20-capacites-aeronavales.md) §4.5) [canon roman].
 - **Sa famille** [canon roman] : sa mère, veuve ; un frère cadet, **Billy** (15 ans) ; l'oncle **Jack**, charpentier chez Saunders-Roe à Cowes.
 - **Tempérament** : drôle, charmeur, insolent, **volage** ; courageux par goût du jeu. Ce qui le tient, c'est voler, et voir. Il est curieux de tout, et c'est ce qui en fera l'homme du renseignement de 1942.
 - **Son arc dans le tome 1** : du jeune homme qui vit pour l'instant à celui qui accepte une mission. Le dernier vol de l'automne 1940 en est l'épreuve.
@@ -120,7 +120,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - *Enjeu* : le monde ordonné du bord, la famille absente, l'amitié.
 
 **2. Tom — 30 juin – 1er juillet, Gibraltar**
-- Tom arrive sur l'*Ark Royal*, venu de son escadrille de catapulte. Halloran l'accueille : deux Plymouthiens. On devine la cible de la Force H : **la flotte française**. Tom se souvient des Français de Norvège, et cela lui déplaît.
+- Tom est à bord de l'*Ark Royal* depuis la mi-juin : débarqué du *Devonshire* à Greenock le 10, il l'a rejoint à Scapa juste avant l'appareillage pour Gibraltar (17-18 juin). Halloran l'a accueilli : deux Plymouthiens. On devine la cible de la Force H : **la flotte française**. Tom se souvient des Français de Norvège, et cela lui déplaît.
 - Le 1er juillet au soir, sur le pont d'envol, les premières étoiles filantes. Il les trouve belles.
 - *Enjeu* : la guerre absurde d'avant la catastrophe ; la légèreté de Tom.
 
@@ -150,6 +150,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 **8. Tom — 4 – 10 juillet, au-dessus de l'Oranie** [canon roman : option C]
 - **La première mission de renseignement** : dans un ciel brun et noir, Tom vole de Gibraltar vers l'Oranie pour repérer **les silos de la plaine**, les routes et les ponts, les foules et les incendies, le port d'Oran. Il voit la plaine à la lueur des braises, les colonnes de gens sur les routes, un train arrêté. Il note tout, et ses notes guideront les colonnes de Jean.
+- **La Sénia** : Gibraltar – Oran – Gibraltar dépasse l'autonomie d'un Swordfish. Tom se pose sur le terrain français de La Sénia pour refaire le plein et y passe la nuit avec les aviateurs français, ceux qu'il devait combattre trois jours plus tôt.
 - La Méditerranée vue d'en haut, l'Andalousie et le Maroc qui brûlent en lignes de braises. L'appontage aux feux. On compte déjà l'essence.
 - Le chargement des stocks du Rocher. L'appareillage.
 

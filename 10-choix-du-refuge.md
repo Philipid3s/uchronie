@@ -120,18 +120,18 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 ## 9. De gré ou de force : le départ vers une île ennemie [canon : principe ; provisoire : détail]
 
-**Le problème** : le 7 juillet, la Sardaigne est encore **territoire ennemi**. L'Italie est en guerre contre le Royaume-Uni depuis le 10 juin ; avec la France, l'armistice n'a que deux semaines. Et Cagliari n'a encore rien répondu : le premier contact radio n'aura lieu qu'entre le 8 et le 12 juillet ([08](08-chronologie.md)).
+**Le problème** : le 7 juillet, la Sardaigne est encore **territoire ennemi**. L'Italie est en guerre contre le Royaume-Uni depuis le 10 juin ; avec la France, l'armistice n'a que deux semaines. Et Cagliari n'a encore rien répondu : la première réponse n'arrivera que le 11 juillet, les flottes déjà en mer ([08](08-chronologie.md)) [canon : décision de l'auteur, 20 novembre 2026].
 
 **La décision** : **on n'attend pas.** Attendre, c'est risquer le gel, brûler du mazout et laisser Oran se refermer sur les convois. Les flottes partent **sans réponse**, avec un ordre du Conseil : *aborder en ami, pouvoir s'imposer*.
 
 **Le plan** [canon provisoire] :
-- **Les appels** : dès l'appareillage, des appels radio **en italien**, en clair et répétés, vers Cagliari et La Maddalena, par des officiers italophones et des marins corses.
+- **Les appels** : dès le 7 juillet, depuis Mers el-Kébir, puis en mer, des appels radio **en italien**, en clair et répétés, vers Cagliari et La Maddalena, par des officiers italophones et des marins corses.
 - **L'offre** : le blé d'Oran, les médecins, l'ordre, et une **place égale au commandement** pour les Italiens de l'île.
 - **La demande** : le mouillage du golfe, l'accès aux mines et aux stocks, un commandement commun.
 - **Les règles de feu** : ne tirer que si l'on tire sur soi.
 - **Si Cagliari refuse** : le second volet du dossier Mercadier, **« Cagliari de vive force »** : les grands navires tiennent le golfe sous leurs canons, les fusiliers marins prennent le port et l'aérodrome d'Elmas, puis l'on marche sur les mines du Sulcis.
 
-**Ce qui se passe** : les appels sont entendus. Entre le 8 et le 12 juillet, le commandement italien de l'île, coupé de Rome et sans vivres, négocie pendant que les flottes approchent. **L'accord de Cagliari** est conclu vers le 12 juillet, alors que les grands navires entrent dans le golfe ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, et pas tout à fait sans eux** : les éléments fascistes les plus durs refusent l'accord, une batterie ouvre le feu sur la flotte qui entre dans le golfe, et le Sulcis entre en dissidence (§9 ter).
+**Ce qui se passe** : les appels sont entendus, mais Cagliari se tait pendant quatre jours : le commandement italien de l'île, coupé de Rome et sans vivres, délibère. Le 11 juillet, Sportiello répond ; la négociation se fait par radio pendant que les flottes approchent. **L'accord de Cagliari** est conclu vers le 12 juillet, alors que les grands navires entrent dans le golfe ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, et pas tout à fait sans eux** : les éléments fascistes les plus durs refusent l'accord, une batterie ouvre le feu sur la flotte qui entre dans le golfe, et le Sulcis entre en dissidence (§9 ter).
 
 **Ce qu'en garde la mémoire** : sauvetage ou conquête ? Les marins se souviennent qu'ils ont apporté le blé ; les Sardes, qu'ils ont vu entrer dans leur golfe des cuirassés aux tourelles pointées. Les réquisitions de l'automne 1940 ([11](11-ilot-de-civilisation.md) §7) achèvent de brouiller la réponse. C'est la question de la **mémoire officielle** que l'îlot doit trancher ([09](09-questions-ouvertes.md) B8).
 
@@ -171,7 +171,7 @@ Pour le commandement italien, l'arrivée des flottes n'est pas seulement une men
 
 Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'eau, l'université, l'administration et la connaissance du pays** ([06](06-mers-el-kebir.md) §5). **L'accord se signe sous les canons, mais sans rancœur au sommet** : au Conseil, l'amiral italien est un égal, et les officiers italiens gardent leurs grades (reclassés à Bonaria en 1943, [22](22-organisation-militaire.md)). La rancœur, quand elle vient, vient d'en bas : des villages réquisitionnés à l'automne 1940 ([11](11-ilot-de-civilisation.md) §7).
 
-**Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. **[canon provisoire]** Il il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent. Le 8 juillet, il répond par la radio de la base ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari pour signer l'accord vers le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
+**Qui répond** [canon : décision de l'auteur, option A] : l'amiral **Ettore Sportiello**, commandant des forces navales de Sardaigne [histoire : né à Torre del Greco le 26 octobre 1882 ; dans notre histoire, mort à Rome en 1948]. **[canon provisoire]** Il est à La Maddalena, à l'autre bout de l'île (environ 270 km à vol d'oiseau), quand les appels en italien arrivent, le 7 juillet. Il laisse passer quatre jours, le temps de sonder ses officiers et de constater que Rome ne répondra pas. **Le 11 juillet**, les flottes déjà en mer, il répond par la radio de la base [canon : décision de l'auteur] ; il prend sur lui de négocier au nom de l'île, faute d'ordres de Naples ou de Rome, et descend à Cagliari dans la nuit du 11 au 12 pour signer l'accord le 12 juillet. Napolitain, il n'est pas sarde : sa légitimité vient de son commandement et de la parole donnée aux Sardes de les nourrir.
 
 ## 9 ter. La scission : le Roi contre le Parti (juillet – août 1940) [canon : principe ; provisoire : détail]
 
