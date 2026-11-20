@@ -82,6 +82,7 @@
 | Le capitaine de vaisseau **Cedric Holland** | Commandant de l'*Ark Royal*, francophone ; Jean l'accompagne le 3 juillet | [histoire] |
 | **Somerville**, **Gensoul**, **Sportiello** | Les amiraux, vus de loin, par les yeux des jeunes gens | [histoire] |
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
+| Le lieutenant de vaisseau **Paul Arnaud** | Chef de la section d'hydravions du *Strasbourg*, Toulonnais ; il apprend le Loire 130 à Tom (chapitre 16) | [inventé dans la bible] |
 | La **section d'hydravions du *Strasbourg*** | Ses pilotes apprennent le Loire 130 à Tom à Elmas | [chef à nommer, B110] |
 | **Suor Giuseppina** | Religieuse de San Giovanni di Dio, mentor d'Efisia | [inventé, proposition] |
 | Le **médecin-chef** de San Giovanni di Dio | Il tient l'hôpital pendant la nuit de feu | [à nommer, bible 19] |
@@ -185,7 +186,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Les émeutes, les réquisitions. Gigi est interné. Efisia lui porte du pain. Tom vient la chercher le soir et l'emmène voir les hydravions sur l'étang, dans le noir, à la lanterne.
 
 **16. Tom — août, Elmas**
-- L'essence fond. Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, un lieutenant de vaisseau de l'ancienne HS 1 [à nommer], accepte. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
+- L'essence fond. Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, fils d'un ouvrier de l'arsenal, ancien de la HS 1, accepte. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
 
 **17. Jean — fin août, la Marina**
 - **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner. Il entre chez les Deiana. Efisia lui fait face. Il cède sur ce qu'il peut, sans le dire.
