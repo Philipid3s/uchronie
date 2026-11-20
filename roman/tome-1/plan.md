@@ -84,7 +84,7 @@
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
 | Le lieutenant de vaisseau **Paul Arnaud** | Chef de la section d'hydravions du *Strasbourg*, Toulonnais ; il apprend le Loire 130 à Tom (chapitre 16) | [inventé dans la bible] |
 | **Suor Giuseppina** | Religieuse de San Giovanni di Dio, mentor d'Efisia | [inventé, proposition] |
-| Le **médecin-chef** de San Giovanni di Dio | Il tient l'hôpital pendant la nuit de feu | [à nommer, bible 19] |
+| Le **médecin-chef** de San Giovanni di Dio | Il tient l'hôpital pendant la nuit de feu | [à nommer, bible 19 ; le nom réel de 1940 n'est pas retrouvé (l'hôpital relève alors des *Ospedali riuniti*) ; voisins réels : le professeur **Mario Aresu**, directeur de la Clinique médicale de l'université (1930-1962), et le recteur **Giuseppe Brotzu**] |
 | **Gigi**, **Antonio**, **Rita** et **Bonaria Deiana** | La famille d'Efisia | [inventés, proposition] |
 
 ### 3.3 Le triangle [canon roman : principe ; proposition : déroulé]
@@ -123,12 +123,12 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 **2. Tom — 30 juin – 1er juillet, Gibraltar** [validé]
 - Tom est à bord de l'*Ark Royal* depuis la mi-juin : débarqué du *Devonshire* à Greenock le 10, il l'a rejoint à Scapa juste avant l'appareillage pour Gibraltar (17-18 juin). Halloran l'a accueilli : deux Plymouthiens. On devine la cible de la Force H : **la flotte française**. Tom se souvient des Français de Norvège, et cela lui déplaît.
 - Le 30 au soir, le croiseur *Arethusa* amène Somerville [histoire] : Tom voit l'amiral débarquer.
-- **Le 1er juillet**, l'ordre de l'Amirauté tombe : *« Intention ferme du gouvernement de Sa Majesté »* [histoire 🔎 : texte]. Briefing des équipages pour le 3 : l'810 aura pour cible le ***Strasbourg***, le navire dont Tom apprendra plus tard l'hydravion.
+- **Le 1er juillet**, en fin d'après-midi, l'ordre de l'Amirauté tombe (reçu par Somerville à 18 h 46) : *« Intention ferme du gouvernement de Sa Majesté : si les Français n'acceptent aucune de vos options, ils doivent être détruits »* [histoire]. Briefing des équipages pour le 3 : l'810 aura pour cible le ***Strasbourg***, le navire dont Tom apprendra plus tard l'hydravion.
 - Tom sort écœuré du briefing et monte sur le pont d'envol. Le soleil se couche (le ciel de feu commence à 19 h 35 UTC, au coucher du soleil à Gibraltar ; l'impact, de l'autre côté du globe, a eu lieu trente-cinq minutes plus tôt) : les premières étoiles filantes dans un ciel encore clair. Il les trouve belles. **La catastrophe interrompt Catapult.**
 - *Enjeu* : la guerre absurde d'avant la catastrophe ; la légèreté de Tom.
 
 **3. Efisia — 1er juillet, Cagliari** [validé]
-- La ville en guerre depuis le 10 juin, le black-out, la chaleur. **Les bombardements français** de juin [histoire 🔎 : le 16 (l'hydrobase d'Elmas), peut-être le 18, et le 24 (les dépôts de carburant de Monte Urpinu) ; la bible, [10](../../10-choix-du-refuge.md) §8 et §9 bis, les donne à vérifier]. La ville a déjà eu peur, et ce sont des Français qui l'ont bombardée : la racine de sa haine pour « l'officier français » (chapitre 12).
+- La ville en guerre depuis le 10 juin, le black-out, la chaleur. **Les bombardements français** de juin [histoire, [10](../../10-choix-du-refuge.md) §8] : le 16, l'hydrobase d'Elmas (six aviateurs tués) ; le 24, la veille de l'armistice, des bombes sur le port, les dépôts de carburant de Monte Urpinu, une villa près de Bonaria, une dizaine de blessés. La ville a déjà eu peur, et ce sont des Français qui l'ont bombardée : la racine de sa haine pour « l'officier français » (chapitre 12).
 - Efisia finit sa garde à San Giovanni di Dio, à Stampace ; en descendant, elle passe devant l'église de Sant'Efisio. Elle croise Gigi qui monte à la batterie pour la garde de nuit, rentre à la Marina à la nuit tombante (le ciel de feu commence à 21 h 35, heure d'été italienne, trois quarts d'heure après le coucher du soleil).
 - Le ciel se strie, puis rougit. Elle court. Le chapitre s'arrête sur le seuil.
 - *Enjeu* : une famille, une ville, un monde ordinaire.
@@ -139,7 +139,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 
 **5. Tom — nuit du 1er au 2 juillet, Gibraltar** [validé]
 - L'*Ark Royal* fermé ; les avions du pont d'envol qui brûlent ; la garnison dans les galeries du Rocher. Au matin, la radio de l'Amirauté, hachée ; en milieu de matinée, le souffle de Rambouillet ; vers midi, un dernier signal cohérent, puis plus rien.
-- Le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Il arrive à des équipages qui, la veille, se préparaient à couler celle d'en face. Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
+- **L'ironie des signaux** : à 4 h 26, au milieu des incendies, arrivent encore les instructions détaillées de Catapult, chiffrées dans la nuit à Londres (*« … vous devrez vous efforcer de détruire, en particulier le Dunkerque et le Strasbourg, par tous les moyens à votre disposition »*) [histoire : message de l'Amirauté 0103 du 2 juillet, reçu à 4 h 26]. Puis le dernier signal : « Agissez à votre discrétion. Préservez la flotte. » Il arrive à des équipages qui, la veille, se préparaient à couler celle d'en face. Catapult n'a plus de sens. Tom pense à Plymouth pour la première fois.
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes. La Marina en feu.
@@ -258,8 +258,8 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 
 | Après le chapitre | Pièce | Source dans la bible |
 |---|---|---|
-| 1 | Ordre de l'Amirauté à la Force H pour l'opération **Catapult**, 1er juillet 1940 (extrait) | [06](../../06-mers-el-kebir.md) §3 [histoire 🔎 : texte réel ; l'ordre ferme part le 1er juillet à 18 h 20] |
-| 3 | *Bollettino di guerra* italien du 1er juillet 1940 (le dernier, n° 20 ou 21, diffusé à 13 h par l'EIAR) | [histoire 🔎 : texte] |
+| 1 | Les signaux de l'Amirauté à la Force H pour l'opération **Catapult**, 1er juillet 1940 (les quatre options du message de 2 h 25 ; « Firm intention of HMG that if French will not accept any of your alternatives they are to be destroyed », envoyé vers 18 h 20, reçu à 18 h 46) | [06](../../06-mers-el-kebir.md) §3 [histoire : rapport de Somerville, ADM 199/391, [transcription](https://www.hmshood.org.uk/reference/official/adm199/adm199-391_7-31.htm) ; résumé officiel de 1949] |
+| 3 | ***Bollettino di guerra* n° 21** du 1er juillet 1940, le dernier, diffusé à 13 h par l'EIAR : Graziani prend le commandement en Afrique du Nord après la mort de Balbo ; le destroyer *Espero* « deve ritenersi perduto » ; Sollum, Sidi Omar, Aden, Port-Soudan. Rien sur la Sardaigne [histoire : texte intégral sur [regioesercito.it](https://www.regioesercito.it/Bollettini/07_40.pdf)] |
 | 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | [06](../../06-mers-el-kebir.md) §2 |
 | 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | [06](../../06-mers-el-kebir.md) §4 bis |
 | 6 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
@@ -293,5 +293,5 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
 7. ✅ **La dernière image** (chapitre 27) : le retour du *Volta*, puis l'enterrement des Corses dans l'enclos du 12 juillet ; le vœu de saint Éphise ferme le chapitre (option A + B).
-8. 🔎 **À documenter** : le texte réel de l'ordre de Catapult ; le texte du dernier *Bollettino di guerra* ; le médecin-chef de San Giovanni di Dio en 1940 (les religieuses sont très probablement les Filles de la Charité) ; les bombardements français de juin (dates exactes) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre, et le vœu n'a jamais été interrompu ; aucune source directe).
-9. ✅ **Documentés** : Brest (19 juin) ; l'heure d'été (Italie UTC+2 depuis le 15 juin, Gibraltar UTC+1) ; San Giovanni di Dio, à Stampace ; les unités d'Elmas ; la batterie C.135 ; le dock-silo d'Oran ; Jacquinet ; Duplat.
+8. 🔎 **Reste, hors d'atteinte en ligne** (archives de Cagliari, *L'Unione Sarda* sur microfilm) : le nom du médecin-chef de San Giovanni di Dio en 1940 (à inventer si besoin) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre et le vœu n'a jamais été interrompu) ; le texte exact du signal « firm intention » (seule la version du résumé de 1949 est connue).
+9. ✅ **Documentés** : les signaux de Catapult (ADM 199/391) ; le *Bollettino* n° 21 ; les raids français des 16, 19 et 24 juin ; les Filles de la Charité à San Giovanni di Dio ; Brest (19 juin) ; l'heure d'été (Italie UTC+2 depuis le 15 juin, Gibraltar UTC+1) ; San Giovanni di Dio, à Stampace ; les unités d'Elmas ; la batterie C.135 ; le dock-silo d'Oran ; Jacquinet ; Duplat.

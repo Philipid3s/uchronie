@@ -114,7 +114,7 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 - **Le dossier Mercadier** : au printemps 1940, quand la guerre avec l'Italie se prépare, les états-majors français et britannique étudient les possessions italiennes comme objectifs [à vérifier 🔎]. Mercadier, officier de renseignement, a monté un dossier sur **la Sardaigne comme objectif d'attaque** : les ports de Cagliari et de La Maddalena, leurs défenses et leurs fonds, l'aérodrome d'Elmas, la population, les routes, et ce qui fait la force économique de l'île.
 - **Ce que tout le monde sait** : la ville minière de **Carbonia**, inaugurée en 1938 à grand renfort de propagande, et le **barrage du Tirso** (1924), longtemps l'un des plus grands lacs artificiels d'Europe [histoire]. Ce ne sont pas des secrets.
-- **Ce que savent les Britanniques** : Cagliari et l'aérodrome d'Elmas ont été bombardés à plusieurs reprises en juin 1940, les 16, 18 et 24 juin [histoire, à vérifier : article de Wikipédia sur les bombardements de Cagliari ; auteurs des raids]. Ceux qui ont préparé ces attaques connaissent le port et ses approches.
+- **Ce que savent les Français** : Cagliari et l'aérodrome d'Elmas ont été bombardés en juin 1940 par l'armée de l'Air, venue de Tunisie et d'Algérie, les 16, 19 et 24 juin. Ceux qui ont préparé ces attaques connaissent le port et ses approches. **[histoire] Les raids français de juin 1940 sur la Sardaigne** (sources : bulletins italiens n° 6, 9 et 14 ; chronologies sardes ; forum Aviation ancienne) : **16 juin**, six Martin 167 du GB I/61 sur l'hydrobase d'Elmas (une vingtaine de bombes, hangars et commandement touchés, 6 ou 7 CANT Z.501 des 183ª et 188ª Squadriglie détruits, 6 aviateurs tués selon le bulletin italien, la plupart des bombes dans la lagune, aucun civil touché) ; **19 juin**, raids sur Cagliari, Alghero et Sassari, sans dégâts sensibles ; **24 juin**, la veille de l'armistice, neuf Douglas DB-7 du GB II/61 venus de Souk el-Arba (Tunisie) : une trentaine de bombes sur la zone du port, les dépôts de carburant de Monte Urpinu, une villa près de la basilique de Bonaria, une dizaine de blessés. Aucun raid n'est attesté le 18 juin.
 
 **L'ironie**, que l'îlot aime raconter : **le plan préparé pour frapper la Sardaigne devient le plan pour y survivre.** Les mêmes cartes, les mêmes relevés de fonds, les mêmes listes de dépôts servent désormais à choisir un mouillage, une mine et un grenier.
 
@@ -150,7 +150,7 @@ Le 4 juillet au soir, à bord du *Dunkerque*, Gensoul et Somerville s'accordent 
 
 **Effectifs** : le total exact n'est pas retrouvé 🔎. En ordre de grandeur, **30 000 à 50 000 hommes** sous les armes, dont une grande part de **réservistes sardes** rappelés en juin 1940 [estimation].
 
-**Le moral** : l'île est en guerre depuis trois semaines et a déjà été bombardée. Des avions français (Glenn Martin, puis Douglas DB-7 venus d'Afrique du Nord) ont frappé **Elmas et le port de Cagliari** entre le 16 et le 24 juin 1940, sans grands dégâts [histoire 🔎 dates à recouper]. Les troupes attendent un débarquement français dans le Sulcis.
+**Le moral** : l'île est en guerre depuis trois semaines et a déjà été bombardée. Des avions français (Glenn Martin, puis Douglas DB-7 venus d'Afrique du Nord) ont frappé **Elmas et le port de Cagliari** les 16, 19 et 24 juin 1940, sans grands dégâts [histoire : voir §8]. Les troupes attendent un débarquement français dans le Sulcis.
 
 ### Ce qu'il en reste le 8 juillet [canon provisoire]
 
