@@ -143,7 +143,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes, le professeur **Pinna** qui tient la maison. La Marina en feu.
-- **Sa mère et Bonaria meurent dans la nuit** [canon roman] : elles étaient montées dormir sur la terrasse, comme chaque soir d'été à la Marina, et la nuit de feu les y a surprises (fin du chapitre 3 : Efisia, sur le seuil, entend sa mère l'appeler d'en haut) ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
+- **Sa mère et Bonaria meurent dans la nuit** [canon roman] : elles étaient montées dormir sur la terrasse, comme chaque soir d'été à la Marina, et la nuit de feu les y a surprises (fin du chapitre 3 : Efisia, sur le seuil, entend sa mère l'appeler d'en haut) ; son père survit, brûlé aux mains. Efisia, protégée par l'étroitesse des ruelles (elle n'a reçu qu'une fente de ciel, [03](../../03-impact-pacifique.md) §4 : 4 à 8 kW/m² à découvert), porte des brûlures légères à la nuque et aux avant-bras, qu'elle soigne elle-même cette nuit-là. Gigi est vivant à la batterie.
 - Vers 10 h (heure italienne), les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
 - *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
 

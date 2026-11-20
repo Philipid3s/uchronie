@@ -156,7 +156,7 @@ Quelqu'un cria. Puis plusieurs. Une femme appela un enfant par son nom, deux foi
 
 Efisia courut.
 
-Elle courut par la via Sardegna, puis par la ruelle qui montait vers la via Napoli, en se cognant aux gens qui descendaient, en glissant sur les pavés, son sac battant contre sa hanche. Elle ne pensait à rien. Elle courait vers la maison. La chaleur lui brûlait la nuque. Au-dessus des toits, le ciel était tout entier rouge, d'un bord à l'autre, et les étoiles y tombaient encore, et il n'y avait plus de bruit que les cris, et son souffle, et ses pas.
+Elle courut par la via Sardegna, puis par la ruelle qui montait vers la via Napoli, en se cognant aux gens qui descendaient, en glissant sur les pavés, son sac battant contre sa hanche. Elle ne pensait à rien. Elle courait vers la maison. La chaleur lui brûlait la nuque. Dans les passages les plus étroits, là où les toits se touchaient presque, la brûlure faiblissait ; au carrefour, sous le ciel ouvert, elle redoublait d'un coup, comme une main qu'on plaque sur la peau. Elle comprit sans le formuler que c'était le ciel qui brûlait, et elle pensa à la terrasse. Au-dessus des toits, le ciel était tout entier rouge, d'un bord à l'autre, et les étoiles y tombaient encore, et il n'y avait plus de bruit que les cris, et son souffle, et ses pas.
 
 La porte de la maison était ouverte.
 
