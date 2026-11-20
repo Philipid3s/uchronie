@@ -70,7 +70,7 @@
 **Efisia Deiana** [canon roman : nom, métier, ville ; proposition : le reste]
 - Née en 1919 à **Cagliari**, quartier de la **Marina**. Infirmière à l'hôpital **San Giovanni di Dio**, sous les religieuses. Elle parle sarde et italien, et apprend vite le français et l'anglais.
 - **Sa famille** [canon roman] : son père **Antonio**, docker au port ; sa mère **Rita** et sa petite sœur **Bonaria** (10 ans) ; son frère aîné **Gigi** (Luigi), milicien de la **MILMART** à la batterie du capo Sant'Elia, plus par besoin d'une solde que par conviction.
-- **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652). Elle ne pardonne pas facilement.
+- **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652-1656). Elle ne pardonne pas facilement.
 - **Son arc dans le tome 1** : du deuil et de la colère contre ceux qui sont entrés dans son golfe sous les canons à l'acceptation d'un « bord ». Son point de vue porte la mémoire sarde : **sauvetage ou conquête ?** ([10](../../10-choix-du-refuge.md) §9).
 
 ### 3.2 Les personnages secondaires
@@ -225,13 +225,15 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Le *Volta* fonce vers le nord, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
 **27. Efisia — le retour, fin novembre**
+- **L'ouverture : l'enclos** [canon roman]. Les noyés corses sont enterrés dans l'enclos du 12 juillet, près des Britanniques du destroyer et des artilleurs italiens de la batterie (chapitre 12). Jean, Tom et Efisia sont là tous les trois ; la neige tombe sur les tombes. Une page sobre : trois nations dans une même terre, sans un mot de discours.
 - Le *Volta* rentre dans le golfe à l'aube grise. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
-- **Dernière image** : la fête manquée de saint Éphise, le vœu de la peste, ou l'enterrement des Corses dans l'enclos du 12 juillet [à choisir]. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Brest et Plymouth sont au nord, dans le noir. *« Un jour, on ira voir. »*
+- **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1656, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque 1er mai ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
 
 **Pourquoi cette fin** [proposition] :
 - Elle **réunit les trois** sur une même nuit, chacun dans son métier : le pilote d'hydravion, l'officier de mer, l'infirmière.
 - Elle donne une mission au **dernier vol de l'hiver 1940-41**, une question encore ouverte dans la bible ([09](../../09-questions-ouvertes.md) B23) : ce serait un sauvetage, fin novembre 1940.
 - Elle pose déjà **1942** : l'hydravion, Brest et Plymouth, l'amitié de Jean et de Tom.
+- Elle ferme la boucle de l'enclos (chapitre 12) sans finir sur une tombe, et laisse au tome 2 une scène possible : **la procession du 1er mai 1941 dans le noir**.
 
 ---
 
@@ -275,5 +277,5 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 4. ✅ **Gigi** est blessé et prisonnier.
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
-7. ❓ **La dernière image** (chapitre 27) : saint Éphise, l'enclos du 12 juillet, ou autre ?
-8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; les destroyers de la Force H en juillet 1940 ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; les CANT Z.501 et Z.506 d'Elmas.
+7. ✅ **La dernière image** (chapitre 27) : l'enterrement des Corses dans l'enclos du 12 juillet ouvre le chapitre ; le vœu de saint Éphise le ferme (option A + B).
+8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; les destroyers de la Force H en juillet 1940 ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; le vœu de la peste (1656) et la première procession à Nora (1er mai 1657), la procession de 1940 ; les CANT Z.501 et Z.506 d'Elmas.
