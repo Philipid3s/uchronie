@@ -18,3 +18,6 @@ desktop.ini
 
 # Livre construit par edition/build.py
 edition/build/
+
+# PDF de lecture du roman
+roman/tome-1/edition/build/

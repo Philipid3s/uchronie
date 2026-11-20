@@ -1,0 +1,53 @@
+/* Le Ciel de cendre — mise en page de roman (format 140 × 215 mm) pour Paged.js */
+
+:root {
+  --encre: #1c1a17;
+  --gris: #6b655c;
+  --serif: "EB Garamond", Georgia, serif;
+}
+
+@page {
+  size: 140mm 215mm;
+  margin: 18mm 16mm 20mm 18mm;
+  @bottom-center { content: counter(page); font: 9pt var(--serif); color: var(--gris); }
+}
+@page :left {
+  margin-left: 16mm; margin-right: 18mm;
+  @top-left { content: "Le Ciel de cendre"; font: italic 8.5pt var(--serif); color: var(--gris); }
+}
+@page :right {
+  @top-right { content: string(chapitre); font: italic 8.5pt var(--serif); color: var(--gris); }
+}
+@page nue { @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
+@page chapitre:first { @top-left { content: none; } @top-right { content: none; } }
+
+html { font-family: var(--serif); font-size: 10.8pt; line-height: 1.45; color: var(--encre); }
+body { margin: 0; hyphens: auto; -webkit-hyphens: auto; }
+
+/* --- Pages liminaires --------------------------------------------------------------------- */
+.titre, .faux-titre, .partie { page: nue; break-after: page; text-align: center; }
+.titre { padding-top: 45mm; }
+.titre .auteur { font-size: 10pt; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gris); margin: 0 0 14mm; }
+.titre h1 { font-size: 27pt; font-weight: 500; margin: 0 0 4mm; letter-spacing: 0.02em; }
+.titre .tome { font-size: 12pt; font-style: italic; margin: 0 0 30mm; }
+.titre .etat { font-size: 9pt; color: var(--gris); line-height: 1.6; }
+.faux-titre { padding-top: 60mm; font-style: italic; font-size: 10pt; color: var(--gris); }
+.faux-titre p { margin: 0 0 1em; }
+.partie { break-before: right; padding-top: 62mm; }
+.partie .num { font-size: 10pt; letter-spacing: 0.25em; text-transform: uppercase; color: var(--gris); margin: 0 0 6mm; }
+.partie h2 { font-size: 20pt; font-weight: 500; margin: 0; }
+
+/* --- Chapitres ---------------------------------------------------------------------------- */
+.chapitre { page: chapitre; break-before: right; }
+.chapitre h3 {
+  text-align: center; font-weight: 500; font-size: 16pt; margin: 30mm 0 2mm;
+}
+.chapitre h3 .nom { string-set: chapitre content(text); }
+.chapitre h3 .no { display: block; font-size: 30pt; font-weight: 400; color: var(--gris); margin-bottom: 3mm; }
+.chapitre .lieu { text-align: center; font-style: italic; font-size: 10pt; color: var(--gris); margin: 0 0 14mm; text-indent: 0; }
+.chapitre p { margin: 0; text-align: justify; text-indent: 1.4em; orphans: 2; widows: 2; }
+.chapitre p.ouverture, .chapitre p.suite { text-indent: 0; }
+.chapitre p.ouverture::first-letter { font-size: 2.9em; float: left; line-height: 0.82; padding: 0.06em 0.08em 0 0; }
+.chapitre hr { border: none; margin: 1.1em 0; text-align: center; height: 1em; }
+.chapitre hr::after { content: "*"; font-size: 11pt; letter-spacing: 0.6em; color: var(--gris); }
+em { font-style: italic; }
