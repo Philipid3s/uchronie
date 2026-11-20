@@ -106,7 +106,7 @@ Le 1er juillet, il écrivit à Billy.
 
 Il le fit au carré des pilotes, après le déjeuner, sur le papier à en-tête de l'*Ark Royal* qu'il n'avait pas le droit d'utiliser et qu'il utilisait parce que Billy en serait fier. Il ne pouvait rien dire de ce qu'il faisait ni de l'endroit où il était, à cause de la censure. Il écrivit donc sur le reste.
 
-*Cher vieux Bill,*
+*Mon petit Bill,*
 
 *Il fait chaud. Il y a une montagne ici qui fait ses propres nuages, je te jure que c'est vrai, et des singes sans queue qui volent les casquettes des marins, je te jure que c'est vrai aussi. Le Swordfish est un avion merveilleux. Il vole à peu près aussi vite qu'un autobus de Plymouth en côte, mais il ne tombe jamais, et on peut s'y pencher pour regarder le paysage, ce qui n'est pas le cas dans les avions modernes, où l'on est enfermé comme dans une boîte de sardines. Ne dis pas à maman que je me penche.*
 
