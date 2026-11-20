@@ -157,11 +157,12 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - Les enterrements. Rome se tait. À l'hôpital, sur la radio du médecin-chef, **les appels en italien** de la flotte qui approche : du blé, des médecins, une place égale.
 - Gigi dit que la Milice se battra. Antonio dit que le pain, c'est ce qui compte. Efisia ne dit rien.
 
-**10. Jean — 5 – 10 juillet, la corvée d'Oran** [canon roman : option A]
-- **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie, avec les relevés des Swordfish. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ; le silo qu'on laisse ouvert au départ ([06](../../06-mers-el-kebir.md) §4 bis).
+**10. Jean — 5 – 9 juillet, la corvée d'Oran** [canon roman : option A]
+- **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie, avec les relevés des Swordfish. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ([06](../../06-mers-el-kebir.md) §4 bis).
 - **L'eau** : remplir les caisses des cargos aux citernes de la ville ; le médecin qui la goûte, la fait bouillir, la chlore.
-- **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles. Jean doit refuser du monde sur le quai. La pire journée de sa vie.
-- **L'appareillage de nuit**, en escorte des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas. La côte qui brûle derrière eux.
+- **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles ; puis **le tirage au sort sur le quai** des dernières places, entre les mères avec enfants. Jean doit refuser du monde. La pire journée de sa vie. Les marins anglais regardent : eux n'ont personne à Oran.
+- **Le silo ouvert** : l'ordre vient de Gensoul, Somerville s'est incliné. C'est Jean qui fait ouvrir les portes au départ et voit la foule s'y engouffrer.
+- **L'appareillage du 9 au soir**, en escorte du convoi des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas, peut-être l'un des tirés au sort. La côte qui brûle derrière eux. Le 11, au large du cap Teulada, le *Volta* laisse le convoi pour rallier l'écran de la flotte.
 
 **11. Tom — 12 juillet, au-dessus du golfe**
 - Le matin, Tom vole en reconnaissance au-dessus de Cagliari et d'Elmas, devant la flotte qui entre dans le golfe. **Il voit les départs de la batterie du capo Sant'Elia** et les signale ; le destroyer britannique de l'écran est touché ; **le *Hood* tire sous lui**. Il voit le *Volta* stopper et mettre ses canots à l'eau pour repêcher les survivants.
