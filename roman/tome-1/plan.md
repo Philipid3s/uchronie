@@ -89,7 +89,7 @@
 
 ### 3.3 Le triangle [canon roman : principe ; proposition : déroulé]
 
-- **Juillet** : Efisia rencontre **Jean d'abord, dans la colère** (il amène les blessés britanniques à l'hôpital le jour où la batterie de son frère a tiré), puis **Tom, dans le rire** (il arrive à l'hôpital avec une blessure de rien et un italien impossible).
+- **Juillet** : Efisia rencontre **Jean d'abord, dans la colère** (il amène les blessés britanniques à l'hôpital le jour où la batterie de son frère a tiré), puis **Tom, dans le rire** (il arrive à l'hôpital avec une coupure infectée et un italien impossible).
 - **Août** : Tom la courtise et la fait rire ; Jean la croise dans la pire des tâches, les réquisitions du quartier de la Marina. Elle penche vers Tom.
 - **Septembre** : la gloire du 23 septembre grise Tom ; il s'éloigne, attiré par d'autres (une infirmière d'Oran du *Provence*). Efisia le voit sans illusions.
 - **Octobre – novembre** : Jean et Efisia, lentement. Rien n'est dit avant le dernier chapitre, et peu de chose alors.
@@ -184,7 +184,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 ### Partie III — Sous les canons
 
 **13. Tom — mi-juillet, Elmas** [validé]
-- Les avions passent à terre, à Elmas. Il fait encore une quinzaine de degrés, mais on sent que cela ne durera pas. Tom se coupe la main sur une hélice (rien de grave) et se retrouve à San Giovanni di Dio, où l'on manque déjà de tout et où l'électricité vient par à-coups. **Il fait rire Efisia** avec un italien impossible. Elle rit pour la première fois depuis la nuit.
+- Les avions passent à terre, à Elmas. Il fait encore une quinzaine de degrés, mais on sent que cela ne durera pas. Faute de bras, Tom aide les mécaniciens à démonter un moteur et s'entaille la main sur un bout de **fil à freiner** (le fil d'acier qui bloque les écrous) : une plaie de rien, qui s'infecte. Sans sulfamides, on en meurt : on l'envoie à San Giovanni di Dio, où l'on manque déjà de tout et où l'électricité vient par à-coups [canon roman : option B]. Efisia nettoie la plaie en lui expliquant, sans rire, qu'on en meurt maintenant. **Il la fait rire quand même**, avec un italien impossible. Elle rit pour la première fois depuis la nuit.
 
 **14. Jean — fin juillet, le Sulcis** [validé]
 - La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois.
