@@ -68,7 +68,7 @@
 - **Son arc dans le tome 1** : du jeune homme qui vit pour l'instant à celui qui accepte une mission. Le dernier vol de l'automne 1940 en est l'épreuve.
 
 **Efisia Deiana** [canon roman : nom, métier, ville ; proposition : le reste]
-- Née en 1919 à **Cagliari**, quartier de la **Marina**. Infirmière à l'hôpital **San Giovanni di Dio**, sous les religieuses. Elle parle sarde et italien, et apprend vite le français et l'anglais.
+- Née le **1er mai 1919** à **Cagliari**, quartier de la **Marina**, le jour de la procession de saint Éphise (d'où son prénom) [chapitre 3]. Infirmière à l'hôpital **San Giovanni di Dio**, sous les religieuses. Elle parle sarde et italien, et apprend vite le français et l'anglais.
 - **Sa famille** [canon roman] : son père **Antonio**, docker au port ; sa mère **Rita** et sa petite sœur **Bonaria** (10 ans) ; son frère aîné **Gigi** (Luigi), milicien de la **MILMART** à la batterie du capo Sant'Elia, plus par besoin d'une solde que par conviction.
 - **Tempérament** : vive, ironique, pratique, pieuse à sa manière (saint Éphise et le vœu de la peste de 1652). Elle ne pardonne pas facilement.
 - **Son arc dans le tome 1** : du deuil et de la colère contre ceux qui sont entrés dans son golfe sous les canons à l'acceptation d'un « bord ». Son point de vue porte la mémoire sarde : **sauvetage ou conquête ?** ([10](../../10-choix-du-refuge.md) §9).
@@ -143,7 +143,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 
 **6. Efisia — nuit du 1er au 2 juillet et matin, Cagliari** [validé]
 - La nuit à l'hôpital : les brûlés qui arrivent, les religieuses, les lampes, le professeur **Pinna** qui tient la maison. La Marina en feu.
-- **Sa mère et Bonaria meurent dans la nuit** [canon roman] ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
+- **Sa mère et Bonaria meurent dans la nuit** [canon roman] : elles étaient montées dormir sur la terrasse, comme chaque soir d'été à la Marina, et la nuit de feu les y a surprises (fin du chapitre 3 : Efisia, sur le seuil, entend sa mère l'appeler d'en haut) ; son père survit, brûlé aux mains. Gigi est vivant à la batterie.
 - Vers 10 h (heure italienne), les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
 - *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
 
