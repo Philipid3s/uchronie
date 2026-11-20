@@ -105,10 +105,10 @@
 ### Émile Duplat (1880-1945) — la 3ᵉ escadre
 
 **Ce qu'en disent les sources** :
-- **Parcours** : né au Havre le 6 septembre 1880 ; **sous-marinier** ; directeur du personnel (1936) ; vice-amiral (1937), 3ᵉ escadre à Toulon (1939) ; il dirige le **bombardement de Gênes et de Vado** dans la nuit du 13 au 14 juin 1940. Président de la délégation française à la commission d'armistice de Turin (août 1940). Mort à Paris le 30 juillet 1945.
+- **Parcours** : né au Havre le 6 septembre 1880 ; **sous-marinier** ; directeur du personnel (1936) ; vice-amiral (1937), 3ᵉ escadre à Toulon (1939) ; il dirige le **bombardement de Gênes et de Vado** dans la nuit du 13 au 14 juin 1940. Nommé président de la délégation française à la commission d'armistice italienne de Turin (annoncé de Bordeaux le 27 juin 1940 ; première trace sûre de lui en poste : une lettre du général Pintor du 13 juillet). Mort à Paris le 30 juillet 1945.
 - **Caractère** ○○○ : rien trouvé.
 
-**Dans l'uchronie** : l'homme qui a **bombardé Gênes trois semaines plus tôt** est celui qui câble *« Ne venez pas »* ([33](33-toulon.md)). À Cagliari, à partir de 1944, il côtoie au Grand Carré les marins italiens qu'il combattait en juin 1940. *Dans notre histoire, il meurt en juillet 1945 ; dans l'uchronie, en 1954, après la reconnaissance de Toulon (§6).*
+**Dans l'uchronie** : le 1er juillet 1940, il n'est pas encore parti pour Turin ; la catastrophe le retient à Toulon ([33](33-toulon.md)). L'homme qui a **bombardé Gênes trois semaines plus tôt** est celui qui câble *« Ne venez pas »* ([33](33-toulon.md)). À Cagliari, à partir de 1944, il côtoie au Grand Carré les marins italiens qu'il combattait en juin 1940. *Dans notre histoire, il meurt en juillet 1945 ; dans l'uchronie, en 1954, après la reconnaissance de Toulon (§6).*
 
 ### Léon-Henri Devin (1879-1970 ou 1973) — le préfet maritime
 
@@ -125,6 +125,14 @@
 - **Caractère** ○○○ : rien trouvé.
 
 **Dans l'uchronie** : le chef de l'expédition de la Manche ([36](36-expedition-de-la-manche.md) §3.3). Fils d'amiral, chef de flottille de destroyers, il est un chef de **petits navires rapides** : son caractère reste à écrire, de préférence en contrepoint du jeune officier du *Volta*.
+
+### Charles Jacquinet (1896-1947) — le *Volta*
+
+**Ce qu'en disent les sources** :
+- **Parcours** : Charles-Victor-Émile Jacquinet, né à Toulon le 22 septembre 1896 ; École navale (1914) ; commandant du *Basque* (1932) ; capitaine de frégate (1937) ; **commandant du *Volta*** de 1939 à 1941. Le 3 juillet 1940, le *Volta* sort de Mers el-Kébir sous le feu et protège la fuite du *Strasbourg* (citation à l'ordre de l'Armée de mer). Capitaine de vaisseau (1941), chef d'état-major de la Marine au Maroc (1942), major général de la Marine (1944). Auteur d'une *Tactique des forces de surface*. Mort à Toulon le 19 juin 1947, d'une maladie contractée en service ([mémorial de l'École navale](http://memorial-aen.fr/detail.php?id=1636)).
+- **Caractère** ○○○ : rien trouvé, hors sa citation.
+
+**Dans l'uchronie** : le commandant du *Volta* de l'expédition de la Manche ([36](36-expedition-de-la-manche.md) §3.3) et, dans le roman, la figure paternelle de Jean de Kerangal : un homme mince, qui parle comme un professeur de mathématiques, Toulonnais sans nouvelles de sa ville. Sa mort de maladie (§6) pèse sur le commandement du prototype de longue expédition ([09](09-questions-ouvertes.md) B116).
 
 ## 4. Les Italiens de Sardaigne
 
@@ -223,6 +231,7 @@
 | **Cedric Holland** | Mai 1950 | **1953** | L'envoyé à Souda (1952) et son rapport au Grand Carré (début 1953) ([37](37-ilot-de-l-est.md) §9.5) |
 | **Louis Collinet** | Mars 1949 | **1954** | L'expédition d'Albanie (1950) et le voyage de Souda (1952) |
 | **Émile Duplat** | Juillet 1945 | **1954**, à 74 ans | La reconnaissance de Toulon (1953) ([33](33-toulon.md)) |
+| **Charles Jacquinet** | Juin 1947, maladie contractée en service | **Vers 1949 – 1952** [à décider, B116] | L'expédition de la Manche (1942) ; peut-être les essais du prototype de longue expédition ([35](35-navires-de-l-ilot.md) §6.3 bis) |
 
 **Ce que cela donne** :
 - **1951, l'année des deux deuils** : Sportiello, puis Somerville. **Deux des trois fondateurs du Conseil des Amiraux meurent en quelques mois**, et **Gensoul** (1880-1973) reste seul. C'est la **crise de succession** annoncée en [11](11-ilot-de-civilisation.md) §8 [à décider, B104 : qui remplace les deux amiraux au Conseil, et comment].
