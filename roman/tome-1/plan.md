@@ -3,7 +3,7 @@
 > Titre : ***Le Ciel de cendre*** [canon roman].
 > Du 30 juin 1940, veille de l'impact, à l'installation de l'îlot à Cagliari, à la fin de l'automne 1940.
 
-**Statut** : premier jet du script, à valider chapitre par chapitre avant toute prose. Les choix de l'auteur sont marqués **[canon roman]**, mes propositions **[proposition]**. Le roman suit la bible ; quand il invente (personnages secondaires, scènes), il ne contredit pas le canon, et toute invention qui touche la bible est reportée dans [09](../../09-questions-ouvertes.md).
+**Statut** : script **validé chapitre par chapitre le 20 novembre 2026**, après une passe de cohérence avec la bible et l'histoire ; prêt pour la prose. Les choix de l'auteur sont marqués **[canon roman]**, mes propositions **[proposition]**. Le roman suit la bible ; quand il invente (personnages secondaires, scènes), il ne contredit pas le canon, et toute invention qui touche la bible est reportée dans [09](../../09-questions-ouvertes.md).
 
 ---
 
@@ -208,39 +208,40 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 ### Partie IV — Le premier froid
 
-**19. Tom — 21 – 23 septembre, l'alerte de Naples**
+**19. Tom — 21 – 23 septembre, l'alerte de Naples** [validé]
 - L'écoute capte le trafic radio de Naples. **Le 23 à l'aube, c'est Tom qui repère la force** à quarante milles du capo Carbonara. La voix de Sportiello sur la fréquence de la Marine. Le demi-tour. L'*Orione* qui rallie.
-- Tom devient un héros pour une semaine, et cela lui monte à la tête.
+- Sous moins de 1 % de la lumière, on ne voit des navires que de près : Tom passe bas au-dessus de la force, et c'est ce qui fait de lui un héros pour une semaine. Cela lui monte à la tête.
 
-**20. Jean — 23 septembre – octobre**
+**20. Jean — 23 septembre – octobre** [validé]
 - Le *Volta* sort avec les destroyers pour une bataille qui n'a pas lieu, puis escorte l'*Orione*.
 - Octobre : **la première neige sur Cagliari**. Jean et Efisia se croisent sur le bastion de Saint-Remy, dans la neige qui tombe sur une mer encore tiède et fumante. Ils parlent pour la première fois sans se battre.
 
-**21. Efisia — octobre, le *Provence***
-- Les premiers rescapés de **Bizerte**. Gigi est libéré et inscrit à un bord. Efisia comprend qu'elle aussi appartient à un bord, et qu'elle ne le déteste plus tout à fait.
+**21. Efisia — octobre, le *Provence*** [validé]
+- Les premiers rescapés de **Bizerte** : ils débarquent à Sant'Antioco et à Carloforte ([16](../../16-contacts-radio.md) §4) ; Efisia voit arriver sur le *Provence* les malades et les blessés transférés, et le récit passe de bouche en bouche : une base intacte, perdue. Gigi est libéré et inscrit à un bord. Efisia comprend qu'elle aussi appartient à un bord, et qu'elle ne le déteste plus tout à fait.
 
-**22. Jean — octobre – novembre**
-- Holland rédige le **Code de l'Îlot** : la lecture à bord du *Volta*. Jean comprend qu'**on ne rentrera pas**. Il range la lettre de juin.
+**22. Jean — octobre – novembre** [validé]
+- Holland rédige le **Code de l'Îlot**. Le commandant **Jacquinet** le lit à l'équipage du *Volta*, sur la plage arrière, dans le froid : la première vraie scène de la figure paternelle de Jean. Jean comprend qu'**on ne rentrera pas**. Il range la lettre de juin.
 
-**23. Tom — novembre, Elmas**
+**23. Tom — novembre, Elmas** [validé]
 - Les derniers fûts d'essence. L'ordre tombe : l'aviation sera clouée au sol pendant l'hiver. Tom vole ses dernières heures sur le Loire 130. Il s'en veut d'avoir été léger avec Efisia, à sa manière.
 
-**24. Efisia — novembre, les réfugiés corses**
+**24. Efisia — novembre, les réfugiés corses** [validé]
 - Les traversées des bouches de Bonifacio. **La crise des quotas** [canon roman : option A] : Efisia soigne des Corses que l'on va refouler vers la Gallura ; elle entend, de loin, que le Conseil s'est déchiré : Gensoul pour les Français, Sportiello pour les Sardes, Somerville qui arbitre ([11](../../11-ilot-de-civilisation.md) §1 bis). Elle-même ne sait pas de quel côté elle est.
-- Un soir, la nouvelle : **un caboteur torpillé** par un sous-marin perdu, sur la côte est, au large d'Arbatax. Il amenait de La Maddalena à Cagliari les réfugiés admis du quota du mois ([06](../../06-mers-el-kebir.md) §6 bis). On demande des infirmières volontaires pour le *Volta*. Efisia lève la main.
+- Un soir, la nouvelle : **un caboteur torpillé** par un sous-marin perdu, sur la côte est, au large d'Arbatax. Il amenait de La Maddalena à Cagliari les réfugiés admis du quota du mois ([06](../../06-mers-el-kebir.md) §6 bis). Le *Volta* est de garde contre les sous-marins, sous pression : il appareille dans l'heure. On demande des infirmières volontaires. Efisia lève la main.
 
 **25 – 27. La réunion : la nuit du caboteur** [canon roman]
 
-**25. Tom — la nuit du dernier vol**
+**25. Tom — la nuit du dernier vol** [validé]
 - Le Conseil autorise **un vol, le dernier** : Tom décolle d'Elmas sur le Loire 130 pour chercher les naufragés dans la nuit, vers le nord-est, au large d'Arbatax (~75 milles). Il les trouve à la lueur d'une fusée, **amerrit dans la houle**, embarque ceux qu'il peut et garde les autres accrochés aux flotteurs. Il ne peut plus redécoller. Il tire ses fusées pour le *Volta*.
+- *Ordres de grandeur* : ~50 minutes de vol pour Tom, ~2 h 30 de mer pour le *Volta* ; une mer à ~13 °C ([04](../../04-climat.md) §4), où l'on tient deux ou trois heures : il y a de vrais morts (la soixantaine de la bible).
 
-**26. Jean — la même nuit, le *Volta***
+**26. Jean — la même nuit, le *Volta*** [validé]
 - Le *Volta* fonce vers le nord-est, le long de la côte, puis cherche les fusées dans la neige. Jean dirige le canot ; Efisia est à bord, avec le médecin. **Pour la première fois, les trois sont ensemble**, dans la mer, dans le froid. On sauve ce qu'on peut. **L'hydravion est perdu** [canon roman] : la houle et la nuit empêchent de le prendre en remorque ; Tom le regarde couler, le dernier avion de l'îlot à avoir volé en 1940.
 
-**27. Efisia — le retour, fin novembre**
-- Le *Volta* rentre dans le golfe à l'aube grise. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
+**27. Efisia — le retour, fin novembre** [validé]
+- Le *Volta* rentre dans le golfe à l'heure de l'aube. Tom a perdu son avion ; il reste à Elmas d'autres Loire 130, mais plus d'essence. Les lumières de la ville tiennent grâce à l'électricité des navires. Tom fait une plaisanterie et s'efface. Jean et Efisia sur le pont : peu de mots.
 - **L'enclos** [canon roman]. Le lendemain, les noyés corses sont enterrés dans l'enclos du 12 juillet, près des Britanniques du destroyer et des artilleurs italiens de la batterie (chapitre 12). Jean, Tom et Efisia sont là tous les trois ; la neige tombe sur les tombes. Une page sobre : trois nations dans une même terre, sans un mot de discours.
-- **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1652, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque année (vœu renouvelé en 1656, première procession en mai 1657) ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
+- **Dernière image : le vœu de saint Éphise** [canon roman]. Efisia monte seule à l'église de Sant'Efisio, à Stampace. La statue dans sa niche, quelques cierges : la seule lumière. En 1652, pendant la peste, la ville a fait vœu de porter le saint à Nora chaque année (vœu renouvelé en 1656, première procession en mai 1657) ; la procession de mai 1940 a eu lieu, juste avant la fin du monde. Efisia renouvelle le vœu pour elle-même : le 1er mai 1941, le saint ira à Nora, à pied, dans le noir et la neige s'il le faut. **L'installation est faite** : l'îlot a ses bords, sa loi, son hiver. Le livre se ferme sur deux promesses : celle des hommes, tournée vers le nord, Toulon, Brest et Plymouth dans le noir (*« Un jour, on ira voir. »*), et celle d'Efisia, tournée vers l'île.
 
 **Pourquoi cette fin** [proposition] :
 - Elle **réunit les trois** sur une même nuit, chacun dans son métier : le pilote d'hydravion, l'officier de mer, l'infirmière.
