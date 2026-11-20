@@ -76,7 +76,7 @@ Elle entra. Elle le faisait presque chaque soir, une minute, sur le chemin de la
 
 Elle alluma un cierge, pour personne en particulier, pour tout le monde, pour le vieux Melis et sa jambe. La petite flamme monta, droite, dans l'air immobile.
 
-— Tu as vu le bulletin ? dit-elle au saint, à voix basse. Perdu. Comme un parapluie.
+— Tout un destroyer, dit-elle au saint, à voix basse. Et ils n'ont même pas dit combien d'hommes.
 
 Le saint ne répondit pas. Il ne répondait jamais. C'était ce qu'elle aimait chez lui.
 
