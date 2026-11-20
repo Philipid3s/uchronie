@@ -8,7 +8,7 @@ Elle était posée sur une étagère, entre une boîte de compresses et une stat
 
 — *Il Quartier Generale delle Forze Armate comunica…*
 
-Efisia Deiana écoutait en changeant le pansement du vieux Melis, un pêcheur de Sant'Elia qui s'était ouvert la jambe sur une ancre et que la plaie, en trois semaines, avait rendu gris. Le maréchal Graziani avait rejoint la Libye en avion et pris le commandement de toutes les forces armées d'Afrique du Nord. Une torpilleuse avait coulé un sous-marin ennemi. Un sous-marin avait abattu un quadrimoteur anglais. Le destroyer *Espero*, après avoir héroïquement soutenu un combat contre trois croiseurs et plusieurs destroyers anglais, n'était pas rentré à sa base et devait être considéré comme perdu.
+Efisia Deiana écoutait en changeant le pansement du vieux Melis, un pêcheur de Sant'Elia qui s'était ouvert la jambe sur une ancre et que la plaie, en trois semaines, avait rendu gris. Le maréchal Graziani avait rejoint la Libye en avion et pris le commandement de toutes les forces armées d'Afrique du Nord. Un torpilleur avait coulé un sous-marin ennemi. Un sous-marin avait abattu un quadrimoteur anglais. Le destroyer *Espero*, après avoir héroïquement soutenu un combat contre trois croiseurs et plusieurs destroyers anglais, n'était pas rentré à sa base et devait être considéré comme perdu.
 
 — Perdu, dit le vieux Melis. Ils disent perdu comme on dit d'un parapluie.
 
