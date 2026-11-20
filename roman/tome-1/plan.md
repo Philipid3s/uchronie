@@ -78,7 +78,7 @@
 | Personnage | Rôle dans le tome 1 | Statut |
 |---|---|---|
 | L'enseigne **Louis Garrec** | Ami de Jean sur le *Volta*. Il est en permission à Oran le soir du 1er juillet et ne revient pas | [inventé, proposition] |
-| Le capitaine de corvette **Jacquinet**, commandant du *Volta* | Chef prudent ; il ne quitte pas son bord. Figure paternelle pour Jean | [histoire 🔎 : commandant du *Volta* depuis août 1939, présence en juillet 1940 à confirmer ; prénom à trouver] |
+| Le capitaine de frégate **Charles Jacquinet**, commandant du *Volta* | Chef prudent ; il ne quitte pas son bord. Figure paternelle pour Jean. Toulonnais, 43 ans en 1940 : sa ville est aussi au nord, dans le noir | [histoire : Charles-Victor-Émile Jacquinet, né à Toulon le 22 septembre 1896, École navale 1914, capitaine de frégate en 1937, commandant du *Volta* de 1939 à 1941 ; dans notre histoire, mort à Toulon en 1947 ([mémorial](http://memorial-aen.fr/detail.php?id=1636))] |
 | Le capitaine de vaisseau **Cedric Holland** | Commandant de l'*Ark Royal*, francophone ; Jean l'accompagne le 3 juillet | [histoire] |
 | **Somerville**, **Gensoul**, **Sportiello** | Les amiraux, vus de loin, par les yeux des jeunes gens | [histoire] |
 | **Edward Halloran** | Pilote de l'*Ark Royal*, Plymouthien, l'aîné de Tom | [inventé dans la bible] |
@@ -169,6 +169,7 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 - **La corvée des silos** : Jean mène une colonne de marins du *Volta* et de fusiliers marins dans Oran, dans le noir et la suie, avec les relevés des Swordfish. Les silos du port, les sacs, les camions de la plaine. **La foule affamée aux portes** ; l'ordre de ne tirer que si l'on tire sur soi ([06](../../06-mers-el-kebir.md) §4 bis).
 - **L'eau** : remplir les caisses des cargos aux citernes de la ville ; le médecin qui la goûte, la fait bouillir, la chlore.
 - **L'embarquement des civils** : les familles des marins, les soignants, les métiers utiles ; puis **le tirage au sort sur le quai** des dernières places, entre les mères avec enfants. Jean doit refuser du monde. La pire journée de sa vie. Les marins anglais regardent : eux n'ont personne à Oran.
+- **Le dock-silo** du quai Henri-Beaupuy [histoire : 30 000 t, deux navires à quai, ensachage et chargement à 2 × 120 t/h] tourne jour et nuit ; le reste se charge en sacs, aux grues et aux mâts de charge des cargos, par des équipes réquisitionnées.
 - **Le silo ouvert** : l'ordre vient de Gensoul, Somerville s'est incliné. C'est Jean qui fait ouvrir les portes au départ et voit la foule s'y engouffrer.
 - **L'appareillage du 9 au soir**, en escorte du convoi des cargos : des familles sur le pont du *Volta*, un enfant qui ne parle pas, peut-être l'un des tirés au sort. La côte qui brûle derrière eux. Le 11, la flotte réunie dépasse le convoi ; dans la nuit du 11 au 12, le *Volta* le quitte pour rallier l'écran. Le convoi, lui, attendra au large du cap Teulada.
 
@@ -292,4 +293,4 @@ Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation m
 5. ✅ **La réunion finale** : la nuit du caboteur corse (chapitres 25-27).
 6. ✅ **L'hydravion** est perdu en mer.
 7. ✅ **La dernière image** (chapitre 27) : le retour du *Volta*, puis l'enterrement des Corses dans l'enclos du 12 juillet ; le vœu de saint Éphise ferme le chapitre (option A + B).
-8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; la procession du 1er mai 1940 (le vœu de 1652, renouvelé en 1656, et la première procession de 1657 sont confirmés) ; les CANT Z.501 et Z.506 d'Elmas.
+8. 🔎 **À documenter** : l'entrée des Allemands à Brest (19 juin 1940) ; l'ordre réel de Catapult ; le dernier *Bollettino di guerra* ; l'heure légale en Italie et à Gibraltar en 1940 ; l'hôpital San Giovanni di Dio en 1940 (religieuses, médecin-chef) ; la procession du 1er mai 1940 (présumée normale : l'Italie n'est pas encore en guerre, et le vœu n'a jamais été interrompu ; aucune source directe) ; les CANT Z.501 et Z.506 d'Elmas.

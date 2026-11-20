@@ -119,7 +119,7 @@ Environ **1 000 hommes** en tout : les équipages réduits des trois navires ; u
 
 **Le *Volta* et Brest** [histoire] : avant la guerre, le *Volta* et le *Mogador* formaient la 6ᵉ division de contre-torpilleurs de la **Force de Raid, basée à Brest**. Son équipage compte beaucoup de Brestois.
 
-**Le commandant du *Volta*** : **Jacquinet** [histoire : capitaine de corvette, commandant du *Volta* depuis août 1939 ; présence en juillet 1940 et prénom à confirmer 🔎 ; décision de l'auteur, 20 novembre 2026], capitaine de frégate en 1942, chef prudent, qui répond de son navire devant le Conseil. Il ne quitte pas son bord.
+**Le commandant du *Volta*** : le capitaine de frégate **Charles Jacquinet** [histoire : Charles-Victor-Émile Jacquinet, né à Toulon en 1896, capitaine de frégate en 1937, commandant du *Volta* de 1939 à 1941 (cité à l'ordre de l'Armée de mer pour Mers el-Kébir) ; dans notre histoire, capitaine de vaisseau en 1941, major général de la Marine en 1944, mort à Toulon en 1947 ; décision de l'auteur, 20 novembre 2026], chef prudent, qui répond de son navire devant le Conseil. Il ne quitte pas son bord.
 
 **Le protagoniste : un jeune officier du *Volta*** (décision de l'auteur) : un **personnage inventé**, **l'un des protagonistes du futur roman** : **enseigne de vaisseau** en 1942 (décision de l'auteur), de 22 à 25 ans : **Jean de Kerangal** (décision de l'auteur, B88).
 - **Pourquoi un jeune officier** (décision de l'auteur) : un commandant ne quitte jamais son navire ; il en a la responsabilité. Un officier subalterne, lui, peut mener une petite troupe à terre, loin de la rade.
