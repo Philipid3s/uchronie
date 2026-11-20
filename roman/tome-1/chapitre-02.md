@@ -2,6 +2,14 @@
 
 *Gibraltar, dimanche 30 juin – lundi 1er juillet 1940*
 
+> FIRM INTENTION OF H.M.G. THAT IF FRENCH WILL NOT ACCEPT ANY OF YOUR ALTERNATIVES THEY ARE TO BE DESTROYED.
+>
+> Intention ferme du gouvernement de Sa Majesté : si les Français n'acceptent aucune de vos options, ils doivent être détruits.
+> {: .trad}
+>
+> Signal de l'Amirauté au vice-amiral commandant la Force H, 1er juillet 1940, reçu à 18 h 46.
+> {: .source}
+
 Le Rocher avait mis son nuage.
 
 Tom Penhallow le regardait depuis le pont d'envol de l'*Ark Royal*, assis sur la roue d'un Swordfish, une tasse de thé refroidie entre les mains. Le vent d'est s'était levé dans la matinée, et l'air humide qui montait de la Méditerranée butait contre la falaise, s'élevait, se refroidissait et se changeait en nuage juste au-dessus de la crête. Le reste du ciel était d'un bleu sans défaut. Seul le Rocher portait cette longue bannière blanche, accrochée à son sommet comme un drapeau trop grand, qui s'effilochait vers l'ouest, au-dessus de la baie, et se reformait sans cesse au même endroit. Les gens d'ici appelaient cela le levant. Tom n'avait jamais rien vu de pareil. Il pensait qu'une montagne qui fabriquait ses propres nuages méritait qu'on la regarde.

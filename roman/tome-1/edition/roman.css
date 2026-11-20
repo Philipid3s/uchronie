@@ -47,7 +47,15 @@ body { margin: 0; hyphens: auto; -webkit-hyphens: auto; }
 .chapitre .lieu { text-align: center; font-style: italic; font-size: 10pt; color: var(--gris); margin: 0 0 14mm; text-indent: 0; }
 .chapitre p { margin: 0; text-align: justify; text-indent: 1.4em; orphans: 2; widows: 2; }
 .chapitre p.ouverture, .chapitre p.suite { text-indent: 0; }
-.chapitre p.ouverture::first-letter { font-size: 2.9em; float: left; line-height: 0.82; padding: 0.06em 0.08em 0 0; }
+.chapitre p.ouverture::first-line { font-variant: small-caps; letter-spacing: 0.04em; }
 .chapitre hr { border: none; margin: 1.1em 0; text-align: center; height: 1em; }
 .chapitre hr::after { content: "*"; font-size: 11pt; letter-spacing: 0.6em; color: var(--gris); }
 em { font-style: italic; }
+
+/* --- Pièce d'époque en tête de chapitre ----------------------------------------------------- */
+.chapitre .lieu { margin-bottom: 9mm; }
+.piece { margin: 0 4mm 11mm; padding: 3mm 0; border-top: 0.4pt solid var(--gris); border-bottom: 0.4pt solid var(--gris); }
+.piece p { text-indent: 0 !important; text-align: left; hyphens: manual; font-family: "IBM Plex Mono", "Courier New", monospace; font-size: 7.6pt; line-height: 1.45; margin: 0 0 1.6mm; }
+.piece p.trad { font-family: var(--serif); font-style: italic; font-size: 8.6pt; color: var(--gris); }
+.piece p.source { font-family: var(--serif); font-size: 7.8pt; color: var(--gris); text-align: right; margin: 2mm 0 0; }
+.piece em { font-style: italic; }

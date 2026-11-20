@@ -37,7 +37,7 @@ GABARIT = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <title>{titre}</title>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../roman.css">
 <script>window.PagedConfig = {{ auto: true, after: () => {{ window.__pagedDone = true; }} }};</script>
 <script src="../../../../edition/vendor/paged.polyfill.js"></script>
@@ -67,10 +67,15 @@ def chapitre_html(n, texte):
     m2 = re.search(r"^\*([^*\n]+)\*\s*$", texte, re.M)
     lieu = m2.group(1).strip()
     texte = texte[m2.end():]
-    corps = markdown.markdown(texte, extensions=["sane_lists"], output_format="html5")
+    corps = markdown.markdown(texte, extensions=["sane_lists", "attr_list"], output_format="html5")
+    # la pièce d'époque en tête de chapitre : le premier bloc de citation
+    corps = re.sub(r"^\s*<blockquote>(.*?)</blockquote>",
+                   lambda m: '<div class="piece">' + m.group(1) + '</div>', corps,
+                   count=1, flags=re.S)
     # classes explicites : Paged.js applique mal les sélecteurs de frères adjacents
     corps = re.sub(r"<hr>\s*<p>", '<hr><p class="suite">', corps)
-    corps = re.sub(r"^\s*<p>", '<p class="ouverture">', corps, count=1)
+    corps = re.sub(r"(</div>\s*|^\s*)<p>", lambda m: m.group(1) + '<p class="ouverture">',
+                   corps, count=1)
     return (f'<section class="chapitre"><h3><span class="no">{n}</span><span class="nom">{html.escape(nom)}</span></h3>'
             f'<p class="lieu">{html.escape(lieu)}</p>{corps}</section>')
 

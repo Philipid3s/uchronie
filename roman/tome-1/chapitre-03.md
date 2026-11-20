@@ -2,6 +2,14 @@
 
 *Cagliari, lundi 1er juillet 1940*
 
+> Un'incursione aerea nemica su Cagliari, con lancio di una trentina di bombe, non ha recato alcun danno alle cose; pochi feriti.
+>
+> Une incursion aérienne ennemie sur Cagliari, avec le largage d'une trentaine de bombes, n'a causé aucun dégât matériel ; quelques blessés.
+> {: .trad}
+>
+> *Bollettino di guerra* n° 14 du Quartier général des forces armées, 25 juin 1940 (extrait).
+> {: .source}
+
 À une heure, la radio de la salle des hommes donna le bulletin.
 
 Elle était posée sur une étagère, entre une boîte de compresses et une statuette de saint Vincent de Paul, et Suor Giuseppina la laissait allumer aux heures des bulletins, pour les malades, à condition qu'on baisse le son pendant les soins. Les hommes en attendaient l'heure comme on attend la soupe. À une heure moins deux minutes, ceux qui pouvaient se lever s'approchaient de l'étagère en pyjama, en traînant leurs pantoufles sur le carrelage ; les autres se tournaient dans leur lit, le visage vers l'étagère. Puis venaient les trois notes de l'indicatif, et la voix grave, un peu nasale, de l'EIAR.

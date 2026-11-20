@@ -16,7 +16,7 @@
 | **Les bornes** | De la **veille de l'impact** à l'**installation**, à l'automne 1940 |
 | **La méthode** | **Le script d'abord** (option 4A) : ce plan, puis la prose |
 | **La narration** | Troisième personne au plus près de chaque personnage, au passé, en français. Dialogues anglais et italiens rendus en français, avec quelques mots d'origine |
-| **Les pièces d'époque** | Entre les chapitres, des documents (signaux, journaux de bord, écoutes radio, ordonnances) qui rendent compte de **la situation mondiale** |
+| **Les pièces d'époque** | **En tête de chaque chapitre**, un document court (signal, bulletin, journal de bord, écoute radio, ordonnance) qui rend compte de **la situation mondiale** : réels avant la nuit de feu, inventés ensuite ; version originale puis traduction (§6) |
 | **La corvée d'Oran** | Avant de quitter Mers el-Kébir, une mission pour ramener en soute le maximum de vivres et d'eau : Jean à terre (chapitre 10, option A), Tom en reconnaissance au-dessus de l'Oranie (chapitre 8, option C) |
 | **Le ton** | **Éthéré** dans l'évocation des environnements d'après la catastrophe (§2) |
 | **La fin** | Une situation qui **réunit les trois protagonistes** à la fin du tome |
@@ -99,7 +99,7 @@
 
 ## 4. La structure
 
-Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de vue** (Jean, Tom, Efisia), sans ordre fixe. Entre les chapitres, des **pièces d'époque** (§6). Longueur visée [proposition] : 12 à 18 pages par chapitre, soit 350 à 450 pages.
+Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de vue** (Jean, Tom, Efisia), sans ordre fixe. En tête de chaque chapitre, une **pièce d'époque** (§6). Longueur visée [proposition] : 12 à 18 pages par chapitre, soit 350 à 450 pages.
 
 | Partie | Titre provisoire | Dates | Chapitres |
 |---|---|---|---|
@@ -252,30 +252,44 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 
 ---
 
-## 6. Les pièces d'époque [proposition]
+## 6. Les pièces d'époque [canon roman : décision de l'auteur, 20 novembre 2026]
 
-Chaque pièce fait d'une demi-page à deux pages. Elles portent **la situation mondiale**, que les personnages ne voient pas.
+**Le principe** : **chaque chapitre s'ouvre sur un document court** (5 à 15 lignes), entre le titre et le texte, dans une typographie à part. Les pièces portent **la situation mondiale**, que les personnages ne voient pas.
+- **Avant la nuit de feu (chapitres 1 à 3)** : uniquement des **documents réels**, cités et sourcés.
+- **À partir du chapitre 4** : des **documents inventés** dans le monde du roman (journaux de bord, écoutes, procès-verbaux, ordonnances). Le passage du vrai à l'inventé se fait au moment même de la catastrophe.
+- **Les textes étrangers** sont donnés **en version originale, puis traduits** en plus petit.
+- **Épilogue** : une dernière pièce après le chapitre 27.
 
-| Après le chapitre | Pièce | Source dans la bible |
-|---|---|---|
-| 1 | Les signaux de l'Amirauté à la Force H pour l'opération **Catapult**, 1er juillet 1940 (les quatre options du message de 2 h 25 ; « Firm intention of HMG that if French will not accept any of your alternatives they are to be destroyed », envoyé vers 18 h 20, reçu à 18 h 46) | [06](../../06-mers-el-kebir.md) §3 [histoire : rapport de Somerville, ADM 199/391, [transcription](https://www.hmshood.org.uk/reference/official/adm199/adm199-391_7-31.htm) ; résumé officiel de 1949] |
-| 3 | ***Bollettino di guerra* n° 21** du 1er juillet 1940, le dernier, diffusé à 13 h par l'EIAR : Graziani prend le commandement en Afrique du Nord après la mort de Balbo ; le destroyer *Espero* « deve ritenersi perduto » ; Sollum, Sidi Omar, Aden, Port-Soudan. Rien sur la Sardaigne [histoire : texte intégral sur [regioesercito.it](https://www.regioesercito.it/Bollettini/07_40.pdf)] |
-| 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | [06](../../06-mers-el-kebir.md) §2 |
-| 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | [06](../../06-mers-el-kebir.md) §4 bis |
-| 6 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
-| 7 | **Câble de l'amiral Duplat**, Toulon, nuit du 5 au 6 juillet : « Ne venez pas » | [33](../../33-toulon.md) §3 |
-| 9 | **L'appel en italien** de la flotte vers Cagliari et La Maddalena | [10](../../10-choix-du-refuge.md) §9 |
-| 12 | **L'accord de Cagliari**, 12 juillet (extrait du procès-verbal) | [10](../../10-choix-du-refuge.md) §9 ter |
-| 14 | Message capté : un poste américain du golfe du Mexique, ou une station de l'Oural | [07](../../07-le-monde-apres.md) §1, [16](../../16-contacts-radio.md) §3 |
-| 16 | **L'Ordonnance n° 1** : l'Inscription générale | [13](../../13-societe-de-bord.md) |
-| 18 | **Écoute de la Crète** : Cunningham et Godfroy s'installent | [37](../../37-ilot-de-l-est.md) |
-| 19 | **La voix de Sportiello**, 23 septembre (transcription) | [06](../../06-mers-el-kebir.md) §6 bis |
-| 21 | Rapport du service de santé : les arrivants de Bizerte | [16](../../16-contacts-radio.md) §4 |
-| 22 | **Le Code de l'Îlot**, premiers articles | [25](../../25-ark-royal.md) §2, [13](../../13-societe-de-bord.md) §5 |
-| 24 | **Dernier message reçu de la Crète**, novembre 1940 | [16](../../16-contacts-radio.md) §5 |
-| 27 | **Derniers appels de Bizerte**, décembre 1940 (épilogue) | [16](../../16-contacts-radio.md) §4 |
-
----
+| En tête du chapitre | Pièce | Statut | Source dans la bible |
+|---|---|---|---|
+| 1 | **Convention d'armistice franco-allemande**, article 8 (22 juin 1940) | réel ✅ écrit | [06](../../06-mers-el-kebir.md) §1 |
+| 2 | **Signal de l'Amirauté** à la Force H, 1er juillet 1940 : « Firm intention of H.M.G. … » | réel ✅ écrit | [06](../../06-mers-el-kebir.md) §3 |
+| 3 | ***Bollettino di guerra* n° 14**, 25 juin 1940 : le raid du 24 sur Cagliari | réel ✅ écrit | [10](../../10-choix-du-refuge.md) §8 |
+| 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | inventé | [06](../../06-mers-el-kebir.md) §2 |
+| 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | inventé | [06](../../06-mers-el-kebir.md) §4 bis |
+| 6 | **Registre des entrées de San Giovanni di Dio**, nuit du 1er au 2 juillet | inventé | [19](../../19-savoir-et-medecine.md) |
+| 7 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | inventé | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
+| 8 | **Câble de l'amiral Duplat**, Toulon, nuit du 5 au 6 juillet : « Ne venez pas » | inventé | [33](../../33-toulon.md) §3 |
+| 9 | **L'appel en italien** de la flotte vers Cagliari et La Maddalena, 7 juillet | inventé | [10](../../10-choix-du-refuge.md) §9 |
+| 10 | **Ordre du Conseil des Amiraux** pour la corvée d'Oran, 5 juillet | inventé | [06](../../06-mers-el-kebir.md) §4 bis |
+| 11 | **Instructions de Somerville et de Gensoul** pour l'entrée dans le golfe : « aborder en ami, pouvoir s'imposer » | inventé | [10](../../10-choix-du-refuge.md) §9 |
+| 12 | **L'accord de Cagliari**, 12 juillet (extrait du procès-verbal) | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
+| 13 | **Message capté** : un poste américain du golfe du Mexique, ou une station de l'Oural | inventé | [07](../../07-le-monde-apres.md) §1, [16](../../16-contacts-radio.md) §3 |
+| 14 | **Ordre d'opération** pour le Sulcis, fin juillet | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
+| 15 | **Avis de rationnement** affiché à la Marina, août | inventé | [11](../../11-ilot-de-civilisation.md) §7 |
+| 16 | **Rôle des passagers** des navires de Toulon, août | inventé | [33](../../33-toulon.md) |
+| 17 | **L'Ordonnance n° 1** : l'Inscription générale | inventé | [13](../../13-societe-de-bord.md) |
+| 18 | **Écoute de la Crète** : Cunningham et Godfroy s'installent | inventé | [37](../../37-ilot-de-l-est.md) |
+| 19 | **La voix de Sportiello**, 23 septembre (transcription) | inventé | [06](../../06-mers-el-kebir.md) §6 bis |
+| 20 | **Bulletin météorologique** de l'îlot : la première neige, octobre | inventé | [04](../../04-climat.md) §3 |
+| 21 | **Rapport du service de santé** : les arrivants de Bizerte | inventé | [16](../../16-contacts-radio.md) §4 |
+| 22 | **Le Code de l'Îlot**, premiers articles | inventé | [25](../../25-ark-royal.md) §2, [13](../../13-societe-de-bord.md) §5 |
+| 23 | **Ordre du Conseil** : l'aviation clouée au sol, 6 t d'essence sous scellés | inventé | [15](../../15-energie.md) §2 |
+| 24 | **Dernier message reçu de la Crète**, novembre 1940 | inventé | [16](../../16-contacts-radio.md) §5 |
+| 25 | **Le message de détresse du caboteur**, nuit du torpillage | inventé | [06](../../06-mers-el-kebir.md) §6 bis |
+| 26 | **Journal de bord du *Volta***, nuit du sauvetage | inventé | [06](../../06-mers-el-kebir.md) §6 bis |
+| 27 | **Registre des sépultures** de l'enclos du 12 juillet | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
+| *Épilogue* | **Derniers appels de Bizerte**, décembre 1940 | inventé | [16](../../16-contacts-radio.md) §4 |
 
 ## 7. Ce que le tome 1 ajoute à la bible [reporté dans 09 B115]
 

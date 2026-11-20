@@ -6,6 +6,11 @@
 
 *Mers el-Kébir, dimanche 30 juin 1940*
 
+> *Article 8.* — La flotte de guerre française, à l'exception de la partie qui est laissée à la disposition du Gouvernement français pour la sauvegarde de ses intérêts dans son empire colonial, sera rassemblée dans des ports à déterminer et devra être démobilisée et désarmée sous le contrôle de l'Allemagne ou respectivement de l'Italie. La désignation de ces ports sera faite d'après les ports d'attache des navires en temps de paix.
+>
+> Convention d'armistice franco-allemande, signée à Rethondes le 22 juin 1940 (extrait).
+> {: .source}
+
 À midi, la lumière ne tombait plus du ciel : elle montait de partout à la fois, de la mer, des tôles, de la pierre blanche de la jetée, et l'on ne savait plus où poser les yeux.
 
 L'enseigne de vaisseau Jean de Kerangal avait pris le quart à onze heures. Il se tenait à l'ombre étroite de l'abri de navigation, sur l'aileron tribord de la passerelle du *Volta*, et il regardait la rade comme on le lui avait appris, par secteurs, de droite à gauche, sans s'attarder, en revenant toujours au point de départ. Au point de départ, il y avait le *Dunkerque*.
