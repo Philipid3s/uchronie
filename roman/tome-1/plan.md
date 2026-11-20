@@ -182,26 +182,28 @@ Vingt-sept chapitres en **quatre parties**, en alternance **Jean – Tom – Efi
 
 ### Partie III — Sous les canons
 
-**13. Tom — mi-juillet, Elmas**
-- Les avions sont débarqués à Elmas. Tom se coupe la main sur une hélice (rien de grave) et se retrouve à San Giovanni di Dio. **Il fait rire Efisia** avec un italien impossible. Elle rit pour la première fois depuis la nuit.
+**13. Tom — mi-juillet, Elmas** [validé]
+- Les avions passent à terre, à Elmas. Il fait encore une quinzaine de degrés, mais on sent que cela ne durera pas. Tom se coupe la main sur une hélice (rien de grave) et se retrouve à San Giovanni di Dio, où l'on manque déjà de tout et où l'électricité vient par à-coups. **Il fait rire Efisia** avec un italien impossible. Elle rit pour la première fois depuis la nuit.
 
-**14. Jean — fin juillet, le Sulcis**
+**14. Jean — fin juillet, le Sulcis** [validé]
 - La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois.
-- La nuit, depuis la colline, une pâleur sur le Gennargentu : **la première neige**, fin juillet.
+- **La première neige** : une nuit, sur la colline, une neige mêlée de suie, grise, qui fond en touchant les mains. Le lendemain, le téléphone des carabiniers de Nuoro apporte la nouvelle : le Gennargentu est blanc (à cent kilomètres, dans le noir, on ne le voit pas).
 
-**15. Efisia — août, Cagliari**
-- Les émeutes, les réquisitions. Gigi est interné. Efisia lui porte du pain. Tom vient la chercher le soir et l'emmène voir les hydravions sur l'étang, dans le noir, à la lanterne.
+**15. Efisia — août, Cagliari** [validé]
+- **Un août glacial** (~5 °C à la mi-août) : on sort les manteaux d'hiver. Les émeutes de la faim, les réquisitions. Gigi est interné. Efisia lui porte du pain.
+- Tom vient la chercher le soir et l'emmène voir les hydravions sur l'étang : la lagune fume dans l'air froid, les CANT sortent du brouillard à la lanterne.
 
-**16. Tom — août, Elmas**
-- L'essence fond. Fin août, Tom demande à la section du *Strasbourg* de lui apprendre le **Loire 130** ; son chef, le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, fils d'un ouvrier de l'arsenal, ancien de la HS 1, accepte ; les leçons dureront tout l'automne. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Brest et Plymouth : leurs deux familles au nord, sans nouvelles. *« Un jour, on ira voir. »*
-- **L'arrivée de Toulon** : en août, l'*Algérie*, le *Dupleix* et des contre-torpilleurs entrent dans le golfe avec environ 1 500 personnes ([33](../../33-toulon.md)). Arnaud attend sur le quai des nouvelles de son père, ouvrier de l'arsenal. Tom le regarde attendre : c'est ce que c'est, attendre une famille. La scène prépare le « Un jour, on ira voir » [canon roman : option A].
+**16. Tom — août, Elmas** [validé]
+- **L'arrivée de Toulon** [canon roman : option A] : en août, l'*Algérie*, le *Dupleix* et des contre-torpilleurs entrent dans le golfe avec environ 1 500 personnes, des machines-outils et les médicaments de Sainte-Anne ([33](../../33-toulon.md)). Le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, chef de la section d'hydravions du *Strasbourg*, attend sur le quai des nouvelles de son père, ouvrier de l'arsenal. Son père n'est pas à bord : il est resté à l'arsenal, avec Duplat. Vivant, mais hors d'atteinte. Tom le regarde attendre : c'est ce que c'est, attendre une famille.
+- L'essence fond. Fin août, Tom demande à Arnaud de lui apprendre le **Loire 130** ; Arnaud, ancien de la HS 1, accepte, peut-être parce qu'il a besoin de s'occuper ; les leçons dureront tout l'automne. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Toulon, Brest, Plymouth : leurs trois familles, hors d'atteinte. *« Un jour, on ira voir. »*
 
-**17. Jean — fin août, la Marina**
-- **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner. Il entre chez les Deiana. Efisia lui fait face. Il cède sur ce qu'il peut, sans le dire.
+**17. Jean — fin août, la Marina** [validé]
+- **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner : le grain, mais aussi, dans le froid, les couvertures, le bois, les poêles. Il entre chez les Deiana. Efisia lui fait face. Il leur laisse leur poêle : il cède sur ce qu'il peut, sans le dire.
 - Il voit Tom et elle ensemble. Il se tait.
 
-**18. Efisia — fin août – septembre**
-- Face aux émeutes, le Conseil choisit de rester à bord du *Dunkerque* plutôt que de s'installer au Palazzo Regio. Les malades passent à bord : Efisia rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Elle apprend le français d'hôpital.
+**18. Efisia — fin août – septembre** [validé]
+- Face aux émeutes, le Conseil choisit de rester à bord du *Dunkerque* plutôt que de s'installer au Palazzo Regio.
+- **L'hôpital passe sur les navires** : seuls les navires ont l'électricité, la chaleur et la vapeur pour stériliser ; San Giovanni di Dio se vide dans le froid (il ne redeviendra l'hôpital de l'îlot qu'en 1944, [19](../../19-savoir-et-medecine.md)). Efisia suit ses malades et rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Quitter son hôpital et sa ville pour un navire français : un déchirement. Elle apprend le français d'hôpital.
 - Elle voit Tom s'attarder près d'une infirmière d'Oran. Elle n'est pas surprise.
 
 ### Partie IV — Le premier froid
