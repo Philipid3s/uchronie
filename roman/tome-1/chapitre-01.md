@@ -8,11 +8,11 @@
 
 À midi, la lumière ne tombait plus du ciel : elle montait de partout à la fois, de la mer, des tôles, de la pierre blanche de la jetée, et l'on ne savait plus où poser les yeux.
 
-L'enseigne de vaisseau Jean de Kerangal avait pris le quart à onze heures. Il se tenait à l'ombre étroite de l'abri de navigation, sur l'aileron tribord de la passerelle du *Volta*, et il regardait la rade comme on lui avait appris à la regarder, par secteurs, de droite à gauche, sans s'attarder, en revenant toujours au point de départ. Au point de départ, il y avait le *Dunkerque*.
+L'enseigne de vaisseau Jean de Kerangal avait pris le quart à onze heures. Il se tenait à l'ombre étroite de l'abri de navigation, sur l'aileron tribord de la passerelle du *Volta*, et il regardait la rade comme on le lui avait appris, par secteurs, de droite à gauche, sans s'attarder, en revenant toujours au point de départ. Au point de départ, il y avait le *Dunkerque*.
 
 Les grands bâtiments étaient amarrés en ligne, l'arrière à la jetée, l'avant tourné vers les montagnes : le *Dunkerque*, puis la *Provence*, puis le *Strasbourg*, puis la *Bretagne*, avec la masse claire du *Commandant Teste* un peu plus loin. Vus de la passerelle d'un contre-torpilleur, ils n'avaient pas l'air de navires. Ils avaient l'air de quartiers d'une ville grise, posés sur l'eau, avec leurs rues de coursives, leurs places de pont, leurs clochers de télémètres. Des tauds de toile tendus sur les plages arrière donnaient un peu d'ombre aux hommes de corvée. Rien ne bougeait d'autre que la fumée légère des cheminées, qui montait droit, sans un souffle pour la coucher, et se perdait dans le blanc.
 
-Au-dessus de tout cela, le djebel Santon tenait la rade dans sa paume. La montagne était brûlée de soleil jusqu'à la crête, d'un brun de vieux cuir, et le vieux fort espagnol, au bout de la pointe, avait la couleur du pain. De l'autre côté de la baie, à huit kilomètres vers l'est, Oran tremblait dans la chaleur, blanche, en terrasses, sous la chapelle de Santa Cruz perchée sur son rocher. Par moments, la ville semblait flotter un peu au-dessus de la mer, détachée d'elle par une lame de lumière.
+Au-dessus de tout cela, le djebel Santon tenait la rade dans sa paume. La montagne était brûlée de soleil jusqu'à la crête, d'un brun de vieux cuir, et le fort espagnol, au bout de la pointe, avait la couleur du pain. De l'autre côté de la baie, à huit kilomètres vers l'est, Oran tremblait dans la chaleur, blanche, en terrasses, sous la chapelle de Santa Cruz perchée sur son rocher. Par moments, la ville semblait flotter un peu au-dessus de la mer, détachée d'elle par une lame de lumière.
 
 Jean avait vingt-deux ans. Il était sorti de l'École navale deux ans plus tôt, avait fait sa croisière sur la *Jeanne d'Arc*, et servait sur le *Volta* depuis l'automne, comme officier de quart et adjoint au canonnier. Il aimait le quart de midi pour une raison qu'il n'aurait avouée à personne : c'était l'heure où le bord était le plus lui-même. Les hommes rentraient de la corvée de pont, les cuisines sentaient l'huile chaude et le pain, les sifflets du maître d'équipage tombaient à heures fixes, et chaque bruit avait sa place dans la journée comme chaque objet avait sa place dans les caissons. Le *Volta* était un monde fini. On en connaissait les limites, les poids, les lois. On savait ce qu'il fallait faire à chaque minute, et pourquoi.
 
@@ -20,13 +20,13 @@ Jean avait vingt-deux ans. Il était sorti de l'École navale deux ans plus tôt
 
 ---
 
-Le timonier piqua huit coups. Jean nota l'heure, la température de l'air, trente-quatre degrés à l'ombre de la passerelle, l'état de la mer, plate, et l'absence de vent sur le journal de quart, de son écriture appliquée d'élève, que le commandant lui reprochait d'être trop lente. Puis il se retourna vers la rade.
+Le timonier piqua huit coups. Jean porta au journal de quart l'heure, la température, trente-quatre degrés à l'ombre de la passerelle, la mer plate, le vent nul. Il avait gardé une écriture d'élève, appliquée, que le commandant trouvait trop lente. Puis il se retourna vers la rade.
 
 Un canot à moteur du *Dunkerque* traversait le plan d'eau en traînant derrière lui une moustache d'écume qui ne se refermait pas. Il portait un officier en blanc, assis bien droit à l'arrière, une serviette de cuir sur les genoux. Le courrier de l'amiral, sans doute. Il n'y avait plus que cela, du courrier d'amiral : des ordres, des contrordres, des télégrammes de l'Amirauté repliée on ne savait plus où, Bordeaux, puis Nérac, une sous-préfecture du Lot-et-Garonne dont Jean n'aurait pas su dire, un mois plus tôt, qu'elle existait. Le courrier des familles, lui, ne passait plus.
 
-Il le savait depuis le 19 juin. Ce jour-là, à bord, on avait appris que les Allemands étaient entrés dans Brest. Il revoyait encore le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se représenter la chose. Il n'y arrivait toujours pas. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
+Il l'avait compris le 19 juin. Ce jour-là, à bord, on avait appris que les Allemands étaient entrés dans Brest. Il revoyait encore le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se représenter la chose. Il n'y arrivait toujours pas. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
 
-Depuis, il ne savait rien. Ni de son père, ancien officier des équipages, qui avait voulu reprendre du service en septembre et qu'on avait gentiment renvoyé à ses rosiers ; ni de sa mère ; ni de Soizic, qui avait eu dix-sept ans en avril et qui voulait faire médecine, ce qui faisait soupirer leur père. Ni s'ils étaient restés. Ni s'ils étaient partis. Il n'y avait pas de lettre, pas de télégramme, pas de poste, et la radio du gouvernement, qui changeait de ville tous les trois jours, ne parlait pas de Brest.
+Depuis, rien. Rien de son père, ancien officier des équipages, qui avait voulu reprendre du service en septembre, qu'on avait gentiment renvoyé à ses rosiers, et qui soupirait chaque fois que Soizic parlait de faire médecine ; rien de sa mère ; rien de Soizic elle-même, dix-sept ans depuis avril. Ni s'ils étaient restés. Ni s'ils étaient partis. Il n'y avait pas de lettre, pas de télégramme, pas de poste, et la radio du gouvernement, qui changeait de ville tous les trois jours, ne parlait pas de Brest.
 
 Il se força à revenir à la rade. Droite, gauche, point de départ.
 
@@ -48,7 +48,7 @@ Le canonnier leva les yeux de son assiette.
 
 — Je plaisante, Commandant. Enfin, Capitaine.
 
-C'était le sujet de tous les repas depuis cinq jours. L'armistice était signé depuis le 22 juin avec les Allemands, depuis le 24 avec les Italiens, et il était entré en vigueur le 25 à zéro heure trente-cinq, heure à laquelle Jean, de quart, avait noté dans le journal « cessation des hostilités », puis avait regardé un long moment la ligne qu'il venait d'écrire. On en connaissait les grandes lignes par les télégrammes de l'Amirauté et par les postes de radio des marins. La flotte ne serait pas livrée. Elle serait désarmée, sous le contrôle des commissions allemande et italienne, dans ses ports d'attache du temps de paix. Le port d'attache de la Force de Raid, c'était Brest. Brest était occupée. On parlait donc de Toulon, où l'Amirauté obtiendrait sans doute qu'on aille se faire désarmer, dans la zone libre, entre Français. On en parlait comme d'une maladie dont on aurait connu le nom mais pas la durée.
+Depuis cinq jours, on ne parlait que de cela. L'armistice avait été signé le 22 juin avec les Allemands, le 24 avec les Italiens, et il était entré en vigueur le 25 à zéro heure trente-cinq. Jean était de quart cette nuit-là. Il avait écrit dans le journal « cessation des hostilités », puis il était resté un long moment devant ces trois mots. Les télégrammes de l'Amirauté et les postes des marins en avaient appris l'essentiel au bord. La flotte ne serait pas livrée. Elle serait désarmée dans ses ports d'attache du temps de paix, sous le contrôle des commissions allemande et italienne. Celui de la Force de Raid était Brest, et Brest était occupée : l'Amirauté obtiendrait sans doute qu'on aille se faire désarmer à Toulon, en zone libre, entre Français. On en parlait comme d'une maladie dont on aurait su le nom, mais pas la durée.
 
 — Toulon, ce n'est pas si mal, dit l'ingénieur. Il y a des femmes, il y a du soleil, il y a la bouillabaisse.
 
@@ -60,7 +60,7 @@ On rit. Jean mangea sa soupe froide. Il pensait que, pour les Provençaux du bor
 
 — Et les Anglais ? demanda un des enseignes.
 
-Il y eut un silence, de ceux qui suivent une question qu'on se pose tous et qu'on ne dit jamais tout haut.
+Il y eut ce silence qui suit une question que chacun se pose et que personne ne pose tout haut.
 
 — Les Anglais sont à Gibraltar, dit le canonnier. Le *Hood* y serait arrivé la semaine dernière. Et l'*Ark Royal*. On dit qu'ils rassemblent une escadre.
 
@@ -70,7 +70,7 @@ Il y eut un silence, de ceux qui suivent une question qu'on se pose tous et qu'o
 
 — Ou pour venir voir ce qu'on fait de nos bateaux, dit l'ingénieur.
 
-Personne ne répondit. Jean se souvenait des Anglais de l'hiver, en mer du Nord, puis en Norvège, des destroyers gris qu'on croisait dans la neige et qui vous saluaient d'un coup de sirène, des officiers qu'on recevait au carré à Scapa et qui buvaient le vin rouge avec une politesse de convalescents. Il parlait leur langue. Une gouvernante irlandaise, quand il avait sept ans, puis trois étés chez des amis de son père à Plymouth, de l'autre côté de la Manche, en face de Brest, dans une ville qui ressemblait à la sienne en plus rouge et en plus gaie, avec une rade aussi, et des navires gris aussi, et des garçons de son âge qui voulaient aussi entrer dans la marine. Il n'arrivait pas à penser aux Anglais comme à des gens qui pourraient venir voir ce qu'on faisait de nos bateaux.
+Personne ne répondit. Jean se souvenait des Anglais de l'hiver, en mer du Nord, puis en Norvège, des destroyers gris qu'on croisait dans la neige et qui vous saluaient d'un coup de sirène, des officiers qu'on recevait au carré à Scapa et qui buvaient le vin rouge avec une politesse de convalescents. Il parlait leur langue : une gouvernante irlandaise quand il avait sept ans, puis trois étés à Plymouth, chez des amis de son père. Plymouth, en face de Brest, de l'autre côté de la Manche : une ville qui ressemblait à la sienne, en plus rouge et en plus gai, avec une rade, des navires gris et des garçons de son âge qui voulaient entrer dans la marine. Il n'arrivait pas à penser aux Anglais comme à des gens qui pourraient venir voir ce qu'on faisait de nos bateaux.
 
 La porte du carré s'ouvrit. Tout le monde se leva.
 
@@ -104,7 +104,7 @@ Le commandant le reçut à seize heures, dans sa chambre, une cabine à peine pl
 
 — Non, Commandant. Depuis le 19.
 
-Jacquinet hocha la tête. Il regarda un moment par le hublot, où l'on voyait un morceau de jetée et un morceau de ciel.
+Jacquinet resta un moment silencieux, les yeux sur le hublot, où l'on voyait un morceau de jetée et un morceau de ciel.
 
 — Moi non plus, dit-il. Pas de Toulon, je veux dire. Le courrier passe, mais il passe mal. Ce n'est pas une consolation. Je voulais seulement vous dire que je le sais. Il y a près de quatre-vingts Bretons à bord, dont une trentaine du Finistère. Le second en a la liste. Si l'Amirauté obtient un jour quelque chose pour les familles de la zone occupée, nouvelles, colis, cartes, je veux que ce soit vous qui vous en occupiez. Vous êtes du pays, vous avez la tête froide, et les hommes vous parlent.
 
@@ -124,7 +124,7 @@ Il se leva, ce qui voulait dire que l'entretien était fini. À la porte, il ajo
 
 ---
 
-Jean écrivit à cinq heures, dans sa chambre, assis sur la couchette parce que la table était occupée par les cartes de l'officier en second, qu'il partageait avec Rousseau et dont il avait l'usage une heure sur trois. Le hublot donnait à bâbord, sur l'eau, et la lumière y entrait en reflets mobiles qui dansaient au plafond. Il faisait si chaud que la sueur de son poignet gondolait le papier. Il glissa une feuille de buvard sous sa main.
+Jean écrivit à cinq heures, assis sur sa couchette : la petite table de la chambre qu'il partageait avec Rousseau était couverte des cartes de l'officier en second. Le hublot donnait à bâbord, sur l'eau, et la lumière y entrait en reflets mobiles qui dansaient au plafond. Il faisait si chaud que la sueur de son poignet gondolait le papier. Il glissa une feuille de buvard sous sa main.
 
 *Mers el-Kébir, le 30 juin 1940.*
 
@@ -132,7 +132,7 @@ Jean écrivit à cinq heures, dans sa chambre, assis sur la couchette parce que 
 
 *Je ne sais pas si cette lettre vous parviendra, ni quand, ni comment. Je l'écris tout de même, parce que le commandant me l'a conseillé et parce que j'en ai besoin. Je vais bien. Le bateau va bien. Il fait une chaleur que vous n'imaginez pas, une chaleur qui a l'air solide, qu'on pourrait couper au couteau et ranger dans les caissons pour l'hiver. Vous en auriez l'usage, je pense, rue de la Porte, en janvier.*
 
-Il s'arrêta. Il ne savait pas s'ils étaient encore rue de la Porte. Il ne savait pas s'il y aurait un janvier comme les autres, avec le charbon qu'on monte de la cave et le froid humide qui entre par les fenêtres du côté de la rade. Il ne savait rien, et il venait d'écrire une plaisanterie sur une maison qui n'était peut-être plus la leur. Il faillit déchirer la feuille. Il ne le fit pas. Il continua.
+Il s'arrêta. Il ignorait s'ils étaient encore rue de la Porte. Il ne savait pas s'il y aurait un janvier comme les autres, avec le charbon qu'on monte de la cave et le froid humide qui entre par les fenêtres du côté de la rade. Il ne savait rien, et il venait d'écrire une plaisanterie sur une maison qui n'était peut-être plus la leur. Il faillit déchirer la feuille. Il ne le fit pas. Il continua.
 
 *Nous ne savons pas encore où nous irons. On parle de Toulon. Si c'est Toulon, je ne pourrai pas rentrer, je crois, avant longtemps, à cause de la ligne. Je n'arrive pas à me représenter cette ligne. Je l'imagine comme une ligne sur une carte marine, un trait de crayon qu'on gomme à la fin du quart. Je sais que ce n'est pas cela.*
 
@@ -152,7 +152,7 @@ Puis, après un moment, il ajouta en bas de la page, d'une écriture plus petite
 
 *Ici, le soir, la lumière est d'or et on pourrait croire que rien n'arrivera jamais.*
 
-Il plia la lettre en trois, la glissa dans une enveloppe, écrivit l'adresse, *Monsieur et Madame Yves de Kerangal, 14, rue de la Porte, Brest (Finistère)*, et regarda l'enveloppe posée sur son genou. Il n'y avait pas de timbre qui servît à quelque chose. Il n'y avait pas de bureau de poste qui l'acceptât. Il y avait une enveloppe blanche, avec une adresse, dans une chambre de contre-torpilleur, à deux mille kilomètres d'une ville où les Allemands faisaient peut-être, en ce moment même, la queue devant la boulangerie de la rue de Siam.
+Il plia la lettre en trois, la glissa dans une enveloppe, écrivit l'adresse, *Monsieur et Madame Yves de Kerangal, 14, rue de la Porte, Brest (Finistère)*, et regarda l'enveloppe posée sur son genou. Il n'y avait pas de timbre qui servît à quelque chose. Il n'y avait pas de bureau de poste qui l'acceptât. Il y avait une enveloppe blanche, avec une adresse, dans une chambre de contre-torpilleur, à près de deux mille kilomètres d'une ville où les Allemands faisaient peut-être, en ce moment même, la queue devant la boulangerie de la rue de Siam.
 
 On frappa à la porte. Garrec entra sans attendre la réponse.
 
@@ -172,7 +172,7 @@ Il s'assit sur la couchette d'en face, celle de Rousseau, sans façon, et vit l'
 
 — Brest.
 
-Garrec se tut. C'était sa manière de dire qu'il comprenait : il se taisait, ce qui lui arrivait rarement. Ses parents à lui étaient à Lorient, et Lorient aussi était occupée, depuis le 21. Il ne parlait jamais d'eux. Jean ne lui posait pas de questions.
+Garrec ne dit rien, ce qui lui arrivait rarement : c'était sa manière de dire qu'il comprenait. Ses parents à lui étaient à Lorient, et Lorient aussi était occupée, depuis le 21. Il ne parlait jamais d'eux. Jean ne lui posait pas de questions.
 
 — Écoute, dit Garrec au bout d'un moment. J'ai ma permission pour demain soir. Le patron l'a confirmée.
 
@@ -184,7 +184,7 @@ Il désigna l'enveloppe du menton.
 
 — Donne-la-moi. Je la lui confie demain soir avec la mienne. Si elle n'arrive pas, tu n'as rien perdu.
 
-Jean regarda l'enveloppe. Il eut une envie violente de la tendre, tout de suite, comme on se débarrasse d'un poids, et une envie aussi forte de la garder. Il ne savait pas pourquoi. Il pensa que, tant qu'elle était là, sur son genou, elle était encore à lui, et que ce qu'elle disait était encore vrai ; et que, dans la poche d'un patron de chalutier espagnol, entre Oran et Alicante, elle deviendrait une chose perdue parmi d'autres.
+Jean regarda l'enveloppe. Il eut une envie violente de la tendre, tout de suite, comme on se débarrasse d'un poids, et une envie aussi forte de la garder. Il n'aurait pas su dire pourquoi. Il pensa que, tant qu'elle était là, sur son genou, elle était encore à lui, et que ce qu'elle disait était encore vrai ; et que, dans la poche d'un patron de chalutier espagnol, entre Oran et Alicante, elle deviendrait une chose perdue parmi d'autres.
 
 — Demain, dit-il. Je te la donne demain, avant que tu descendes. Je veux la relire.
 
@@ -194,7 +194,7 @@ Jean regarda l'enveloppe. Il eut une envie violente de la tendre, tout de suite,
 
 — J'y vais demain soir, justement. On dit qu'il y a un nouveau bar rue d'Arzew où la patronne a de la famille à Quimper. Je te rapporterai des nouvelles du diable.
 
-Il se leva, s'étira, et sa tête toucha presque le plafond, où dansaient toujours les reflets de l'eau.
+Il se leva et s'étira sous les reflets de l'eau, qui dansaient toujours au plafond.
 
 — Monte voir les hydravions, dit-il. Ils rentrent. C'est beau.
 
@@ -204,7 +204,7 @@ Ils montèrent ensemble sur la plage arrière.
 
 Le soleil était bas sur le djebel Santon, et la lumière avait changé de nature. Elle ne montait plus de partout : elle venait de l'ouest, horizontale, épaisse, d'un or qui se posait sur chaque chose et la séparait des autres. Les superstructures des cuirassés étaient devenues des falaises, roses du côté du couchant, bleues de l'autre. Les tourelles du *Strasbourg* avaient des ombres longues comme des rues. Sur l'eau, chaque canot traînait derrière lui une ligne de feu.
 
-Le premier hydravion arrivait de la mer, bas, lentement, avec un ronflement de moteur qui n'avait rien de guerrier : un bruit de bourdon tranquille, qui roulait sur l'eau plate et revenait en écho de la montagne. C'était un Loire 130, l'un de ceux du *Strasbourg*, rentré d'on ne savait quelle reconnaissance au large. Jean le vit se poser à quelques encablures du cuirassé, dans une gerbe brève qui s'alluma dans le soleil, puis courir sur son ventre, ralentir, s'arrêter. Le moteur toussa et se tut. Dans le silence revenu, on entendit des voix, très loin, celles des hommes de la vedette qui allait à sa rencontre, et le grincement de la grue qu'on orientait sur l'arrière du *Strasbourg*.
+Le premier hydravion arrivait de la mer, bas, lentement, avec un ronflement de moteur qui n'avait rien de guerrier : un bruit de bourdon tranquille, qui roulait sur l'eau plate et revenait en écho de la montagne. C'était un Loire 130, l'un de ceux du *Strasbourg*, rentré de quelque reconnaissance au large. Jean le vit se poser à quelques encablures du cuirassé, dans une gerbe brève qui s'alluma dans le soleil, puis courir sur son ventre, ralentir, s'arrêter. Le moteur toussa et se tut. Dans le silence revenu, on entendit des voix, très loin, celles des hommes de la vedette qui allait à sa rencontre, et le grincement de la grue qu'on orientait sur l'arrière du *Strasbourg*.
 
 Un deuxième appareil apparut au-dessus de la pointe, plus haut. Il fit un tour au-dessus de la rade, comme pour la regarder une dernière fois avant la nuit, et Jean vit ses ailes prendre la lumière, puis la perdre, puis la reprendre.
 
@@ -214,11 +214,11 @@ Un deuxième appareil apparut au-dessus de la pointe, plus haut. Il fit un tour 
 
 — Non. Ils voient tout en même temps. La rade, Oran, la mer, peut-être l'Espagne. Ils voient le bord du monde. Nous, on voit la jetée.
 
-Le second Loire 130 se posa à son tour. La grue du *Strasbourg* pivota lentement, son crochet au bout d'un câble qui brillait comme un fil d'araignée, et le premier hydravion monta hors de l'eau en ruisselant, se balança un instant, suspendu entre la mer et le ciel, puis vint se poser sur son ber, sur la plage arrière du cuirassé. Sur le pont, de petites silhouettes blanches s'affairaient autour de lui. L'une d'elles leva le bras vers le pilote, qui sortait de son poste. Le pilote leva le bras aussi.
+Le second Loire 130 se posa à son tour. La grue du *Strasbourg* pivota lentement, son crochet au bout d'un câble qui brillait comme un fil d'araignée, et le premier hydravion monta hors de l'eau en ruisselant, se balança un instant, suspendu entre la mer et le ciel, puis vint reposer sur son ber, à l'arrière du cuirassé. Sur le pont, de petites silhouettes blanches s'affairaient autour de lui. L'une d'elles leva le bras vers le pilote, qui sortait de son poste. Le pilote leva le bras aussi.
 
 Le soleil toucha la crête du Santon. Pendant une minute, la rade entière fut d'un rouge très doux, presque rose, et Jean pensa, sans savoir pourquoi, aux couchers de soleil de son enfance sur la rade de Brest, en août, quand le ciel derrière le goulet devenait de cette couleur-là et que sa mère disait que le temps changerait le lendemain. Puis le soleil passa derrière la montagne, et tout devint bleu.
 
-Sur les cuirassés, on rentrait les couleurs. Les clairons sonnèrent, l'un après l'autre, d'un bâtiment à l'autre, comme un écho qui aurait fait le tour de la rade. Jean et Garrec se mirent au garde-à-vous, face au pavillon du *Volta* qui descendait lentement le long de sa drisse. Les sons des clairons traînèrent sur l'eau et se perdirent contre le flanc de la montagne. Puis il n'y eut plus que le silence, et le clapot très léger de la mer contre la coque, et, quelque part sur la jetée, un homme qui chantait en arabe.
+Sur les cuirassés, on rentrait les couleurs. Les clairons sonnèrent, l'un après l'autre, d'un bâtiment à l'autre, comme un écho qui aurait fait le tour de la rade. Jean et Garrec se mirent au garde-à-vous, face au pavillon du *Volta* qui descendait lentement le long de sa drisse. Les notes traînèrent sur l'eau et se perdirent contre le flanc de la montagne. Puis il n'y eut plus que le silence, et le clapot très léger de la mer contre la coque, et, quelque part sur la jetée, un homme qui chantait en arabe.
 
 — Demain, dit Garrec, je te rapporte des nouvelles du diable.
 
@@ -236,6 +236,6 @@ Il pensa qu'il faudrait relire la lettre, demain, et la donner à Garrec avant q
 
 Vers onze heures, un vent très faible se leva de la terre, chargé d'une odeur de résine chaude et de poussière, l'odeur des pinèdes du Murdjadjo qui avaient cuit toute la journée au soleil. Il le respira longtemps. Puis il descendit, rangea l'enveloppe dans le tiroir de la table, sous son livre de prières et ses tables de logarithmes, et se coucha sans allumer, dans la chaleur, les yeux ouverts sur les reflets qui ne dansaient plus au plafond.
 
-Le bord dormait. Il entendait les bruits du bord : les pompes, très loin, au fond de la coque ; un pas sur le pont, celui de l'homme de garde ; une porte de fer qu'on refermait doucement quelque part ; les ventilateurs. Il connaissait chacun de ces bruits. Il savait à quoi chacun servait. Il s'endormit en les comptant, comme on compte les feux d'une côte qu'on connaît par cœur, en revenant toujours au point de départ.
+Le bord dormait. Il en entendait les bruits : les pompes, très loin, au fond de la coque ; un pas sur le pont, celui de l'homme de garde ; une porte de fer qu'on refermait doucement quelque part ; les ventilateurs. Il connaissait chacun de ces bruits. Il savait à quoi chacun servait. Il s'endormit en les comptant, comme on compte les feux d'une côte qu'on connaît par cœur, en revenant toujours au point de départ.
 
 C'était la dernière nuit du monde d'avant. Il ne le savait pas. Personne ne le savait.
