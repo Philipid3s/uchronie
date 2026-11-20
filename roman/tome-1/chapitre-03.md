@@ -4,11 +4,11 @@
 
 À une heure, la radio de la salle des hommes donna le bulletin.
 
-Elle était posée sur une étagère, entre une boîte de compresses et une statuette de saint Vincent de Paul, et Suor Giuseppina la laissait allumer à midi et le soir, pour les malades, à condition qu'on baisse le son pendant les soins. Les hommes en attendaient l'heure comme on attend la soupe. À une heure moins deux minutes, ceux qui pouvaient se lever s'approchaient de l'étagère en pyjama, en traînant leurs pantoufles sur le carrelage ; les autres se tournaient dans leur lit, la tête vers la voix. Puis venaient les trois notes de l'indicatif, et la voix grave, un peu nasale, de l'EIAR.
+Elle était posée sur une étagère, entre une boîte de compresses et une statuette de saint Vincent de Paul, et Suor Giuseppina la laissait allumer à midi et le soir, pour les malades, à condition qu'on baisse le son pendant les soins. Les hommes en attendaient l'heure comme on attend la soupe. À une heure moins deux minutes, ceux qui pouvaient se lever s'approchaient de l'étagère en pyjama, en traînant leurs pantoufles sur le carrelage ; les autres se tournaient dans leur lit, le visage vers l'étagère. Puis venaient les trois notes de l'indicatif, et la voix grave, un peu nasale, de l'EIAR.
 
 — *Il Quartier Generale delle Forze Armate comunica…*
 
-Efisia Deiana écoutait en changeant le pansement du vieux Melis, un pêcheur de Sant'Elia qui s'était ouvert la jambe sur une ancre et que la plaie, en trois semaines, avait rendu gris. Le maréchal Graziani avait rejoint la Libye en avion et pris le commandement de toutes les forces armées d'Afrique du Nord. Un torpilleur avait coulé un sous-marin ennemi. Un sous-marin avait abattu un quadrimoteur anglais. Le destroyer *Espero*, après avoir héroïquement soutenu un combat contre trois croiseurs et plusieurs destroyers anglais, n'était pas rentré à sa base et devait être considéré comme perdu.
+Efisia Deiana écoutait en changeant le pansement du vieux Melis, un pêcheur de Sant'Elia qui s'était ouvert la jambe sur une ancre et que la plaie, en trois semaines, avait rendu gris. Le maréchal Graziani avait rejoint la Libye en avion et pris le commandement de toutes les forces armées d'Afrique du Nord. Un torpilleur avait coulé un sous-marin ennemi. Un de nos sous-marins avait abattu un quadrimoteur anglais. Le destroyer *Espero*, après avoir héroïquement soutenu un combat contre trois croiseurs et plusieurs destroyers anglais, n'était pas rentré à sa base et devait être considéré comme perdu.
 
 — Perdu, dit le vieux Melis. Ils disent perdu comme on dit d'un parapluie.
 
@@ -28,9 +28,9 @@ Efisia noua le pansement. Elle pensa aux Français, et sa bouche se durcit.
 
 ---
 
-Elle avait vingt et un ans. Elle était infirmière à San Giovanni di Dio depuis deux ans, après deux ans d'école chez les sœurs, et elle connaissait l'hôpital comme on connaît une maison où l'on a grandi : ses longues salles voûtées, ses fenêtres hautes, ses cours à arcades où séchaient les draps, la pharmacie qui sentait l'éther et la cire, la chapelle où les religieuses chantaient matines dans le noir. C'était un grand bâtiment classique, blanc et ocre, bâti au siècle dernier sur le flanc de Stampace, à l'ouest du Castello. De ses fenêtres, on voyait toute la ville descendre vers le port, et au-delà, le golfe, et au-delà encore, par temps clair, les montagnes bleues du Sulcis.
+Elle avait vingt et un ans. Elle était infirmière à San Giovanni di Dio depuis deux ans, après l'école des sœurs, et elle connaissait l'hôpital comme on connaît une maison où l'on a grandi : ses longues salles voûtées, ses fenêtres hautes, ses cours à arcades où séchaient les draps, la pharmacie qui sentait l'éther et la cire, la chapelle où les religieuses chantaient matines dans le noir. C'était un grand bâtiment classique, blanc et ocre, élevé au siècle dernier sur le flanc de Stampace, à l'ouest du Castello. De ses fenêtres, on voyait toute la ville descendre vers le port, et au-delà, le golfe, et au-delà encore, par temps clair, les montagnes bleues du Sulcis.
 
-Elle était née à la Marina, en bas, dans le quartier du port, d'un père docker et d'une mère qui faisait des ménages chez les dames du Castello. On l'avait appelée Efisia à cause du saint, parce qu'elle était née un 1er mai, le jour où l'on porte saint Éphise jusqu'à Nora, et que sa mère l'avait mise au monde en entendant passer la procession sous ses fenêtres. Elle n'avait pas la piété de sa mère. Elle avait la sienne, faite d'arrangements et de reproches, comme avec un parent qui ne tient pas toujours ses promesses. Mais elle aimait le saint. Il avait sauvé la ville de la peste, une fois. Elle ne voyait pas pourquoi il n'en ferait pas autant pour d'autres choses.
+Elle avait grandi à la Marina, en bas, dans le quartier du port, entre un père docker et une mère qui faisait des ménages chez les dames du Castello. On l'avait appelée Efisia à cause du saint : elle était née un 1er mai, le jour où l'on porte saint Éphise jusqu'à Nora, et sa mère avait entendu passer la procession sous ses fenêtres en la mettant au monde. Elle n'avait pas la piété de sa mère. Elle avait la sienne, faite d'arrangements et de reproches, comme avec un parent qui ne tient pas toujours ses promesses. Mais elle aimait le saint. Il avait sauvé la ville de la peste, une fois. Elle ne voyait pas pourquoi il n'en ferait pas autant pour d'autres choses.
 
 À quatre heures, le professeur Pinna fit sa visite.
 
@@ -44,7 +44,7 @@ Il s'arrêta au lit du vieux Melis, souleva le pansement, regarda la plaie, rega
 
 — C'est propre. Ça ne suffira pas. Il faudra couper au-dessous du genou, si demain ça ne va pas mieux. Prévenez Suor Giuseppina.
 
-Le vieux Melis avait entendu. Il ne dit rien. Il regardait le plafond.
+Le vieux Melis avait entendu. Il ne dit rien. Il fixait le plafond.
 
 Dans le couloir, Pinna s'arrêta devant une fenêtre et retira ses lunettes. Le golfe, en bas, était d'un bleu dur, et le port presque vide. Depuis le 10 juin, les navires ne venaient plus guère : quelques caboteurs, quelques torpilleurs, un sous-marin parfois, gris et bas, qui se glissait à la tombée du jour entre les môles et repartait la nuit.
 
@@ -66,13 +66,13 @@ Elle sortit à huit heures, après la relève.
 
 Dans la cour, la chaleur l'attendait comme une bête couchée au soleil. Il avait fait trente-trois degrés à l'ombre des arcades, et le soir n'y avait rien changé. L'air sentait la pierre chaude, le jasmin d'un jardin de couvent, et, venant du port, l'odeur douceâtre et lourde de la mer d'été. Elle enleva sa coiffe, la plia dans son sac, défit ses cheveux et les renoua plus haut sur sa nuque, pour sentir un peu d'air. Suor Giuseppina, qui traversait la cour, la vit faire et ne dit rien. Elle avait soixante ans, une cornette blanche aux grandes ailes empesées qui tremblaient quand elle marchait vite, et l'indulgence sévère des femmes qui ont tout vu. Elle se contenta de lever un sourcil, puis la main, pour une bénédiction rapide, comme on chasse une mouche.
 
-Efisia descendit à pied vers Stampace.
+Efisia descendit à pied à travers Stampace.
 
 La ville était belle, à cette heure-là, d'une beauté qu'elle ne voyait plus à force de la voir, et qu'elle voyait pourtant ce soir-là. Le soleil était bas sur l'étang de Santa Gilla, à l'ouest, et la lumière arrivait par les rues en pente comme une eau qu'on aurait versée du haut de la colline. Elle dorait les façades, faisait flamber les balcons de fer, allumait au passage une fenêtre, un cuivre, une vitre. Au-dessus, sur le rocher, les murailles du Castello étaient roses, et la tour de San Pancrazio avait la couleur d'une brique qu'on sort du four. Les rues étaient pleines d'ombre bleue au ras du sol et d'or à la hauteur des toits, et l'on marchait dans le bleu en regardant l'or.
 
 Dans la via Sant'Efisio, la porte de l'église était ouverte.
 
-Elle entra. Elle entrait presque chaque soir, une minute, en rentrant. C'était une petite église, fraîche, sombre, qui sentait la cire et la pierre mouillée, et où le saint attendait dans sa niche, au-dessus de l'autel latéral : un jeune homme en armure de soldat romain, avec un casque à plumes, une cuirasse dorée, une palme à la main et un visage d'adolescent sérieux. On l'avait sorti deux mois plus tôt, le 1er mai, pour le porter jusqu'à Nora, comme chaque année depuis le vœu de la peste. Efisia avait suivi la procession jusqu'au pont de la Scafa, avec Bonaria en costume, juchée sur une *traccas* décorée de fleurs en papier et tirée par deux bœufs aux cornes enrubannées. Il y avait eu les cavaliers du Campidano en veste rouge, les miliciens en armes, les confréries, les femmes de Quartu avec leurs bijoux d'or, les jeunes filles qui jetaient des pétales de roses devant le carrosse du saint, et le saint lui-même, dans sa cage dorée, qui avançait au pas lent des bœufs dans une pluie de pétales, de cris et de chants. L'Italie n'était pas encore en guerre. On avait trouvé que la procession était plus belle que jamais.
+Elle entra. Elle le faisait presque chaque soir, une minute, sur le chemin de la maison. C'était une petite église, fraîche, sombre, qui sentait la cire et la pierre mouillée, et où le saint attendait dans sa niche, au-dessus de l'autel latéral : un jeune homme en armure de soldat romain, avec un casque à plumes, une cuirasse dorée, une palme à la main et un visage d'adolescent sérieux. On l'avait sorti deux mois plus tôt, le 1er mai, pour le porter jusqu'à Nora, comme chaque année depuis le vœu de la peste. Efisia avait suivi la procession jusqu'au pont de la Scafa, avec Bonaria en costume, juchée sur une *traccas* décorée de fleurs en papier et tirée par deux bœufs aux cornes enrubannées. Il y avait eu les cavaliers du Campidano en veste rouge, les miliciens en armes, les confréries, les femmes de Quartu avec leurs bijoux d'or, les jeunes filles qui jetaient des pétales de roses devant le carrosse du saint, et le saint lui-même, dans sa cage dorée, qui avançait au pas lent des bœufs dans une pluie de roses, de cris et de chants. L'Italie n'était pas encore en guerre. On avait trouvé que la procession était plus belle que jamais.
 
 Elle alluma un cierge, pour personne en particulier, pour tout le monde, pour le vieux Melis et sa jambe. La petite flamme monta, droite, dans l'air immobile.
 
@@ -84,7 +84,7 @@ Le saint ne répondit pas. Il ne répondait jamais. C'était ce qu'elle aimait c
 
 Elle retrouva Gigi sous les arcades de la via Roma, à neuf heures moins le quart.
 
-Il l'attendait, comme presque chaque soir quand il prenait la garde de nuit, appuyé à un pilier, sa bicyclette à la main, en uniforme de milicien, la chemise noire sous la vareuse, le calot sur l'oreille. Il avait vingt-quatre ans. Il était grand, large d'épaules, avec le visage rond de leur mère et les mains de leur père, et il avait ce sourire de garçon qui s'excuse d'avance de tout ce qu'il pourrait faire de travers. Il était entré dans la Milice l'année d'avant, parce que la batterie du capo Sant'Elia payait mieux que le port, où l'on ne trouvait plus de travail que deux jours par semaine. Il ne croyait à rien. Il croyait à la solde, à sa mère, aux femmes du Poetto et au Cagliari Calcio, dans un ordre qui changeait selon les jours.
+Il l'attendait, comme souvent quand il prenait la garde de nuit, appuyé à un pilier, sa bicyclette à la main, en uniforme de milicien, la chemise noire sous la vareuse, le calot sur l'oreille. Il avait vingt-quatre ans. Il était grand, large d'épaules, avec le visage rond de leur mère et les mains de leur père, et il avait ce sourire de garçon qui s'excuse d'avance de tout ce qu'il pourrait faire de travers. Il était entré dans la Milice l'année d'avant, parce que la batterie du capo Sant'Elia payait mieux que le port, où l'on ne trouvait plus de travail que deux jours par semaine. Il ne croyait à rien. Il croyait à la solde, à sa mère, aux femmes du Poetto et au Cagliari Calcio, dans un ordre qui changeait selon les jours.
 
 — Tu es en retard, dit-il.
 
@@ -92,7 +92,7 @@ Il l'attendait, comme presque chaque soir quand il prenait la garde de nuit, app
 
 — Dix heures. J'ai le temps.
 
-Ils marchèrent un moment sous les arcades, lui poussant sa bicyclette, elle tenant son sac contre sa hanche. La via Roma était longue, droite, bordée de ses hautes façades à balcons d'un côté, et de l'autre, le port. Le soleil venait de passer derrière les collines de l'ouest, et la lumière, à présent, ne venait plus de nulle part : elle flottait dans l'air, rose, poudreuse, sans ombres. Les eaux du port étaient d'un mauve laiteux. Sur le môle, un pêcheur repliait sa ligne. Des enfants couraient sous les arcades en criant, des vieux étaient assis devant les portes sur des chaises de paille, des femmes s'éventaient. On ne voyait aucune lumière, ni aux fenêtres ni aux réverbères : le couvre-feu tenait depuis le 10 juin, et les lampes de la rue étaient peintes en bleu.
+Ils marchèrent un moment sous les arcades, lui poussant sa bicyclette, elle tenant son sac contre sa hanche. La via Roma était longue, droite, bordée de ses hautes façades à balcons d'un côté, et de l'autre, le port. Le soleil venait de passer derrière les collines de l'ouest, et la lumière, à présent, ne venait plus de nulle part : elle flottait dans l'air, rose, poudreuse, sans ombres. Les eaux du port étaient d'un mauve laiteux. Sur le môle, un pêcheur repliait sa ligne. Des enfants couraient sous les arcades en criant, des vieux étaient assis devant les portes sur des chaises de paille, des femmes s'éventaient. Aucune lampe ne brillait, ni aux fenêtres ni aux réverbères : le couvre-feu tenait depuis le 10 juin, et les lampes de la rue étaient peintes en bleu.
 
 — Maman a fait des *culurgiones*, dit Gigi. Garde-m'en.
 
@@ -100,7 +100,7 @@ Ils marchèrent un moment sous les arcades, lui poussant sa bicyclette, elle ten
 
 — Babbo mange pour quatre quand il fait froid aussi.
 
-Elle rit. Il était le seul qui la faisait rire sans effort.
+Elle rit. Il était le seul à la faire rire sans effort.
 
 Au-dessus de l'étang, très haut, une ligne rose passa lentement dans le ciel : des flamants, une trentaine, en file, le cou tendu, qui rentraient vers les salines du Molentargius. Ils volaient sans bruit, et leurs ailes, quand ils les ouvraient, laissaient voir le noir de leurs plumes sous le rose, comme une doublure. Gigi les suivit des yeux.
 
@@ -110,7 +110,7 @@ Au-dessus de l'étang, très haut, une ligne rose passa lentement dans le ciel :
 
 — C'est vrai. Mais c'est joli.
 
-Elle ne répondit pas. Elle se souvenait du 24. C'était un lundi, et c'était la nuit. Les sirènes avaient hurlé vers onze heures, puis il y avait eu le bourdonnement des moteurs, très haut, et les explosions sur le port, sourdes, l'une après l'autre, comme des portes qu'on claque dans une maison vide. Les réservoirs de Monte Urpinu avaient brûlé toute la nuit d'une grande lueur orange, qui éclairait le ciel au-dessus de Villanova. Une bombe était tombée sur une villa près de la basilique de Bonaria, par erreur, disait-on, comme si une bombe pouvait tomber autrement que par erreur. On avait amené dix blessés à San Giovanni di Dio. Elle avait passé la nuit à recoudre des bras et des visages coupés par les vitres. L'un d'eux était un enfant de six ans. Deux heures plus tard, l'armistice avec la France entrait en vigueur, et les Français n'étaient plus des ennemis. Personne n'était venu le dire à l'enfant.
+Elle ne répondit pas. Elle se souvenait du 24. C'était un lundi, et c'était la nuit. Les sirènes avaient hurlé vers onze heures, puis il y avait eu le bourdonnement des moteurs, très haut, et les explosions sur le port, sourdes, l'une après l'autre, comme des portes qu'on claque dans une maison vide. Les réservoirs de Monte Urpinu avaient brûlé toute la nuit d'une grande lueur orange, qui éclairait le ciel au-dessus de Villanova. Une bombe était tombée sur une villa près de la basilique de Bonaria, par erreur, disait-on, comme si une bombe pouvait tomber autrement que par erreur. On avait amené dix blessés à San Giovanni di Dio. Elle avait passé la nuit à recoudre des bras et des visages coupés par les vitres. L'un d'eux était un enfant de six ans. Deux heures après les bombes, l'armistice avec la France était entré en vigueur, et les Français n'étaient plus des ennemis. Personne n'était venu le dire à l'enfant.
 
 — Ils ne reviendront pas, dit Gigi. C'est fini, avec eux. On ne se bat plus que contre les Anglais.
 
@@ -136,19 +136,19 @@ Elle remonta vers la Marina par la via Sardegna.
 
 Les rues du quartier étaient étroites, en pente, pavées de pierres usées, si étroites qu'on pouvait se tendre la main d'un balcon à l'autre, et l'on s'y tendait le linge, le pain, les nouvelles. Elles sentaient le poisson frit, l'oignon, la lessive, le tabac. À cette heure, tout le monde était dehors, sur les seuils, sur les marches, sur les chaises traînées jusqu'au milieu de la chaussée. Les hommes jouaient à la *murra* en criant des chiffres. Les femmes parlaient d'une fenêtre à l'autre. Les enfants couraient. Quelque part, une radio jouait encore la chanson de Rabagliati, et une autre, plus loin, de la musique d'église. Au-dessus des toits, dans la fente de ciel que laissaient les maisons, le rose avait viré au bleu, et le bleu à cette couleur d'avant la nuit qui n'a pas de nom en italien et qui en a un en sarde, qu'elle n'aurait pas su traduire.
 
-Il faisait trop chaud pour dormir dedans. Les gens de la Marina montaient dormir sur les terrasses, en été, sur des matelas tirés à la fraîche, sous les étoiles. Sa mère y montait avec Bonaria dès que la vaisselle était faite. Elles y passaient la soirée avec les voisines, à parler, à prier, à compter les étoiles filantes. Bonaria avait dix ans. Elle prétendait qu'on pouvait faire un vœu pour chacune et elle en faisait des quantités, à voix haute, pour une poupée, pour une robe, pour que Gigi devienne capitaine, pour que la guerre finisse, pour qu'Efisia se marie avec un aviateur.
+Il faisait trop chaud pour rester dedans. Les gens de la Marina montaient dormir sur les terrasses, en été, sur des matelas tirés à la fraîche, sous les étoiles. Sa mère y montait avec Bonaria dès que la vaisselle était faite. Elles y passaient la soirée avec les voisines, à parler, à prier, à compter les étoiles filantes. Bonaria avait dix ans. Elle prétendait qu'on pouvait faire un vœu pour chacune et elle en faisait des quantités, à voix haute, pour une poupée, pour une robe, pour que Gigi devienne capitaine, pour que la guerre finisse, pour qu'Efisia se marie avec un aviateur.
 
 Efisia passait devant Sant'Eulalia quand elle vit la première.
 
-Elle la vit dans la fente de ciel, au-dessus de la rue, un trait de lumière blanche qui glissa sans bruit de gauche à droite et s'éteignit derrière une corniche. Puis une autre. Puis deux ensemble. Au coin de la rue, un enfant cria, et tout le monde leva la tête.
+C'était dans la fente de ciel, au-dessus de la rue : un trait de lumière blanche qui glissa sans bruit de gauche à droite et s'éteignit derrière une corniche. Puis une autre. Puis deux ensemble. Au coin de la rue, un enfant cria, et tout le monde leva la tête.
 
 — *Mamma*, guarda ! Les étoiles !
 
-Elles tombaient de partout. Elles griffaient la fente de ciel entre les toits, si nombreuses qu'on ne pouvait plus les compter, ni faire de vœux, ni rien d'autre que les regarder la bouche ouverte. Les femmes s'étaient levées de leurs chaises. Les hommes avaient laissé leur partie. Un vieux se signa. Une jeune fille riait, d'un rire aigu, nerveux, qui ne s'arrêtait plus. Les étoiles filaient en silence. On n'entendait que les voix des gens, de plus en plus fortes, et la radio de Rabagliati, quelque part, que personne ne pensait à éteindre.
+Elles tombaient de partout. Elles rayaient la fente de ciel entre les toits, si nombreuses qu'on ne pouvait plus les compter, ni faire de vœux, ni rien d'autre que les regarder la bouche ouverte. Les femmes s'étaient levées de leurs chaises. Les hommes avaient laissé leur partie. Un vieux se signa. Une jeune fille riait, d'un rire aigu, nerveux, qui ne s'arrêtait plus. Les étoiles filaient en silence. On n'entendait que les voix des gens, de plus en plus fortes, et la radio de Rabagliati, quelque part, que personne ne pensait à éteindre.
 
 Puis le ciel changea de couleur.
 
-Ce fut si lent qu'elle ne le vit pas d'abord. Le bleu de la fente, entre les toits, pâlit, devint gris, puis prit une teinte qu'elle n'avait jamais vue au ciel, une teinte de braise sous la cendre, d'abord rose, puis orange, puis d'un rouge sourd qui s'épaississait comme s'il montait d'un four. Les étoiles filantes y étaient toujours, mais on les voyait moins, noyées dans cette lumière. Les façades de la rue, qui étaient bleues dans le soir, devinrent rouges. Les visages devinrent rouges. Sa propre main, quand elle la leva devant ses yeux, était rouge.
+Ce fut si lent qu'elle ne le vit pas d'abord. Le bleu de la fente, entre les toits, pâlit, devint gris, puis prit une teinte qu'elle n'avait jamais vue au ciel, une teinte de braise sous la cendre, d'abord rose, puis orange, puis d'un rouge sourd qui s'épaississait de minute en minute. Les étoiles filantes y étaient toujours, mais on les voyait moins, noyées dans cette lumière. Les façades de la rue, qui étaient bleues dans le soir, devinrent rouges. Les visages devinrent rouges. Sa propre main, quand elle la leva devant ses yeux, était rouge.
 
 Et il faisait chaud. Pas la chaleur du jour, celle qui monte des pierres. Une autre. Une chaleur qui tombait d'en haut, sur la tête, sur les épaules, sur les bras nus, comme celle qu'on sent devant la porte ouverte d'un four à pain.
 
