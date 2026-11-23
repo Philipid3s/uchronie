@@ -12,13 +12,13 @@
 
 Le Rocher avait mis son nuage.
 
-Tom Penhallow le regardait depuis le pont d'envol de l'*Ark Royal*, assis sur la roue d'un Swordfish, une tasse de thé refroidie entre les mains. Le vent d'est s'était levé dans la matinée, et l'air humide qui montait de la Méditerranée butait contre la falaise, s'élevait, se refroidissait et se changeait en nuage juste au-dessus de la crête. Le reste du ciel était d'un bleu sans défaut. Seul le Rocher portait cette longue bannière blanche, accrochée à son sommet comme un drapeau trop grand, qui s'effilochait vers l'ouest, au-dessus de la baie, et se reformait sans cesse au même endroit. Les gens d'ici appelaient cela le levant. Tom n'avait jamais rien vu de pareil. Il pensait qu'une montagne qui fabriquait ses propres nuages méritait qu'on la regarde.
+Tom Penhallow l'observait depuis le pont d'envol de l'*Ark Royal*, assis sur la roue d'un Swordfish, une tasse de thé refroidie entre les mains. Le vent d'est s'était levé dans la matinée, et l'air humide qui montait de la Méditerranée butait contre la falaise, s'élevait, se refroidissait et se changeait en nuage juste au-dessus de la crête. Le reste du ciel était d'un bleu sans défaut. Seul le Rocher portait cette longue bannière blanche, accrochée à son sommet comme un drapeau trop grand, qui s'effilochait vers l'ouest, au-dessus de la baie, et se reformait sans cesse au même endroit. Les gens d'ici appelaient cela le levant. Tom n'avait jamais rien vu de pareil. Une montagne qui fabriquait ses propres nuages, pensait-il, méritait qu'on lève les yeux vers elle.
 
 Sous le nuage, le Rocher était gris et vert, troué de casemates et d'embrasures, avec ses batteries, ses citernes, ses routes en lacet, et la petite ville tassée à son pied, aux maisons à balcons et volets verts. Elle était presque vide. On avait évacué les civils en mai, puis en juin, les femmes, les enfants, les vieux, vers le Maroc, où les autorités françaises, depuis l'armistice, ne voulaient plus d'eux. Il ne restait que la garnison, les ouvriers de l'arsenal, quelques commerçants obstinés, et des chats. Tom n'avait vu qu'une seule femme depuis son arrivée, une religieuse en cornette qui traversait Main Street avec un parapluie ouvert contre le soleil. Il en avait conçu pour elle une affection sans bornes.
 
 — Tu vas user ce nuage, à force de le regarder.
 
-Halloran s'était approché sans bruit, comme toujours, les mains dans les poches de sa combinaison de vol, la casquette repoussée en arrière. Il avait trente-deux ans, dix de plus que Tom, et en paraissait quarante quand il était fatigué, ce qui lui arrivait souvent depuis la Norvège. C'était un homme long, un peu voûté, avec un visage de pêcheur de Cornouailles et des yeux très pâles qui regardaient toujours un peu au-delà de ce qu'ils regardaient.
+Halloran s'était approché sans bruit, à son habitude, les mains dans les poches de sa combinaison de vol, la casquette repoussée en arrière. Il avait trente-deux ans, dix de plus que Tom, et en paraissait quarante quand il était fatigué, ce qui lui arrivait souvent depuis la Norvège. C'était un homme long, un peu voûté, avec un visage de pêcheur de Cornouailles et des yeux très pâles qui regardaient toujours un peu au-delà de ce qu'ils regardaient.
 
 — Il ne s'use pas, dit Tom. Il se refait. C'est tout l'intérêt.
 
@@ -36,7 +36,7 @@ Halloran s'assit sur l'autre roue. Ils restèrent un moment côte à côte, sans
 
 Ils étaient de Plymouth tous les deux, et c'était tout ce qui les rapprochait. Halloran était entré dans la Royal Navy à dix-huit ans, en 1926, par la grande porte, et il était passé à l'aviation navale parce qu'il voulait voir la mer d'en haut. Tom, lui, était entré par la petite, celle de la réserve, la RNVR, en 1938, parce qu'il voulait voler et qu'on ne lui demandait ni latin ni relations. Son père était mort quand il avait quatorze ans, d'une chute dans une forme de radoub de l'arsenal de Devonport. Sa mère avait élevé ses deux fils en louant des chambres à des officiers mariniers, dans une haute maison étroite de Stonehouse d'où l'on voyait, entre deux cheminées, un morceau du Sound. Billy, le cadet, avait quinze ans. Il voulait être pilote, lui aussi, ce qui faisait pleurer leur mère et rire Tom.
 
-C'était l'oncle Jack qui l'avait perdu. Le frère de sa mère était charpentier chez Saunders-Roe, à Cowes, sur l'île de Wight, là où l'on construisait des hydravions à coque, de grands oiseaux de bois et d'aluminium qui sortaient des hangars sur des chariots et glissaient dans la Medina. Tom y avait passé ses étés d'adolescent, à tenir des planches, à tendre des toiles, à observer. Il avait appris le bois, les rivets, les flotteurs, l'odeur de la colle et celle de l'enduit. Il avait surtout appris à guetter un hydravion qui décolle : cette longue course sur l'eau, la coque qui se soulève, le sillage qui s'amincit et se rompt, et soudain plus rien sous la machine que l'air. Il avait seize ans la première fois. Il avait su ce jour-là ce qu'il ferait.
+C'était l'oncle Jack qui l'avait perdu. Le frère de sa mère était charpentier chez Saunders-Roe, à Cowes, sur l'île de Wight, là où l'on construisait des hydravions à coque, de grands oiseaux de bois et d'aluminium qui sortaient des hangars sur des chariots et glissaient dans la Medina. Tom y avait passé ses étés d'adolescent, à tenir des planches, à tendre des toiles, à regarder faire les anciens. Il avait appris le bois, les rivets, les flotteurs, l'odeur de la colle et celle de l'enduit. Il avait surtout appris à guetter un hydravion qui décolle : cette longue course sur l'eau, la coque qui se soulève, le sillage qui s'amincit et se rompt, et soudain plus rien sous la machine que l'air. Il avait seize ans la première fois. Il avait su ce jour-là ce qu'il ferait.
 
 Il l'avait fait. Formé sur Walrus et sur Swordfish à flotteurs, il avait été affecté au printemps à la section de catapulte du croiseur *Devonshire*, avec un seul appareil, un Walrus, une sorte de baignoire volante à moteur propulsif que les mécaniciens appelaient la Pompe et qu'il aimait comme on aime un chien laid. Il avait survolé la Norvège en avril et en mai, dans la neige, les fjords noirs, à la recherche de sous-marins qu'il ne trouvait pas et de troupes allemandes qu'il trouvait trop. Il avait vu Narvik brûler. Il avait vu, sur les quais de Harstad, des chasseurs alpins français dans leurs grandes capes bleues, qui chantaient en marchant et lui avaient donné, un soir, une gourde de vin rouge à moitié gelé, en échange d'un paquet de Player's. Il avait vu, au large de Namsos, un destroyer français brûler sous les bombes, et des hommes dans l'eau glacée qu'on n'avait pas pu tous repêcher.
 
@@ -64,9 +64,9 @@ Ils étaient arrivés à Gibraltar le 23.
 
 Le soir du 30, l'*Arethusa* entra dans le port.
 
-Tom était toujours sur le pont d'envol. Le nuage du Rocher s'était défait dans l'après-midi, quand le vent avait molli, et la lumière avait pris la couleur douce et poussiéreuse des fins de journée du Sud. De l'autre côté de la baie, l'Espagne était bleue, avec Algésiras posée au bord de l'eau comme une poignée de dés blancs, et derrière, les montagnes de l'Andalousie en lignes successives, de plus en plus pâles, jusqu'à ne plus être qu'une idée de montagnes. Au sud, très loin, sur l'autre rive du détroit, l'Afrique n'était qu'une ombre.
+Tom n'avait pas quitté le pont d'envol. Le nuage du Rocher s'était défait dans l'après-midi, quand le vent avait molli, et la lumière avait pris la couleur douce et poussiéreuse des fins de journée du Sud. De l'autre côté de la baie, l'Espagne était bleue, avec Algésiras posée au bord de l'eau comme une poignée de dés blancs, et derrière, les montagnes de l'Andalousie en lignes successives, de plus en plus pâles, jusqu'à ne plus être qu'une idée de montagnes. Au sud, très loin, sur l'autre rive du détroit, l'Afrique n'était qu'une ombre.
 
-Le croiseur arrivait de l'ouest, de l'Atlantique, et il passa la pointe d'Europa avec cette lenteur majestueuse et un peu ridicule des grands navires dans les petits espaces. Il était plus petit que le *Hood*, plus petit que l'*Ark Royal*, mais il avait l'air pressé et important. Tom vit les hommes alignés sur le pont, les fusiliers marins à l'arrière, le pavillon tout neuf d'un vice-amiral au mât de misaine.
+Le croiseur arrivait de l'ouest, de l'Atlantique, et il passa la pointe d'Europa avec cette lenteur majestueuse et un peu ridicule des grands navires dans les petits espaces. Il était plus petit que le *Hood*, plus petit que l'*Ark Royal*, mais il semblait pressé et important. Tom vit les hommes alignés sur le pont, les fusiliers marins à l'arrière, le pavillon tout neuf d'un vice-amiral au mât de misaine.
 
 — C'est lui, dit Halloran, qui était revenu. Somerville.
 
@@ -106,7 +106,7 @@ Il n'acheva pas. Tom pensa aux chasseurs alpins de Harstad et à leur gourde de 
 
 Le soleil se couchait derrière l'Espagne. La nuit vint vite, comme elle vient dans le Sud, et avec elle la chose qui frappait Tom chaque soir depuis une semaine sans qu'il s'y habitue : de l'autre côté de la baie, l'Espagne s'allumait. Algésiras, San Roque, La Línea, au bout de l'isthme, les villages des collines, les phares de la côte, les voitures sur les routes. Des milliers de lumières, jaunes, tremblantes, insouciantes, par-delà un bras de mer. L'Espagne n'était pas en guerre. L'Espagne vivait la nuit comme on la vivait partout avant. Et de ce côté-ci, Gibraltar, la flotte, le Rocher entier étaient noirs, éteints, aveugles, sous les étoiles.
 
-Tom contempla longtemps la côte espagnole. Il pensa qu'il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, et qu'il n'avait pas le droit d'y aller.
+Tom contempla longtemps la côte espagnole. Il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, et qu'il n'avait pas le droit d'y aller.
 
 ---
 
@@ -126,7 +126,7 @@ Il le fit au carré des pilotes, après le déjeuner, sur le papier à en-tête 
 
 *P.-S. Hier soir, j'ai vu un amiral qui ressemblait à l'oncle Jack.*
 
-Il porta la lettre au vaguemestre à deux heures. Le sac de courrier partait le lendemain matin, par l'hydravion de Lisbonne, ou par un cargo, on ne savait jamais. Il pensa que Billy l'aurait dans dix jours, peut-être quinze, et qu'il la lirait à voix haute à leur mère dans la cuisine, en sautant le passage sur le toit.
+Il porta la lettre au vaguemestre à deux heures. Le sac de courrier partait le lendemain matin, par l'hydravion de Lisbonne, ou par un cargo, on ne savait jamais. Billy l'aurait dans dix jours, peut-être quinze, et la lirait à voix haute à leur mère dans la cuisine, en sautant le passage sur le toit.
 
 ---
 

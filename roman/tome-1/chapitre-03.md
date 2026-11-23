@@ -12,7 +12,7 @@
 
 À une heure, la radio de la salle des hommes donna le bulletin.
 
-Elle était posée sur une étagère, entre une boîte de compresses et une statuette de saint Vincent de Paul, et Suor Giuseppina la laissait allumer aux heures des bulletins, pour les malades, à condition qu'on baisse le son pendant les soins. Les hommes en attendaient l'heure comme on attend la soupe. À une heure moins deux minutes, ceux qui pouvaient se lever s'approchaient de l'étagère en pyjama, en traînant leurs pantoufles sur le carrelage ; les autres se tournaient dans leur lit, le visage vers l'étagère. Puis venaient les trois notes de l'indicatif, et la voix grave, un peu nasale, de l'EIAR.
+Elle était posée sur une étagère, entre une boîte de compresses et une statuette de saint Vincent de Paul, et Suor Giuseppina la laissait allumer aux heures des bulletins, pour les malades, à condition qu'on baisse le son pendant les soins. Les hommes en attendaient l'heure comme on attend la soupe. À une heure moins deux minutes, ceux qui pouvaient se lever s'approchaient de l'étagère en pyjama, en traînant leurs pantoufles sur le carrelage ; les autres se tournaient dans leur lit pour mieux entendre. Puis venaient les trois notes de l'indicatif, et la voix grave, un peu nasale, de l'EIAR.
 
 — *Il Quartier Generale delle Forze Armate comunica…*
 
@@ -76,7 +76,7 @@ Dans la cour, la chaleur l'attendait comme une bête couchée au soleil. Il avai
 
 Efisia descendit à pied à travers Stampace.
 
-La ville était belle, à cette heure-là, d'une beauté qu'elle ne voyait plus à force de la voir, et qu'elle voyait pourtant ce soir-là. Le soleil était bas sur l'étang de Santa Gilla, à l'ouest, et la lumière remontait les rues en pente comme une eau qui serait montée de l'étang. Elle dorait les façades, faisait flamber les balcons de fer, allumait au passage une fenêtre, un cuivre, une vitre. Au-dessus, sur le rocher, les murailles du Castello étaient roses, et la tour de l'Éléphant avait la couleur d'une brique qu'on sort du four. Les rues étaient pleines d'ombre bleue au ras du sol et d'or à la hauteur des toits, et l'on marchait dans le bleu en regardant l'or.
+La ville était belle à cette heure, d'une beauté qu'elle ne voyait plus à force de la voir, et que ce soir, pourtant, elle voyait. Le soleil était bas sur l'étang de Santa Gilla, à l'ouest, et la lumière remontait les rues en pente comme une eau qui serait montée de l'étang. Elle dorait les façades, faisait flamber les balcons de fer, allumait au passage une fenêtre, un cuivre, une vitre. Au-dessus, sur le rocher, les murailles du Castello étaient roses, et la tour de l'Éléphant avait la couleur d'une brique qu'on sort du four. Les rues étaient pleines d'ombre bleue au ras du sol et d'or à la hauteur des toits, et l'on marchait dans le bleu en regardant l'or.
 
 Dans la via Sant'Efisio, la porte de l'église était ouverte.
 

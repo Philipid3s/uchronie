@@ -29,7 +29,7 @@ Le timonier piqua huit coups. Jean porta au journal de quart l'heure, la tempér
 
 Un canot à moteur du *Dunkerque* traversait le plan d'eau en traînant derrière lui une moustache d'écume qui ne se refermait pas. Il portait un officier en blanc, assis bien droit à l'arrière, une serviette de cuir sur les genoux. Le courrier de l'amiral, sans doute. Il n'y avait plus que cela, du courrier d'amiral : des ordres, des contrordres, des télégrammes de l'Amirauté repliée de ville en ville, Bordeaux, puis Nérac, une sous-préfecture du Lot-et-Garonne dont Jean n'aurait pas su dire, un mois plus tôt, qu'elle existait. Le courrier des familles, lui, ne passait plus.
 
-Il l'avait compris le 19 juin. Ce jour-là, la nouvelle était arrivée à bord : les Allemands étaient entrés dans Brest. Il revoyait le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se figurer la chose. Il n'y arrivait toujours pas. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
+Il l'avait compris le 19 juin. Ce jour-là, la nouvelle était arrivée à bord : les Allemands étaient entrés dans Brest. Il revoyait le visage du radio qui avait apporté la feuille au carré, un garçon de Quimper, et sa manière de la tendre sans rien dire, comme on tend une lettre de deuil. Les Allemands à Brest. Les Allemands sur le cours Dajot, devant la rade, devant l'École navale où il avait appris à faire le point et à nouer une écoute. Les Allemands dans la rue de Siam, où sa mère faisait ses courses le samedi. Il n'avait pas réussi à se figurer la chose, et n'y parvenait pas davantage. Quand il pensait à Brest, il voyait la rade grise sous la pluie fine, les toits d'ardoise du quartier de Recouvrance, la maison de la rue de la Porte, sa mère à la fenêtre du premier, Soizic qui descendait l'escalier en courant parce qu'elle était toujours en retard pour le lycée. Il ne voyait pas d'Allemands. Il n'y avait pas de place pour eux dans l'image.
 
 Depuis, rien. Rien de son père, ancien officier des équipages, qui avait voulu reprendre du service en septembre, qu'on avait gentiment renvoyé à ses rosiers, et qui soupirait chaque fois que Soizic parlait de faire médecine ; rien de sa mère ; rien de Soizic elle-même, dix-sept ans depuis avril. Ni s'ils étaient restés. Ni s'ils étaient partis. Il n'y avait pas de lettre, pas de télégramme, pas de poste, et la radio du gouvernement, qui changeait de ville tous les trois jours, ne parlait pas de Brest.
 
@@ -147,7 +147,7 @@ Il s'arrêta. Il ignorait s'ils étaient encore rue de la Porte. Il ne savait pa
 
 *Soizic, travaille. Même s'il n'y a plus de lycée, même s'il y a des Allemands dans la rue, travaille. Les livres sont toujours là. Tu seras médecin, je te le promets, et tu me soigneras quand je serai vieux et que j'aurai des rhumatismes à force de quarts de nuit. Ne laisse personne te dire que ce n'est pas pour les filles. Ne laisse personne te dire rien, d'ailleurs. Tu as toujours su mieux que nous ce que tu voulais.*
 
-Il relut. C'était maladroit et c'était vrai. Il pensa qu'il manquait quelque chose, une chose qu'il aurait dû dire, et qu'il ne trouvait pas. Il écrivit :
+Il relut. C'était maladroit et c'était vrai. Il y manquait quelque chose, une chose qu'il aurait dû dire et qu'il ne trouvait pas. Il écrivit :
 
 *Je vous embrasse tous les trois, de toutes mes forces. Votre fils et frère,*
 
@@ -199,7 +199,7 @@ Jean regarda l'enveloppe. Il eut une envie violente de la tendre, tout de suite,
 
 — J'y vais demain soir, justement. On dit qu'il y a un nouveau bar rue d'Arzew où la patronne a de la famille à Quimper. Je te rapporterai des nouvelles du diable.
 
-Il se leva et s'étira sous les reflets de l'eau, qui dansaient toujours au plafond.
+Il se leva et s'étira sous les reflets de l'eau qui dansaient au plafond.
 
 — Monte voir les hydravions, dit-il. Ils rentrent. C'est beau.
 
@@ -237,7 +237,7 @@ Les feux s'allumèrent un à un sur les navires, des feux de mouillage blancs, q
 
 Dans l'eau noire, contre la coque, une phosphorescence légère s'allumait et s'éteignait au rythme du clapot, comme une respiration.
 
-Il pensa qu'il faudrait relire la lettre, demain, et la donner à Garrec avant qu'il descende. Il pensa à la réunion des commandants sur le *Dunkerque*, aux quatre heures d'appareillage, à Toulon, à la ligne qu'on ne voyait pas. Il pensa à Soizic qui travaillait peut-être, à cette heure-ci, sous la lampe de la salle à manger, avec les volets fermés à cause des Allemands. Il pensa que le commandant avait raison : cela aidait d'écrire. Cela n'aidait pas beaucoup, mais cela aidait.
+Il faudrait relire la lettre, demain, et la donner à Garrec avant qu'il descende. Puis lui vinrent la réunion des commandants sur le *Dunkerque*, les quatre heures d'appareillage, Toulon, la ligne qu'on ne voyait pas ; et Soizic, qui travaillait peut-être à cette heure-ci sous la lampe de la salle à manger, les volets fermés à cause des Allemands. Le commandant avait raison : cela aidait d'écrire. Pas beaucoup, mais cela aidait.
 
 Vers onze heures, un vent très faible se leva de la terre, chargé d'une odeur de résine chaude et de poussière, l'odeur des pinèdes du Murdjadjo qui avaient cuit toute la journée au soleil. Il le respira longtemps. Puis il descendit, rangea l'enveloppe dans le tiroir de la table, sous son livre de prières et ses tables de logarithmes, et se coucha sans allumer, dans la chaleur, les yeux ouverts sur les reflets qui ne dansaient plus au plafond.
 
