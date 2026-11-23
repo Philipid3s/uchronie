@@ -17,19 +17,19 @@ Il s'appelait Wilf Dobson, il avait dix-neuf ans, il était de Sunderland, et il
 
 — C'est chaud, dit-il.
 
-Tom l'avait senti en même temps. Une tiédeur d'abord, sur le front, sur les avant-bras nus, comme lorsqu'on passe devant la porte d'une boulangerie. Il l'avait prise pour le reste de la chaleur du jour, que l'acier du pont rendait au soir. Mais le pont, sous ses semelles, était frais. Ce qui chauffait venait d'en haut.
+Tom l'avait senti en même temps. Une tiédeur d'abord, sur le front, sur les avant-bras nus, comme lorsqu'on s'approche d'un feu de cheminée. Il l'avait prise pour le reste de la chaleur du jour, que l'acier du pont rendait au soir. Mais le pont, sous ses semelles, était frais. Ce qui chauffait venait d'en haut.
 
 Il leva les yeux. Le ciel avait changé de couleur sans qu'il s'en aperçoive, comme on vieillit. Le bleu profond du zénith avait pâli, puis tourné au rose, et le rose s'épaississait, gagnait vers l'est, vers l'Afrique, vers la Méditerranée, d'un bord à l'autre. Les étoiles filantes y tombaient toujours, mais on les voyait moins : elles se noyaient dans cette lumière qui ne venait d'aucun soleil. Le Rocher, au-dessus du port, prenait une teinte de chair. Les mâts du *Hood* étaient roses. L'eau de la baie, qui renvoyait tout, était rose aussi, puis orange, puis d'un rouge de forge.
 
 La tiédeur devint une brûlure.
 
-Ce fut si rapide que Tom, plus tard, ne put jamais dire combien de temps il était resté là, la bouche ouverte, à regarder le ciel rougir. Cinq secondes, dix peut-être. Assez pour que la peau de ses avant-bras se mette à le piquer, comme après une journée de plage, puis à lui faire mal. Assez pour qu'il voie, sur l'aile repliée du Swordfish le plus proche, la toile peinte se ternir, puis fumer.
+Ce fut si rapide que Tom, plus tard, ne put jamais dire combien de temps il était resté là, la bouche ouverte, à regarder le ciel rougir. Cinq secondes, dix peut-être. Assez pour que la peau de ses avant-bras se mette à le piquer, puis à lui faire mal. Assez pour qu'il voie, sur l'aile repliée du Swordfish le plus proche, la toile peinte se ternir, puis fumer.
 
 — Dégagez le pont ! cria quelqu'un. Tout le monde à l'abri !
 
-C'était le second-maître du pont d'envol, un homme énorme, qui courait vers l'île en agitant les bras. Au même instant, les sonneries des postes de combat se mirent à grelotter dans tout le navire, et le haut-parleur, d'une voix que Tom ne reconnut pas, répéta l'ordre : *tout le monde sous les ponts, fermez tout*. Sur le *Hood*, sur les destroyers, sur le Rocher, des sirènes répondirent, l'une après l'autre, et la baie se mit à hurler.
+C'était le second-maître du pont d'envol, un homme énorme, qui courait vers l'île en agitant les bras. Au même instant, les sonneries des postes de combat se mirent à grelotter dans tout le navire, et le haut-parleur, d'une voix que Tom ne reconnut pas, répéta l'ordre : *tout le monde sous les ponts, fermez tout*. Sur le *Hood*, sur les destroyers, sur le Rocher, des sirènes répondirent, l'une après l'autre, et la falaise renvoya leur hurlement sur la baie.
 
-Tom attrapa l'autre mécanicien par l'épaule et le poussa vers la porte de l'île, à vingt mètres. Ils coururent. La chaleur leur tombait sur la nuque comme une main. Il entendait derrière lui des pas sur l'acier, des cris, et, couvrant tout, cette sonnerie aigre et continue. Il arriva à la porte, s'effaça pour laisser passer le mécanicien, se retourna pour compter.
+Tom attrapa l'autre mécanicien par l'épaule et le poussa vers la porte de l'île, à vingt mètres. Ils coururent. La chaleur leur cuisait la nuque. Il entendait derrière lui des pas sur l'acier, des cris, et, couvrant tout, cette sonnerie aigre et continue. Il arriva à la porte, s'effaça pour laisser passer le mécanicien, se retourna pour compter.
 
 Wilf n'avait pas bougé.
 
@@ -53,11 +53,11 @@ On les descendit à l'infirmerie, avec d'autres. Tom y alla parce qu'on l'y pous
 
 La chaleur, maintenant, venait des cloisons.
 
-Le navire était fermé. On avait verrouillé les portes étanches, bouclé les hublots, arrêté les ventilateurs qui aspiraient l'air du dehors, et l'*Ark Royal* était devenu une boîte d'acier posée sous un ciel brûlant, qui en prenait la chaleur et la rendait à l'intérieur, lentement. On la sentait monter. L'air de l'infirmerie devint épais, puis moite, puis presque irrespirable. Les infirmiers transpiraient à grosses gouttes au-dessus des couchettes. Par moments, à travers la tôle, arrivait un bruit étrange, un crépitement continu, régulier, comme une averse de sable sur un toit de zinc, et personne ne savait ce que c'était.
+Le navire était fermé. On avait verrouillé les portes étanches, bouclé les hublots, arrêté les ventilateurs qui aspiraient l'air du dehors, et l'*Ark Royal* était devenu une boîte d'acier posée sous un ciel brûlant, qui en prenait la chaleur et la rendait à l'intérieur, lentement. On la sentait monter. L'air de l'infirmerie devint épais, puis moite, puis presque irrespirable. Les infirmiers transpiraient à grosses gouttes au-dessus des couchettes. Par moments, à travers la tôle, arrivait un bruit étrange, un crépitement continu, régulier, comme si l'on versait sans fin du gravier sur le pont, au-dessus, et personne ne savait ce que c'était.
 
 Wilf avait cessé de trembler. On lui avait enduit le visage et les mains d'une pommade blanche, épaisse, qui lui faisait un masque de clown. Il ne parlait plus. De temps en temps, il ouvrait les yeux et cherchait quelque chose au plafond.
 
-Vers neuf heures et demie, le crépitement cessa.
+Vers neuf heures et demie du soir, le crépitement cessa.
 
 Tom s'en aperçut à cause du silence. Puis le haut-parleur grésilla et ordonna aux équipes d'incendie de monter sur le pont d'envol, toutes, avec les lances et les extincteurs à mousse, *immédiatement*. Il y avait dans ce mot quelque chose qui le fit se lever. Il retira ses bras du baquet, les essuya sur son pantalon et monta.
 
@@ -83,7 +83,7 @@ Tom ne trouva rien à répondre. C'était la première fois qu'il n'avait rien �
 
 Plus tard, quand les derniers feux du pont furent éteints, il resta là-haut.
 
-Le ciel n'était plus rouge. Il était d'un brun sourd, sans étoiles, sans lune, comme un plafond de suie qu'aurait éclairé par en dessous une lampe lointaine. La lumière qui en tombait suffisait à voir les formes, pas les couleurs. Et sous ce plafond, tout autour de la baie, il y avait des feux.
+Le ciel n'était plus rouge. Il avait pris une teinte de rouille éteinte, sans une étoile, et pesait sur la baie comme un plafond de suie qu'aurait éclairé par en dessous une lampe lointaine. La lumière qui en tombait suffisait à voir les formes, pas les couleurs. Et sous ce plafond, tout autour de la baie, il y avait des feux.
 
 Le Rocher brûlait. Pas la pierre : les broussailles des pentes, les buissons d'olivier sauvage, les pins plantés autour des batteries, tout ce qui pouvait prendre avait pris, et la grande falaise ressemblait à une montagne de charbon où l'on aurait semé des braises. Au pied du Rocher, la ville, presque vide, brûlait par endroits, un toit ici, une rangée de maisons là, sans que personne y fût pour éteindre. Plus haut, à l'entrée des galeries creusées dans la montagne, Tom voyait des lueurs de lampes qui bougeaient : la garnison s'y était engouffrée au premier hurlement des sirènes, dix mille hommes dans le ventre du Rocher, et ceux-là, au moins, avaient eu un toit de calcaire de cent mètres au-dessus de la tête.
 
@@ -93,7 +93,7 @@ La veille, Tom l'avait vue s'allumer au crépuscule, Algésiras, San Roque, La L
 
 Ces lumières-là s'étaient éteintes. À leur place, il y en avait d'autres. La Línea brûlait. Algésiras brûlait. Les collines, derrière, brûlaient d'un bord à l'autre de l'horizon, et le feu montait les pentes de la sierra en longues lignes ondulantes, comme une marée qui monterait à l'envers. L'Espagne n'était pas en guerre. Cela ne lui avait servi à rien. Elle brûlait du même feu que Gibraltar, sous le même ciel, et pour la première fois depuis des mois, Tom se dit qu'il n'y avait plus, de part et d'autre de cette baie, qu'un seul pays.
 
-Il s'assit sur le pont, contre le pied de l'île. L'acier était encore tiède. Il sentait, sous ses paumes, une sorte de gravier fin, des grains durs et ronds qui roulaient sous les doigts. Il en ramassa une poignée et l'approcha de ses yeux. C'étaient de petites perles, de la taille d'une tête d'épingle, lisses, vitreuses, sombres. Il y en avait partout : sur le pont, dans les dalots, dans les plis de sa chemise. Il en mit une dans la poche de sa poitrine, sans savoir pourquoi, comme on garde un caillou d'une plage.
+Il s'assit sur le pont, contre le pied de l'île. L'acier était encore tiède. Il sentait, sous ses paumes, une sorte de gravier fin, des grains durs et ronds qui roulaient sous les doigts. Il en ramassa une poignée et l'approcha de ses yeux. C'étaient de petites perles, de la taille d'un grain de poivre, lisses, vitreuses, sombres. Il y en avait partout : sur le pont, dans les dalots, dans les plis de sa chemise. Il en mit une dans la poche de sa poitrine, sans savoir pourquoi, comme on garde un caillou d'une plage.
 
 ---
 
@@ -127,19 +127,17 @@ Il posa la feuille sur la table et la lissa du plat de la main.
 
 — Par tous les moyens à notre disposition, répéta-t-il. Nos moyens, ils sont au fond de la baie. Je viens de les voir passer par-dessus bord.
 
-Tom ne dit rien. Il regardait la feuille. Elle était tapée à la machine, proprement, avec les heures d'origine et de réception, les groupes de lettres, le cachet. Quelque part à Londres, dans un bureau de l'Amirauté, la nuit dernière, à une heure du matin, un officier avait rédigé ces lignes, avec soin, en pesant chaque mot ; un autre les avait chiffrées ; un opérateur les avait envoyées dans la nuit, par-dessus la France, l'Espagne et la mer. Et les mots avaient voyagé pendant que le ciel brûlait, et ils étaient arrivés ici, intacts, exacts, sur cette table, dans ce monde-ci, où ils ne voulaient plus rien dire. Ils avaient l'air d'une lettre d'un mort.
+Tom ne dit rien. Il regardait la feuille. Elle était tapée à la machine, proprement, avec les heures d'origine et de réception, les groupes de lettres, le cachet. Quelque part à Londres, dans un bureau de l'Amirauté, la nuit dernière, à une heure du matin, un officier avait rédigé ces lignes, avec soin, en pesant chaque mot ; un autre les avait chiffrées ; un opérateur les avait envoyées dans la nuit, par-dessus la France, l'Espagne et la mer. Et les mots avaient voyagé pendant que le ciel brûlait, et ils étaient arrivés ici, intacts, exacts, sur cette table, dans ce monde-ci, où ils ne voulaient plus rien dire. On aurait dit la lettre d'un mort.
 
 — Il faut le porter à l'amiral, dit Ashby. C'est la procédure.
 
 Il se leva, plia la feuille et la mit dans une enveloppe. À la porte, il se retourna.
 
-— Tu sais ce qui est drôle ? Il y a trois heures, quand j'ai commencé à le décoder, j'ai cru que c'était un message sur ce qui se passait. J'ai cru que Londres allait nous expliquer.
+— Tu sais ce qui est drôle ? Tout à l'heure, quand les premiers groupes sont tombés, j'ai cru que c'était un message sur ce qui se passait. J'ai cru que Londres allait nous expliquer.
 
 Il sortit. Tom resta seul avec la lampe verte et les opérateurs, de l'autre côté de la cloison vitrée, qui écoutaient leurs casques, le visage fermé, en notant de temps en temps quelque chose sur leurs blocs.
 
 ---
-
-Le jour se leva mal.
 
 Il n'y eut pas d'aurore. Il y eut, vers cinq heures et demie, une clarté sale qui monta de l'est sans que rien ne la précède, ni rose, ni or, ni ligne d'horizon : seulement le ciel brun qui pâlissait, devenait gris, puis jaune, puis d'une couleur de cuivre terni qu'il garda. Le soleil ne parut pas. On devinait sa place, très bas sur la Méditerranée, à une tache un peu moins sombre dans le cuivre, sans contour, et qui ne monta pas.
 
@@ -147,13 +145,13 @@ Tom monta sur le toit de l'île, à la plate-forme de veille aérienne, avec Hal
 
 Il avait toujours aimé voir les choses d'en haut. C'était pour cela qu'il volait : parce qu'en l'air la terre devenait une carte, et qu'une carte se comprend. On y voit les routes, les rivières, l'endroit où les villes se serrent, l'endroit où elles s'espacent, les champs, les forêts, la façon dont les hommes ont rangé le monde. Ce matin-là, la carte était effacée. Les pentes du Rocher étaient noires, les collines d'Espagne étaient noires jusqu'à l'horizon, et les fumées, qui montaient de partout et s'étalaient sous le ciel de cuivre, recouvraient le reste d'un même voile gris. On ne distinguait plus les villes des champs, ni les routes des ravins. Au sud, l'Afrique n'existait plus du tout. Il n'y avait, à sa place, qu'une ombre plus épaisse dans la fumée.
 
-Et sur l'eau de la baie, au milieu de ce paysage de cendre, les navires de la Force H étaient à leur place, tous, intacts. Le *Hood*, gris, énorme, avec ses tourelles et ses mâts. Les deux vieux cuirassés. Les croiseurs. Les destroyers rangés le long du môle, couple à couple. Leur peinture avait brûlé par plaques, leurs tauds avaient disparu, et des hommes y lavaient les ponts à grande eau. On entendait, d'un bord à l'autre, le chuintement des lances et le grattement des balais. Dans ce monde éteint, c'était la seule chose qui eût gardé sa forme.
+Et sur l'eau de la baie, au milieu de ce paysage de cendre, les navires de la Force H étaient à leur place, tous, intacts. Le *Hood*, gris, énorme, avec ses tourelles et ses mâts. Les deux vieux cuirassés. Les croiseurs. Les destroyers rangés le long du môle, couple à couple. Leur peinture avait cloqué et noirci ; sur les plages arrière, des hommes en short, pieds nus, maniaient déjà les lances et les balais, comme au lendemain d'un exercice. Dans ce monde éteint, c'était la seule chose qui eût gardé sa forme.
 
 — Ils sont tous là, dit Halloran.
 
 — Pas les Swordfish.
 
-— Les Swordfish, on en a encore dans les hangars. Les hommes, on en a perdu quarante et un, ce matin. Je viens de voir la liste.
+— Les Swordfish, on en a encore dans les hangars. Les hommes, on en a perdu quarante et un cette nuit. Je viens de voir la liste.
 
 Il dit cela sans le regarder, les yeux sur le *Hood*. Il avait l'air, ce matin, d'avoir ses quarante ans.
 
@@ -169,9 +167,7 @@ Ashby le raconta à Tom plus tard, au carré, entre deux tasses de thé. Depuis 
 
 Ce ne fut pas un bruit, pas vraiment. Ce fut une sorte de souffle immense, très bas, qui passa sur la baie, venu du nord, et que l'on sentit plus qu'on ne l'entendit : dans les jambes, dans la poitrine, dans les vitres de la passerelle, qui se mirent à vibrer toutes ensemble avec un son de verre qu'on effleure. La surface de la baie frissonna, d'un seul coup, comme la peau d'un cheval. Des pierres se détachèrent des pentes noircies du Rocher et roulèrent, très loin, avec un bruit de grêle. Puis cela passa. Cela dura moins d'une minute. Le ciel de cuivre n'avait pas bougé.
 
-— Qu'est-ce que c'était ? dit quelqu'un.
-
-Personne ne répondit. Tom se tourna vers le nord, vers l'Espagne, et au-delà de l'Espagne, vers ce qu'on ne voyait pas : la France, la Manche, l'Angleterre. Il n'aurait pas su dire pourquoi, sinon que c'était de là que c'était venu.
+Sur la plate-forme, les guetteurs avaient baissé leurs jumelles. Aucun ne parla. Tom se tourna vers le nord, vers l'Espagne, et au-delà de l'Espagne, vers ce qu'on ne voyait pas : la France, la Manche, l'Angleterre. Il n'aurait pas su dire pourquoi, sinon que c'était de là que c'était venu.
 
 ---
 
@@ -185,13 +181,13 @@ Holland parlait d'un ton posé, un peu sec, en homme qui a longtemps vécu à Pa
 
 Le haut-parleur grésilla, puis se tut.
 
-Dans le hangar, personne ne bougea pendant un moment. *Agissez à votre discrétion. Préservez la flotte.* Tom se répéta les mots. Ils ne ressemblaient à aucun ordre qu'il eût jamais reçu. La veille encore, à la même heure, la flotte avait pour mission d'aller en couler une autre, à deux cents milles d'ici, et l'on avait épinglé sur un tableau noir le rectangle où il devait lancer sa torpille. Aujourd'hui, on lui disait de la préserver. On ne lui disait plus contre qui. On ne lui disait plus pour qui. Les Français, dans leur baie, avaient sans doute vu le même ciel, et compté leurs morts ce matin, et peut-être, à cette heure-ci, leur amiral lisait-il à ses hommes un signal de leur gouvernement, ou de nulle part.
+Dans le hangar, personne ne bougea pendant un moment. *Agissez à votre discrétion. Préservez la flotte.* Tom se répéta les mots. Ils ne ressemblaient à aucun ordre qu'il eût jamais reçu. La veille au soir encore, la flotte avait pour mission d'aller en couler une autre, à deux cents milles d'ici, et l'on avait épinglé sur un tableau noir le rectangle où il devait lancer sa torpille. Aujourd'hui, on lui disait de la préserver. On ne lui disait plus contre qui. On ne lui disait plus pour qui. Les Français, dans leur baie, avaient sans doute vu le même ciel, et compté leurs morts ce matin, et peut-être, à cette heure-ci, leur amiral lisait-il à ses hommes un signal de leur gouvernement, ou de nulle part.
 
 Catapult était morte. Personne ne l'avait annulée ; personne n'y pensait plus, voilà tout.
 
 Tom pensa alors à Plymouth.
 
-Il y pensa pour la première fois depuis la veille, et il s'étonna de ne pas l'avoir fait plus tôt, et il comprit, en même temps, qu'il l'avait évité. Toute la nuit, il avait pensé à Wilf, aux Swordfish, au feu, à l'Espagne, à la feuille d'Ashby. Il avait pensé à tout ce qui était là, devant lui, et qu'on pouvait toucher. Il n'avait pas pensé à ce qui était loin.
+Il y pensa pour la première fois depuis la veille, s'en étonna, et comprit en même temps qu'il l'avait évité. Toute la nuit, son esprit s'était tenu à Wilf, aux Swordfish, au feu, à l'Espagne, à la feuille d'Ashby : à ce qui était là, devant lui, et qu'on pouvait toucher. Il n'était pas allé plus loin.
 
 Maintenant, cela venait.
 
@@ -207,12 +203,12 @@ La lettre était encore à bord. Le sac de courrier devait partir ce matin par l
 
 Il remonta sur le pont d'envol en fin d'après-midi.
 
-Le cuivre du ciel avait foncé. Ce n'était pas encore le soir, mais la lumière baissait déjà, comme si le jour, fatigué, renonçait. Il tombait une poussière fine et grise qui se posait sur l'acier du pont, sur les rambardes, sur l'eau de la baie, et qui ne faisait aucun bruit. Des hommes balayaient. D'autres repeignaient, déjà, les plaques brûlées de la coque, parce qu'on leur avait dit de repeindre.
+Le cuivre du ciel avait foncé. Ce n'était pas encore le soir, mais la lumière baissait déjà. Une cendre légère descendait sans bruit, se posait sur l'acier du pont, sur les rambardes, sur l'eau de la baie. Des hommes balayaient. D'autres repeignaient, déjà, les plaques brûlées de la coque, parce qu'on leur avait dit de repeindre.
 
-Tom alla s'accouder à la rambarde de bâbord, à l'endroit où il s'était tenu la veille, à la même heure, en guettant le rayon vert. Il fouilla dans la poche de sa chemise et en sortit la petite perle noire qu'il y avait mise pendant la nuit. Il la fit rouler dans le creux de sa main. Elle était lisse, froide, parfaite. Elle venait d'on ne savait où. D'en haut.
+Tom alla s'accouder à la rambarde de bâbord, à l'endroit où il s'était tenu la veille, à la même heure, en guettant l'éclat vert. Il fouilla dans la poche de sa chemise et en sortit la petite perle noire qu'il y avait mise pendant la nuit. Il la fit rouler dans le creux de sa main. Elle était lisse, froide, parfaite. Elle venait d'on ne savait où. D'en haut.
 
 Il aurait voulu voler. Monter, là, tout de suite, dans n'importe quel appareil, au-dessus de cette fumée, au-dessus de ce plafond de cuivre, et regarder vers le nord, aussi loin que porteraient l'essence et le moteur, jusqu'à voir quelque chose : une côte, une ville, une lumière. Ce n'était pas possible, et il n'y avait rien à voir. Il le désira quand même, longtemps, en faisant rouler la perle dans sa paume.
 
-Puis il repensa au vœu qu'il avait fait la veille, sur l'une des premières étoiles. Il chercha encore à s'en souvenir. Il ne le retrouva pas.
+Puis il repensa au vœu de la veille. Il chercha encore à s'en souvenir. Il ne le retrouva pas.
 
 Il garda la perle.
