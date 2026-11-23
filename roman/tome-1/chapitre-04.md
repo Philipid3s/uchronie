@@ -127,7 +127,7 @@ Jacquinet vint voir. Les têtes sortaient, disparaissaient, ressortaient.
 
 Il ne dit pas ce qu'ils pensaient tous les deux : qu'il fallait savoir nager, et tenir. Que le ciel resterait rouge on ne savait combien de temps. Que l'on ne pouvait rien pour eux.
 
-Puis il retourna au téléphone et reprit ses ordres, de la même voix égale. Jean comprit ce soir-là une chose qu'aucun cours de l'École ne lui avait apprise : qu'un chef, dans la nuit, ne sauve pas tous ses hommes ; qu'il choisit ceux qu'il peut sauver, et qu'il porte seul les autres.
+Puis il retourna au téléphone et reprit ses ordres, de la même voix égale.
 
 ---
 
