@@ -19,7 +19,7 @@ Il s'appelait Wilf Dobson, il avait dix-neuf ans, il était de Sunderland, et il
 
 Tom l'avait senti en même temps. Une tiédeur d'abord, sur le front, sur les avant-bras nus, comme lorsqu'on s'approche d'un feu de cheminée. Il l'avait prise pour le reste de la chaleur du jour, que l'acier du pont rendait au soir. Mais le pont, sous ses semelles, était frais. Ce qui chauffait venait d'en haut.
 
-Il leva les yeux. Le ciel avait changé de couleur sans qu'il s'en aperçoive, comme on vieillit. Le bleu profond du zénith avait pâli, puis tourné au rose, et le rose s'épaississait, gagnait vers l'est, vers l'Afrique, vers la Méditerranée, d'un bord à l'autre. Les étoiles filantes y tombaient toujours, mais on les voyait moins : elles se noyaient dans cette lumière qui ne venait d'aucun soleil. Le Rocher, au-dessus du port, prenait une teinte de chair. Les mâts du *Hood* étaient roses. L'eau de la baie, qui renvoyait tout, était rose aussi, puis orange, puis d'un rouge de forge.
+Il leva les yeux. Le ciel avait changé de couleur sans qu'il s'en aperçoive, comme on vieillit. Le bleu profond du zénith avait pâli, puis tourné au rose, et le rose s'épaississait, gagnait vers l'est, vers l'Afrique, vers la Méditerranée, d'un bord à l'autre. Les traits de lumière tombaient encore, mais ils pâlissaient à mesure que le ciel s'allumait, d'une clarté qui ne venait d'aucun soleil. Le Rocher, au-dessus du port, prenait une teinte de chair. Les mâts du *Hood* étaient roses. L'eau de la baie, qui renvoyait tout, était rose aussi, puis ambrée, puis d'un rouge de forge.
 
 La tiédeur devint une brûlure.
 
@@ -33,7 +33,7 @@ Tom attrapa l'autre mécanicien par l'épaule et le poussa vers la porte de l'î
 
 Wilf n'avait pas bougé.
 
-Il était resté à la rambarde, face au couchant, la tête levée vers le ciel rouge. Il ne riait plus. Il regardait avec une sorte d'attention appliquée, comme un écolier devant un problème qu'il veut comprendre avant de rendre sa copie.
+Il était resté à la rambarde, face au couchant, la tête levée vers le ciel rouge. Il ne riait plus. Il regardait, appliqué, comme un écolier devant un problème qu'il veut comprendre avant de rendre sa copie.
 
 — Dobson !
 
@@ -67,13 +67,13 @@ Le pont d'envol brûlait.
 
 Pas l'acier : l'acier tenait. Mais les Swordfish de la 810, alignés à l'arrière, ailes repliées, roues calées, comme des oiseaux endormis, étaient en feu. Leurs toiles avaient flambé d'un coup, et il ne restait de leurs ailes que des squelettes de longerons et de nervures, noirs, nets, qui se découpaient sur les flammes comme les dessins d'un manuel. Les moteurs brûlaient. L'essence des réservoirs brûlait, avec une flamme jaune et lourde qui coulait sur le pont, gagnait les dalots, gouttait dans la mer en petites gerbes. Une fumée noire montait de l'arrière du navire et se couchait sur la baie.
 
-Les équipes d'incendie arrivaient de partout, en courant, déroulant leurs tuyaux. Les lances crachèrent. La vapeur monta en sifflant de l'acier qu'elles touchaient. Tom saisit un tuyau que personne ne tenait et rejoignit un groupe qui arrosait l'appareil le plus proche. Il ne savait pas lequel c'était. Il le sut en voyant la lettre peinte sur ce qui restait du fuselage : le sien.
+Les équipes d'incendie arrivaient de partout, en courant, déroulant leurs tuyaux. Les lances crachèrent, et l'acier fuma sous l'eau. Tom saisit un tuyau que personne ne tenait et rejoignit un groupe qui arrosait l'appareil le plus proche. Il ne savait pas lequel c'était. Il le sut en voyant la lettre peinte sur ce qui restait du fuselage : le sien.
 
 Il continua d'arroser.
 
 C'est le commandant Holland qui donna l'ordre, de la passerelle, par le porte-voix : les appareils qui ne pouvaient pas être sauvés seraient poussés à la mer. On ne pouvait pas laisser de l'essence en feu sur le pont d'un porte-avions, au-dessus des hangars où dormaient d'autres avions, d'autres réservoirs, des torpilles. On amena un tracteur. On attacha des filins aux carcasses. Et Tom vit les Swordfish de la 810, les uns après les autres, glisser sur le pont dans un raclement de métal, basculer par-dessus le bord et tomber dans la baie, où ils s'éteignaient avec un sifflement énorme, dans un nuage de vapeur, avant de s'enfoncer. Le sien partit le quatrième. Il le regarda basculer et ne ressentit rien, sur le moment, qu'une sorte d'étonnement : il n'avait jamais vu un avion tomber si lentement.
 
-Halloran était là, quelque part, en manches de chemise, le visage noir de fumée. Il passa près de Tom, une hache à la main, et lui tapa sur l'épaule sans s'arrêter.
+Halloran était là, quelque part, en manches de chemise, le visage noir de fumée. Il passa près de Tom, une hache à la main, et lui donna une tape sur l'épaule sans s'arrêter.
 
 — Tu as trouvé le moyen de ne pas attaquer le *Strasbourg*, dit-il. Félicitations.
 
@@ -139,13 +139,13 @@ Il sortit. Tom resta seul avec la lampe verte et les opérateurs, de l'autre cô
 
 ---
 
-Il n'y eut pas d'aurore. Il y eut, vers cinq heures et demie, une clarté sale qui monta de l'est sans que rien ne la précède, ni rose, ni or, ni ligne d'horizon : seulement le ciel brun qui pâlissait, devenait gris, puis jaune, puis d'une couleur de cuivre terni qu'il garda. Le soleil ne parut pas. On devinait sa place, très bas sur la Méditerranée, à une tache un peu moins sombre dans le cuivre, sans contour, et qui ne monta pas.
+Il n'y eut pas d'aurore. Vers cinq heures et demie, le ciel se mit à pâlir par en dessous, sans qu'aucune couleur vînt annoncer le jour, ni rose, ni or, ni ligne d'horizon, et il prit peu à peu une teinte de cuivre sale qu'il ne quitta plus. Le soleil ne parut pas. On devinait sa place, très bas sur la Méditerranée, à une tache un peu moins sombre dans le cuivre, sans contour, et qui ne monta pas.
 
 Tom monta sur le toit de l'île, à la plate-forme de veille aérienne, avec Halloran. C'était le point le plus haut du navire. De là, on voyait la baie entière, le Rocher, l'isthme, l'Espagne, et, au sud, par-delà le détroit, la côte d'Afrique.
 
 Il avait toujours aimé voir les choses d'en haut. C'était pour cela qu'il volait : parce qu'en l'air la terre devenait une carte, et qu'une carte se comprend. On y voit les routes, les rivières, l'endroit où les villes se serrent, l'endroit où elles s'espacent, les champs, les forêts, la façon dont les hommes ont rangé le monde. Ce matin-là, la carte était effacée. Les pentes du Rocher étaient noires, les collines d'Espagne étaient noires jusqu'à l'horizon, et les fumées, qui montaient de partout et s'étalaient sous le ciel de cuivre, recouvraient le reste d'un même voile gris. On ne distinguait plus les villes des champs, ni les routes des ravins. Au sud, l'Afrique n'existait plus du tout. Il n'y avait, à sa place, qu'une ombre plus épaisse dans la fumée.
 
-Et sur l'eau de la baie, au milieu de ce paysage de cendre, les navires de la Force H étaient à leur place, tous, intacts. Le *Hood*, gris, énorme, avec ses tourelles et ses mâts. Les deux vieux cuirassés. Les croiseurs. Les destroyers rangés le long du môle, couple à couple. Leur peinture avait cloqué et noirci ; sur les plages arrière, des hommes en short, pieds nus, maniaient déjà les lances et les balais, comme au lendemain d'un exercice. Dans ce monde éteint, c'était la seule chose qui eût gardé sa forme.
+Et sur l'eau de la baie, au milieu de ce paysage de cendre, les navires de la Force H n'avaient pas bougé : il n'en manquait pas un. Le *Hood*, gris, énorme, avec ses tourelles et ses mâts. Les deux vieux cuirassés. Les croiseurs. Les destroyers rangés le long du môle, couple à couple. Leur peinture avait cloqué et noirci ; sur les plages arrière, des hommes en short, pieds nus, maniaient déjà les lances et les balais, comme au lendemain d'un exercice. Dans ce monde éteint, c'était la seule chose qui eût gardé sa forme.
 
 — Ils sont tous là, dit Halloran.
 
@@ -165,9 +165,9 @@ Ashby le raconta à Tom plus tard, au carré, entre deux tasses de thé. Depuis 
 
 À neuf heures dix, Tom était sur la plate-forme quand le Rocher se mit à gronder.
 
-Ce ne fut pas un bruit, pas vraiment. Ce fut une sorte de souffle immense, très bas, qui passa sur la baie, venu du nord, et que l'on sentit plus qu'on ne l'entendit : dans les jambes, dans la poitrine, dans les vitres de la passerelle, qui se mirent à vibrer toutes ensemble avec un son de verre qu'on effleure. La surface de la baie frissonna, d'un seul coup, comme la peau d'un cheval. Des pierres se détachèrent des pentes noircies du Rocher et roulèrent, très loin, avec un bruit de grêle. Puis cela passa. Cela dura moins d'une minute. Le ciel de cuivre n'avait pas bougé.
+Ce ne fut pas un bruit, pas vraiment. Ce fut une sorte de souffle immense, très bas, qui passa sur la baie, venu du nord, et que l'on sentit plus qu'on ne l'entendit : dans les jambes, dans la poitrine, dans les vitres de la passerelle, qui se mirent à vibrer toutes ensemble avec un son de verre qu'on effleure. La surface de la baie frissonna, d'un seul coup, comme la peau d'un cheval. Des pierres se détachèrent des pentes noircies du Rocher et roulèrent, très loin, avec un bruit de grêle. Puis cela passa, en moins d'une minute. Le ciel de cuivre n'avait pas bougé.
 
-Sur la plate-forme, les guetteurs avaient baissé leurs jumelles. Aucun ne parla. Tom se tourna vers le nord, vers l'Espagne, et au-delà de l'Espagne, vers ce qu'on ne voyait pas : la France, la Manche, l'Angleterre. Il n'aurait pas su dire pourquoi, sinon que c'était de là que c'était venu.
+Sur la plate-forme, les guetteurs avaient baissé leurs jumelles. Aucun ne parla. Tom se tourna vers le nord : l'Espagne, et au-delà ce qu'on ne voyait pas, la France, la Manche, l'Angleterre. Il ignorait pourquoi, sinon que c'était de là que c'était venu.
 
 ---
 
@@ -181,7 +181,7 @@ Holland parlait d'un ton posé, un peu sec, en homme qui a longtemps vécu à Pa
 
 Le haut-parleur grésilla, puis se tut.
 
-Dans le hangar, personne ne bougea pendant un moment. *Agissez à votre discrétion. Préservez la flotte.* Tom se répéta les mots. Ils ne ressemblaient à aucun ordre qu'il eût jamais reçu. La veille au soir encore, la flotte avait pour mission d'aller en couler une autre, à deux cents milles d'ici, et l'on avait épinglé sur un tableau noir le rectangle où il devait lancer sa torpille. Aujourd'hui, on lui disait de la préserver. On ne lui disait plus contre qui. On ne lui disait plus pour qui. Les Français, dans leur baie, avaient sans doute vu le même ciel, et compté leurs morts ce matin, et peut-être, à cette heure-ci, leur amiral lisait-il à ses hommes un signal de leur gouvernement, ou de nulle part.
+Dans le hangar, personne ne bougea pendant un moment. *Agissez à votre discrétion. Préservez la flotte.* Tom se répéta les mots. Ils ne ressemblaient à aucun ordre qu'il eût jamais reçu. La veille au soir encore, la flotte avait pour mission d'aller en couler une autre, à deux cents milles d'ici, et l'on avait épinglé sur un tableau noir le rectangle où il devait lancer sa torpille. Aujourd'hui, on lui disait de la préserver. On ne lui disait plus contre qui. On ne lui disait plus pour qui. Les Français, dans leur baie, avaient sans doute subi la même nuit, et compté leurs morts ce matin, et peut-être, à cette heure-ci, leur amiral lisait-il à ses hommes un signal de leur gouvernement, ou de nulle part.
 
 Catapult était morte. Personne ne l'avait annulée ; personne n'y pensait plus, voilà tout.
 

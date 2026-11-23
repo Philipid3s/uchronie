@@ -98,7 +98,7 @@ Ce fut dans la montée de Sant'Anna, devant la grande église dont la façade ro
 
 Dans la cour de San Giovanni di Dio, il y avait déjà deux cents personnes.
 
-Ils étaient couchés sous les arcades, sur les dalles, sur les marches de la chapelle, sur des matelas, sur des portes arrachées, sur rien. Ils étaient assis contre les colonnes, debout contre les murs, accroupis autour des leurs. La cour, qui sentait d'ordinaire le linge propre et le jasmin, sentait la fumée, le pétrole des lampes, et une autre odeur, douceâtre, qu'Efisia connaissait depuis le 24 juin et qu'elle n'aurait pas voulu connaître. À la porte, sous la voûte, une religieuse tenait une lanterne à bout de bras et regardait chaque arrivant, un par un, et d'un geste de la main l'envoyait à droite, à gauche, ou ailleurs. Ses grandes ailes blanches tremblaient. C'était Suor Giuseppina.
+Ils étaient couchés sous les arcades, sur les dalles, sur les marches de la chapelle, sur des matelas, sur des portes arrachées, sur rien. Ils étaient assis contre les colonnes, debout contre les murs, accroupis autour des leurs. La cour, qui sentait d'ordinaire le linge propre et le jasmin, sentait la fumée, le pétrole des lampes, et une autre odeur, douceâtre, qu'Efisia avait apprise à l'école des sœurs, dans la salle des grands brûlés, et qu'elle n'aurait pas voulu retrouver. À la porte, sous la voûte, une religieuse tenait une lanterne à bout de bras et regardait chaque arrivant, un par un, et d'un geste de la main l'envoyait à droite, à gauche, ou ailleurs. Ses grandes ailes blanches tremblaient. C'était Suor Giuseppina.
 
 Elle vit Efisia. Elle vit la charrette, ce qu'il y avait dedans. Elle posa la main sur le front de Rita, une seconde, puis sur celui de Bonaria.
 
@@ -152,7 +152,7 @@ Bonaria mourut un peu avant cinq heures.
 
 Elle ne souffrait plus ; le professeur était passé à minuit et avait dit *morphine*, et ce mot-là, Efisia l'avait entendu comme on entend une sentence. Elle dormait. Elle respirait de plus en plus doucement, avec de longues pauses entre les souffles, et le vieux Melis, au pied du lit, avait cessé de lever la main quand Efisia entrait. Il la regardait seulement, avec ses yeux de pêcheur, pâles, délavés par cinquante ans de soleil sur l'eau.
 
-Efisia lui prit la main. Elle lui caressa les cheveux. Ils étaient pleins d'une poussière de verre, de petits grains noirs, brillants, qui roulaient sous les doigts et tombaient sur l'oreiller. Il y en avait partout dans ses boucles. Efisia les ôta un à un, avec patience, comme on ôte, à la sortie de l'église, les grains de blé qu'on lance aux mariés. Elle se rappela que Bonaria, le soir, sur la terrasse, faisait des vœux pour qu'elle se marie avec un aviateur. Elle continua d'ôter les grains.
+Efisia lui prit la main. Elle lui caressa les cheveux. Ils étaient pleins d'une poussière de verre, de petits grains noirs, brillants, qui glissaient entre les doigts et tombaient sur l'oreiller. Efisia les ôta un à un, avec patience, comme on ôte, à la sortie de l'église, les grains de blé qu'on lance aux mariés. Elle se rappela que Bonaria, le soir, sur la terrasse, faisait des vœux pour qu'elle se marie avec un aviateur. Elle continua d'ôter les grains.
 
 À un moment, il n'y eut plus de souffle, et il n'en revint pas.
 
@@ -184,7 +184,7 @@ Il hocha la tête. Longtemps après, il dit :
 
 Vers dix heures, les vitres de l'hôpital se mirent à trembler.
 
-Efisia était dans le couloir du premier étage, avec un plateau de bols. Elle entendit d'abord un bruit qu'elle ne sut pas nommer : un frémissement, un bourdonnement très grave, qui montait du sol et descendait des voûtes, et qui faisait vibrer toutes les fenêtres du couloir ensemble, longuement, d'un tintement continu, comme si l'hôpital tout entier était une grande cloche que quelqu'un, très loin, avait effleurée. Les bols tintèrent sur le plateau. La flamme des cierges, sur les rebords des fenêtres, se coucha toute du même côté, puis se redressa. Cela dura une minute, peut-être moins. Puis le tintement décrut, et cessa.
+Efisia était dans le couloir du premier étage, avec un plateau de bols. Elle entendit d'abord un bruit qu'elle ne sut pas nommer : un frémissement, un bourdonnement très grave, qui montait du sol et descendait des voûtes, et qui faisait vibrer toutes les fenêtres du couloir ensemble, longuement, d'un tintement continu, comme si l'hôpital tout entier était une grande cloche que quelqu'un, très loin, avait touchée du doigt. Les bols tintèrent sur le plateau. La flamme des cierges, sur les rebords des fenêtres, se coucha toute du même côté, puis se redressa. Le tremblement ne dura guère. Le tintement décrut, et cessa.
 
 Dans les salles, il y eut des cris, puis des prières. Quelqu'un dit que c'étaient les Anglais, qui bombardaient le port. Quelqu'un d'autre dit que c'était la terre qui tremblait, comme à Messine, et que la ville allait tomber. Une vieille dit que c'était la fin du monde, avec beaucoup de calme, comme on donne l'heure.
 
@@ -196,7 +196,7 @@ Puis il se tourna vers elle, vit le plateau, et dit seulement :
 
 ---
 
-Elle porta les bols. Puis elle monta, pour la première fois depuis la veille au soir, au dernier étage de l'hôpital, là où une fenêtre de la lingerie donnait sur toute la ville, et elle s'y arrêta.
+Elle porta les bols. Puis elle monta, enfin, au dernier étage de l'hôpital, là où une fenêtre de la lingerie donnait sur toute la ville, et elle s'y arrêta.
 
 Cagliari descendait vers la mer comme chaque matin, de Stampace à la Marina, du Castello au port, avec ses toits, ses clochers, ses coupoles, ses terrasses. Mais il n'y avait plus de couleurs. Les toits étaient noirs. Les terrasses étaient noires. La Marina fumait encore, par vingt endroits, d'une fumée lente qui montait droit et s'aplatissait sous le ciel, comme si elle touchait un plafond. Au-delà, le port était gris, et le golfe gris, et le capo Sant'Elia, où Gigi gardait son canon, n'était qu'une ombre dans la brume. Sur l'étang de Santa Gilla, à l'ouest, les roselières avaient brûlé, et l'eau morte était couverte d'une cendre qui ne bougeait pas.
 
