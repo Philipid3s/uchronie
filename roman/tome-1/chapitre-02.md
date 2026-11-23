@@ -46,13 +46,13 @@ Il ne l'avait raconté à personne, sur l'*Ark Royal*, parce qu'on ne l'aurait p
 
 Tom avait pensé, cette nuit-là : voilà ce que c'est, perdre son pays. On se retourne, on salue, et on descend dans une cabine qui n'est pas à vous.
 
-Le *Devonshire* avait débarqué le roi à Greenock trois jours plus tard, et Tom avec lui, ou presque : on l'attendait à l'*Ark Royal*, qui avait perdu des pilotes en Norvège et devait en remplacer. Il avait pris le train de nuit pour le nord, avec son sac et sa caisse à outils, et il était arrivé à Scapa Flow le 15, par un matin de bruine, juste à temps pour voir le porte-avions, énorme, gris, plat comme une île, qui chauffait ses chaudières pour partir vers le sud. Halloran l'attendait à la coupée. Il l'avait reconnu à l'accent avant même qu'il ait ouvert la bouche.
+Le *Devonshire* avait débarqué le roi à Greenock trois jours plus tard, et Tom avec lui, ou presque : on l'attendait à l'*Ark Royal*, qui avait perdu des pilotes en Norvège et devait en remplacer. Il avait pris le train de nuit pour le nord, avec son sac et sa caisse à outils, et il était arrivé à Scapa Flow le 15, par un matin de bruine, juste à temps pour voir le porte-avions, énorme, gris, plat comme une île, qui se préparait à partir vers le sud. Halloran l'attendait à la coupée. Il l'avait reconnu à l'accent avant même qu'il ait ouvert la bouche.
 
 — Plymouth, avait dit Halloran.
 
 — Stonehouse, avait dit Tom.
 
-— Mutley. Bienvenue à l'escadrille 810. On part ce soir pour un endroit chaud. On ne sait pas lequel. Tu sais piloter un Swordfish sans flotteurs ?
+— Mutley. Bienvenue à l'escadrille 810. On part dans trois jours pour un endroit chaud. On ne sait pas lequel. Tu sais piloter un Swordfish sans flotteurs ?
 
 — Je sais piloter n'importe quoi qui a une hélice.
 
@@ -72,7 +72,7 @@ Le croiseur arrivait de l'ouest, de l'Atlantique, et il passa la pointe d'Europa
 
 — Tu le connais ?
 
-— De réputation. On dit qu'il est drôle. On dit aussi qu'il a été mis à la retraite pour raison de santé il y a trois ans, et qu'il a passé l'hiver à installer des radars sur les côtes, et qu'on est allé le rechercher parce qu'on n'avait plus personne.
+— De réputation. On dit qu'il est drôle. On dit aussi qu'il a été mis à la retraite pour raison de santé l'an dernier, et qu'il a passé l'hiver à installer des radars sur les côtes, et qu'on est allé le rechercher parce qu'on n'avait plus personne.
 
 — Ça ne donne pas confiance.
 

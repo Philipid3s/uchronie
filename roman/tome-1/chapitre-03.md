@@ -90,7 +90,7 @@ Le saint ne répondit pas. Il ne répondait jamais. C'était ce qu'elle aimait c
 
 ---
 
-Elle retrouva Gigi sous les arcades de la via Roma, à neuf heures moins le quart.
+Elle retrouva Gigi sous les arcades de la via Roma, à neuf heures.
 
 Il l'attendait, comme souvent quand il prenait la garde de nuit, appuyé à un pilier, sa bicyclette à la main, en uniforme de milicien, la chemise noire sous la vareuse, le calot sur l'oreille. Il avait vingt-quatre ans. Il était grand, large d'épaules, avec le visage rond de leur mère et les mains de leur père, et il avait ce sourire de garçon qui s'excuse d'avance de tout ce qu'il pourrait faire de travers. Il était entré dans la Milice l'année d'avant, parce que la batterie du capo Sant'Elia payait mieux que le port, où l'on ne trouvait plus de travail que deux jours par semaine. Il ne croyait à rien. Il croyait à la solde, à sa mère, aux femmes du Poetto et au Cagliari Calcio, dans un ordre qui changeait selon les jours.
 

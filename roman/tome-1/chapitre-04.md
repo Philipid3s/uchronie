@@ -45,7 +45,7 @@ La journée n'avait rien apporté. Le commandant était revenu à onze heures de
 
 À vingt heures vingt-cinq, le soleil passa derrière le Santon. Sur les cuirassés, les clairons sonnèrent les couleurs, l'un après l'autre, et l'écho fit le tour de la montagne. Jean salua le pavillon. Au moment où il baissait la main, il sentit sur sa nuque la fraîcheur que la nuit amène, et il pensa que ce serait une nuit agréable, la première depuis longtemps.
 
-Il aimait cette heure pour une autre raison encore. Sur un bâtiment au mouillage, le soir, l'officier de quart est le seul homme qui veille pour tous les autres. Deux cent soixante hommes dînaient, jouaient aux cartes, écrivaient, dormaient déjà, et leur repos tenait à lui, à ses yeux, à cette passerelle. Il n'en tirait aucun orgueil. Il y trouvait une sorte de paix : celle d'avoir, dans un monde sans nouvelles, une chose exacte à faire.
+Il aimait cette heure pour une autre raison encore. Sur un bâtiment au mouillage, le soir, l'officier de quart est le seul homme qui veille pour tous les autres. Deux cents hommes dînaient, jouaient aux cartes, écrivaient, dormaient déjà, et leur repos tenait à lui, à ses yeux, à cette passerelle. Il n'en tirait aucun orgueil. Il y trouvait une sorte de paix : celle d'avoir, dans un monde sans nouvelles, une chose exacte à faire.
 
 Le timonier s'appelait Le Bihan. C'était un quartier-maître de Douarnenez, ancien pêcheur de thon, qui avait de petits yeux pâles, toujours plissés, et la meilleure vue du bord après celle de Garrec. Il ne parlait que si on lui parlait, ou si quelque chose le méritait.
 
@@ -117,7 +117,7 @@ Le second l'ignorait. On n'avait pas encore compté.
 
 Jean pensa à la vedette.
 
-Elle était repartie du quai à vingt heures pour rentrer à bord, avec ses trois hommes d'équipage et un patron, un vieux second-maître de Paimpol qui l'avait conduite pendant toute la campagne de Norvège. Elle était dans la rade quand le ciel avait rougi. Il la chercha par la vitre de bâbord et ne la vit pas. Il vit l'eau rouge, les cuirassés couleur de brique, une embarcation, plus loin, qui flottait sans personne à bord, peut-être un canot du *Provence*, et, contre la coque du *Mogador*, de petites têtes noires qui sortaient de l'eau, respiraient, et replongeaient.
+Elle était repartie du quai à vingt heures pour rentrer à bord, avec ses trois hommes d'équipage et un patron, un vieux second-maître de Paimpol qui l'avait conduite tout l'hiver dans la rade de Brest, par tous les temps. Elle était dans la rade quand le ciel avait rougi. Il la chercha par les vitres et ne la vit pas. Il vit l'eau rouge, les cuirassés couleur de brique, une embarcation, plus loin, qui flottait sans personne à bord, peut-être un canot de la *Provence*, et, contre la coque du *Mogador*, de petites têtes noires qui sortaient de l'eau, respiraient, et replongeaient.
 
 — Ils se sont mis à l'eau, dit-il. Commandant, il y a des hommes à l'eau, le long du *Mogador*. Ils plongent.
 
@@ -139,7 +139,7 @@ Cela avait commencé par des points. Sur les pentes du Santon, sur celles du Mur
 
 Au-delà, à l'est, il y avait Oran.
 
-La veille, de la plage arrière, il avait vu ses lumières s'allumer une à une à la tombée du soir, et il n'y avait pas songé : chacune était une lampe sur une table, une famille autour, un homme qui lisait le journal, une femme qui appelait un enfant. De la mer, on ne voit jamais que des lumières, et l'on oublie qu'elles sont habitées. Il la voyait maintenant par la vitre de tribord, à huit kilomètres, de l'autre côté de la baie. Elle ne tremblait plus dans la chaleur, comme à midi. Elle était allumée tout entière, d'une seule lumière qui n'éclairait plus personne. Pas comme une ville qu'on éclaire, avec des rues, des places, des fenêtres, mais par plaques, par taches, avec des foyers rouges plus vifs que le ciel rouge, et une fumée qui montait de partout, se couchait vers la mer et cachait par instants la chapelle de Santa Cruz, sur son rocher, au-dessus de laquelle les pinèdes flambaient aussi.
+La veille, de la plage arrière, il avait vu ses lumières s'allumer une à une à la tombée du soir, et il n'y avait pas songé : chacune était une lampe sur une table, une famille autour, un homme qui lisait le journal, une femme qui appelait un enfant. De la mer, on ne voit jamais que des lumières, et l'on oublie qu'elles sont habitées. Il la voyait maintenant par les vitres de la timonerie, à huit kilomètres, de l'autre côté de la baie. Elle ne tremblait plus dans la chaleur, comme à midi. Elle était allumée tout entière, d'une seule lumière qui n'éclairait plus personne. Pas comme une ville qu'on éclaire, avec des rues, des places, des fenêtres, mais par plaques, par taches, avec des foyers rouges plus vifs que le ciel rouge, et une fumée qui montait de partout, se couchait vers la mer et cachait par instants la chapelle de Santa Cruz, sur son rocher, au-dessus de laquelle les pinèdes flambaient aussi.
 
 Quelque part dans cette ville, il y avait la rue d'Arzew, un bar dont la patronne avait de la famille à Quimper, et un enseigne de vaisseau qui portait dans sa poche intérieure, contre son cœur, deux lettres pour la France.
 
@@ -169,7 +169,7 @@ La vedette ne revint pas. On repêcha, le long du *Mogador*, deux de ses matelot
 
 Le reste de la nuit fut une longue tâche.
 
-Jean la vécut comme il avait vécu ses quarts les plus durs, en Norvège, dans la neige et le noir, une heure après l'autre, un geste après l'autre, sans regarder plus loin que la tâche suivante. Faire relever le pont par secteurs. Faire jeter à la mer les tauds brûlés. Faire balayer les grains de verre, qui roulaient sous les pieds et faisaient tomber les hommes, en tas, contre les rambardes, avec des balais de chiendent qui s'usaient en une heure. Vérifier les sabords. Vérifier les tourelles : la peinture y avait brûlé par grandes plaques, et la tôle, en dessous, était bleue. Faire monter de l'eau aux hommes des chaufferies, qui sortaient l'un après l'autre sur le pont pour respirer, livides, et s'asseyaient sur la tôle mouillée, la tête entre les genoux. Tenir le journal. Il y porta les heures, les ordres, les faits, de son écriture d'élève, lente, appliquée. Il n'y porta pas ce qu'il voyait. Il n'y avait pas de mots pour cela dans un journal de bord.
+Jean la vécut comme il avait vécu ses quarts les plus durs, l'automne dernier, dans l'Atlantique Nord, dans la brume et le noir, une heure après l'autre, un geste après l'autre, sans regarder plus loin que la tâche suivante. Faire relever le pont par secteurs. Faire jeter à la mer les tauds brûlés. Faire balayer les grains de verre, qui roulaient sous les pieds et faisaient tomber les hommes, en tas, contre les rambardes, avec des balais de chiendent qui s'usaient en une heure. Vérifier les sabords. Vérifier les tourelles : la peinture y avait brûlé par grandes plaques, et la tôle, en dessous, était bleue. Faire monter de l'eau aux hommes des chaufferies, qui sortaient l'un après l'autre sur le pont pour respirer, livides, et s'asseyaient sur la tôle mouillée, la tête entre les genoux. Tenir le journal. Il y porta les heures, les ordres, les faits, de son écriture d'élève, lente, appliquée. Il n'y porta pas ce qu'il voyait. Il n'y avait pas de mots pour cela dans un journal de bord.
 
 Il découvrit que la tâche protège. Tant qu'il restait un pont à relever, un sabord à vérifier, un homme à faire boire, il n'y avait pas de place pour le reste ; et le reste attendait, patient, au bord de chaque geste.
 
@@ -179,7 +179,7 @@ Il découvrit que la tâche protège. Tant qu'il restait un pont à relever, un 
 
 Il n'aurait pas su dire pourquoi il y était allé. Il n'attendait plus la vedette, et le commandant avait interdit qu'on mette à l'eau une autre embarcation avant le jour : la route de la corniche était en feu, le quai de Mers el-Kébir aussi, et il n'y avait rien à aller chercher dans la nuit qu'on pût ramener. Mais l'ordre était qu'on fût à bord à minuit, et il était minuit. Il resta là, la main sur la rambarde, à regarder l'eau noire et pleine de feux, en direction du quai qu'on ne voyait pas.
 
-Au-dessous de lui, il entendit le bruit léger de la mer contre la coque. Il se souvint de la phosphorescence de l'avant-veille, qui s'allumait et s'éteignait comme une respiration. Il n'y en avait pas ce soir. Ou il y en avait, et la lumière des incendies la couvrait.
+Au-dessous de lui, il entendit le bruit léger de la mer contre la coque. Il se souvint de la phosphorescence de la veille, qui s'allumait et s'éteignait comme une respiration. Il n'y en avait pas ce soir. Ou il y en avait, et la lumière des incendies la couvrait.
 
 À minuit dix, il descendit porter au journal : *Permissionnaires non rentrés.*
 
@@ -203,7 +203,7 @@ Il tombait, très doucement, une poussière fine et grise, qui se posait sur les
 
 C'étaient des permissionnaires qui n'avaient pas pris le car d'Oran. Ils étaient restés au village de Mers el-Kébir, dans un café du port, et quand le ciel avait rougi, le patron les avait fait descendre dans sa cave, avec sa famille et des pêcheurs, une trentaine de personnes dans le noir, au milieu des tonneaux. Ils y étaient restés jusqu'au jour. Ils avaient le visage gris de fumée et les yeux rouges, et deux d'entre eux étaient brûlés aux mains, pour avoir voulu rentrer une femme restée dans la rue. Ils ne parlaient presque pas.
 
-Jean descendit les attendre à la coupée. Il connaissait le plus âgé, un second-maître canonnier de Concarneau, qui servait la tourelle 2.
+Jean descendit les attendre à la coupée. Il connaissait le plus âgé, un second-maître canonnier du Guilvinec, qui servait la tourelle 2.
 
 — L'enseigne Garrec ? demanda-t-il.
 
@@ -249,7 +249,7 @@ Treize tués à bord. Vingt et un brûlés, dont six gravement. Trente-sept homm
 
 On ne dit pas « morts » pour les trente-sept. On dit « disparus ». Le commandant le voulut ainsi, et personne ne le contredit, et Jean lui en fut reconnaissant, sans savoir si c'était de la prudence ou de la pitié.
 
-Après l'appel, le commandant le fit venir dans sa chambre. La photographie de femme, dans son cadre de cuir, avait glissé sur le bureau pendant la nuit, et il la redressa avant de parler.
+Après l'appel, le commandant le fit venir dans sa chambre. La photographie de femme, dans son cadre de cuir, avait glissé sur le bureau quand les vitres avaient tremblé, et il la redressa avant de parler.
 
 — Vous avez fait battre le branle-bas à vingt heures quarante et une, dit-il. Sans m'attendre.
 
