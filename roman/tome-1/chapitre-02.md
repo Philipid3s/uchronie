@@ -106,7 +106,7 @@ Il n'acheva pas. Tom pensa aux chasseurs alpins de Harstad et à leur gourde de 
 
 Le soleil se couchait derrière l'Espagne. La nuit vint vite, comme elle vient dans le Sud, et avec elle la chose qui frappait Tom chaque soir depuis une semaine sans qu'il s'y habitue : de l'autre côté de la baie, l'Espagne s'allumait. Algésiras, San Roque, La Línea, au bout de l'isthme, les villages des collines, les phares de la côte, les voitures sur les routes. Des milliers de lumières, jaunes, tremblantes, insouciantes, par-delà un bras de mer. L'Espagne n'était pas en guerre. L'Espagne vivait la nuit comme on la vivait partout avant. Et de ce côté-ci, Gibraltar, la flotte, le Rocher entier étaient noirs, éteints, aveugles, sous les étoiles.
 
-Tom contempla longtemps la côte espagnole. Il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, et qu'il n'avait pas le droit d'y aller.
+Tom contempla longtemps la côte espagnole. Il voyait là, à cinq milles, le monde d'avant la guerre, intact, allumé, où il n'avait pas le droit d'aller.
 
 ---
 
