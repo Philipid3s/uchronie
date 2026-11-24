@@ -33,7 +33,7 @@ Pourquoi Gensoul ne rentre-t-il pas à Toulon ? C'est son port, la convention d'
 
 | Date | Message [canon provisoire] |
 |---|---|
-| **2 juillet, soir** | Toulon (Devin et Duplat) appelle Mers el-Kébir : la ville est intacte, les vitres brisées, Paris ne répond plus. On attend la flotte |
+| **2 juillet, soir** | Toulon (Devin et Duplat) appelle Mers el-Kébir : la ville est intacte, les vitres brisées, le gouvernement ne répond pas : il venait de quitter Clermont-Ferrand pour Vichy [histoire : installation à Vichy le 1er et le 2 juillet 1940], et l'on n'en aura plus de nouvelles. On attend la flotte |
 | **3 juillet** | **L'Amirauté (Nérac)** ordonne à Gensoul de **rentrer à Toulon** en application de l'armistice, et de **cesser tout contact avec la flotte britannique** |
 | **4 juillet** | Gensoul et Somerville forment le Conseil des Amiraux ([06](06-mers-el-kebir.md) §4). Gensoul répond à Nérac qu'il **ne rompra pas** avec Somerville : seule la fusion des deux flottes donne une chance de passer l'hiver |
 | **5 juillet** | Nérac **renouvelle l'ordre**, menace Gensoul de le relever de son commandement. Toulon signale les premiers pillages en ville et les foules aux portes de l'arsenal |

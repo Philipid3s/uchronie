@@ -9,7 +9,7 @@
 > 2 juillet. 10 h 50. Whitehall. Groupes chiffrés incomplets, évanouissements. Perdu à 11 h 20.  
 > 13 h 05. Malte, en clair : MALTA TO ANY BRITISH SHIP. GRAND HARBOUR ON FIRE. REQUIRE MEDICAL STORES.  
 > 18 h 10. Gibraltar, en clair, de l'amiral commandant la Force H pour l'amiral Gensoul. Traduit (EV2 de Kerangal, *Volta*). Porté à l'amiral.  
-> 19 h 40. Toulon (Préfecture maritime) appelle Mers el-Kébir. Ville tenue, vitres brisées. Paris ne répond plus.  
+> 19 h 40. Toulon (Préfecture maritime) appelle Mers el-Kébir. Ville tenue, vitres brisées. Vichy ne répond pas.  
 > 3 juillet. 2 h 30. Alexandrie, trafic britannique chiffré, fort.  
 > 4 h 05. Bizerte appelle Nérac. Pas de réponse entendue.  
 > 9 h 40. Nérac, chiffré, pour l'amiral. Porté à l'amiral.  
@@ -82,7 +82,7 @@ Le second-maître lui montra sur le cahier d'écoute ce qu'on avait reçu depuis
 
 Le second-maître tourna un bouton sur le récepteur le plus proche, attendit, le tourna encore. Il y eut un souffle, et rien dans le souffle.
 
-— Depuis le premier au soir, Lieutenant. Rome, Berlin, Paris. On les cherche toutes les heures. On ne les trouve pas.
+— Depuis le premier au soir, Lieutenant. Rome, Berlin. Et la radio du gouvernement, à Vichy, à Clermont, on ne sait plus où. On les cherche toutes les heures. On ne les trouve pas.
 
 Il dit cela sans emphase, comme on signale un feu de côte éteint.
 
@@ -120,7 +120,7 @@ La réponse descendit une demi-heure plus tard, de la main de Dufay, en françai
 
 À dix-neuf heures quarante, ce fut Toulon.
 
-Jean le comprit au geste du second-maître, qui se redressa d'un coup. L'homme était de Toulon ; Jean l'avait deviné à son accent, et il en eut la certitude quand l'opérateur annonça l'indicatif de la Préfecture maritime. Le second-maître prit lui-même un casque. Il écouta, debout, une main sur le dossier de la chaise, pendant que l'opérateur écrivait. La Préfecture appelait Mers el-Kébir. La ville avait tenu. Les vitres étaient brisées. L'arsenal était intact. Paris ne répondait plus. On attendait la flotte.
+Jean le comprit au geste du second-maître, qui se redressa d'un coup. L'homme était de Toulon ; Jean l'avait deviné à son accent, et il en eut la certitude quand l'opérateur annonça l'indicatif de la Préfecture maritime. Le second-maître prit lui-même un casque. Il écouta, debout, une main sur le dossier de la chaise, pendant que l'opérateur écrivait. La Préfecture appelait Mers el-Kébir. La ville avait tenu. Les vitres étaient brisées. L'arsenal était intact. Le gouvernement, qu'on disait arrivé à Vichy la veille, ne répondait pas. On attendait la flotte.
 
 Le second-maître ôta le casque. Il le garda un moment dans sa main, sans rien dire, les yeux fixés sur le bloc où l'opérateur finissait d'écrire. Puis il le reposa, doucement, et reprit sa ronde entre les récepteurs.
 
