@@ -27,7 +27,7 @@ TITRE = "Le Ciel de cendre"
 
 PARTIES = {  # premier chapitre de chaque partie (plan.md §4)
     1: ("Première partie", "La nuit de feu"),
-    7: ("Deuxième partie", "Le chemin de l'île"),
+    7: ("Deuxième partie", "Préservez la flotte"),
     13: ("Troisième partie", "Sous les canons"),
     19: ("Quatrième partie", "Le premier froid"),
 }

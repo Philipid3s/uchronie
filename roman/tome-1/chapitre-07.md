@@ -1,4 +1,4 @@
-## Partie II — Le chemin de l'île
+## Partie II — Préservez la flotte
 
 ### 7. Jean
 

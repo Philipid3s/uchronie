@@ -104,7 +104,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 | Partie | Titre provisoire | Dates | Chapitres |
 |---|---|---|---|
 | I | **La nuit de feu** | 30 juin – 2 juillet 1940 | 1 – 6 |
-| II | **Le chemin de l'île** | 2 – 12 juillet | 7 – 12 |
+| II | **Préservez la flotte** [canon roman, 24 novembre 2026 : titre tiré du dernier signal de l'Amirauté, chapitre 5] | 2 – 12 juillet | 7 – 12 |
 | III | **Sous les canons** | 13 juillet – septembre | 13 – 18 |
 | IV | **Le premier froid** | septembre – fin novembre | 19 – 27 |
 
@@ -147,7 +147,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 - Vers 10 h (heure italienne), les vitres de l'hôpital tremblent : le souffle de Rambouillet, que personne ne comprend.
 - *« Le matin vient mal : un jour de cuivre, sans soleil. Le lendemain, il ne viendra plus. »*
 
-### Partie II — Le chemin de l'île
+### Partie II — Préservez la flotte
 
 **7. Jean — 2 – 4 juillet, Mers el-Kébir** [validé]
 - **Interprète** : dès le 2, pour le contact radio en clair avec Somerville, l'état-major de Gensoul réclame des officiers qui parlent anglais ; Jean est détaché du *Volta*.
