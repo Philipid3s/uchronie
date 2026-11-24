@@ -1,6 +1,6 @@
 """Construit le PDF de lecture des chapitres écrits du tome 1 (« Le Ciel de cendre »).
 
-    python roman/tome-1/edition/build.py            # tous les chapitre-NN.md présents
+    python roman/tome-1/edition/build.py            # un PDF par partie (chapitre-NN.md présents)
     python roman/tome-1/edition/build.py --html     # HTML seulement
 
 Les chapitres .md restent la seule source. La mise en page (format roman 140 × 215 mm)
@@ -46,7 +46,7 @@ GABARIT = """<!doctype html>
 <section class="titre">
   <p class="auteur">L'Îlot · roman</p>
   <h1>{titre}</h1>
-  <p class="tome">Tome I</p>
+  <p class="tome">Tome I · {partie}</p>
   <p class="etat">Chapitres {premiers} · version de travail<br>{date}</p>
 </section>
 <section class="faux-titre">
@@ -86,24 +86,34 @@ def main():
     args = ap.parse_args()
     fichiers = sorted(TOME.glob("chapitre-*.md"))
     nums = [int(re.search(r"(\d+)", f.stem).group(1)) for f in fichiers]
-    corps = []
+    # un PDF par partie : chaque chapitre va dans la partie qui le contient
+    debuts = sorted(PARTIES)
+    groupes = {}
     for n, f in zip(nums, fichiers):
-        if n in PARTIES:
-            num, titre = PARTIES[n]
-            corps.append(f'<section class="partie"><p class="num">{num}</p><h2>{titre}</h2></section>')
-        corps.append(chapitre_html(n, f.read_text(encoding="utf-8")))
-    premiers = f"{nums[0]} à {nums[-1]}" if len(nums) > 1 else str(nums[0])
+        debut = max(d for d in debuts if d <= n)
+        groupes.setdefault(debut, []).append((n, f))
     BUILD.mkdir(exist_ok=True)
-    nom = f"le-ciel-de-cendre-ch{nums[0]:02d}-{nums[-1]:02d}"
-    html_path = BUILD / f"{nom}.html"
-    html_path.write_text(GABARIT.format(titre=TITRE, premiers=premiers,
-                                        date=datetime.date.today().strftime("%d/%m/%Y"),
-                                        corps="\n".join(corps)), encoding="utf-8")
-    print("HTML :", html_path.relative_to(ROOT))
-    if not args.html:
-        pdf_path = BUILD / f"{nom}.pdf"
-        n = rendre_pdf(html_path, pdf_path)
-        print(f"PDF  : {pdf_path.relative_to(ROOT)} ({n} pages)")
+    for ancien in BUILD.glob("le-ciel-de-cendre-ch*.*"):  # anciens PDF d'un seul tenant
+        ancien.unlink()
+    for no, debut in enumerate(debuts, 1):
+        if debut not in groupes:
+            continue
+        chapitres = groupes[debut]
+        num, titre = PARTIES[debut]
+        corps = [f'<section class="partie"><p class="num">{num}</p><h2>{titre}</h2></section>']
+        corps += [chapitre_html(n, f.read_text(encoding="utf-8")) for n, f in chapitres]
+        a, b = chapitres[0][0], chapitres[-1][0]
+        premiers = f"{a} à {b}" if a != b else str(a)
+        nom = f"le-ciel-de-cendre-partie-{no}"
+        html_path = BUILD / f"{nom}.html"
+        html_path.write_text(GABARIT.format(titre=TITRE, partie=f"{num} : {titre}", premiers=premiers,
+                                            date=datetime.date.today().strftime("%d/%m/%Y"),
+                                            corps="\n".join(corps)), encoding="utf-8")
+        print("HTML :", html_path.relative_to(ROOT))
+        if not args.html:
+            pdf_path = BUILD / f"{nom}.pdf"
+            n = rendre_pdf(html_path, pdf_path)
+            print(f"PDF  : {pdf_path.relative_to(ROOT)} ({n} pages)")
 
 
 if __name__ == "__main__":
