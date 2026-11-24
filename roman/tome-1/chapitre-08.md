@@ -1,6 +1,6 @@
 ### 8. Tom
 
-*Gibraltar et l'Oranie, vendredi 5 – mercredi 10 juillet 1940*
+*Gibraltar et l'Oranie, jeudi 4 – mercredi 10 juillet 1940*
 
 > AMIRAL COMMANDANT 3ᵉ ESCADRE À AMIRAL COMMANDANT FORCE DE RAID. PERSONNEL.  
 > NE VENEZ PAS. VOTRE BLÉ NE NOURRIRAIT PAS TOULON HUIT JOURS ET LA FOULE EST AUX PORTES DE L'ARSENAL. SI VOUS TROUVEZ UNE TERRE QUI SE DÉFEND, PRÉVENEZ-NOUS. DUPLAT.
@@ -160,7 +160,7 @@ Le retour se fit le long de la côte espagnole, pour changer, dit Gray, et parce
 
 Tom la vit. Il était peut-être le seul.
 
-Au-dessus de la mer, entre la côte et eux, il n'y avait rien. Pas un navire, pas un bateau de pêche, pas une lumière de bord. La Méditerranée, qu'il n'avait vue depuis trois semaines que pleine de convois, de cargos, de voiles, de fumées, était vide d'un horizon à l'autre, et luisait à peine. Il eut l'impression, pendant de longues minutes, que lui, son appareil, sa constellation verte, ses flammes bleues, Gray et Nobby derrière lui, et les deux lueurs d'Halloran à sa gauche, étaient les seules choses vivantes au-dessus de cette mer. Ce n'était sans doute pas vrai. Mais rien ne le contredisait.
+Au-dessus de la mer, entre la côte et eux, il n'y avait rien. Pas un navire, pas un bateau de pêche, pas une lumière de bord. La Méditerranée, qu'il n'avait vue depuis deux semaines que pleine de convois, de cargos, de voiles, de fumées, était vide d'un horizon à l'autre, et luisait à peine. Il eut l'impression, pendant de longues minutes, que lui, son appareil, sa constellation verte, ses flammes bleues, Gray et Nobby derrière lui, et les deux lueurs d'Halloran à sa gauche, étaient les seules choses vivantes au-dessus de cette mer. Ce n'était sans doute pas vrai. Mais rien ne le contredisait.
 
 Le Rocher se dressa devant eux vers midi, et ils le reconnurent à ses projecteurs. Il y en avait quatre, au pied de la face nord, braqués vers le ciel, qui dressaient dans la poussière quatre piliers blancs, parallèles, comme les montants d'une porte, et entre elles, très bas, la piste de North Front, balisée de lanternes. La masse du Rocher, au-dessus, était invisible. On la sentait. Elle mangeait la moitié du ciel, plus sombre que l'ombre elle-même, et Tom fit son approche en s'en tenant loin, comme on se tient loin d'un homme endormi dont on ignore l'humeur au réveil.
 
@@ -172,7 +172,7 @@ Halloran se posa derrière lui. Quand les deux appareils furent arrêtés, côte
 
 — C'est beaucoup, vingt minutes ?
 
-Halloran ne répondit pas tout de suite. Il essuyait sa jauge avec un chiffon.
+Halloran prit son temps. Il essuyait sa jauge avec un chiffon.
 
 — Il reste sur le Rocher et sur l'*Ark* de quoi voler, en tout, quelques centaines d'heures, dit-il. Pour tous les avions. Et personne n'en fabriquera plus. Alors oui, Tom. C'est beaucoup, vingt minutes.
 
@@ -232,7 +232,7 @@ Il ne sut jamais son nom. Il n'aurait pas su à qui le demander.
 
 La Force H appareilla le mercredi 10 juillet à six heures du matin.
 
-C'était l'heure de l'aube, et il n'y eut pas d'aube. Il y eut, sur le *Hood*, sur l'*Ark Royal*, sur les cuirassés, les croiseurs, les destroyers, des feux de route qui s'allumèrent l'un après l'autre dans l'ombre du port, rouges à bâbord, verts à tribord, blancs en tête de mât, comme une ville qu'on rallume. Les remorqueurs, eux aussi allumés, poussèrent l'*Ark Royal* hors du môle. Les machines prirent le relais. Le porte-avions glissa lentement dans la baie, derrière le *Hood*, et Tom, sur le pont d'envol, à l'arrière, regarda le Rocher s'éloigner.
+C'était l'heure de l'aube, et rien ne vint du côté de l'est. Il y eut, sur le *Hood*, sur l'*Ark Royal*, sur les cuirassés, les croiseurs, les destroyers, des feux de route qui s'allumèrent l'un après l'autre dans l'ombre du port, rouges à bâbord, verts à tribord, blancs en tête de mât, comme une ville qu'on rallume. Les remorqueurs, eux aussi allumés, poussèrent l'*Ark Royal* hors du môle. Les machines prirent le relais. Le porte-avions glissa lentement dans la baie, derrière le *Hood*, et Tom, sur le pont d'envol, à l'arrière, regarda le Rocher s'éloigner.
 
 Il n'existait plus que par ses lumières. À l'entrée des galeries, à mi-hauteur de la falaise, des lampes s'étaient allumées, une dizaine, peut-être plus : les hommes qui restaient étaient sortis voir partir la flotte, et elles formaient sur la masse invisible du Rocher une ligne irrégulière, tremblante, comme les fenêtres d'un village de montagne. Puis, plus haut, presque au sommet, un projecteur de signalisation se mit à battre. Tom lut les éclats. Ils n'étaient pas pour lui, mais pour le *Hood*, pour l'amiral, et ils étaient en clair.
 
