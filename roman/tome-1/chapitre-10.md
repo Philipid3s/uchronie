@@ -65,13 +65,13 @@ Le car était arrêté dans un virage, au-dessus de la mer, de travers, une roue
 
 Jean fit arrêter la colonne.
 
-Il descendit avec Le Floc'h et le médecin du *Volta*, qu'on lui avait adjoint pour l'eau et qui voyageait dans le deuxième camion. Les hommes restèrent dans les camions. Personne ne le leur avait ordonné. Ils restèrent, et l'on n'entendit plus, pendant un long moment, que le moteur des camions qui tournait au ralenti.
+Il descendit avec Le Floc'h et le médecin du *Volta*, qu'on lui avait adjoint pour l'eau et qui voyageait dans le deuxième camion. Les hommes restèrent dans les camions. Personne ne le leur avait ordonné. Ils restèrent, et l'on n'entendit plus, pendant un long moment, que les moteurs des camions qui tournaient au ralenti.
 
 Le car était parti de Mers el-Kébir à huit heures et quart, le 1er juillet au soir. Jean l'avait appris le 2 par les hommes revenus du village : c'était le car qu'on prenait d'habitude après un verre au café du port, et les permissionnaires du *Volta* l'avaient attendu une heure et demie, pour être à Oran à la nuit, quand les bars s'allumaient derrière leurs rideaux bleus. À huit heures trente-six, il devait être ici, ou à peu près. Au virage. Sous la pinède. Sous le ciel.
 
 Le médecin entra le premier, avec une lanterne. Jean le suivit jusqu'à la marche et s'arrêta.
 
-Il ne raconta jamais ce qu'il avait vu à l'intérieur. Il ne le raconta à personne, et, des années plus tard, il découvrit qu'il ne se le racontait pas non plus : ce qu'il avait vu n'était pas devenu un souvenir, avec des formes et un ordre ; c'était resté une couleur, et une odeur, et un silence. Il resta sur la marche. Le médecin, lui, avança dans l'allée, lentement, sa lanterne levée, et Jean l'entendit compter à voix basse, comme on compte à l'appel. Il compta jusqu'à quarante-quatre. Il y avait des civils, aussi, des gens d'Oran ou de Mers el-Kébir, qui rentraient chez eux.
+Il ne raconta jamais à personne ce qu'il avait vu à l'intérieur ; et, des années plus tard, il découvrit qu'il ne se le racontait pas non plus : ce qu'il avait vu n'était pas devenu un souvenir, avec des formes et un ordre ; c'était resté une couleur, et une odeur, et un silence. Le médecin, lui, avança dans l'allée, lentement, sa lanterne levée, et Jean l'entendit compter à voix basse, comme on compte à l'appel. Il compta jusqu'à quarante-quatre. Il y avait des civils, aussi, des gens d'Oran ou de Mers el-Kébir, qui rentraient chez eux.
 
 Près du siège du chauffeur, sur le plancher, quelque chose brillait à la lanterne. Le médecin se baissa, le ramassa, et le tendit à Jean sans un mot.
 
@@ -83,7 +83,7 @@ Jean le prit. Il le tint dans sa main. Il ne chercha rien d'autre. Il savait qu'
 
 Jean regarda le ciel, par habitude, et il n'y avait pas de ciel.
 
-— On les laisse, dit-il. Pour aujourd'hui. On les laisse et on reviendra. Dites au maître du *Volta*, ce soir, qu'il faut l'aumônier et des hommes. Et des voiles.
+— On les laisse, dit-il. Pour aujourd'hui. On les laisse et on reviendra. Faites dire ce soir au maître d'équipage qu'il faut l'aumônier, des hommes, et de la toile.
 
 Il rendit le goulot au médecin.
 
@@ -99,7 +99,7 @@ Il n'y avait pas de lumière dans la ville. Il y avait des murs, dans les phares
 
 Les gens marchaient. C'était ce qui frappa Jean, plus que les ruines : on marchait partout, dans le noir, en silence, par petits groupes, avec des lanternes, des paniers, des enfants, et l'on marchait dans le même sens que les camions, vers le port.
 
-Le silo se dressait au fond du quai Henri-Beaupuy, entre les hangars et la mer. Jean ne l'avait jamais vu de près. C'était une tour de béton clair, haute comme une cathédrale, avec ses cellules alignées comme des tuyaux d'orgue, ses galeries, ses passerelles, ses grandes trémies suspendues au-dessus du bassin, où deux navires pouvaient charger à la fois. Les flammes avaient glissé sur lui sans l'entamer. On l'avait éclairé avec des projecteurs de bord, tirés d'un cargo par des câbles, et il s'élevait dans le noir, pâle, immense, intact, au-dessus d'une ville qui avait perdu la sienne.
+Le silo se dressait au fond du quai Henri-Beaupuy, entre les hangars et la mer. Jean ne l'avait jamais vu de près. C'était une tour de béton clair, haute comme un clocher, avec ses cellules alignées comme des tuyaux d'orgue, ses galeries, ses passerelles, ses grandes trémies suspendues au-dessus du bassin, où deux navires pouvaient charger à la fois. Les flammes avaient glissé sur lui sans l'entamer. On l'avait éclairé avec des projecteurs de bord, tirés d'un cargo par des câbles, et il s'élevait dans le noir, pâle, immense, intact, seul debout dans une ville défaite.
 
 Devant lui, il y avait la foule.
 
@@ -135,7 +135,7 @@ Il y avait, au premier rang, une femme qui tenait un enfant endormi sur l'épaul
 
 La pierre partit vers midi.
 
-Elle partit d'on ne sut où, de derrière, et elle atteignit un fusilier au front, au-dessus de l'œil. L'homme chancela, porta la main à son visage, la retira pleine de sang, et, d'un seul mouvement, sans réfléchir, épaula son fusil vers la foule.
+Elle vint d'on ne sut où, de derrière, et elle atteignit un fusilier au front, au-dessus de l'œil. L'homme chancela, porta la main à son visage, la retira pleine de sang, et, d'un seul mouvement, sans réfléchir, épaula son fusil vers la foule.
 
 Jean fut sur lui avant d'avoir décidé quoi que ce fût. Il saisit le canon à pleine main et le rabattit vers le sol, si fort que le fusilier faillit tomber.
 
@@ -155,9 +155,9 @@ Personne ne lança plus de pierre ce jour-là. Mais personne ne partit. La foule
 
 Les relevés des Anglais arrivèrent le samedi à l'aube, dans une voiture de l'armée de l'Air venue de La Sénia.
 
-C'était une copie à la plume, sur six feuilles de papier quadrillé, d'une écriture anglaise régulière, avec, en marge, une traduction française griffonnée par un officier aviateur. Une carte de la plaine, avec des croix, des cercles, des flèches. *Port d'Oran : grand silo intact. Foule estimée 5 à 10 000.* Jean lut cela debout dans la galerie des machines, à la lampe, et il leva les yeux vers la porte, au-delà de laquelle il y avait la foule estimée, et il pensa que l'observateur, là-haut, avait dû la voir à la lueur d'une fusée, d'un seul coup, comme une photographie, et qu'il avait écrit un nombre parce qu'il n'y avait rien d'autre à écrire.
+C'était la copie à la plume, faite à La Sénia par un officier aviateur, des notes de l'observateur anglais : six feuilles de papier quadrillé, l'anglais recopié lettre à lettre, et, en marge, une traduction française griffonnée. Une carte de la plaine, avec des croix, des cercles, des flèches. *Port d'Oran : grand silo intact. Foule estimée 5 à 10 000.* Jean lut cela debout dans la galerie des machines, à la lampe, et il leva les yeux vers la porte, au-delà de laquelle il y avait la foule estimée, et il pensa que l'observateur, là-haut, avait dû la voir à la lueur d'une fusée, d'un seul coup, comme une photographie, et qu'il avait écrit un nombre parce qu'il n'y avait rien d'autre à écrire.
 
-Plus bas, il y avait les silos de la plaine : Sainte-Barbe-du-Tlélat, Saint-Denis-du-Sig, un troisième sur la route de Mascara. L'état des routes. Les ponts debout, les ponts tombés. Une ligne, soulignée deux fois : *Voie ferrée praticable jusqu'à Tlélat*. Et une autre, que l'observateur avait écrite plus petit, et que le traducteur n'avait pas traduite : *Train stopped near Sidi-Bel-Abbès line. People on wagon roofs. Not moving.*
+Plus bas, il y avait les silos de la plaine : Sainte-Barbe-du-Tlélat, Saint-Denis-du-Sig. L'état des routes. Les ponts debout, les ponts tombés. Une ligne, soulignée deux fois : *Voie ferrée praticable jusqu'à Tlélat*. Et une autre, que l'observateur avait écrite plus petit, et que le traducteur n'avait pas traduite : *Train stopped near Sidi-Bel-Abbès line. People on wagon roofs. Not moving.*
 
 Jean la traduisit pour lui-même. Il plia les feuilles et les porta à l'officier du port, qui organisait les colonnes de la plaine. Le soir même, une locomotive qu'on avait rallumée avec du charbon de cargo partait vers Tlélat avec vingt wagons vides et une section de fusiliers. Elle revint le lundi, pleine.
 
@@ -165,7 +165,7 @@ Jean la traduisit pour lui-même. Il plia les feuilles et les porta à l'officie
 
 Le médecin goûtait l'eau.
 
-C'était sa charge, avec les malades des colonnes. On remplissait aux citernes de la ville les caisses à eau des cargos, qui n'avaient pas de bouilleurs, et qui allaient emporter des centaines de civils, peut-être des milliers, vers une destination que personne ne connaissait encore. Le médecin descendait dans chaque citerne avec une lampe et un gobelet de fer. Il remontait, il goûtait, il recrachait, il notait. Il y en avait une, derrière la place d'Armes, dont l'eau avait un goût de cendre ; il fit bouillir. Une autre, sur les hauteurs, avait un goût qu'il ne voulut pas nommer ; il la fit condamner. Les autres, il les fit chlorer, avec le chlore des réserves de la base, en mesurant la dose au compte-gouttes, en grommelant contre la chimie, contre les citernes, contre la ville.
+C'était sa charge, avec les malades des colonnes. On remplissait aux citernes de la ville les caisses à eau des cargos, qui n'avaient pas de bouilleurs, et qui allaient emporter des centaines de civils, peut-être des milliers, vers une destination que personne ne connaissait encore. Le médecin descendait dans chaque citerne avec une lampe et un gobelet de fer. Il remontait, il goûtait, il recrachait, il notait. Il y en avait une, derrière la place d'Armes, dont l'eau avait un goût de cendre ; il prescrivit de la faire bouillir à bord. Une autre, sur les hauteurs, avait un goût qu'il ne voulut pas nommer ; il la fit condamner. Les autres, il les fit chlorer, avec le chlore des réserves de la base, en mesurant la dose au compte-gouttes, en grommelant contre la chimie, contre les citernes, contre la ville.
 
 Jean l'accompagna un soir, le samedi, pour l'escorte. Ils descendirent ensemble dans une citerne voûtée, sous une cour de la vieille ville espagnole, par un escalier de pierre où la lanterne faisait danser leurs ombres. L'eau était noire, immobile, et sentait la pierre. Le médecin y plongea son gobelet, but une gorgée, la garda longtemps dans sa bouche, et l'avala.
 
@@ -219,13 +219,13 @@ On les tira au sort.
 
 L'ordre était venu du *Dunkerque* le dimanche soir, après une longue discussion au Conseil, disait-on, et Jean le reçut sur une feuille dactylographiée : *les dernières places seront tirées au sort entre les mères accompagnées d'enfants de moins de quinze ans. Un officier présidera au tirage, en présence de témoins.* L'officier, ce fut lui. On ne lui demanda pas son avis. Il n'aurait pas su quoi répondre.
 
-On installa une table sur le quai, devant la barrière, sous un projecteur, avec deux chaises, un registre, et un sac de toile du *Volta*, un sac de marin, qu'on avait vidé de ses effets. On y mit des papiers pliés en quatre : trois cent quarante qui portaient un numéro, et les autres, qui ne portaient rien. Combien d'autres, on ne le savait pas d'avance. On compta les femmes. On les fit venir, une par une, avec leurs enfants, par une porte dans la barrière, et on les compta, et à neuf heures du soir, quand on referma la porte de la barrière, on en avait compté mille cent douze.
+On installa une table sur le quai, devant la barrière, sous un projecteur, avec deux chaises, un registre, et un sac de toile du *Volta*, un sac de marin, qu'on avait vidé de ses effets. On y mit des papiers pliés en quatre : trois cent quarante qui portaient un numéro, et les autres, qui ne portaient rien. Combien d'autres, on ne le savait pas d'avance. On fit venir les femmes une par une, avec leurs enfants, par une porte dans la barrière, et on les compta : à neuf heures du soir, quand on referma cette porte, il y en avait mille cent douze.
 
 Jean resta à la table toute la nuit.
 
 Il ne regardait pas les papiers. Il regardait les mains. C'était tout ce qu'il pouvait regarder : les visages, il n'y parvenait plus après la première heure. Des mains qui entraient dans le sac de toile, fouillaient, hésitaient, choisissaient, ressortaient avec un papier plié, le dépliaient. Des mains de femmes, jeunes, vieilles, brûlées, bandées, des mains qui tremblaient, des mains qui ne tremblaient pas. Il y en eut une qui fit le signe de croix avant d'entrer dans le sac. Une autre qui baisa le papier avant de le déplier. Une autre qui le déplia, ne vit rien, le retourna, ne vit rien encore, et le replia soigneusement, et le mit dans sa poche, comme une chose qu'on garde.
 
-Quand il y avait un numéro, le second-maître de la *Provence*, assis à côté de Jean, écrivait un nom dans le registre, et la femme passait de l'autre côté, avec ses enfants, et ne se retournait pas. Quand il n'y avait rien, la femme restait devant la table, une seconde, deux secondes, et il fallait que Jean dise : *Je suis désolé, madame*. Il le dit cette nuit-là sept cent soixante-douze fois. Il ne le savait pas en le disant. Il le sut au matin, en faisant l'addition dans le registre, et il referma le registre.
+Quand il y avait un numéro, le second-maître de la *Provence*, assis à côté de Jean, écrivait un nom dans le registre, et la femme passait de l'autre côté, avec ses enfants, et ne se retournait pas. Quand il n'y avait rien, la femme restait devant la table, une seconde, deux secondes, et il fallait que Jean dise : *Je suis désolé, madame*. Il le dit cette nuit-là sept cent soixante-douze fois. Il ne le savait pas en le disant. Il le sut au matin, en faisant l'addition dans le registre, et il le referma.
 
 Il y en eut une, vers trois heures, qui ne partit pas.
 
@@ -291,9 +291,9 @@ Il ne sut jamais combien de temps dura le grain. Une semaine, disait-on plus tar
 
 ---
 
-Le *Volta* appareilla à onze heures du soir, le dernier des contre-torpilleurs de l'escorte.
+Le *Volta* était venu s'amarrer au quai d'Oran dans la soirée, pour prendre ses passagers et sa colonne. Il appareilla à onze heures, le dernier des contre-torpilleurs de l'escorte.
 
-On avait embarqué soixante civils à bord, les familles de quatre officiers mariniers et deux des mères du tirage. On les avait logés où l'on avait pu, dans le carré des officiers, dans les postes, dans l'infirmerie, sur la plage arrière sous des tauds neufs. Jean prit le quart à minuit, et quand il monta à la passerelle, il trouva sur l'aileron, contre la rambarde, assis par terre, un petit garçon.
+On avait pris soixante civils à bord, les familles de quatre officiers mariniers et deux des mères du tirage. On les avait logés où l'on avait pu, dans le carré des officiers, dans les postes, dans l'infirmerie, sur la plage arrière sous des tauds neufs. Quand Jean monta à la passerelle, à minuit, pour prendre le quart, il trouva sur l'aileron, contre la rambarde, assis par terre, un petit garçon.
 
 Il avait six ou sept ans. Il portait une culotte courte, un tricot trop grand, des sandales, et il tenait dans son poing fermé un morceau de papier. Il ne pleurait pas. Il regardait la mer, ou ce qui en tenait lieu, par les barreaux de la rambarde.
 
@@ -301,11 +301,11 @@ Il avait six ou sept ans. Il portait une culotte courte, un tricot trop grand, d
 
 — On ne sait pas, Lieutenant. Il est monté avec les autres, à la coupée. Personne ne le réclame. Il ne parle pas.
 
-Jean s'accroupit près de l'enfant. Il lui demanda son nom, en français, puis en espagnol, avec les trois mots qu'il savait. L'enfant ne répondit pas. Il ne leva pas les yeux. Il serrait son papier. Jean vit le poing fermé, le bout de papier blanc qui en dépassait, plié en quatre, et il pensa aux papiers du sac de toile, à ceux qui portaient un numéro et à ceux qui ne portaient rien, et il ne demanda pas à voir. Il ne demanda pas à l'enfant d'ouvrir la main. Il ne le saurait pas. C'était mieux ainsi.
+Jean s'accroupit près de l'enfant. Il lui demanda son nom, en français, puis en espagnol, avec les trois mots qu'il savait. L'enfant ne répondit pas. Il ne leva pas les yeux. Il serrait son papier. Jean vit le poing fermé, le bout de papier blanc qui en dépassait, plié en quatre, et il pensa aux papiers du sac de toile, à ceux qui portaient un numéro et à ceux qui ne portaient rien, et il ne demanda pas à l'enfant d'ouvrir la main. Il ne le saurait pas. C'était mieux ainsi.
 
-Il se releva et prit le quart.
+Il se releva et alla relever Rousseau.
 
-Le *Volta* rallia le convoi au large de la pointe, dans le noir, et prit sa place sur le flanc nord, à deux milles des cargos, dont on ne voyait que les feux de position, rouges, verts, blancs, en longues files sur l'eau, comme les lumières d'une rue qui s'en va. Derrière eux, à l'arrière, la côte brûlait encore. Les braises du Murdjadjo palpitaient dans la nuit, et celles du Santon, et, plus loin, à l'est, celles des collines d'Arzew. Oran, entre les deux, n'était plus qu'une tache sombre où rougeoyaient quelques points. Mais au fond du port, au pied de la masse invisible du silo, une lumière était restée allumée, un projecteur qu'on avait oublié, ou qu'on avait laissé exprès, et qui éclairait encore la grande porte ouverte. Jean le vit longtemps, petit, blanc, immobile. Puis la pointe le cacha.
+Le *Volta* rallia le convoi au large d'Oran, dans le noir, et prit sa place sur le flanc nord, à deux milles des cargos, dont on ne voyait que les feux de position, rouges, verts, blancs, en longues files sur l'eau, comme les lumières d'une rue qui s'en va. Derrière eux, la côte brûlait encore. Les braises du Murdjadjo palpitaient dans la nuit, et celles du Santon ; sur la droite, plus loin, celles des collines d'Arzew. Oran, au pied du Murdjadjo, n'était plus qu'une tache sombre où rougeoyaient quelques points. Mais au fond du port, au pied de la masse invisible du silo, une lumière était restée allumée, un projecteur qu'on avait oublié, ou qu'on avait laissé exprès, et qui éclairait encore la grande porte ouverte. Jean le vit longtemps, petit, blanc, immobile. Puis la pointe de Canastel le cacha.
 
 Il reprit la mer par secteurs, de droite à gauche, comme on le lui avait appris : les feux du convoi, le noir, la côte, le noir. Vers deux heures, il sentit quelque chose contre sa jambe. Le petit garçon s'était endormi, assis, la tête appuyée contre sa botte, le poing toujours fermé sur son papier.
 
