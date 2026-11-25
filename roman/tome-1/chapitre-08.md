@@ -72,7 +72,7 @@ La ville ne brûlait plus. Elle fumait. Des colonnes de fumée montaient de ving
 
 Nobby lâcha la fusée.
 
-Elle partit vers le bas, tourna sur elle-même, et s'ouvrit sous son petit parachute à huit cents pieds, avec un claquement qu'on n'entendit pas dans le bruit du moteur. Alors il y eut de la lumière. Une lumière blanche, crue, d'une violence de magnésium, qui descendait lentement en se balançant et qui tirait de la nuit, en dessous, un morceau de monde : les quais, les môles, le bassin, les grues tordues, un cargo couché sur le flanc contre un quai, les toits du quartier de la Marine sans leurs tuiles, et, à l'arrière du port, droite, haute, intacte, une masse de béton clair, pâle sous la fusée comme un os : le grand silo. Il n'avait rien. Le béton ne brûle pas.
+Elle partit vers le bas, tourna sur elle-même, et s'ouvrit sous son petit parachute à huit cents pieds, avec un claquement qu'on n'entendit pas dans le bruit du moteur. Alors il y eut de la lumière. Une lumière blanche, crue, d'une violence de magnésium, qui descendait lentement en se balançant. Elle tira de la nuit, en dessous, un morceau de monde : les quais, les môles, le bassin, les grues tordues, un cargo couché sur le flanc contre un quai, les toits du quartier de la Marine sans leurs tuiles, et, à l'arrière du port, droite, haute, intacte, une masse de béton clair, pâle sous la fusée comme un os : le grand silo. Il n'avait rien. Le béton ne brûle pas.
 
 Et devant le silo, sur la place, sur les quais, dans les rues qui y menaient, il y avait des gens.
 

@@ -41,7 +41,7 @@ Antonio s'était assis à sa place, au bout de la table, ses deux mains blanches
 
 — Il descend ce soir. Le garçon de la batterie l'a dit.
 
-Elle ne monta pas à la terrasse. Elle savait ce qu'elle y trouverait : le parapet, la corde, les pots de basilic, et le carré de dalles plus clair, près du parapet, là où le matelas avait été posé. Elle le savait comme si elle l'avait vu, et elle ne voulait pas l'avoir vu. Elle balaya la cuisine. Elle lava les assiettes, avec l'eau de la jarre, en économisant l'eau, parce que la fontaine du coin de la rue ne coulait plus. Elle porta un tabouret dans la pièce du fond, celle qui n'avait pas de fenêtre sur le ciel, et s'y assit pour attendre son frère, et s'endormit contre le mur, sa coiffe sur les genoux.
+Elle ne monta pas à la terrasse. Elle savait ce qu'elle y trouverait : le parapet, la corde, les pots de basilic, et le carré de dalles plus clair, près du parapet, là où le matelas avait été posé. Elle le savait comme si elle l'avait vu, et elle ne voulait pas l'avoir vu. Elle balaya la cuisine. Elle lava les assiettes avec l'eau de la jarre, en l'économisant, parce que la fontaine du coin de la rue ne coulait plus, et en gardant hors de la bassine ses avant-bras bandés, qui la brûlaient encore. Elle porta un tabouret dans la pièce du fond, celle qui n'avait pas de fenêtre sur le ciel, et s'y assit pour attendre son frère, et s'endormit contre le mur, sa coiffe sur les genoux.
 
 ---
 
