@@ -2,20 +2,20 @@
 
 *Mers el-Kébir et Oran, vendredi 5 – mardi 9 juillet 1940*
 
-> CONSEIL DES AMIRAUX
-> ORDRE N° 2
+> CONSEIL DES AMIRAUX  
+> ORDRE N° 2  
 > Mers el-Kébir, le 5 juillet 1940.
 >
 > Objet : ravitaillement de la flotte et des convois à Oran.
 >
-> 1. En vue de l'appareillage, et quelle que soit la destination qui sera retenue, il est prescrit d'embarquer sur les cargos réquisitionnés le maximum de grain (silo du port d'Oran, silos de la plaine), d'eau douce, de produits pharmaceutiques et de semences.
-> 2. Les silos, les quais et les itinéraires seront tenus par des détachements mixtes de marins et de fusiliers marins, chacun aux ordres d'un officier.
-> 3. Il ne sera fait usage des armes qu'en riposte à un feu ouvert sur le détachement.
-> 4. Priorité d'embarquement des passagers civils : a) familles des personnels de la flotte ; b) médecins, infirmières et pharmaciens ; c) ouvriers et spécialistes désignés par le commandant de la Marine à Oran. Les listes seront tenues au bureau du port.
+> 1. En vue de l'appareillage, et quelle que soit la destination qui sera retenue, il est prescrit d'embarquer sur les cargos réquisitionnés le maximum de grain (silo du port d'Oran, silos de la plaine), d'eau douce, de produits pharmaceutiques et de semences.  
+> 2. Les silos, les quais et les itinéraires seront tenus par des détachements mixtes de marins et de fusiliers marins, chacun aux ordres d'un officier.  
+> 3. Il ne sera fait usage des armes qu'en riposte à un feu ouvert sur le détachement.  
+> 4. Priorité d'embarquement des passagers civils : a) familles des personnels de la flotte ; b) médecins, infirmières et pharmaciens ; c) ouvriers et spécialistes désignés par le commandant de la Marine à Oran. Les listes seront tenues au bureau du port.  
 > 5. Les opérations seront poursuivies de jour et de nuit, sans interruption, jusqu'à nouvel ordre.
 >
-> Pour le Conseil des Amiraux :
-> L'amiral commandant la Force de Raid, GENSOUL.
+> Pour le Conseil des Amiraux :  
+> L'amiral commandant la Force de Raid, GENSOUL.  
 > Le vice-amiral commandant la Force H, SOMERVILLE.
 >
 > Ordre du Conseil des Amiraux pour la corvée d'Oran (extrait). Copie remise aux officiers des colonnes.
