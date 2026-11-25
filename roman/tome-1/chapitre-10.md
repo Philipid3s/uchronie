@@ -1,6 +1,6 @@
 ### 10. Jean
 
-*Mers el-Kébir et Oran, vendredi 5 – mardi 9 juillet 1940*
+*Mers el-Kébir, Oran et la mer, vendredi 5 – jeudi 11 juillet 1940*
 
 > CONSEIL DES AMIRAUX  
 > ORDRE N° 2  
@@ -310,3 +310,37 @@ Le *Volta* rallia le convoi au large d'Oran, dans le noir, et prit sa place sur 
 Il reprit la mer par secteurs, de droite à gauche, comme on le lui avait appris : les feux du convoi, le noir, la côte, le noir. Vers deux heures, il sentit quelque chose contre sa jambe. Le petit garçon s'était endormi, assis, la tête appuyée contre sa botte, le poing toujours fermé sur son papier.
 
 Jean ne bougea pas. Il garda le quart debout, au même endroit, sans changer de pied, jusqu'à la relève.
+
+---
+
+La flotte les rattrapa le jeudi, vers quatre heures de l'après-midi.
+
+On la vit venir de l'arrière, du côté de l'ouest, longtemps avant d'entendre ses machines : une ligne de feux sur l'horizon noir, qui grandit, se sépara en points, et devint des navires. Elle avait quitté Mers el-Kébir la veille au soir, réunie, et elle filait dix-huit nœuds quand le convoi en faisait huit. Elle passa au nord des cargos, à trois milles, tous feux allumés, dans l'ordre où l'avaient rangée les deux amiraux : le *Dunkerque* en tête, puis le *Hood*, puis le *Strasbourg*, puis les vieux cuirassés, français et anglais mêlés, puis la longue masse plate de l'*Ark Royal*, puis les autres, les croiseurs, les destroyers, à perte de vue. Cela dura près d'une heure. Sur les cargos, les civils étaient montés sur les ponts, et ils regardaient passer ces lumières sans rien dire, comme on regarde passer une procession dont on ne connaît pas le saint.
+
+Puis la flotte fut devant, et il n'en resta que des feux de poupe, de plus en plus serrés, de plus en plus bas, et la houle de ses sillages, qui arriva sur le convoi longtemps après elle et fit rouler les cargos l'un après l'autre, doucement, comme on berce.
+
+L'ordre vint à cinq heures, par le projecteur du commodore du convoi. Les contre-torpilleurs rallieraient l'écran de la flotte dans la nuit. Leurs passagers passeraient avant sur les cargos. Le *Volta* déposerait les siens sur le *Anadyr*, le paquebot-cargo des Messageries maritimes venu de Gibraltar, qui avait encore de la place dans ses entreponts.
+
+Jean prit le canot.
+
+La mer était calme, d'un calme lourd, huileux, sous la peau de cendre qui ne la quittait plus. On fit quatre voyages. Les familles des officiers mariniers descendirent l'échelle de coupée avec leurs valises, les femmes d'abord, puis les enfants qu'on passait de bras en bras, puis les vieux. Au cargo, on avait affalé une échelle de pilote et tendu un filet le long de la coque, et des matelots attendaient en bas, sur le dernier échelon, pour prendre les enfants à bout de bras et les faire monter. Jean tenait la barre et la lanterne. Il ne parlait pas. Il comptait.
+
+Le petit garçon était dans le dernier voyage.
+
+Il était resté sur l'aileron toute la matinée, puis dans la timonerie, entre les jambes de Le Bihan, qui le laissait faire. Personne ne l'avait réclamé. Personne ne savait son nom. Une des deux mères du tirage, une femme de Mers el-Kébir aux cheveux gris avant l'âge, avait dit qu'elle le prendrait avec les siens, et on le lui avait confié, parce qu'il fallait le confier à quelqu'un. Il s'était laissé descendre dans le canot sans résistance, et il s'était assis à l'arrière, contre la jambe de Jean, comme sur l'aileron.
+
+Au pied de l'échelle du cargo, quand le matelot tendit les bras vers lui, il ne bougea pas. Puis il ouvrit le poing.
+
+Il tendit le papier à Jean. Il ne le donna pas : il le tendit, et attendit que Jean le prenne, et Jean le prit, parce qu'on ne laisse pas une main tendue. Puis l'enfant se leva et se laissa soulever par le matelot, et monta, de bras en bras, jusqu'au pont, où la femme aux cheveux gris le reçut, et il ne se retourna pas.
+
+Le papier était plié en quatre, mou, humide d'avoir été tenu deux jours dans une main d'enfant. Jean ne le déplia pas. Il le mit dans la poche de sa vareuse, et il ramena le canot.
+
+---
+
+Le *Volta* quitta le convoi à onze heures du soir.
+
+Il fit un dernier signal au commodore, que Le Bihan passa à la lampe, *Volta rallie l'écran, bonne route*, et l'*Anadyr* répondit par trois éclats que personne ne sut lire. Puis le commandant fit monter l'allure, et les feux du convoi glissèrent vers l'arrière, s'abaissèrent, se rapprochèrent les uns des autres, et ne furent plus qu'une lueur, puis rien. Devant, il n'y avait que le noir, et quelque part dans ce noir, à soixante-dix milles, la flotte, et le golfe où l'on entrerait au matin.
+
+À minuit, avant de prendre le quart, Jean descendit à sa chambre. Rousseau dormait. Il ouvrit le tiroir de la table, où il avait rangé la veille de la nuit de feu une lettre qui n'y était plus. Il y avait son livre de prières, ses tables de logarithmes, et la place vide.
+
+Il y posa le papier plié, sans l'ouvrir, à la place de la lettre, et il referma le tiroir.
