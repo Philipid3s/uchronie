@@ -2,16 +2,21 @@
 
 *Mers el-Kébir et Oran, vendredi 5 – mardi 9 juillet 1940*
 
-> CONSEIL DES AMIRAUX — ORDRE N° 2  
-> Mers el-Kébir, 5 juillet 1940.
+> CONSEIL DES AMIRAUX
+> ORDRE N° 2
+> Mers el-Kébir, le 5 juillet 1940.
 >
-> 1. Quel que soit le refuge, il faudra manger. Il sera chargé sur les cargos réquisitionnés le grain du port d'Oran et des silos de la plaine, l'eau, les médicaments et les semences.  
-> 2. Des colonnes de marins et de fusiliers marins, chacune sous les ordres d'un officier, garderont les silos, les quais et les routes.  
-> 3. On ne tirera que si l'on tire sur soi.  
-> 4. Seront embarqués, dans l'ordre : les familles des marins ; les médecins, infirmières et pharmaciens ; les métiers utiles. Les listes seront tenues au bureau du port.  
-> 5. Le travail se fera jour et nuit, jusqu'à l'appareillage.
+> Objet : ravitaillement de la flotte et des convois à Oran.
 >
-> Pour le Conseil : GENSOUL. SOMERVILLE.
+> 1. En vue de l'appareillage, et quelle que soit la destination qui sera retenue, il est prescrit d'embarquer sur les cargos réquisitionnés le maximum de grain (silo du port d'Oran, silos de la plaine), d'eau douce, de produits pharmaceutiques et de semences.
+> 2. Les silos, les quais et les itinéraires seront tenus par des détachements mixtes de marins et de fusiliers marins, chacun aux ordres d'un officier.
+> 3. Il ne sera fait usage des armes qu'en riposte à un feu ouvert sur le détachement.
+> 4. Priorité d'embarquement des passagers civils : a) familles des personnels de la flotte ; b) médecins, infirmières et pharmaciens ; c) ouvriers et spécialistes désignés par le commandant de la Marine à Oran. Les listes seront tenues au bureau du port.
+> 5. Les opérations seront poursuivies de jour et de nuit, sans interruption, jusqu'à nouvel ordre.
+>
+> Pour le Conseil des Amiraux :
+> L'amiral commandant la Force de Raid, GENSOUL.
+> Le vice-amiral commandant la Force H, SOMERVILLE.
 >
 > Ordre du Conseil des Amiraux pour la corvée d'Oran (extrait). Copie remise aux officiers des colonnes.
 > {: .source}
@@ -40,7 +45,7 @@ La vedette de l'arsenal le déposa au quai de Mers el-Kébir à cinq heures. C'�
 
 Il faisait noir comme dans une cave. On marchait aux lanternes. Sur le quai, les quatre camions attendaient, moteur arrêté, phares voilés de bleu, et les hommes s'y rassemblaient par petits groupes, en tenue de travail, le fusil à la bretelle, avec leurs bidons et leurs musettes. Les fusiliers marins du *Dunkerque* se tenaient à part, sous les ordres d'un grand quartier-maître au visage de pierre. Le Floc'h faisait l'appel à mi-voix. C'était le second-maître canonnier du Guilvinec, celui de la tourelle 2, qui avait passé la nuit de feu dans la cave du café du port, et qui avait dit à Jean, le 2 au matin, que Garrec avait pris le car. Jean ne savait pas si le commandant l'avait choisi pour cela. Il ne le lui demanda pas.
 
-Il lut l'article 3 aux hommes, à la lanterne. *On ne tirera que si l'on tire sur soi.* Personne ne dit rien. Un fusilier cracha par terre, sans insolence, comme on crache avant un travail.
+Il lut l'article 3 aux hommes, à la lanterne. *Il ne sera fait usage des armes qu'en riposte à un feu ouvert sur le détachement.* Puis il le redit en clair : on ne tire que si l'on nous tire dessus. Personne ne dit rien. Un fusilier cracha par terre, sans insolence, comme on crache avant un travail.
 
 Comme il remontait vers le premier camion, il vit les croiseurs.
 
