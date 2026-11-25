@@ -148,7 +148,7 @@ Il n'y avait pas d'étoiles. Il n'y en aurait plus, et il leva quand même la t�
 
 Il alla jusqu'à lui et s'accroupit pour se chauffer les mains. Il ne faisait pas froid. Il le fit quand même.
 
-Plymouth revint. Elle revenait maintenant chaque nuit, à cette heure-là, et il avait appris à ne pas la chasser. Billy sur le toit. Sa mère dans la cuisine. Il n'en saurait rien demain, et dans un mois il n'en saurait toujours rien. Le Swordfish, avec le plein, pouvait faire cinq cents milles ; il y en avait mille cinq cents d'ici à Plymouth. Il fit le calcul trois fois, comme s'il pouvait changer. Puis il resta là, à regarder la petite flamme du bidon, qu'un homme avait allumée pour lui, et qui baissait.
+Plymouth revint. Elle revenait maintenant chaque nuit, à cette heure-là, et il avait appris à ne pas la chasser. Billy sur le toit. Sa mère dans la cuisine. Il n'en saurait rien demain, et dans un mois il n'en saurait toujours rien. Le Swordfish, avec le plein, pouvait faire cinq cents milles ; il y en avait près de neuf cents d'ici à Plymouth. Il fit le calcul trois fois, comme s'il pouvait changer. Puis il resta là, à regarder la petite flamme du bidon, qu'un homme avait allumée pour lui, et qui baissait.
 
 Elle s'éteignit vers quatre heures. Il rentra.
 

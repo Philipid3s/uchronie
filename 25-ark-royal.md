@@ -42,6 +42,7 @@ La rade a ainsi trois navires, et trois rôles : **le *Dunkerque* décide, le *H
 
 ### 3.1 La fin de l'aviation (été 1940 – hiver 1940-41)
 
+- **Nuit du 1er juillet 1940** *(roman, chapitre 5)* : 41 morts ; les Swordfish de l'810 restés sur le pont d'envol brûlent et sont poussés à la mer. Le 2 à 12 h 30, Holland lit à l'équipage le dernier signal de l'Amirauté. Du 4 au 9 juillet, les Swordfish volent depuis North Front, le champ de courses de Gibraltar ([06](06-mers-el-kebir.md) §4 bis).
 - **Été 1940** : les Swordfish font les reconnaissances des convois (Oran, Gibraltar, Toulon) et repèrent les bateaux de réfugiés corses. *(prov.)* **Le 23 septembre 1940**, l'un d'eux repère la force italienne venue de Naples au large du capo Carbonara ([06](06-mers-el-kebir.md) §6 bis).
 - **Dès la mi-juillet 1940**, les escadrilles opèrent depuis l'aérodrome d'Elmas : un porte-avions au mouillage ne peut pas lancer ses avions.
 - **Hiver 1940-41** : l'essence d'aviation est épuisée ([15](15-energie.md) §2, [20](20-capacites-aeronavales.md) §2). Les appareils, déjà à terre, sont mis en conservation à Elmas ; les pièces et le matériel restés à bord sont débarqués. **Les deux hangars sont vides** : plus de 5 600 m² couverts, chauffables et éclairés [calcul : 173 × 18 + 138 × 18].
