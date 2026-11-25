@@ -47,19 +47,19 @@ Elle ne monta pas à la terrasse. Elle savait ce qu'elle y trouverait : le parap
 
 Gigi arriva à la nuit. Ou à ce qui en tenait lieu : la lumière jaune avait foncé lentement, depuis la fin de l'après-midi, sans couchant, comme une lampe dont on baisse la mèche, et quand Efisia se réveilla, il faisait noir dans la pièce du fond et elle entendit une bicyclette qu'on appuyait contre le mur de la ruelle.
 
-Il était resté sur le seuil. Elle le vit à contre-jour, dans le rectangle à peine plus clair de la porte, avec sa vareuse, son calot, sa chemise noire, et il ne bougeait pas. Il avait vu la maison d'en bas. Il avait vu les têtes noires de la Marina, en descendant de Sant'Elia par la route des salines, et il avait vu, en arrivant, la porte ouverte, et la traînée dans l'escalier, et il ne demandait rien. Il attendait qu'on lui dise.
+Il se tenait sur le seuil. Elle le vit à contre-jour, dans le rectangle à peine plus clair de la porte, avec sa vareuse, son calot, sa chemise noire, et il ne bougeait pas. Il avait vu, en descendant de Sant'Elia par la route des salines, les hauts noircis de la Marina ; en arrivant, la porte ouverte, et la traînée dans l'escalier. Il ne demandait rien. Il attendait qu'on lui dise.
 
 Elle alla vers lui. Elle avait cherché des mots toute la journée, dans les couloirs de l'hôpital, au chevet des autres, en lavant les assiettes, et elle n'en avait trouvé aucun qui convînt. Elle n'en chercha plus. Elle lui prit les deux mains, comme on les prend à un malade qu'on va remuer, et elle lui dit les choses dans l'ordre, sans rien ôter et sans rien ajouter : la terrasse, le matelas, Babbo, la charrette, la montée de Sant'Anna, le lit du vieux Melis, cinq heures du matin. Elle le dit en sarde. Il y avait des choses qu'on ne pouvait pas dire en italien.
 
-Gigi ne dit rien. Il écouta jusqu'au bout. Ses mains, dans les siennes, étaient devenues froides, puis moites. Quand elle eut fini, il retira les siennes, très doucement, et il entra dans la cuisine, où leur père n'avait pas bougé de sa place.
+Gigi écouta jusqu'au bout, sans une question. Les mains de son frère, dans les siennes, devinrent froides, puis moites. Quand elle eut fini, il les retira, très doucement, et il entra dans la cuisine, où leur père n'avait pas bougé de sa place.
 
-Antonio leva la tête. Il ne se leva pas. Il dit seulement, avec le menton, en désignant le plat :
+Antonio leva les yeux. Il ne quitta pas sa chaise. Il dit seulement, en désignant le plat du menton :
 
 — Elle les a faits pour toi.
 
-Efisia alluma la lampe à pétrole. Elle ralluma le feu dans le fourneau avec ce qui restait de bois, fit chauffer de l'eau, y remit les *culurgiones* une minute, pour les réchauffer, pas davantage, parce qu'ils étaient fragiles et qu'ils s'ouvriraient. Elle les égoutta et les posa devant son frère, avec un filet de l'huile d'olive de la cruche, comme sa mère les servait. Elle les avait sentis avant de les chauffer. Ils étaient bons. Les murs de la Marina gardaient la fraîcheur, même par les nuits de juillet, et même par celle-là.
+Efisia alluma la lampe à pétrole. Elle ralluma le fourneau avec ce qui restait de bois, fit bouillir de l'eau et y plongea les *culurgiones* une minute, pas davantage : ils étaient fragiles, ils se seraient ouverts. Elle les égoutta et les posa devant son frère, avec un filet de l'huile d'olive de la cruche, comme sa mère les servait. Elle les avait flairés d'abord. Ils étaient bons. Les murs de la Marina gardaient la fraîcheur, même par les nuits de juillet, et même par celle-là.
 
-Gigi mangea. Il mangea lentement, tous, un par un, la tête penchée sur l'assiette, avec sa fourchette, en ne disant rien, et ni son père ni elle ne dirent rien non plus. On entendait la fourchette sur la faïence. On entendait, dehors, le balai de la vieille, qui n'avait pas fini. À un moment, Gigi s'arrêta, la fourchette en l'air, et ses épaules se mirent à trembler, et Efisia crut qu'il allait repousser l'assiette. Il ne la repoussa pas. Il attendit que ses épaules se calment, et il reprit.
+Gigi mangea. Il mangea lentement, tous, un par un, la tête penchée sur l'assiette, sans un mot, et ni son père ni elle ne parlèrent. On entendait la fourchette sur la faïence. On entendait, dehors, le balai de la vieille, qui n'avait pas fini. À un moment, Gigi s'arrêta, la fourchette en l'air, et ses épaules se mirent à trembler, et Efisia crut qu'il allait repousser l'assiette. Il ne la repoussa pas. Il attendit que ses épaules se calment, et il reprit.
 
 Quand l'assiette fut vide, il essuya l'huile avec un morceau du pain durci, comme il le faisait enfant, et il le mangea aussi.
 
@@ -67,9 +67,9 @@ Quand l'assiette fut vide, il essuya l'huile avec un morceau du pain durci, comm
 
 On les enterra le mercredi, à midi, au cimetière de Bonaria.
 
-Ce n'était midi que pour les horloges. Quand ils sortirent de la ville par la route de la plage, en suivant le chariot du charretier qui emportait cinq cercueils, ceux des Deiana et ceux de trois voisins, il faisait aussi sombre qu'aux nuits de pleine lune où l'on va pêcher les seiches au lamparo : on voyait le chemin, les murs, les silhouettes, les mains ; on ne voyait pas les couleurs. Le ciel était une voûte brune, épaisse, sans source, d'où descendait une clarté qui n'éclairait rien en particulier. On marchait dans une espèce de crépuscule arrêté, et les gens portaient des lanternes à midi, et personne ne trouvait cela étrange, parce que tout l'était.
+Ce n'était midi que pour les horloges. Quand ils sortirent de la ville par la route de la plage, en suivant le chariot qui emportait cinq cercueils, ceux des Deiana et ceux de trois voisins, il faisait aussi sombre qu'aux nuits de pleine lune où l'on va pêcher les seiches au lamparo : on voyait le chemin, les murs, les silhouettes, les mains ; on ne voyait pas les couleurs. Le ciel était une voûte brune, épaisse, sans source, d'où descendait une clarté qui n'éclairait rien en particulier. On marchait dans une espèce de crépuscule arrêté, et les gens portaient des lanternes à midi, et personne ne trouvait cela étrange, parce que tout l'était.
 
-Les cercueils, c'étaient les dockers qui les avaient faits. Les menuisiers de la ville n'avaient plus de planches depuis le mardi matin, et l'on en était à enterrer les morts dans leurs draps, ou dans des portes. Les camarades d'Antonio étaient allés au port, la nuit, briser les caisses de l'entrepôt des douanes, des caisses de bois blanc qui avaient contenu on ne savait quoi, venu on ne savait d'où, et ils avaient cloué toute la nuit à la lueur des lampes, sur les quais, en se relayant. Sur le petit cercueil, celui de Bonaria, on lisait encore au pochoir, à moitié raboté, un nom de ville et un numéro : *GENOVA — 214*. Efisia ne parvint pas à cesser de le lire.
+Les cercueils, c'étaient les dockers qui les avaient faits. Les menuisiers de la ville n'avaient plus de planches depuis le mardi matin, et l'on en était à enterrer les morts dans leurs draps, ou dans des portes. Les camarades d'Antonio étaient allés au port, la nuit, briser les caisses de l'entrepôt des douanes, des caisses de bois blanc qui avaient contenu on ne savait quoi, venu on ne savait d'où, et ils avaient cloué toute la nuit à la lueur des lampes, sur les quais, en se relayant. Sur le petit cercueil, celui de Bonaria, on lisait encore au pochoir, à moitié raboté, un nom de ville et un numéro : *GENOVA — 214*. Efisia ne pouvait pas s'empêcher de le relire.
 
 La petite allait être enterrée à Bonaria. Elle avait reçu ce nom à cause de la Madone de la colline, celle des marins, dont la basilique se dressait au-dessus du cimetière, et sa mère l'avait vouée à la Madone le jour de son baptême, en disant que deux saints valaient mieux qu'un dans une maison de la Marina. On allait la coucher à ses pieds. Efisia pensa que Rita aurait trouvé cela juste. Elle-même ne savait plus ce qui était juste.
 
@@ -107,7 +107,7 @@ Efisia ne savait pas si c'était vrai. Elle le nota quand même dans sa tête, c
 
 Rome se taisait.
 
-Les jours suivants, la ville vécut de cette phrase. On se la disait dans les queues, devant les boulangeries, sur les marches des églises, aux portes de l'hôpital, à mi-voix, comme une nouvelle qu'on hésite à croire. Le courant était revenu le jeudi soir, par à-coups, deux ou trois heures après la tombée de ce qui restait de jour, quand la centrale trouvait de quoi brûler, et l'on avait tourné les boutons de toutes les radios de Cagliari. Il n'y avait rien sur Rome. Rien sur Naples, rien sur Milan, rien sur Turin. Les trois notes de l'indicatif ne venaient plus. La voix grave et un peu nasale qui avait donné tous les bulletins de la guerre, le maréchal Graziani, l'*Espero*, les autoblindées de Sollum, ne revint pas. À sa place, sur les ondes, il y avait un souffle, et dans ce souffle, de loin en loin, des sifflements, des grésillements, des signaux qu'on ne comprenait pas, et une fois, très faible, très lointaine, une voix qui chantait une chanson espagnole et qui s'arrêta au milieu.
+Les jours suivants, la ville vécut de cette phrase. On se la disait dans les queues, devant les boulangeries, sur les marches des églises, aux portes de l'hôpital, à mi-voix, comme une nouvelle qu'on hésite à croire. Le courant était revenu le jeudi soir, par à-coups, deux ou trois heures chaque soir, quand la centrale trouvait de quoi brûler, et l'on avait tourné les boutons de toutes les radios de Cagliari. Il n'y avait rien sur Rome. Rien sur Naples, rien sur Milan, rien sur Turin. Les trois notes de l'indicatif ne venaient plus. La voix grave et un peu nasale qui avait donné tous les bulletins de la guerre, le maréchal Graziani, l'*Espero*, les autoblindées de Sollum, ne revint pas. À sa place, sur les ondes, il y avait un souffle, et dans ce souffle, de loin en loin, des sifflements, des grésillements, des signaux qu'on ne comprenait pas, et une fois, très faible, très lointaine, une voix qui chantait une chanson espagnole et qui s'arrêta au milieu.
 
 À la radio de la salle des hommes, entre la boîte de compresses et la statuette de saint Vincent de Paul, personne ne s'approchait plus en pantoufles. On l'allumait le soir, quand le courant venait, et on la laissait souffler sur l'étagère, et les malades l'écoutaient souffler, comme on écoute la mer dans un coquillage.
 
@@ -119,7 +119,7 @@ Les boulangeries de la via Manno et de la Marina n'ouvraient plus qu'une heure l
 
 Et les soldats s'en allaient.
 
-Elle les vit le dimanche matin, en montant à l'hôpital, sur le viale Sant'Avendrace, la grande route qui sortait de la ville vers le Campidano. Ils marchaient en petits groupes, à trois, à cinq, dans le demi-jour, vers le nord, leur fusil à l'épaule ou sans fusil, leur paquetage sur le dos. Des réservistes, des garçons des villages qu'on avait rappelés en juin, qui avaient attendu une semaine dans leurs casernes des ordres qui ne venaient pas, et qui rentraient chez eux, à Sestu, à Monastir, à Sanluri, nourrir leurs mères, rentrer le grain, garder les bêtes. Personne ne les arrêtait. Un officier, à la porte d'une caserne, les regardait passer, les mains dans le dos, et ne disait rien ; il n'avait pas de quoi les nourrir. Un des garçons, en passant devant Efisia, souleva son calot, poliment, comme on salue une voisine à la sortie de la messe. Il avait un visage d'enfant sous la poussière. Il chantait à voix basse une chanson de berger, en sarde.
+Elle les vit le dimanche matin, en montant à l'hôpital, sur le viale Sant'Avendrace, la grande route qui sortait de la ville vers le Campidano. Ils marchaient en petits groupes, à trois, à cinq, dans la pénombre, vers le nord, leur fusil à l'épaule ou sans fusil, leur paquetage sur le dos. Des réservistes, des garçons des villages qu'on avait rappelés en juin, qui avaient attendu une semaine dans leurs casernes des ordres qui ne venaient pas, et qui rentraient chez eux, à Sestu, à Monastir, à Sanluri, nourrir leurs mères, rentrer le grain, garder les bêtes. Personne ne les arrêtait. Un officier, à la porte d'une caserne, les regardait passer, les mains dans le dos, et ne disait rien ; il n'avait pas de quoi les nourrir. Un des garçons, en passant devant Efisia, souleva son calot, poliment, comme on salue une voisine à la sortie de la messe. Il avait un visage d'enfant sous la poussière. Il chantait à voix basse une chanson de berger, en sarde.
 
 Peppino, le fils du marchand de poisson, vint la trouver le même jour à la porte de l'hôpital. Il était allé aux salines du Molentargius, avec son père, à la charrette, pour voir s'il restait du sel à prendre, ou du poisson dans les canaux. Il n'y avait ni l'un ni l'autre. Il y avait les flamants.
 
@@ -135,13 +135,13 @@ Efisia pensa à la ligne rose qui était passée au-dessus de la via Roma, le so
 
 L'appel vint le dimanche 7, dans le bureau du professeur.
 
-Pinna avait monté sa propre radio de chez lui, le jeudi, dans le coffre de sa voiture, une grande radio de noyer, à huit lampes, qu'il disait capable d'entendre Londres, Moscou et Le Caire quand le temps était clair, et il l'avait installée sur une console, dans son bureau du premier étage, entre ses livres de chirurgie et la fenêtre. Le soir, quand le courant venait, il fermait la porte, éteignait la lampe et tournait le bouton. On ne l'avait jamais vu faire cela. Les sœurs le savaient et passaient devant la porte en baissant la voix, comme devant une chapelle où quelqu'un prie.
+Pinna avait monté sa propre radio de chez lui, le jeudi, dans le coffre de sa voiture, une grande radio de noyer, à huit lampes, qu'il disait capable d'entendre Londres, Moscou et Le Caire quand le temps était clair, et il l'avait installée sur une table basse, dans son bureau du premier étage, entre ses livres de chirurgie et la fenêtre. Le soir, quand le courant venait, il fermait la porte, éteignait la lampe et tournait le bouton. On ne l'avait jamais vu faire cela. Les sœurs le savaient et passaient devant la porte en baissant la voix, comme devant une chapelle où quelqu'un prie.
 
 Ce dimanche-là, il laissa la porte ouverte.
 
 Efisia passait dans le couloir avec un broc d'eau quand elle entendit, venue du bureau, une voix d'homme qui parlait italien. Elle s'arrêta. Ce n'était pas la voix de l'EIAR. Ce n'était aucune voix qu'elle connût. Elle entra sans frapper, ce qu'elle n'avait jamais fait.
 
-Il y avait déjà du monde. Suor Giuseppina, debout près de la porte, les ailes de sa cornette immobiles. Deux médecins, le docteur Floris et le jeune docteur Atzeni, qui n'avait pas quitté l'hôpital depuis le 1er. L'économe, le signor Cadoni, en veston noir, l'insigne du Parti à la boutonnière. Pinna était assis devant la console, penché, les coudes sur les genoux, les lunettes à la main. Personne n'avait allumé. La seule lumière de la pièce venait de la radio : le cadran, un long rectangle de verre éclairé par-derrière, d'un jaune très doux, où les noms des villes étaient peints en lettres noires, en colonnes, avec leurs longueurs d'onde. *Roma. Milano. Torino. Napoli. Bari. Firenze. Londra. Parigi. Berlino. Vienna. Praga. Budapest. Mosca.* L'aiguille était arrêtée entre deux noms. Les visages, autour, étaient éclairés d'en bas par ce jaune, et ils ressemblaient à ceux des brûlés sous les cierges, la première nuit.
+Il y avait déjà du monde. Suor Giuseppina, debout près de la porte, les ailes de sa cornette immobiles. Deux médecins, le docteur Floris et le jeune docteur Atzeni, qui n'avait pas quitté l'hôpital depuis le 1er. L'économe, le signor Cadoni, en veston noir, l'insigne du Parti à la boutonnière. Pinna était assis devant le poste, penché, les coudes sur les genoux, les lunettes à la main. Personne n'avait allumé. La seule lumière de la pièce venait de la radio : le cadran, un long rectangle de verre éclairé par-derrière, d'un jaune très doux, où les noms des villes étaient peints en lettres noires, en colonnes, avec leurs longueurs d'onde. *Roma. Milano. Torino. Napoli. Bari. Firenze. Londra. Parigi. Berlino. Vienna. Praga. Budapest. Mosca.* L'aiguille était arrêtée entre deux noms. Les visages, autour, étaient éclairés d'en bas par ce jaune, et ils ressemblaient à ceux des brûlés sous les cierges, la première nuit.
 
 La voix parlait lentement. Elle détachait les mots, comme on parle à un sourd, ou à quelqu'un qui est très loin et qu'on veut être sûr d'atteindre.
 
@@ -185,7 +185,7 @@ Il se tut. Puis il ajouta, plus bas, en regardant le cadran :
 
 Personne ne répondit. Suor Giuseppina fit, très lentement, un signe de croix, et l'on ne sut pas si c'était pour Pinna, pour les flottes, ou pour la ville. Le docteur Floris regardait ses chaussures. Efisia ne dit rien.
 
-À huit heures, la voix revint. Elle répéta tout, mot pour mot, avec le même accent, la même lenteur, et ils l'écoutèrent de nouveau jusqu'au bout, debout dans le noir, autour du cadran jaune où les noms des villes ne répondaient plus.
+À huit heures, la voix revint. Elle redit tout, avec le même accent, la même lenteur, et ils l'écoutèrent de nouveau jusqu'au bout, debout dans le noir, autour du cadran jaune où les noms des villes ne répondaient plus.
 
 ---
 
@@ -193,7 +193,7 @@ Elle l'entendit encore les jours suivants, toutes les heures, quand le courant v
 
 Et Cagliari ne répondait pas.
 
-On le savait, sans savoir comment on le savait. Les gens de la Capitainerie le disaient aux pêcheurs, qui le disaient aux dockers, qui le disaient au port, d'où cela remontait jusqu'au Castello. L'amiral était à La Maddalena, à l'autre bout de l'île. Le général était au palais. Le préfet était au téléphone. Personne ne répondait. Les heures passaient, la voix revenait, posait sa question, attendait, et le souffle, après elle, durait jusqu'à l'heure suivante.
+On le savait, sans savoir comment on le savait. Les gens de la Capitainerie le disaient aux pêcheurs, qui le disaient aux dockers, qui le disaient en ville, d'où cela remontait jusqu'au Castello. L'amiral était à La Maddalena, à l'autre bout de l'île. Le général était au palais. Le préfet était au téléphone. Personne ne répondait. Les heures passaient, la voix revenait, posait sa question, attendait, et le souffle, après elle, durait jusqu'à l'heure suivante.
 
 Chacun se fit son idée. Dans la salle des hommes, il y avait ceux qui disaient qu'il fallait répondre tout de suite, avant que les Français ne changent d'avis, et ceux qui disaient qu'il ne fallait jamais répondre, et qu'on les recevrait à coups de canon. Il y avait ceux qui disaient que c'étaient les Anglais qui avaient fait la nuit de feu, et qu'ils venaient voir leur œuvre. Le vieux Melis disait qu'il voulait bien d'un Français, s'il apportait de la farine, et qu'il voulait bien de deux s'ils apportaient aussi du tabac. Une femme de la salle des femmes, dont le mari était à la batterie de Calamosca, disait qu'elle se jetterait dans le port plutôt que de voir un Français dans la via Roma. Le lendemain, elle demandait à Efisia si c'était vrai qu'ils avaient des médecins.
 
@@ -203,7 +203,7 @@ Le mardi soir, Gigi descendit de la batterie pour dîner.
 
 Ils mangèrent dans la pièce du fond, à la lampe, ce qu'Efisia avait pu trouver : des fèves sèches, un oignon, le dernier morceau de *pecorino* de la cave, du pain gris, compact, que l'hôpital lui avait donné. Antonio mangeait avec une cuillère qu'il tenait entre deux doigts qui dépassaient de la gaze. Il ne laissait personne l'aider.
 
-— À la batterie, dit Gigi, le console est monté hier. Il nous a parlé.
+— À la batterie, dit Gigi, le *console* de la légion est monté hier. Il nous a parlé.
 
 Il mangeait sans lever les yeux. Il avait maigri en huit jours, ou bien c'était la lumière.
 
@@ -219,13 +219,13 @@ Gigi haussa les épaules.
 
 Antonio posa sa cuillère. C'était le premier soir, depuis le mercredi, qu'il parlait à table plus que pour dire oui ou non.
 
-— Le console, dit-il, il mange quoi, ce soir ?
+— Le *console*, dit-il, il mange quoi, ce soir ?
 
 Gigi ne répondit pas.
 
 — Moi, je vais te dire ce qui compte, reprit leur père. Ce qui compte, c'est *su pani*. Le reste, Rome, la Milice, les Français, les Anglais, je ne sais pas. J'ai porté des sacs de blé sur les quais pendant trente ans. Le blé arrivait de Tunis, d'Odessa, d'Argentine, d'Amérique. Des sacs français, des sacs anglais, des sacs russes. Je ne les ai jamais ouverts pour voir s'ils étaient fascistes. Ce qui comptait, c'est qu'il y en ait.
 
-Il reprit sa cuillère. Il avait dit cela sans colère, avec cette lenteur lourde qu'il avait en toutes choses, et il se remit à manger ses fèves comme s'il n'avait rien dit. Gigi le regardait. Efisia les regardait tous les deux, et elle sentit monter en elle quelque chose qu'elle connaissait, qui lui serrait la mâchoire. Elle ne savait pas contre qui. Contre les Français, qui avaient bombardé la ville et qui venaient maintenant offrir du pain. Contre le console de la batterie, qui mangeait à sa faim et parlait de devoir. Contre Rome, qui ne disait plus rien. Contre son père, qui avait raison. Contre le ciel. Elle ne dit rien. Elle débarrassa les assiettes, et elle les lava dans la bassine, longtemps, avec le peu d'eau qu'il y avait.
+Il reprit sa cuillère. Il avait dit cela sans colère, avec cette lenteur lourde qu'il avait en toutes choses, et il se remit à manger ses fèves comme s'il n'avait rien dit. Gigi le regardait. Efisia les regardait tous les deux, et elle sentit monter en elle quelque chose qu'elle connaissait, qui lui serrait la mâchoire. Elle ne savait pas contre qui. Contre les Français, qui avaient bombardé la ville et qui venaient maintenant offrir du pain. Contre le *console*, qui mangeait à sa faim et parlait de devoir. Contre Rome, qui ne disait plus rien. Contre son père, qui avait raison. Contre le ciel. Elle se tut. Elle débarrassa les assiettes, et elle les lava dans la bassine, longtemps, avec le peu d'eau qu'il y avait.
 
 ---
 
@@ -235,7 +235,7 @@ Il fallait comparer les dates pour s'en apercevoir. Le midi du 3 juillet, au cim
 
 Et il faisait moins chaud. Ce n'était pas encore la fraîcheur. C'était la chaleur qui s'en allait, un peu chaque jour, et la peau qui s'en apercevait avant la tête. Le soir du 10, en sortant de l'hôpital, Efisia frissonna sous les arcades, et elle mit un moment à comprendre que c'était de froid. En juillet. Elle rentra en serrant les bras sur sa poitrine. Le lendemain, elle prit un châle.
 
-La poussière tombait toujours. Elle tombait plus épaisse, maintenant, plus noire. Elle se posait sur Suor Giuseppina, qui la secouait vingt fois par jour d'une tape agacée sur les ailes de sa cornette ; sur les draps, qu'on avait cessé d'étendre dans la cour et qu'on séchait à présent dans les couloirs ; sur l'eau des bassines. Elle avait un goût de fumée froide et de fer. Les sœurs la balayaient chaque matin dans les couloirs. Le lendemain, elle était revenue.
+La poussière tombait toujours. Elle tombait plus épaisse, maintenant, plus noire. Elle se posait sur Suor Giuseppina, qui la secouait vingt fois par jour d'une tape agacée sur les ailes de sa cornette ; sur les draps, qu'on avait cessé d'étendre dans la cour et qu'on séchait à présent dans les couloirs ; sur l'eau des bassines. Elle avait un goût de fumée froide et de fer. Les sœurs la balayaient chaque matin. Le lendemain, elle était revenue.
 
 ---
 
@@ -245,11 +245,11 @@ Efisia l'entendit d'abord sans la comprendre, dans la cour de l'hôpital, à sep
 
 L'amiral avait répondu.
 
-Sportiello, de La Maddalena, par la radio de la base. On ne savait pas ce qu'il avait dit. On disait qu'il avait dit oui. On disait qu'il avait dit non, ou qu'il avait demandé du temps, ou qu'il avait demandé à parler à l'amiral anglais, ou au français, ou aux deux. On disait que les navires étaient déjà en mer, qu'ils seraient là le lendemain, qu'on les avait vus au large du cap Spartivento, que les pêcheurs de Pula avaient entendu leurs machines dans le noir. On disait que l'amiral descendait à Cagliari, cette nuit même, en voiture, par la route de Macomer, avec une escorte de carabiniers. On ne savait rien, et tout le monde savait quelque chose, et Efisia, en descendant vers la Marina, entendit chaque fois une version nouvelle à chaque coin de rue.
+Sportiello, de La Maddalena, par la radio de la base. On ne savait pas ce qu'il avait dit. On disait qu'il avait dit oui. On disait qu'il avait dit non, ou qu'il avait demandé du temps, ou qu'il avait demandé à parler à l'amiral anglais, ou au français, ou aux deux. On disait que les navires étaient déjà en mer, qu'ils seraient là le lendemain, qu'on les avait vus au large du cap Spartivento, que les pêcheurs de Pula avaient entendu leurs machines dans le noir. On disait que l'amiral descendait à Cagliari, cette nuit même, en voiture, par la route de Macomer, avec une escorte de carabiniers. On ne savait rien, et tout le monde savait quelque chose, et Efisia, en descendant vers la Marina, entendit une version nouvelle à chaque coin de rue.
 
 Elle passa devant Sant'Efisio. La porte de l'église était ouverte. Une lueur de cierges tremblait au fond, dans la nef, là où le saint attendait dans sa niche avec son casque à plumes et sa palme. Elle ne s'arrêta pas. Elle n'avait toujours rien à lui dire, et elle ne voulait pas qu'il croie qu'elle venait lui demander quelque chose.
 
-À la maison, Gigi était déjà là. Il était en uniforme, la vareuse boutonnée, et il remettait sa bicyclette sur ses roues dans la ruelle.
+À la maison, Gigi était déjà là. Il était en uniforme, la vareuse boutonnée, et il redressait sa bicyclette contre le mur de la ruelle.
 
 — On rappelle tout le monde à la batterie, dit-il. Le lieutenant a fait passer l'ordre au port. Toutes les permissions. Je monte.
 
@@ -261,7 +261,7 @@ Il avait sa voix ordinaire, et un visage qu'elle ne lui connaissait pas. Leur p�
 
 Efisia accompagna son frère jusqu'au bout de la via Roma.
 
-Il n'y avait plus d'arcades, plus de façades, plus de port : il y avait le noir, et dans le noir, des lanternes qui allaient et venaient, et le bruit d'une foule invisible qui parlait à mi-voix, sur les trottoirs, sous les arcades, face à la mer qu'on ne voyait pas. Des gens étaient venus au port pour regarder le golfe. Ils ne voyaient rien. Ils restaient quand même, tournés vers le sud, vers le large, vers ce noir où, peut-être, des navires approchaient, et ils attendaient de voir quelque chose : un feu, une lueur, n'importe quoi qui fût un navire. Efisia regarda aussi. Il n'y avait rien. Il y avait le clapot, contre le quai, très bas, et l'odeur de la mer, qui sentait encore l'été.
+On ne voyait plus ni arcades, ni façades, ni port : il y avait le noir, et dans le noir, des lanternes qui allaient et venaient, et le bruit d'une foule invisible qui parlait à mi-voix, sur les trottoirs, sous les arcades, face à la mer qu'on ne voyait pas. Des gens étaient venus au port pour regarder le golfe. Ils ne voyaient rien. Ils restaient quand même, tournés vers le sud, vers le large, vers ce noir où, peut-être, des navires approchaient, et ils attendaient de voir quelque chose : un feu, une lueur, n'importe quoi qui fût un navire. Efisia regarda aussi. Il n'y avait rien. Il y avait le clapot, contre le quai, très bas, et l'odeur de la mer, qui sentait encore l'été.
 
 Au bout des arcades, là où la via Roma rejoint la route de Bonaria, Gigi enfourcha sa bicyclette.
 
