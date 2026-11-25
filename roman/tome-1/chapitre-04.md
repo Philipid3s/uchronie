@@ -5,7 +5,7 @@
 > CONTRE-TORPILLEUR *VOLTA* — JOURNAL DE BORD  
 > Mouillé en rade de Mers el-Kébir, à quatre heures d'appareillage.
 >
-> 1er juillet. 18 h 40. Débarqué les permissionnaires : 1 officier (EV1 Garrec), 47 hommes. Retour à bord à 24 h.  
+> 1er juillet. 18 h 40. Débarqué les permissionnaires : 1 officier (EV2 Garrec), 47 hommes. Retour à bord à 24 h.  
 > 20 h 36. Étoiles filantes nombreuses, toutes directions.  
 > 20 h 41. Ciel rouge. Chaleur rayonnante sur les hauts. Branle-bas de combat. Fermé portes, sabords et hublots.  
 > 20 h 45. Tous les postes armés. Chute de grains de verre sur les ponts.  
@@ -35,7 +35,7 @@ Garrec glissa l'enveloppe dans la poche intérieure de sa veste, contre la sienn
 
 La vedette déborda, vira, et fila vers le quai de Mers el-Kébir en traçant sur l'eau un sillage qui s'élargit longtemps derrière elle. De là, un car montait à Oran par la route de la corniche, au flanc du Murdjadjo. Jean suivit la tache blanche des uniformes jusqu'au quai. Il vit les hommes sauter à terre, se disperser, se regrouper autour de Garrec, qu'on reconnaissait de loin à ses grands gestes. Puis le quai les cacha.
 
-Il porta lui-même au journal l'heure du débarquement, parce que l'officier de quart était descendu se changer. *18 h 40. Débarqué les permissionnaires : 1 officier (EV1 Garrec), 47 hommes. Retour à bord à 24 h.* Il trouva que c'était beaucoup de mots pour si peu de chose.
+Il porta lui-même au journal l'heure du débarquement, parce que l'officier de quart était descendu se changer. *18 h 40. Débarqué les permissionnaires : 1 officier (EV2 Garrec), 47 hommes. Retour à bord à 24 h.* Il trouva que c'était beaucoup de mots pour si peu de chose.
 
 ---
 
