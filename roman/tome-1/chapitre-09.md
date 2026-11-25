@@ -25,7 +25,7 @@ Et il y avait le silence. Elle mit longtemps à comprendre ce qui manquait. Ce n
 
 ---
 
-La Marina avait perdu ses têtes.
+La Marina avait brûlé par le haut.
 
 C'était ce qu'Efisia avait vu de la lingerie, le matin, et c'était autre chose de le voir d'en bas. Les maisons étaient debout, toutes, avec leurs murs épais, leurs portes, leurs fenêtres du rez-de-chaussée et du premier. Mais au-dessus, plus rien n'avait sa forme. Les balcons de bois pendaient en charbons. Les tonnelles de canne des terrasses n'étaient plus que des grilles noires, tordues, d'où montait encore, ici et là, un filet de fumée. Les volets des étages avaient brûlé sur leurs gonds, et les fenêtres sans volets regardaient la rue comme des yeux sans paupières. Dans les ruelles, on marchait sur une litière de cendre, de tuiles éclatées, de bouts de toile, de pinces à linge carbonisées qui craquaient sous le pied.
 
