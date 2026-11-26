@@ -271,15 +271,15 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 | 1 | **Convention d'armistice franco-allemande**, article 8 (22 juin 1940) | réel ✅ écrit | [06](../../06-mers-el-kebir.md) §1 |
 | 2 | **Signal de l'Amirauté** à la Force H, 1er juillet 1940 : « Firm intention of H.M.G. … » | réel ✅ écrit | [06](../../06-mers-el-kebir.md) §3 |
 | 3 | ***Bollettino di guerra* n° 14**, 25 juin 1940 : le raid du 24 sur Cagliari | réel ✅ écrit | [10](../../10-choix-du-refuge.md) §8 |
-| 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | inventé | [06](../../06-mers-el-kebir.md) §2 |
-| 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | inventé | [06](../../06-mers-el-kebir.md) §4 bis |
-| 6 | **Registre des entrées de San Giovanni di Dio**, nuit du 1er au 2 juillet | inventé | [19](../../19-savoir-et-medecine.md) |
-| 7 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | inventé | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
-| 8 | **Câble de l'amiral Duplat**, Toulon, nuit du 5 au 6 juillet : « Ne venez pas » | inventé | [33](../../33-toulon.md) §3 |
-| 9 | **L'appel en italien** de la flotte vers Cagliari et La Maddalena, 7 juillet | inventé | [10](../../10-choix-du-refuge.md) §9 |
-| 10 | **Ordre du Conseil des Amiraux** pour la corvée d'Oran, 5 juillet | inventé | [06](../../06-mers-el-kebir.md) §4 bis |
-| 11 | **Instructions de Somerville et de Gensoul** pour l'entrée dans le golfe : « aborder en ami, pouvoir s'imposer » | inventé | [10](../../10-choix-du-refuge.md) §9 |
-| 12 | **L'accord de Cagliari**, 12 juillet (extrait du procès-verbal) | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
+| 4 | **Journal de bord du *Volta***, nuit du 1er au 2 juillet : heures, postes de combat, pertes | inventé ✅ écrit | [06](../../06-mers-el-kebir.md) §2 |
+| 5 | **Le dernier signal de l'Amirauté** à la Force H, 2 juillet | inventé ✅ écrit | [06](../../06-mers-el-kebir.md) §4 bis |
+| 6 | **Registre des entrées de San Giovanni di Dio**, nuit du 1er au 2 juillet | inventé ✅ écrit | [19](../../19-savoir-et-medecine.md) |
+| 7 | **L'écoute du *Dunkerque***, 2 – 4 juillet : Londres, puis l'Écosse ; Malte ; Alexandrie ; Bizerte ; Rome et Berlin qui se taisent | inventé ✅ écrit | [16](../../16-contacts-radio.md) §5, [07](../../07-le-monde-apres.md) §1 |
+| 8 | **Câble de l'amiral Duplat**, Toulon, nuit du 5 au 6 juillet : « Ne venez pas » | inventé ✅ écrit | [33](../../33-toulon.md) §3 |
+| 9 | **L'appel en italien** de la flotte vers Cagliari et La Maddalena, 7 juillet | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 |
+| 10 | **Ordre du Conseil des Amiraux** pour la corvée d'Oran, 5 juillet | inventé ✅ écrit | [06](../../06-mers-el-kebir.md) §4 bis |
+| 11 | **Ordre d'entrée du Conseil des Amiraux**, passé au projecteur le 11 juillet à 22 h : « Approach as friends, be ready to enforce » | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 |
+| 12 | **L'accord de Cagliari**, 12 juillet (extrait du procès-verbal) | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 ter |
 | 13 | **Message capté** : un poste américain du golfe du Mexique, ou une station de l'Oural | inventé | [07](../../07-le-monde-apres.md) §1, [16](../../16-contacts-radio.md) §3 |
 | 14 | **Ordre d'opération** pour le Sulcis, fin juillet | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
 | 15 | **Avis de rationnement** affiché à la Marina, août | inventé | [11](../../11-ilot-de-civilisation.md) §7 |
