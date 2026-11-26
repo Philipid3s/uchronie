@@ -149,7 +149,7 @@ Efisia se tourna vers la religieuse.
 
 — Je l'ai apprise au noviciat, dit Suor Giuseppina. Notre maison mère est à Paris. Tu le savais.
 
-Efisia le savait. Elle l'avait toujours su, comme on sait des choses qui ne servent à rien. Saint Vincent de Paul était français. L'ordre était français. La statuette, sur l'étagère de la salle des hommes, entre la boîte de compresses et la radio, était celle d'un prêtre français. Elle ne l'avait jamais pensé ainsi.
+Efisia le savait. Elle l'avait toujours su, comme on sait des choses qui ne servent à rien. Saint Vincent de Paul était français. L'ordre était français. La statuette, sur l'étagère de la salle des hommes, à côté de la radio, était celle d'un prêtre français. Elle ne l'avait jamais pensé ainsi.
 
 — Va chercher des brancards, dit la religieuse. Et de l'huile de lin.
 
