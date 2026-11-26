@@ -66,7 +66,7 @@ Le soir du 30, l'*Arethusa* entra dans le port.
 
 Tom n'avait pas quitté le pont d'envol. Le nuage du Rocher s'était défait dans l'après-midi, quand le vent avait molli, et la lumière avait pris la couleur douce et poussiéreuse des fins de journée du Sud. De l'autre côté de la baie, l'Espagne était bleue, avec Algésiras posée au bord de l'eau comme une poignée de dés blancs, et derrière, les montagnes de l'Andalousie en lignes successives, de plus en plus pâles, jusqu'à ne plus être qu'une idée de montagnes. Au sud, très loin, sur l'autre rive du détroit, l'Afrique n'était qu'une ombre.
 
-Le croiseur arrivait de l'ouest, de l'Atlantique, et il passa la pointe d'Europa avec cette lenteur majestueuse et un peu ridicule des grands navires dans les petits espaces. Il était plus petit que le *Hood*, plus petit que l'*Ark Royal*, mais il semblait pressé et important. Tom vit les hommes alignés sur le pont, les fusiliers marins à l'arrière, le pavillon tout neuf d'un vice-amiral au mât de misaine.
+Le croiseur arrivait de l'ouest, de l'Atlantique, et il passa la pointe d'Europe avec cette lenteur majestueuse et un peu ridicule des grands navires dans les petits espaces. Il était plus petit que le *Hood*, plus petit que l'*Ark Royal*, mais il semblait pressé et important. Tom vit les hommes alignés sur le pont, les fusiliers marins à l'arrière, le pavillon tout neuf d'un vice-amiral au mât de misaine.
 
 — C'est lui, dit Halloran, qui était revenu. Somerville.
 

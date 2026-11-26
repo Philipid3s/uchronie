@@ -179,7 +179,7 @@ Pinna attendit que le pas se fût éteint. Puis il dit, sans élever la voix, co
 
 — Je vais vous dire ce que personne n'ose dire, puisque le signor Cadoni n'est plus là pour le noter. Il y a dans cette ville près de cent mille bouches, et pas de pain pour la fin du mois. Rome ne nous en enverra pas. Rome ne nous en a jamais envoyé, même quand elle parlait. Ces gens-là ont des navires, du blé, des médecins, et ils ont pris la peine de trouver un homme qui parle notre langue pour nous le dire. Je ne sais pas ce qu'ils veulent. Je sais ce qu'ils offrent.
 
-Il se tut. Puis il ajouta, plus bas, en regardant le cadran :
+Après un temps, il dit encore, plus bas, en regardant le cadran :
 
 — C'est peut-être une chance.
 

@@ -55,7 +55,7 @@ Il pensa seulement que c'était un beau navire, et qu'il serait bon d'en avoir s
 
 ---
 
-La route de la corniche longeait la mer au pied du Murdjadjo, entre la falaise et l'eau, en lacets, en tunnels courts, en virages qui surplombaient les criques. Jean l'avait faite en car, une fois, en octobre, un dimanche, avec Garrec, pour aller à la messe à la cathédrale d'Oran et déjeuner ensuite d'une paella dans un restaurant de la Marine. Il se rappelait les pins, les villas blanches de Saint-André et de Sainte-Clotilde, les bougainvillées sur les murs, la mer d'un bleu de vitrail en contrebas, et Garrec qui chantait à tue-tête une chanson de Tino Rossi pour faire rire le chauffeur.
+La route de la corniche longeait la mer au pied du Murdjadjo, entre la falaise et l'eau, en lacets, en tunnels courts, en virages qui surplombaient les criques. Jean l'avait faite en car, une fois, un dimanche de juin, avec Garrec, pour aller à la messe à la cathédrale d'Oran et déjeuner ensuite d'une paella dans un restaurant de la Marine. Il se rappelait les pins, les villas blanches de Saint-André et de Sainte-Clotilde, les bougainvillées sur les murs, la mer d'un bleu de vitrail en contrebas, et Garrec qui chantait à tue-tête une chanson de Tino Rossi pour faire rire le chauffeur.
 
 Les phares bleus ne montraient que quelques mètres de route. Au-delà, il n'y avait rien. Mais on sentait la montagne, à droite, à son odeur : une odeur de charbon froid, de résine brûlée, et, par moments, quand le vent tournait, une autre, plus lourde, qu'il connaissait depuis le 2 juillet et qu'il ne nommait pas. On sentait la mer, à gauche, au bruit très bas du ressac contre les rochers. Sur la route elle-même, il y avait des pierres que le génie avait poussées sur le bas-côté, des troncs de pins calcinés, coupés à la hache, et une cendre si épaisse que les roues des camions y chuintaient comme dans la neige.
 
@@ -81,7 +81,7 @@ Jean le prit. Il le tint dans sa main. Il ne chercha rien d'autre. Il savait qu'
 
 — Qu'est-ce qu'on fait, Lieutenant ? demanda Le Floc'h, derrière lui, très bas.
 
-Jean regarda le ciel, par habitude, et il n'y avait pas de ciel.
+Jean leva la tête, par habitude, et ne trouva au-dessus de lui que le noir.
 
 — On les laisse, dit-il. Pour aujourd'hui. On les laisse et on reviendra. Faites dire ce soir au maître d'équipage qu'il faut l'aumônier, des hommes, et de la toile.
 
@@ -89,7 +89,7 @@ Il rendit le goulot au médecin.
 
 — Gardez-le. Je ne veux pas l'avoir sur moi à Oran.
 
-Le médecin le glissa dans la poche de sa vareuse. C'était un homme d'une quarantaine d'années, d'ordinaire bavard, qui s'éventait au carré avec le menu ; il ne s'éventait plus avec rien depuis cinq jours. Il remonta dans le deuxième camion. Jean remonta dans le premier. La colonne repartit, et en passant le virage, les phares bleus balayèrent une seconde la carcasse noire, et Jean ne la regarda pas.
+Le médecin le glissa dans la poche de sa vareuse. C'était un homme d'une quarantaine d'années, d'ordinaire pince-sans-rire ; il ne plaisantait plus depuis cinq jours. Il remonta dans le deuxième camion. Jean remonta dans le premier. La colonne repartit, et en passant le virage, les phares bleus balayèrent une seconde la carcasse noire, et Jean ne la regarda pas.
 
 ---
 
@@ -249,7 +249,7 @@ Jean fit signe à la suivante d'approcher.
 
 Il ne dormit pas le mardi. Il n'y pensa même pas.
 
-Le dernier cargo quitta le silo à midi, plein jusqu'aux hiloires, et alla mouiller dans l'avant-port, avec les autres, pour attendre la nuit. Le silo était encore aux trois quarts plein. On n'avait pas eu les navires pour tout prendre ; on n'aurait pas eu le temps. Les ouvriers espagnols avaient arrêté les élévateurs. Le silence, quand ils s'arrêtèrent, fut si grand que Jean entendit, de la galerie des machines, le murmure de la foule de l'autre côté du mur, et il comprit qu'il ne l'avait plus entendu depuis trois jours, à force de l'entendre.
+Le dernier cargo quitta le silo à midi, plein jusqu'aux hiloires, et alla mouiller dans l'avant-port, avec les autres, pour attendre la nuit. Le silo était encore aux trois quarts plein. On n'avait pas eu les navires pour tout prendre ; on n'aurait pas eu le temps. Les ouvriers espagnols avaient arrêté les élévateurs. Le silence, quand ils s'arrêtèrent, fut si grand que Jean entendit, de la galerie des machines, le murmure de la foule de l'autre côté du mur, et il comprit qu'il ne l'avait plus entendu depuis quatre jours, à force de l'entendre.
 
 L'ordre vint à six heures du soir, apporté par un officier de l'état-major en voiture. Jean reconnut Dufay. Il était plus maigre encore, et il avait dans les yeux le même éclat que le soir du 4.
 
@@ -319,7 +319,7 @@ On la vit venir de l'arrière, du côté de l'ouest, longtemps avant d'entendre 
 
 Puis la flotte fut devant, et il n'en resta que des feux de poupe, de plus en plus serrés, de plus en plus bas, et la houle de ses sillages, qui arriva sur le convoi longtemps après elle et fit rouler les cargos l'un après l'autre, doucement, comme on berce.
 
-L'ordre vint à cinq heures, par le projecteur du commodore du convoi. Les contre-torpilleurs rallieraient l'écran de la flotte dans la nuit. Leurs passagers passeraient avant sur les cargos. Le *Volta* déposerait les siens sur le *Anadyr*, le paquebot-cargo des Messageries maritimes venu de Gibraltar, qui avait encore de la place dans ses entreponts.
+L'ordre vint à cinq heures, par le projecteur du commodore du convoi. Les contre-torpilleurs rallieraient l'écran de la flotte dans la nuit. Leurs passagers passeraient avant sur les cargos. Le *Volta* déposerait les siens sur l'*Anadyr*, le paquebot-cargo des Messageries maritimes venu de Gibraltar, qui avait encore de la place dans ses entreponts.
 
 Jean prit le canot.
 

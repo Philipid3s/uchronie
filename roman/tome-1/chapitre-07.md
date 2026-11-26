@@ -172,7 +172,7 @@ Le bord sortait sans lui. C'était la première fois.
 
 Le *Foxhound* arriva à huit heures et quart.
 
-On le vit venir de très loin, parce qu'il était allumé. Il avait tous ses feux, ses feux de route, rouge et vert, son feu de tête de mât, et un projecteur braqué vers le haut sur un pavillon blanc qui pendait au mât de misaine, si bien qu'il apparut au large comme un navire pavoisé pour une revue, posé sur l'eau sombre. Personne, depuis trois jours, n'avait allumé un feu de route dans cette rade. La guerre l'interdisait ; puis il n'y avait plus eu de guerre, et l'on n'y avait pas songé. Sur la plage arrière du *Dunkerque*, les hommes qui étaient restés le regardèrent approcher en silence.
+On le vit venir de très loin, parce qu'il était allumé. Il avait tous ses feux, ses feux de route, rouge et vert, son feu de tête de mât, et un projecteur braqué vers le haut sur un pavillon blanc qui pendait au mât de misaine, si bien qu'il apparut au large comme un navire pavoisé pour une revue, posé sur l'eau sombre. Personne, depuis des semaines, n'avait allumé un feu de route dans cette rade. La guerre l'interdisait ; puis il n'y avait plus eu de guerre, et l'on n'y avait pas songé. Sur la plage arrière du *Dunkerque*, les hommes qui étaient restés le regardèrent approcher en silence.
 
 Le destroyer stoppa devant la passe. Dufay partit à sa rencontre avec le pilote, et Jean reçut l'ordre de l'attendre à l'échelle de coupée avec une lanterne et deux fusiliers marins. Il attendit. Il avait relu toute la nuit, sans le vouloir, la phrase de Somerville, et il se surprit à la répéter encore, pour lui, en regardant les feux du *Foxhound* : *as I believe you have*.
 
@@ -274,7 +274,7 @@ Le 4, il fit plus noir encore.
 
 On ne le remarquait plus d'une heure à l'autre. On le remarquait d'un jour à l'autre, comme on remarque qu'un enfant a grandi quand on ne l'a pas vu depuis un mois. Le matin du 4, à la même heure que la veille, Jean monta sur le pont, et la clarté qui, la veille, séparait encore la mer du ciel ne les séparait plus. Il fallait les deviner, l'une à son clapot, l'autre à son silence. Oran ne rougeoyait plus que par endroits. Il faisait moins chaud. Pas froid : moins chaud, de deux ou trois degrés peut-être, et Jean, qui avait souffert de la chaleur depuis son arrivée en Algérie, s'aperçut avec stupeur qu'il le regrettait.
 
-La journée passa au poste central. Les appels se faisaient plus rares. Londres ne parla plus. Dans la nuit, une station britannique très faible, que le second-maître croyait être en Écosse, avait donné deux fois son indicatif, puis plus rien. Toulon rappela à la même heure que la veille, en chiffre, pour l'amiral. Le second-maître porta lui-même le message à l'officier du chiffre et revint sans un mot.
+La journée passa au poste central. Les appels se faisaient plus rares. Londres ne parla plus. Dans la nuit, une station britannique très faible, que le second-maître croyait être en Écosse, avait donné deux fois son indicatif, puis plus rien. Toulon rappela à la même heure que l'avant-veille, en chiffre, pour l'amiral. Le second-maître porta lui-même le message à l'officier du chiffre et revint sans un mot.
 
 Le *Foxhound* revint à six heures du soir.
 
@@ -314,7 +314,7 @@ Dufay réfléchit, comme s'il cherchait le mot exact, et Jean devina qu'il le ch
 
 — Un conseil, dit-il enfin. Les deux amiraux. Holland entre eux. On commandera ensemble, on ira ensemble. Où, on ne sait pas encore. On a trois jours pour trouver.
 
-Il se tut. Puis il ajouta :
+Puis, après un silence :
 
 — Vous êtes rendu à votre bord, Kerangal. On vous rappellera. Holland a demandé votre nom.
 
@@ -348,7 +348,7 @@ Jean ne dormit pas. Il monta à la passerelle, où Rousseau était de quart, et 
 
 Il resta seul sur l'aileron avec Le Bihan.
 
-Il reprit la rade comme on le lui avait appris, par secteurs, de droite à gauche. Il n'y avait rien à voir. Les cuirassés, les contre-torpilleurs, la jetée, la montagne, tout s'était fondu dans la même nuit tiède, sans étoiles, et ses yeux glissaient sur le noir sans rien y accrocher. Il allait renoncer quand il revint, par habitude, au point de départ.
+Il reprit la rade comme on le lui avait appris, par secteurs, de droite à gauche. Le noir ne rendait rien. Les cuirassés, les contre-torpilleurs, la jetée, la montagne, tout s'était fondu dans la même nuit tiède, sans étoiles, et ses yeux glissaient sur le noir sans rien y accrocher. Il allait renoncer quand il revint, par habitude, au point de départ.
 
 Au point de départ, il y avait le *Dunkerque*. On ne le voyait pas. Mais, à l'arrière, là où était le salon de l'amiral, un hublot restait allumé.
 

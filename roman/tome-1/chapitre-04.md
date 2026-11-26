@@ -12,7 +12,7 @@
 > 21 h 24. Décroissance de la chaleur. Mis en pression le collecteur d'incendie. Arrosé ponts et superstructures.  
 > 2 juillet. 0 h. Permissionnaires non rentrés.  
 > 9 h 14. Vibration des vitres de la passerelle pendant une minute environ. Aucun bruit d'explosion.  
-> 12 h. Pertes : 13 tués, 21 brûlés, 37 disparus à terre, dont 1 officier.
+> 12 h. Pertes : 13 tués, 21 brûlés, 2 disparus en rade, 37 disparus à terre, dont 1 officier.
 >
 > Journal de bord du contre-torpilleur *Volta*, 1er et 2 juillet 1940 (extrait).
 > {: .source}
@@ -245,9 +245,9 @@ On le fit sur la plage arrière, sous le ciel de cuivre, dans la poussière gris
 
 Jean se tenait derrière le commandant. Il écoutait les noms. Il en connaissait la plupart. Il connaissait leurs pays : Douarnenez, Paimpol, Lorient, Concarneau, Sète, Marseille, Toulon. Il entendait les silences et il essayait de ne pas les compter, et il les comptait.
 
-Treize tués à bord. Vingt et un brûlés, dont six gravement. Trente-sept hommes à terre qui n'étaient pas revenus, dont un officier.
+Treize tués à bord. Vingt et un brûlés, dont six gravement. Deux hommes de la vedette perdus en rade. Trente-sept hommes à terre qui n'étaient pas revenus, dont un officier.
 
-On ne dit pas « morts » pour les trente-sept. On dit « disparus ». Le commandant le voulut ainsi, et personne ne le contredit, et Jean lui en fut reconnaissant, sans savoir si c'était de la prudence ou de la pitié.
+On ne dit pas « morts » pour ceux-là. On dit « disparus ». Le commandant le voulut ainsi, et personne ne le contredit, et Jean lui en fut reconnaissant, sans savoir si c'était de la prudence ou de la pitié.
 
 Après l'appel, le commandant le fit venir dans sa chambre. La photographie de femme, dans son cadre de cuir, avait glissé sur le bureau quand les vitres avaient tremblé, et il la redressa avant de parler.
 
