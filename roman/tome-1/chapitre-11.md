@@ -85,7 +85,7 @@ Il vira pour passer au large du cap, à mille pieds. Le phare tournait sous son 
 
 ---
 
-Le premier éclair partit à cinq heures vingt-deux. Gray nota l'heure ; Tom ne la sut que plus tard.
+Le premier éclair partit à cinq heures vingt-deux, à l'heure du bord. Gray nota l'heure ; Tom ne la sut que plus tard.
 
 Il était sur le flanc du promontoire, à droite du phare, un peu plus bas : un éclair orange, bref, plat, qui illumina pendant une fraction de seconde une petite surface de roche et s'éteignit. Puis un deuxième, à côté. Puis quatre ensemble, en ligne, régulièrement espacés, comme les fenêtres d'un train qui passe.
 
