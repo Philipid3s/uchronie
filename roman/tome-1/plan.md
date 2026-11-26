@@ -192,7 +192,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 - Les avions passent à terre, à Elmas. Il fait encore une quinzaine de degrés, mais on sent que cela ne durera pas. Faute de bras, Tom aide les mécaniciens à démonter un moteur et s'entaille la main sur un bout de **fil à freiner** (le fil d'acier qui bloque les écrous) : une plaie de rien, qui s'infecte. Sans sulfamides, on en meurt : on l'envoie à San Giovanni di Dio, où l'on manque déjà de tout et où l'électricité vient par à-coups [canon roman : option B]. Efisia nettoie la plaie en lui expliquant, sans rire, qu'on en meurt maintenant. **Il la fait rire quand même**, avec un italien impossible. Elle rit pour la première fois depuis la nuit.
 
 **14. Jean — fin juillet, le Sulcis** [validé]
-- La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois.
+- La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois. [canon roman, chapitre 12 : piste] Parmi les fidèles du fédéral, Jean peut croiser **Cadoni**, l'économe de San Giovanni di Dio, sans savoir qui il est.
 - **La première neige, ailleurs** [canon roman : option A] : une nuit, sur les hauteurs, un grésil mêlé de suie, gris, qui fond en touchant les mains ; ce n'est pas encore de la neige. Le lendemain, le téléphone des carabiniers de Nuoro apporte la nouvelle : le Gennargentu est blanc (à cent kilomètres, dans le noir, on ne le voit pas).
 
 **15. Efisia — août, Cagliari** [validé]

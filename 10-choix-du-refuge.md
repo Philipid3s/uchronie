@@ -201,6 +201,7 @@ Les Italiens apportent ce que les flottes n'ont pas : **la terre, le charbon, l'
 
 ### La dissidence du Sulcis (juillet – août 1940) [canon : option A ; provisoire : détail]
 
+- **Le 12 juillet au matin**, le fédéral quitte Cagliari pour Iglesias avec ses fidèles ; parmi eux, l'économe de San Giovanni di Dio, **Cadoni**, inscrit au Parti [canon roman, chapitres 9 et 12 ; personnage inventé ; Jean peut le retrouver à Carbonia, chapitre 14].
 - **Le 12 juillet au soir**, le fédéral et les cohortes de **Carbonia** et d'**Iglesias** refusent l'accord et **tiennent les mines** : les puits, les centrales, les dépôts d'explosifs, la voie ferrée. Ils menacent de **noyer les puits** si la flotte approche. C'est l'endroit le plus fasciste de l'île, et c'est aussi celui dont l'îlot a besoin pour vivre ([15](15-energie.md) §4).
 - **L'opération** (fin juillet – début août 1940) : les **fusiliers marins** de la flotte, débarqués au golfe de Palmas, et les **réguliers de la division Sabauda**, déjà déployés dans le Sulcis depuis juin, montent une opération commune. Les **mineurs** eux-mêmes, qui n'ont aucune envie de voir leurs puits noyés, ouvrent les portes. **Quelques jours de combat, quelques dizaines de morts** [canon provisoire].
 - **Pourquoi c'est fondateur** : l'alliance ne naît pas d'une capitulation, mais d'**un combat commun** pour le charbon. Français, Britanniques et Italiens fidèles au Roi se sont battus du même côté. [à nommer : le nom de l'opération, voir 09]
