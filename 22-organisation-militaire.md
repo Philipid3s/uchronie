@@ -13,7 +13,7 @@ Le 1er juillet 1940, les trois marines ne sont pas alliées :
 - la France vient de signer l'armistice (22 juin), et la Royal Navy s'apprête à tirer sur la flotte française à Mers el-Kébir ;
 - les trois marines ont des grades, des uniformes, des règlements, des langues et des traditions différents.
 
-L'**accord de Cagliari** (12 juillet 1940) pose un seul principe : **l'égalité des marins des trois nations** ([06](06-mers-el-kebir.md)). Le **Code de l'Îlot** de Holland (automne 1940) fusionne les règles de discipline et de justice ([13](13-societe-de-bord.md) §5). Mais **personne ne touche aux grades** : il y a plus urgent.
+L'**accord de Cagliari** (12 juillet 1940) pose un seul principe : **l'égalité des marins des trois nations** ([06](06-mers-el-kebir.md) ; article 3 de l'accord, [10](10-choix-du-refuge.md) §9 ter). Le **Code de l'Îlot** de Holland (automne 1940) fusionne les règles de discipline et de justice ([13](13-societe-de-bord.md) §5). Mais **personne ne touche aux grades** : il y a plus urgent.
 
 ### 1.2 Trois hiérarchies côte à côte [canon provisoire]
 
