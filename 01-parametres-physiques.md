@@ -24,6 +24,7 @@
 - Fragment A : magnitude absolue H ≈ 14,1. Il atteint la magnitude 12 environ 2 jours avant l'impact, 9 environ 12 h avant, et devient visible à l'œil nu dans les 2 à 3 dernières heures, dans le ciel nocturne du Pacifique Nord, une zone presque déserte.
 - Fragment B : il arrive en plein jour sur la France, et il est invisible.
 - Il n'existe en 1940 aucune surveillance systématique du ciel. **[canon] Aucune alerte.** Au mieux, quelques observateurs isolés notent un « astre mobile » dans la dernière heure.
+- **Après coup** [canon : décision de l'auteur, B118 option B] : personne, en Méditerranée, ne sait d'abord ce qui s'est passé. Le peuple dit très vite « la comète » ; quelques officiers et savants de l'îlot comprennent à l'automne 1940, par les heures du souffle du 2 juillet et par les sphérules, qu'un second objet est tombé le matin sur le nord de la France. L'impact du Pacifique n'est soupçonné qu'avec les contacts radio lointains, et le cratère de Rambouillet n'est vu qu'en 1942 ([36](36-expedition-de-la-manche.md) §6.4).
 
 ## 4. Chronologie physique [canon + calcul]
 

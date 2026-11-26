@@ -47,6 +47,10 @@
 **Les règles** [proposition] :
 1. **Aucune explication scientifique dans la narration.** Les personnages ne savent presque rien : ils voient, devinent, se trompent. Les faits passent par les pièces d'époque, quand ils passent.
 2. **La lumière est un personnage.** Chaque chapitre dit où est la lumière : lampes, braises, feux de position, phosphorescence, lueur des incendies sur les nuages.
+1 bis. **Ce que l'on croit savoir** [canon roman : B118 option B, 26 novembre 2026]. Personne n'a vu venir l'objet ; la narration ne l'explique pas. Les hypothèses circulent et se trompent :
+   - **Juillet** : l'arme secrète, anglaise ou allemande ; le séisme « comme à Messine » ; le volcan « comme le Krakatoa » (Pinna, les médecins, les officiers) ; le châtiment, la fin du monde. Le mot du peuple vient tout de suite : **« la comète »**, à cause des étoiles filantes du début et du souvenir de la peur de la comète de Halley, en 1910. Personne ne dit « astéroïde » ; on dit « bolide », « météorite », « pierre tombée du ciel ».
+   - **Août – automne** : deux indices font comprendre à une poignée d'hommes qu'il y a eu **deux** événements. Les **heures du souffle** du 2 juillet (Cagliari 8 h UTC, Mers el-Kébir 8 h 13, Gibraltar 8 h 16) désignent une explosion **dans le nord de la France, vers Paris, au matin du 2 juillet**, douze heures après la nuit de feu : c'est la méthode des barographes qui avaient suivi l'onde du Krakatoa autour du monde en 1883. Les **sphérules** de verre, que des ingénieurs des mines d'Iglesias rapprochent des tectites, disent « verre fondu tombé du ciel ».
+   - **Ce qu'on ignore** : le Pacifique. Rien ne donne la direction de la nuit de feu ; on ne la soupçonnera qu'avec les contacts radio lointains. Le cratère ne sera vu qu'en 1942.
 3. **Les trois regards ne voient pas la même chose** : Jean voit la mer et les hommes, Tom voit d'en haut (le monde comme une carte qui s'éteint), Efisia voit la ville, les corps et les visages.
 
 ---
@@ -198,6 +202,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 **16. Tom — août, Elmas** [validé]
 - **L'arrivée de Toulon** [canon roman : option A] : en août, l'*Algérie*, le *Dupleix* et des contre-torpilleurs entrent dans le golfe avec environ 1 500 personnes, des machines-outils et les médicaments de Sainte-Anne ([33](../../33-toulon.md)). Le lieutenant de vaisseau **Paul Arnaud**, Toulonnais, chef de la section d'hydravions du *Strasbourg*, attend sur le quai des nouvelles de son père, ouvrier de l'arsenal. Son père n'est pas à bord : il est resté à l'arsenal, avec Duplat. Vivant, mais hors d'atteinte. Tom le regarde attendre : c'est ce que c'est, attendre une famille.
 - L'essence fond. Fin août, Tom demande à Arnaud de lui apprendre le **Loire 130** ; Arnaud, ancien de la HS 1, accepte, peut-être parce qu'il a besoin de s'occuper ; les leçons dureront tout l'automne. On a besoin d'un interprète : c'est **Jean**. **Rencontre de Jean et de Tom**. Toulon, Brest, Plymouth : leurs trois familles, hors d'atteinte. *« Un jour, on ira voir. »*
+- **Le calcul du souffle** [canon roman : B118 option B] : au bureau météorologique d'Elmas, Tom trouve la trace du 2 juillet sur le barographe ; Jean a l'heure du journal du *Volta* (9 h 14), Tom celle de Gibraltar (9 h 16). Gray, l'ancien professeur de mathématiques, fait le calcul : trois heures, trois cercles, un point dans le nord de la France, vers Paris, et une heure, le matin du 2. Il y a donc eu deux choses. *« Un jour, on ira voir »* prend une direction.
 
 **17. Jean — fin août, la Marina** [validé]
 - **L'Inscription générale** : chacun est rattaché à un bord. Jean est détaché à terre pour recenser la Marina et réquisitionner : le grain, mais aussi, dans le froid, les couvertures, le bois, les poêles. Il entre chez les Deiana. Efisia lui fait face. Il leur laisse leur poêle : il cède sur ce qu'il peut, sans le dire.
@@ -206,6 +211,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 **18. Efisia — fin août – septembre** [validé]
 - Face aux émeutes, le Conseil choisit de rester à bord du *Dunkerque* plutôt que de s'installer au Palazzo Regio.
 - **L'hôpital passe sur les navires** : seuls les navires ont l'électricité, la chaleur et la vapeur pour stériliser ; San Giovanni di Dio se vide dans le froid (il ne redeviendra l'hôpital de l'îlot qu'en 1944, [19](../../19-savoir-et-medecine.md)). Efisia suit ses malades et rejoint l'équipe du ***Provence*** (chirurgie, maternité, enfants), avec les médecins et les infirmières d'Oran. Quitter son hôpital et sa ville pour un navire français : un déchirement. Elle apprend le français d'hôpital.
+- **Les grains de verre** [canon roman : B118 option B] : Pinna a gardé les sphérules ramassées sur les malades de la première nuit ; il les montre à un ingénieur des mines d'Iglesias, qui les compare aux tectites. « Du verre fondu, tombé du ciel. » Efisia pense aux grains dans les cheveux de Bonaria. À la Marina, on dit « la comète », et c'est tout ce qu'on en dit.
 ### Partie IV — Le premier froid
 
 **19. Tom — 21 – 23 septembre, l'alerte de Naples** [validé]

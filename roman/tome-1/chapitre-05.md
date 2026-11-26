@@ -163,7 +163,7 @@ Ashby le raconta à Tom plus tard, au carré, entre deux tasses de thé. Depuis 
 
 — C'est comme écouter un homme se noyer, dit Ashby. Il remonte, il crie un mot, il repart au fond. Et toi, tu notes le mot.
 
-À neuf heures dix, Tom était sur la plate-forme quand le Rocher se mit à gronder.
+À neuf heures seize, Tom était sur la plate-forme quand le Rocher se mit à gronder.
 
 Ce ne fut pas un bruit, pas vraiment. Ce fut une sorte de souffle immense, très bas, qui passa sur la baie, venu du nord, et que l'on sentit plus qu'on ne l'entendit : dans les jambes, dans la poitrine, dans les vitres de la passerelle, qui se mirent à vibrer toutes ensemble avec un son de verre qu'on effleure. La surface de la baie frissonna, d'un seul coup, comme la peau d'un cheval. Des pierres se détachèrent des pentes noircies du Rocher et roulèrent, très loin, avec un bruit de grêle. Puis cela passa, en moins d'une minute. Le ciel de cuivre n'avait pas bougé.
 
