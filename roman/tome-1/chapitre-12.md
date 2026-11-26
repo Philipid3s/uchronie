@@ -27,7 +27,7 @@ Vers cinq heures, au large, il y eut une lumière.
 
 Une seule, d'abord, très basse sur l'eau, si petite qu'on crut à une étoile, et l'on se souvint qu'il n'y avait plus d'étoiles. Puis une autre, à côté. Puis des dizaines. Elles montaient de la mer, au fond du golfe, blanches, rouges, vertes, en lignes, en grappes, et elles grandissaient lentement, sans bruit. Toute la foule s'était levée. Les lanternes montèrent avec elle, à bout de bras, comme pour répondre.
 
-Efisia n'avait jamais vu autant de lumières ensemble. Même avant la guerre, même le soir de la fête de Bonaria, quand on illuminait le port. Il y en avait trop pour des navires. On aurait dit une ville qui venait vers eux sur l'eau, avec ses rues, ses fenêtres, ses clochers, une ville tout entière allumée qui avançait dans le noir, et Cagliari, sur son quai, n'avait que ses petites lanternes à lui opposer. Quelqu'un dit : *Madonna*. Quelqu'un d'autre se mit à rire, nerveusement, et s'arrêta.
+Efisia n'avait jamais vu autant de lumières ensemble. Même avant la guerre, même les soirs de fête, quand on illuminait le port. Il y en avait trop pour des navires. On aurait dit une ville qui venait vers eux sur l'eau, avec ses rues, ses fenêtres, ses clochers, une ville tout entière allumée qui avançait dans le noir, et Cagliari, sur son quai, n'avait que ses petites lanternes à lui opposer. Quelqu'un dit : *Madonna*. Quelqu'un d'autre se mit à rire, nerveusement, et s'arrêta.
 
 Au-dessus du capo Sant'Elia, le phare tournait. On l'avait rallumé dans la nuit ; un pêcheur l'avait dit, en arrivant de Su Siccu, et cela avait couru le long des quais. Efisia suivait le faisceau des yeux. Là-bas, sous ce faisceau, il y avait le plateau, et la batterie, et Gigi.
 
@@ -41,7 +41,7 @@ Ils jaillirent sur le flanc du cap, à côté du phare : un, puis un autre, puis
 
 — *Sa bateria*, dit une voix d'homme, en sarde. La batterie.
 
-Efisia ne bougea pas. Elle regardait le cap. Elle se répétait qu'il y avait d'autres batteries, à Calamosca, sur le port, ailleurs ; qu'il y avait cent hommes sur ce plateau ; que Gigi servait la pièce et que ce n'était pas lui qui décidait. Elle le savait, et cela ne changeait rien à ce qu'elle regardait.
+Efisia ne bougea pas. Elle ne quittait pas le cap des yeux. Elle se répétait qu'il y avait d'autres batteries, à Calamosca, sur le port, ailleurs ; qu'il y avait cent hommes sur ce plateau ; que Gigi servait la pièce et que ce n'était pas lui qui décidait. Elle le savait, et cela ne changeait rien à ce qu'elle voyait.
 
 Au large, parmi les lumières, une lueur jaune s'enfla, puis resta. Un navire brûlait. Les feux qui l'entouraient s'éteignirent tous ensemble, et il n'y eut plus, à sa place, qu'un incendie posé sur l'eau.
 
@@ -51,7 +51,7 @@ Elle descendait lentement, très blanche, plus blanche que tout ce qu'Efisia ava
 
 Alors le golfe s'alluma.
 
-Ce fut une lumière orange, immense, qui vint de la mer, d'un seul coup, et qui fut partout : sur l'eau, sur les façades de la via Roma, sur les arcades, sur les visages. Efisia vit, le temps d'un souffle, la foule entière autour d'elle, des centaines de visages tournés vers la mer, la bouche ouverte, les yeux agrandis, tous de la même couleur, comme les visages de la Marina le soir du 1er juillet, quand le ciel avait rougi ; et elle vit sa propre main, devant sa bouche, orange. Puis le noir revint. Puis le bruit, énorme, qui ne roula pas sur l'eau comme les coups de la batterie mais arriva d'un bloc, frappa la poitrine, fit trembler les vitres des arcades et tinter quelque part une vitrine qui tomba.
+Ce fut une lumière orange, immense, qui vint de la mer, d'un seul coup, et qui fut partout : sur l'eau, sur les façades de la via Roma, sur les arcades, sur les visages. Efisia vit, le temps d'un souffle, la foule entière autour d'elle, des centaines de visages tournés vers la mer, la bouche ouverte, les yeux agrandis, tous de la même couleur, comme les visages de la Marina le soir du 1er juillet, quand le ciel avait rougi ; et elle vit sa propre main, devant sa bouche, orange. Puis le noir revint. Puis le bruit, énorme, qui ne roula pas sur l'eau comme les coups de la batterie mais arriva d'un bloc, frappa la poitrine, fit trembler les vitres des arcades ; quelque part, une vitrine tomba en éclats.
 
 Sur le cap, sous l'étoile blanche, la roche se souleva.
 
@@ -75,7 +75,7 @@ Les premiers vinrent du cap, dans deux camions de la Marine, sous la garde de ca
 
 Gigi était le septième.
 
-Il était assis, pas couché, adossé au mur, sur le plateau du camion, et un carabinier le tenait par le bras, sans brutalité, comme on tient un homme qui pourrait tomber. Il avait le visage gris de poussière, une poussière blanche, fine, de pierre broyée, qui lui faisait un masque sur lequel le sang avait tracé des lignes. Son bras gauche pendait d'une façon qui n'était pas celle d'un bras. Il regardait devant lui. Il ne la vit pas.
+Il était assis, pas couché, adossé à la ridelle, sur le plateau du camion, et un carabinier le tenait par le bras, sans brutalité, comme on tient un homme qui pourrait tomber. Il avait le visage gris de poussière, une poussière blanche, fine, de pierre broyée, qui lui faisait un masque sur lequel le sang avait tracé des lignes. Son bras gauche pendait d'une façon qui n'était pas celle d'un bras. Il regardait devant lui. Il ne la vit pas.
 
 — Gigi.
 
@@ -111,7 +111,7 @@ Il se tut. Puis, plus bas, ce qui pour lui voulait dire encore très fort :
 
 — Après, je ne sais plus. Je me suis réveillé en bas de la pente. Il y avait des pierres sur moi. Le *console*, il est mort. Le lieutenant aussi. Raimondo, de Quartu, il est mort. Les carabiniers sont montés, et des marins de la base, des nôtres, avec des fusils. Ils nous ont dit de lever les mains. Je ne pouvais lever qu'une main.
 
-Efisia lui essuya le front. Elle pensa à l'enfant de six ans du 24 juin. Elle pensa : *il ne savait pas ce qu'il touchait*. Et elle pensa, en même temps, au navire qui brûlait sur l'eau, et à ceux qui étaient dessus.
+Efisia lui essuya le front. L'enfant de six ans du 24 juin lui revint. *Il ne savait pas ce qu'il touchait.* Et, en même temps, le navire qui brûlait sur l'eau, et ceux qui étaient dessus.
 
 ---
 
@@ -143,7 +143,7 @@ Elle traversa la cour de son pas rapide, les ailes de sa cornette tremblant, et 
 
 — Nous allons en faire.
 
-Efisia regarda la religieuse.
+Efisia se tourna vers la religieuse.
 
 — Vous parlez leur langue.
 
@@ -161,13 +161,13 @@ Elle le fit comme elle avait soigné ceux de la Marina, avec les mêmes gestes, 
 
 Le garçon blond de la charrette s'appelait Davies. Elle le lut sur la plaque qu'il portait au cou, sur une ficelle, et elle l'appela ainsi, *Davies*, en prononçant mal, et il ouvrit les yeux. Il avait dix-huit ans peut-être. Il était brûlé aux bras et au cou, pas très profondément, et il avait un éclat dans la cuisse qu'Atzeni retira à midi. Il parlait sans arrêt, à voix basse, et ce qu'il disait n'avait pas le son de l'anglais des autres. C'était une langue plus chantante, plus ronde, avec des sons qu'elle n'avait jamais entendus.
 
-L'officier français passait dans la salle. Il était resté. Il allait d'un Anglais à l'autre, se penchait, écoutait, répondait en anglais, et transmettait à Suor Giuseppina, en français, ce qu'ils demandaient. De l'eau. Une couverture. Est-ce que le second maître Untel était vivant. Est-ce qu'on avait retrouvé untel. Efisia ne lui adressait pas la parole. Elle se servait de lui comme d'un outil qu'on prend sur une table et qu'on repose, et elle le reposait le plus vite possible.
+L'officier français passait dans la salle. Il était resté. Il allait d'un Anglais à l'autre, se penchait, écoutait, répondait en anglais, et transmettait à Suor Giuseppina, en français, ce qu'ils demandaient. De l'eau. Une couverture. Est-ce que le second maître Untel était vivant. Est-ce qu'on avait retrouvé Untel. Efisia ne lui adressait pas la parole. Elle se servait de lui comme d'un outil qu'on prend sur une table et qu'on repose, et elle le reposait le plus vite possible.
 
 Il s'arrêta au lit de Davies, écouta un moment, et dit quelque chose à la religieuse. Suor Giuseppina traduisit.
 
 — Il dit que ce n'est pas de l'anglais. C'est du gallois. Une langue du pays de Galles, que les Anglais ne parlent pas. Le garçon dit une prière que sa mère lui a apprise.
 
-Efisia regarda Davies, qui priait dans une langue que ses propres camarades ne comprenaient pas. Elle pensa au soir du 2 juillet, dans la pièce du fond, quand elle avait dit les choses à Gigi en sarde. *Il y avait des choses qu'on ne pouvait pas dire en italien.* Elle ne voulut pas le penser. Elle le pensa quand même. Elle versa de l'huile sur le cou du garçon et passa au lit suivant.
+Davies priait dans une langue que ses propres camarades ne comprenaient pas. Efisia pensa au soir du 2 juillet, dans la pièce du fond, quand elle avait dit les choses à Gigi en sarde. *Il y avait des choses qu'on ne pouvait pas dire en italien.* Elle ne voulut pas le penser. Elle le pensa quand même. Elle versa de l'huile sur le cou du garçon et passa au lit suivant.
 
 ---
 
@@ -179,7 +179,7 @@ Elle se planta devant lui, entre lui et la porte.
 
 Il la regarda. Il vit ses avant-bras bandés, ses cheveux coupés court sur la tempe, son tablier taché. Il dit quelque chose en français, à mi-voix, très poliment. Elle ne comprit que deux mots. *Désolé. Mademoiselle.* Il les dit comme s'il les avait déjà dits beaucoup de fois, récemment, et qu'il n'y croyait plus beaucoup.
 
-Alors elle lui parla. En italien d'abord, puis en sarde, quand l'italien ne suffit plus. Elle lui dit qu'il n'avait rien à faire là. Elle lui dit que les Français avaient bombardé sa ville trois semaines plus tôt, et qu'elle avait recousu un enfant de six ans, et qu'ils revenaient maintenant avec des cuirassés et du blé, et qu'on devait leur dire merci. Elle lui dit que son frère était derrière cette porte, sourd, le bras cassé, prisonnier, et que c'étaient leurs canons. Elle lui dit que la charrette dans laquelle il avait amené ses Anglais était celle où sa mère était morte. Elle le dit vite, à voix basse, sans crier, parce qu'on ne crie pas dans un couloir d'hôpital, et elle sentit en le disant que ce n'était pas à lui qu'elle le disait, ou pas seulement ; qu'il était seulement le seul Français qu'elle avait sous la main. Elle le dit quand même. Elle le dit jusqu'au bout.
+Alors elle lui parla. En italien d'abord, puis en sarde, quand l'italien ne suffit plus. Elle lui dit qu'il n'avait rien à faire là. Elle lui dit que les Français avaient bombardé sa ville moins de trois semaines plus tôt, et qu'elle avait recousu un enfant de six ans, et qu'ils revenaient maintenant avec des cuirassés et du blé, et qu'on devait leur dire merci. Elle lui dit que son frère était derrière cette porte, sourd, le bras cassé, prisonnier, et que c'étaient leurs canons. Elle lui dit que la charrette dans laquelle il avait amené ses Anglais était celle où sa mère était morte. Elle le dit vite, à voix basse, sans crier, parce qu'on ne crie pas dans un couloir d'hôpital, et elle sentit en le disant que ce n'était pas à lui qu'elle le disait, ou pas seulement ; qu'il était seulement le seul Français qu'elle avait sous la main. Elle le dit quand même. Elle le dit jusqu'au bout.
 
 Il ne comprit pas un mot. Elle le vit. Il comprit tout le reste.
 
