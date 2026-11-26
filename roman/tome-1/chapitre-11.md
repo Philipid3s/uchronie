@@ -217,7 +217,7 @@ Du contreplaqué, verni, lisse, avec sous les doigts le relief à peine sensible
 
 — *Ud*, répéta l'autre, satisfait.
 
-Il se nommait Pellizzari. Il le dit en se frappant la poitrine, puis il montra l'hydravion et dit un autre nom, *Monfalcone*, en montrant le nord, très loin, au-delà de la mer, et il fit avec ses mains noires le geste de quelqu'un qui rabote, qui colle, qui serre une presse. Tom comprit qu'il les avait construits. Qu'il avait été charpentier, ou ouvrier, quelque part sur une côte d'Italie, dans un chantier qui faisait des oiseaux de bois. Que c'était un oncle Jack.
+Il se nommait Pellizzari, Bruno Pellizzari. Il le dit en se frappant la poitrine, puis il montra l'hydravion et dit un autre nom, *Monfalcone*, en montrant le nord, très loin, au-delà de la mer, et il fit avec ses mains noires le geste de quelqu'un qui rabote, qui colle, qui serre une presse. Tom comprit qu'il les avait construits. Qu'il avait été charpentier, ou ouvrier, quelque part sur une côte d'Italie, dans un chantier qui faisait des oiseaux de bois. Que c'était un oncle Jack.
 
 Il dit : *Cowes*, et fit le même geste. Pellizzari le regarda, ne comprit pas le nom, comprit le geste, et rit.
 
