@@ -83,7 +83,7 @@ Il ne tourna pas la tête. Elle se planta devant lui, lui prit le visage dans le
 
 — Je n'entends rien, cria-t-il. Efisia. Je n'entends plus rien.
 
-Elle comprit. Elle avait vu cela chez des dockers, après l'explosion d'une chaudière sur le port, quand elle était élève. Les tympans. Cela revenait, quelquefois. Elle ne le lui dit pas : il ne l'aurait pas entendue. Elle hocha la tête, très fort, plusieurs fois, et elle lui sourit, et c'était le premier sourire qu'elle faisait depuis douze jours.
+Elle comprit. Elle avait vu cela chez des dockers, après l'explosion d'une chaudière sur le port, quand elle était élève. Les tympans. Cela revenait, quelquefois. Elle ne le lui dit pas : il ne l'aurait pas entendue. Elle hocha la tête, très fort, plusieurs fois, et elle lui sourit, et c'était le premier sourire qu'elle faisait depuis onze jours.
 
 Le carabinier toussa.
 
@@ -123,7 +123,7 @@ Il y avait trois charrettes à bras sous la voûte, et des hommes autour. Des ma
 
 La première charrette était celle de Peppino.
 
-Elle la reconnut à ses roues dépareillées, à ses brancards de bois noir, à l'odeur de poisson qui perçait encore sous les autres. C'était la charrette où elle avait couché sa mère et sa sœur, douze jours plus tôt, et qu'elle avait poussée dans la montée de Sant'Anna. Peppino n'était pas là. Quelqu'un l'avait prise sur le port, réquisitionnée, empruntée, elle ne savait pas. À la place de Rita, il y avait un garçon blond, aux cheveux collés de mazout, qui gémissait doucement en anglais. Et entre les brancards, à la place de Peppino, tirant la charrette avec un marin, il y avait un officier.
+Elle la reconnut à ses roues dépareillées, à ses brancards de bois noir, à l'odeur de poisson qui perçait encore sous les autres. C'était la charrette où elle avait couché sa mère et sa sœur, onze jours plus tôt, et qu'elle avait poussée dans la montée de Sant'Anna. Peppino n'était pas là. Quelqu'un l'avait prise sur le port, réquisitionnée, empruntée, elle ne savait pas. À la place de Rita, il y avait un garçon blond, aux cheveux collés de mazout, qui gémissait doucement en anglais. Et entre les brancards, à la place de Peppino, tirant la charrette avec un marin, il y avait un officier.
 
 Un officier français. Elle le sut à la casquette, à l'ancre dorée, à la vareuse, et quand il ouvrit la bouche pour parler au portier, elle sut qu'elle ne s'était pas trompée.
 
@@ -211,11 +211,11 @@ Pinna remit ses lunettes.
 
 Il regarda Efisia, qui se tenait un peu à l'écart, contre le mur, et il ajouta, plus doucement :
 
-— Votre frère est un milicien qui a servi sa pièce sur ordre, Deiana. Il y en a cent comme lui. Le fédéral, lui, est parti ce matin pour Iglesias avec ses fidèles, et on dit qu'il ne s'arrêtera pas là. C'est lui qu'on cherchera. Pas votre frère.
+— Votre frère est un milicien qui a servi sa pièce sur ordre, Deiana. Il y en a cent comme lui. Le secrétaire fédéral du Parti, lui, est parti ce matin pour Iglesias avec ses fidèles, et on dit qu'il ne s'arrêtera pas là. C'est lui qu'on cherchera. Pas votre frère.
 
 Elle hocha la tête. Elle ne le crut qu'à moitié. Les cloches s'étaient tues. Il ne restait, dans le couloir, que la lampe de Pinna, et dehors, au fond du golfe, les feux de la flotte, restés allumés, que personne, disait-on, ne prendrait plus la peine d'éteindre.
 
-Le signor Cadoni, l'économe, n'était pas venu à l'hôpital ce jour-là. On ne le revit plus.
+Le signor Cadoni, l'intendant, n'était pas venu à l'hôpital ce jour-là. On ne le revit plus.
 
 ---
 

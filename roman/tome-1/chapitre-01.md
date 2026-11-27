@@ -37,7 +37,7 @@ Il se força à revenir à la rade. Droite, gauche, point de départ.
 
 ---
 
-À midi et demi, Rousseau, l'autre enseigne, vint le relever pour qu'il aille déjeuner. Le carré des officiers du *Volta* était une pièce basse, blanche, aux hublots ouverts sur la jetée, où un ventilateur brassait un air plus chaud que celui du dehors. On y mangeait en manches de chemise depuis l'armistice : le commandant avait dit qu'il ne voyait plus de raison de faire cuire ses officiers dans leurs vareuses, et personne n'avait discuté.
+À midi et demi, Rousseau, un autre enseigne, vint le relever pour qu'il aille déjeuner. Le carré des officiers du *Volta* était une pièce basse, blanche, aux hublots ouverts sur la jetée, où un ventilateur brassait un air plus chaud que celui du dehors. On y mangeait en manches de chemise depuis l'armistice : le commandant avait dit qu'il ne voyait plus de raison de faire cuire ses officiers dans leurs vareuses, et personne n'avait discuté.
 
 Ils étaient sept autour de la table. Il y avait le canonnier, un lieutenant de vaisseau de Concarneau au visage carré, qui mangeait vite et parlait peu ; l'ingénieur mécanicien, un Marseillais qui parlait pour deux ; le médecin du bord, qui s'éventait avec le menu ; deux enseignes ; et, à la place qui faisait face à la porte, Louis Garrec, qui riait déjà de quelque chose quand Jean entra.
 

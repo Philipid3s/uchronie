@@ -240,6 +240,6 @@ Il n'existait plus que par ses lumières. À l'entrée des galeries, à mi-haute
 
 Le *Hood* répondit. Tom ne vit pas sa réponse ; elle partait de l'autre côté. Il resta à l'arrière, face au Rocher, longtemps après que le projecteur se fut tu, jusqu'à ce que les lampes des galeries ne fussent plus qu'une seule lueur, puis plus rien.
 
-Il se rappela le matin de son arrivée, et le nuage que le Rocher portait à son sommet, cette longue bannière blanche que le vent d'est accrochait à la crête et qui se refaisait sans cesse au même endroit. Il chercha s'il y avait du vent d'est. Il y en avait, un peu : il le sentait sur sa nuque, tiède encore, chargé d'une odeur de cendre et de sel.
+Il se rappela le dernier dimanche de juin, et le nuage que le Rocher portait à son sommet, cette longue bannière blanche que le vent d'est accrochait à la crête et qui se refaisait sans cesse au même endroit. Il chercha s'il y avait du vent d'est. Il y en avait, un peu : il le sentait sur sa nuque, tiède encore, chargé d'une odeur de cendre et de sel.
 
 Il ne sut pas si le Rocher avait mis son nuage.

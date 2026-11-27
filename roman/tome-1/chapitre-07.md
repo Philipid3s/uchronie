@@ -334,7 +334,7 @@ Jean dit ce qu'il avait vu. Le *Foxhound* et ses feux, Holland à l'échelle, la
 
 Jacquinet resta longtemps sans parler, tourné vers la passe, du côté du nord.
 
-— Toulon a appelé, n'est-ce pas ? dit-il enfin. Avant-hier soir.
+— Toulon a appelé, n'est-ce pas ? dit-il enfin. Le 2, au soir.
 
 — Oui, Commandant. La ville a tenu. Les vitres sont brisées.
 

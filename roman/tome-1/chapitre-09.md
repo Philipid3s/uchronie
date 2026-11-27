@@ -141,7 +141,7 @@ Ce dimanche-là, il laissa la porte ouverte.
 
 Efisia passait dans le couloir avec un broc d'eau quand elle entendit, venue du bureau, une voix d'homme qui parlait italien. Elle s'arrêta. Ce n'était pas la voix de l'EIAR. Ce n'était aucune voix qu'elle connût. Elle entra sans frapper, ce qu'elle n'avait jamais fait.
 
-Il y avait déjà du monde. Suor Giuseppina, debout près de la porte, les ailes de sa cornette immobiles. Deux médecins, le docteur Floris et le jeune docteur Atzeni, qui n'avait pas quitté l'hôpital depuis le 1er. L'économe, le signor Cadoni, en veston noir, l'insigne du Parti à la boutonnière. Pinna était assis devant le poste, penché, les coudes sur les genoux, les lunettes à la main. Personne n'avait allumé. La seule lumière de la pièce venait de la radio : le cadran, un long rectangle de verre éclairé par-derrière, d'un jaune très doux, où les noms des villes étaient peints en lettres noires, en colonnes, avec leurs longueurs d'onde. *Roma. Milano. Torino. Napoli. Bari. Firenze. Londra. Parigi. Berlino. Vienna. Praga. Budapest. Mosca.* L'aiguille était arrêtée entre deux noms. Les visages, autour, étaient éclairés d'en bas par ce jaune, et ils ressemblaient à ceux des brûlés sous les cierges, la première nuit.
+Il y avait déjà du monde. Suor Giuseppina, debout près de la porte, les ailes de sa cornette immobiles. Deux médecins, le docteur Floris et le jeune docteur Atzeni, qui n'avait pas quitté l'hôpital depuis le 1er. L'intendant, le signor Cadoni, en veston noir, l'insigne du Parti à la boutonnière. Pinna était assis devant le poste, penché, les coudes sur les genoux, les lunettes à la main. Personne n'avait allumé. La seule lumière de la pièce venait de la radio : le cadran, un long rectangle de verre éclairé par-derrière, d'un jaune très doux, où les noms des villes étaient peints en lettres noires, en colonnes, avec leurs longueurs d'onde. *Roma. Milano. Torino. Napoli. Bari. Firenze. Londra. Parigi. Berlino. Vienna. Praga. Budapest. Mosca.* L'aiguille était arrêtée entre deux noms. Les visages, autour, étaient éclairés d'en bas par ce jaune, et ils ressemblaient à ceux des brûlés sous les cierges, la première nuit.
 
 La voix parlait lentement. Elle détachait les mots, comme on parle à un sourd, ou à quelqu'un qui est très loin et qu'on veut être sûr d'atteindre.
 
@@ -155,7 +155,7 @@ Il avait parlé à voix basse, pour lui-même. Efisia l'avait pensé en même te
 
 — Les flottes, dit le docteur Floris. Quelles flottes ? La française n'existe plus. Ils ont signé.
 
-— Et la britannique est en guerre avec nous, dit l'économe. Depuis le 10 juin. Je vous le rappelle, Professeur, puisque personne ici n'a l'air de s'en souvenir.
+— Et la britannique est en guerre avec nous, dit l'intendant. Depuis le 10 juin. Je vous le rappelle, Professeur, puisque personne ici n'a l'air de s'en souvenir.
 
 Pinna ne répondit pas. Il remit ses lunettes. Il regarda le cadran, l'aiguille arrêtée entre deux noms, comme s'il essayait d'y lire quelque chose qui n'y était pas écrit.
 
@@ -173,7 +173,7 @@ Alors Pinna retira de nouveau ses lunettes, et se tourna vers lui, et Efisia vit
 
 — Bien sûr, dit-il.
 
-L'économe rougit. Il ouvrit la bouche, la referma, et sortit. On l'entendit descendre l'escalier, d'un pas qui voulait être ferme.
+L'intendant rougit. Il ouvrit la bouche, la referma, et sortit. On l'entendit descendre l'escalier, d'un pas qui voulait être ferme.
 
 Pinna attendit que le pas se fût éteint. Puis il dit, sans élever la voix, comme il disait les choses dans les salles, *celui-ci à l'huile de lin, celui-là à la morphine* :
 

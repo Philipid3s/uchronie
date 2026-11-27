@@ -26,7 +26,7 @@
 **Les dernières missions** [canon provisoire] : reconnaissances des côtes sardes, corses et tunisiennes pendant l'été et l'automne 1940 ; recherche des réfugiés corses ; liaisons avec La Maddalena. **Le dernier vol de 1940** [canon roman, tome 1] : fin novembre 1940, Penhallow décolle de nuit d'Elmas sur un Loire 130 pour secourir les naufragés d'un caboteur de réfugiés corses torpillé ; il amerrit dans la houle, ne peut redécoller, et l'hydravion est perdu en mer. Le seul vol suivant avant 1951 est celui de l'expédition de la Manche (juillet 1942, §4.5).
 
 **Ce que deviennent les appareils** :
-- Le hangar de l'*Ark Royal* devient hôpital, serre et assemblée ([12](12-flottes-survivantes.md)) : **les Swordfish et les Skua sont débarqués** dans les hangars de l'aérodrome d'Elmas.
+- Le hangar de l'*Ark Royal* devient hôpital, serre et assemblée ([12](12-flottes-survivantes.md)) : **les Swordfish et les Skua sont débarqués** dans les hangars de l'aérodrome d'Elmas. *(roman, chapitre 13)* Leurs moteurs ont avalé les grains de verre de la nuit de feu : il faut les ouvrir, les laver et les rôder un à un, en juillet, avec les mécaniciens italiens restés à Elmas, car ceux de l'*Ark Royal* sont retenus à bord pour vider le hangar.
 - **Quelques appareils sont mis en conservation** : moteurs vidés et huilés, hélices démontées, toiles protégées. Les autres servent de **réserve de pièces** : aluminium, câbles, instruments, magnétos, radios.
 - Les hydravions français restent à bord ou sont débarqués à Elmas. Les catapultes et les grues servent aux ateliers.
 

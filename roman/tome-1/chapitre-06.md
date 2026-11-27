@@ -126,7 +126,7 @@ Bonaria était dans le lit du vieux Melis. Le pêcheur de Sant'Elia, qu'on devai
 
 — Elle a dormi un peu, disait-il. Elle a demandé sa mère. Je lui ai dit qu'elle dormait aussi.
 
-Efisia s'asseyait sur le bord du lit, une minute, deux minutes. Elle touchait le front de Bonaria. Elle regardait les pansements des jambes, le bras. Elle comptait le pouls. Et elle parlait au saint. Elle ne priait pas : elle n'avait jamais su prier comme sa mère, avec des mots qui s'enchaînent. Elle marchandait. *Tu l'as eue sur ta traccas, au mois de mai, en costume, avec ses fleurs en papier. Tu l'as vue. Tu sais qui c'est. Tu as sauvé la ville de la peste ; tu peux bien garder une petite fille de dix ans. Je te promets ce que tu veux. Je te suivrai jusqu'à Nora à genoux, s'il le faut.* Le saint ne répondait pas. Il ne répondait jamais. Elle redescendait.
+Efisia s'asseyait sur le bord du lit, une minute, deux minutes. Elle touchait le front de Bonaria. Elle regardait les pansements des jambes, le bras. Elle comptait le pouls. Et elle parlait au saint. Elle ne priait pas : elle n'avait jamais su prier comme sa mère, avec des mots qui s'enchaînent. Elle marchandait. *Tu l'as vue passer derrière toi, sur sa traccas, au mois de mai, en costume, avec ses fleurs en papier. Tu l'as vue. Tu sais qui c'est. Tu as sauvé la ville de la peste ; tu peux bien garder une petite fille de dix ans. Je te promets ce que tu veux. Je te suivrai jusqu'à Nora à genoux, s'il le faut.* Le saint ne répondait pas. Il ne répondait jamais. Elle redescendait.
 
 ---
 

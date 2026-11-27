@@ -176,7 +176,7 @@ La survie dépend de la distance à l'impact A ([03](03-impact-pacifique.md) §4
 
 | Période | Ce qu'on entend à Cagliari |
 |---|---|
-| **2 – 31 juillet 1940** | **Un vacarme de détresse** : des centaines d'appels venus de toute l'Europe et de la Méditerranée. Gibraltar, Mers el-Kébir, Alger, Bizerte, Toulon, Malte, Alexandrie. Quelques messages de Londres, puis d'Écosse. Rome et Berlin se taisent |
+| **2 – 31 juillet 1940** | **Un vacarme de détresse** : des centaines d'appels venus de toute l'Europe et de la Méditerranée. Gibraltar, Mers el-Kébir, Alger, Bizerte, Toulon, Malte, Alexandrie. Quelques messages de Londres, puis d'Écosse. Rome et Berlin se taisent. *(roman, chapitre 13)* Dans la nuit du 16 au 17 juillet, l'écoute de l'*Ark Royal* capte vingt minutes, en morse et en clair, la base aéronavale de **Pensacola** (Floride) : Washington se tait depuis le 2, Mobile et La Nouvelle-Orléans ont brûlé, la base a des vivres pour 600 ; elle n'entend pas les réponses, et on ne la retrouve pas les nuits suivantes. C'est le premier signe de survivants dans le golfe du Mexique (§3.2) |
 | **Août – octobre 1940** | Les voix s'éteignent une à une. Contacts réguliers avec la Crète, Gibraltar, Dakar et Casablanca. L'ionosphère brouille tout le jour |
 | **Novembre 1940** | **Dernier message de la Crète** [canon] |
 | **Décembre 1940** | **Derniers appels au secours de Bizerte** [canon] |

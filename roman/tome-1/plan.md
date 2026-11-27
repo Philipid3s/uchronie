@@ -192,7 +192,7 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 - Les avions passent à terre, à Elmas. Il fait encore une quinzaine de degrés, mais on sent que cela ne durera pas. Faute de bras, Tom aide les mécaniciens à démonter un moteur et s'entaille la main sur un bout de **fil à freiner** (le fil d'acier qui bloque les écrous) : une plaie de rien, qui s'infecte. Sans sulfamides, on en meurt : on l'envoie à San Giovanni di Dio, où l'on manque déjà de tout et où l'électricité vient par à-coups [canon roman : option B]. Efisia nettoie la plaie en lui expliquant, sans rire, qu'on en meurt maintenant. **Il la fait rire quand même**, avec un italien impossible. Elle rit pour la première fois depuis la nuit.
 
 **14. Jean — fin juillet, le Sulcis** [validé]
-- La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois. [canon roman, chapitre 12 : piste] Parmi les fidèles du fédéral, Jean peut croiser **Cadoni**, l'économe de San Giovanni di Dio, sans savoir qui il est.
+- La dissidence des mines. Jean mène des marins du *Volta* avec les fusiliers marins, débarqués au golfe de Palmas. **Les mineurs ouvrent les portes.** Quelques jours de combat à Carbonia ; Jean tue pour la première fois. [canon roman, chapitre 12 : piste] Parmi les fidèles du fédéral, Jean peut croiser **Cadoni**, l'intendant de San Giovanni di Dio, sans savoir qui il est.
 - **La première neige, ailleurs** [canon roman : option A] : une nuit, sur les hauteurs, un grésil mêlé de suie, gris, qui fond en touchant les mains ; ce n'est pas encore de la neige. Le lendemain, le téléphone des carabiniers de Nuoro apporte la nouvelle : le Gennargentu est blanc (à cent kilomètres, dans le noir, on ne le voit pas).
 
 **15. Efisia — août, Cagliari** [validé]
@@ -280,8 +280,8 @@ Vingt-sept chapitres en **quatre parties**, en **alternance des trois points de 
 | 10 | **Ordre du Conseil des Amiraux** pour la corvée d'Oran, 5 juillet | inventé ✅ écrit | [06](../../06-mers-el-kebir.md) §4 bis |
 | 11 | **Ordre d'entrée du Conseil des Amiraux**, passé au projecteur le 11 juillet à 22 h : « Approach as friends, be ready to enforce » | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 |
 | 12 | **L'accord de Cagliari**, 12 juillet (extrait du procès-verbal) | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 ter |
-| 13 | **Message capté** : un poste américain du golfe du Mexique, ou une station de l'Oural | inventé | [07](../../07-le-monde-apres.md) §1, [16](../../16-contacts-radio.md) §3 |
-| 14 | **Ordre d'opération** pour le Sulcis, fin juillet | inventé | [10](../../10-choix-du-refuge.md) §9 ter |
+| 13 | **Message capté** : la base aéronavale de Pensacola, dans le golfe du Mexique, captée par l'écoute de l'*Ark Royal* le 17 juillet | inventé ✅ écrit | [07](../../07-le-monde-apres.md) §1, [16](../../16-contacts-radio.md) §3 |
+| 14 | **Ordre d'opération n° 1 du Conseil** : l'Opération Serbariu, 22 juillet | inventé ✅ écrit | [10](../../10-choix-du-refuge.md) §9 ter |
 | 15 | **Avis de rationnement** affiché à la Marina, août | inventé | [11](../../11-ilot-de-civilisation.md) §7 |
 | 16 | **Rôle des passagers** des navires de Toulon, août | inventé | [33](../../33-toulon.md) |
 | 17 | **L'Ordonnance n° 1** : l'Inscription générale | inventé | [13](../../13-societe-de-bord.md) |

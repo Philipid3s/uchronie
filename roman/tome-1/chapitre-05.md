@@ -139,7 +139,7 @@ Il sortit. Tom resta seul avec la lampe verte et les opérateurs, de l'autre cô
 
 ---
 
-Il n'y eut pas d'aurore. Vers cinq heures et demie, le ciel se mit à pâlir par en dessous, sans qu'aucune couleur vînt annoncer le jour, ni rose, ni or, ni ligne d'horizon, et il prit peu à peu une teinte de cuivre sale qu'il ne quitta plus. Le soleil ne parut pas. On devinait sa place, très bas sur la Méditerranée, à une tache un peu moins sombre dans le cuivre, sans contour, et qui ne monta pas.
+Vers cinq heures et demie, le ciel se mit à pâlir par en dessous, sans qu'aucune couleur vînt annoncer le jour, ni rose, ni or, ni ligne d'horizon, et il prit peu à peu une teinte de cuivre sale qu'il ne quitta plus. Le soleil ne parut pas. On devinait sa place, très bas sur la Méditerranée, à une tache un peu moins sombre dans le cuivre, sans contour, et qui ne monta pas.
 
 Tom monta sur le toit de l'île, à la plate-forme de veille aérienne, avec Halloran. C'était le point le plus haut du navire. De là, on voyait la baie entière, le Rocher, l'isthme, l'Espagne, et, au sud, par-delà le détroit, la côte d'Afrique.
 
